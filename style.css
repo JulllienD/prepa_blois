@@ -1,0 +1,120 @@
+/* Réinitialisation de base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* Fond petits carreaux discrets */
+    background-color: #f8fafc;
+    background-image: 
+        linear-gradient(to right, rgb(226, 232, 240) 2px, transparent 2px),
+        linear-gradient(to bottom, rgb(226, 232, 240) 2px, transparent 2px);
+    background-size: 20px 20px; /* Taille des carreaux */
+    color: #1e293b;
+    line-height: 1.6;
+
+    /* Flexbox pour aligner verticalement l'en-tête, le contenu et le footer */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Force la page à faire au moins la taille de l'écran */
+}
+
+/* En-tête avec la ligne de séparation */
+.main-header {
+    text-align: center;
+    padding: 1.5rem 1rem 1.5rem 1rem;
+    border-bottom: 7px solid #1e3a8a;
+    background-color: #2749a5;
+}
+
+.main-header h1 {
+    font-size: 2.5rem;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+/* Conteneur principal */
+.container {
+    max-width: 800px;
+    width: 100%; /* S'assure de prendre la largeur disponible jusqu'à 800px */
+    margin: 3rem auto;
+    padding: 0 1.5rem;
+
+    /* Cette ligne magique dit au conteneur de prendre tout l'espace disponible, 
+       ce qui pousse automatiquement le footer tout en bas */
+    flex: 1; 
+    margin-bottom: 2rem;
+}
+
+.vocab-section h2 {
+    font-size: 1.3rem;
+    color: #64748b;
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+}
+
+/* Style de la liste (Matières) */
+.subject-list {
+    list-style: none; /* Enlève les puces de base */
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: stretch; /* Force les puces <li> à prendre toute la largeur */
+}
+
+/* Style des liens/boutons de matières */
+.subject-link {
+    display: block;
+    background-color: #ffffff;
+    color: #334155;
+    text-decoration: none;
+    padding: 1.2rem 1.5rem;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease-in-out;
+}
+
+/* Effet au survol des matières */
+.subject-link:hover {
+    background-color: #eff6ff;
+    border-color: #bfdbfe;
+    color: #2563eb;
+    transform: translateX(5px); /* Léger décalage vers la droite */
+}
+
+/* Style du Footer (Pied de page) */
+.main-footer {
+    background-color: #ffffff;
+    border-top: 1px solid #e2e8f0;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #64748b;
+    width: 100%; /* Prend toute la largeur de l'écran */
+}
+
+.main-footer p {
+    margin-bottom: 0rem;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.footer-links a {
+    color: #64748b;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+    color: #3b82f6; /* Devient bleu au survol */
+}
