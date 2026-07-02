@@ -1,0 +1,24 @@
+media coverage;la couverture médiatique;...;...;N;LIVRE;B2
+a journalist, a newsman;un journaliste;...;...;N;LIVRE;A2
+a reporter;un reporter;...;...;N;LIVRE;B1
+a columnist;un chroniqueur, un échotier;...;...;N;LIVRE;B2
+a freelance;un pigiste, un indépendant;...;...;N;LIVRE;B2
+a (foreign) correspondent;un correspondant (à l'étranger);...;...;N;LIVRE;B2
+an editor;un rédacteur en chef;...;...;N;LIVRE;B2
+a newspaper editor;un directeur de publication;...;...;N;LIVRE;B2
+a publisher;un éditeur;...;...;N;LIVRE;B2
+a press tycoon;un magnat de la presse;...;...;N;LIVRE;C1
+news gathering;la collecte des informations;...;...;N;LIVRE;B2
+a news release (US);un communiqué de presse;...;...;N;LIVRE;B2
+to inform;informer, mettre au courant;...;...;V;LIVRE;A2
+to report (on);faire un reportage (sur);...;...;V;LIVRE;B1
+to cover;assurer la couverture de;...;...;V;LIVRE;B1
+to rewrite;remanier, réviser;rewrite, rewrote, rewritten;...;VI;LIVRE;B2
+to edit;être le rédacteur;...;...;V;LIVRE;B2
+to publish;publier;...;...;V;LIVRE;B1
+to scoop;publier en exclusivité;...;...;V;LIVRE;C1
+a scoop;un scoop;une information, une photographie ou un reportage exclusif vis-à-vis de la concurrence dans le milieu de la presse et ayant un grand retentissement. Il peut s'agir d'information de grande importance comme de contenus sensationnels. (source : Wikipédia);...;N;SUPP;C1
+to hit the headlines;faire la une des journaux;hit, hit, hit;...;VI;LIVRE;B2
+to sensitize public opinion;sensibiliser l'opinion publique;Attention !<br>"sensible" en anglais désigne quelqu'un de raisonnable, cette formulation reste rare;...;V;LIVRE;C1
+to make people aware of;rendre les gens conscients de;make, made, made;...;VI;LIVRE;B2
+to have news value;présenter un intérêt;have, had, had;...;VI;LIVRE;B2

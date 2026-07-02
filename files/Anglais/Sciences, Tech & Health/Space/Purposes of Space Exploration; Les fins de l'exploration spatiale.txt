@@ -1,0 +1,27 @@
+Purposes of Space Exploration;Les fins de l’exploration spatiale;...;...;DEF;LIVRE;B2
+space probing;l’exploration de l’espace;...;...;N;LIVRE;C1
+a space probe;une sonde spatiale;...;...;N;LIVRE;B2
+a land-based observatory;un observatoire terrestre;...;...;N;LIVRE;B2
+a space-based observatory;un observatoire spatial;...;...;N;LIVRE;B2
+a space platform, a space station;une station spatiale;...;...;N;LIVRE;B1
+a space programme;un programme spatial;...;...;N;LIVRE;B1
+a space laboratory, a skylab;un laboratoire spatial;...;...;N;LIVRE;B2
+a space colony;une colonie spatiale;...;...;N;LIVRE;B2
+satellite observations;l’observation par satellite;...;...;N;LIVRE;B2
+a(n artificial) satellite;un satellite artificiel;...;...;N;LIVRE;B1
+a solar panel;un panneau solaire;...;...;N;LIVRE;B1
+un stray satellite;un satellite à la dérive;...;...;N;LIVRE;C1
+an applications satellite;un satellite utilitaire;...;...;N;LIVRE;C1
+a communications satellite;un satellite de télécommunications;...;...;N;LIVRE;B2
+a weather satellite;un satellite météorologique;...;...;N;LIVRE;B2
+satellite transmission;la transmission par satellite;...;...;N;LIVRE;B2
+a spy satellite;un satellite espion;...;...;N;LIVRE;B2
+satellite imagery;les images satellite;...;...;N;LIVRE;B2
+satellite photography;la photographie par satellite;...;...;N;LIVRE;B2
+a photograph;une photographie;...;...;N;LIVRE;A2
+a rescue attempt;une tentative de sauvetage;...;...;N;LIVRE;B2
+to probe (space);sonder l’espace;...;...;V;LIVRE;B2
+to sample the soil;prélever des échantillons du sol;...;...;V;LIVRE;B2
+to map / chart (weather patterns / ocean currents);dresser la carte (météorologique / des courants océaniques);...;...;V;LIVRE;C1
+a pattern;un motif / un dessin;...;...;N;LIVRE;B1
+to provide global coverage;fournir une vue spatiale;...;...;VI;LIVRE;C1

@@ -1,0 +1,19 @@
+censorship;la censure;...;...;N;LIVRE;B2
+self-censorship;l'autocensure;...;...;N;LIVRE;B2
+right of search;le droit de perquisition;...;...;N;LIVRE;C1
+seizure;une saisie;...;...;N;LIVRE;C1
+a ban (on);une interdiction (de);...;...;N;LIVRE;B2
+news blackout;le black-out de l'information;...;...;N;LIVRE;C1
+to censor;censurer;...;...;V;LIVRE;B2
+to censure;critiquer;...;...;V;LIVREM;C1
+to suppress press freedom;supprimer la liberté de la presse;...;...;V;LIVRE;B2
+to be subject to censorship;être soumis à la censure;...;...;V;LIVRE;B2
+to subject;assujettir, soumettre;...;...;V;LIVREM;C1
+to blue-pencil;"caviarder", corriger;...;...;V;LIVRE;C1
+a pencil;un crayon;...;...;N;LIVREM;A1
+to silence;réduire au silence;...;...;V;LIVRE;C1
+to gag;bâillonner, museler;...;...;V;LIVRE;C1
+a gag;un bâillon;...;...;N;LIVREM;C1
+to curtail access;limiter l'accès;...;...;V;LIVRE;C1
+to confiscate, to seize;saisir, confisquer;...;...;V;LIVRE;B2
+to ban, to suppress;interdire;...;...;V;LIVRE;B2

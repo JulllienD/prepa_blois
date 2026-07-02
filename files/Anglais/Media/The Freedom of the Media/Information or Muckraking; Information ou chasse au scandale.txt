@@ -1,0 +1,44 @@
+muck;boue, saletés (dans muckracking);...;...;N;LIVREM;C1
+to rake;râcler, ratisser (dans muckracking);...;...;V;LIVREM;C1
+the fourth estate;le quatrième pouvoir (la presse);...;...;N;LIVRE;C1
+the freedom of the press, press freedom;la liberté de la presse;...;...;N;LIVRE;B2
+freedom of expression/speech;la liberté d'expression;...;...;N;LIVRE;B2
+the right to know;le droit à l'information;...;...;N;LIVRE;C1
+investigative journalism;le journalisme d'investigation;...;...;N;LIVRE;C1
+(media) coverage;la couverture (médiatique);...;...;N;LIVRE;B2
+a newsmaker;un sujet vedette;...;...;N;LIVRE;C1
+the right to privacy;le droit à la vie privée;...;...;N;LIVRE;C1
+a breach of ethics;une faute éthique;...;...;N;LIVRE;C1
+propaganda;la propagande;...;...;N;LIVRE;B2
+a muckraker;un dénicheur de scandales;...;...;N;LIVRE;C1
+a rake;un râteau;...;...;N;LIVRE;C1
+a rumour (UK) / a rumor (US);une rumeur;...;...;N;LIVRE;B1
+a scandal;un scandale;...;...;N;LIVRE;B1
+libel;la diffamation (écrite);...;...;N;LIVRE;C1
+slander;une calomnie, une diffamation (orale);...;...;N;LIVRE;C1
+voyeurism;le voyeurisme;...;...;N;LIVRE;C1
+to check; vérifier;...;...;V;LIVRE;B1
+fact-checking;la vérification des faits;...;...;N;LIVREM;B1
+to investigate (a case);enquêter (sur une affaire);...;...;V;LIVRE;B2
+to cover;assurer la couverture médiatique;...;...;V;LIVRE;B2
+to spy (on somebody);espionner (quelqu'un);...;...;V;LIVRE;B1
+a spy;un espion;...;...;N;LIVREM;B1
+to pester, harass;embêter, harceler;...;...;V;LIVRE;C1
+to stalk;poursuivre, pourchasser;...;...;V;LIVRE;C1
+to unearth, to dig out;déterrer, dénicher;dig, dug, dug;...;VI;LIVRE;C1
+to disclose;révéler;...;...;V;LIVRE;B2
+to expose (somebody/a scandal);dénnoncer (quelqu'un/un scandal);...;...;V;LIVRE;B1
+to libel, to defame;diffamer (par écrit);...;...;V;LIVRE;C1
+to slander;calomnier (verbalement);diffamer ça marche aussi;...;V;LIVRE;C1
+to manipulate;manipuler;...;...;V;LIVRE;B2
+to make the news;défrayer la chronique;make, made, made;...;VI;LIVRE;C1
+(in)accurate;(in)exact;...;...;ADJ;LIVRE;B2
+(un)reliable;(peu) fiable;...;...;ADJ;LIVRE;B2
+objective;objectif;...;...;ADJ;LIVRE;B1
+biased, prejudiced;partisan, tendancieux;...;...;ADJ;LIVRE;C1
+damage;un préjudice;...;...;N;LIVREM;B1
+a prejudice;un préjugé;...;...;N;LIVREM;C1
+fake;faux;...;...;ADJ;LIVRE;A1
+fake news;de fausses nouvelles;...;...;N;LIVREM;A1
+blackmail;chantage;...;...;N;SUPP;C1
+to blackmail;faire du chantage;...;...;V;SUPP;C1

@@ -1,18 +1,19 @@
 a morning paper;un journal du matin;...;...;N;LIVRE;A2
 an evening paper;un journal du soir;...;...;N;LIVRE;A2
 a Sunday paper; un journal du dimanche;...;...;N;LIVRE;A2
-a colour supplement;un supplément couleur;désigne un magazine qui est imprimé en couleur, généralement ce sont des magazines du week-end;...;N;LIVRE;B2
+a colour supplement;un supplément couleur;désigne un magazine qui est imprimé en couleur, généralement ce sont des magazines du week-end;...;N;LIVREM;B2
 a quality paper;un journal de qualité;...;...;N;LIVRE;B2
 a tabloid;un tabloïd, un quotidien populaire;...;...;N;LIVRE;B1
 the gutter press;la presse à scandales;...;...;N;LIVRE;C1
-the gutter;le caniveau;...;...;N;LIVRE;B2
+the gutter;le caniveau;...;...;N;LIVREM;B2
 a glossy magazine;un magazine de luxe;...;...;N;LIVRE;B2
-glossy;sur papier glacé;...;...;ADJ;LIVRE;B2
+glossy;sur papier glacé;...;...;ADJ;LIVREM;B2
 a specialist magazine;un magazine spécialisé;...;...;N;LIVRE;B1
 a woman's magazine;un magazine féminin;...;...;N;LIVRE;A2
-the motoring press / the car press;la presse automobile;...;...;N;LIVRE;B1
+the motoring press (UK) / the car press (US);la presse automobile;...;...;N;LIVRE;B1
 the economic press;la presse économique;...;...;N;LIVRE;B1
-a journal;une revue (savante);...;...;N;LIVRE;B2
+economical;économique, bon marché;...;...;ADJ;LIVREM;B2
+a journal;une revue (savante);a journal désigne une publication périodique très spécifique. Elle regroupe des articles de recherche originaux, des analyses approfondies et des études rédigées par des spécialistes, des scientifiques ou des universitaires.<br> En dehors de la presse, a journal peut aussi désigner un journal intime ou un cahier de bord personnel;The British Medical Journal;N;LIVRE;B2
 the front page;la première page, la une;...;...;N;LIVRE;A2
 the cover;la couverture;...;...;N;LIVRE;A2
 the headlines;les (gros) titres;...;...;N;LIVRE;B1
@@ -25,19 +26,19 @@ the gossip column;la rubrique mondaine;...;...;N;LIVRE;B2
 the agony column;le courrier du cœur;...;...;N;LIVRE;C1
 the obituaries;la rubrique nécrologique;...;...;N;LIVRE;C2
 the classified ads;les petites annonces;...;...;N;LIVRE;B1
-ad;advertisement;...;...;ABREV;LIVRE;A1
+ad;advertisement;...;...;ABREV;LIVREM;A1
 an issue;un numéro, une parution;...;...;N;LIVRE;B2
 a copy;un exemplaire;...;...;N;LIVRE;B1
 the circulation;la diffusion, le tirage;...;...;N;LIVRE;C1
 a subscription;un abonnement;...;...;N;LIVRE;B1
 a subscriber;un abonné;...;...;N;LIVRE;B2
-print;imprimer;...;...;V;LIVRE;A2
-issue;publier, faire paraître;...;...;V;LIVRE;B2
-come out;être publié, sortir, paraître;...;...;V;LIVRE;B1
-subscribe;s'abonner;...;...;V;LIVRE;B1
+to print;imprimer;...;...;V;LIVRE;A2
+to issue;publier, faire paraître;...;...;V;LIVRE;B2
+to come out;être publié, sortir, paraître;...;...;V;LIVRE;B1
+to subscribe;s'abonner;...;...;V;LIVRE;B1
 daily;quotidien;...;...;ADJ;LIVRE;A2
-the dailies;les quotidiens;...;...;N;LIVRE;B2
+the dailies;les quotidiens;...;...;N;LIVREM;B2
 weekly;hebdomadaire;...;...;ADJ;LIVRE;B1
 monthly;mensuel;...;...;ADJ;LIVRE;B1
 quarterly;trimestriel;...;...;ADJ;LIVRE;B2
-a quarter;un trimestre;...;...;N;LIVRE;B1
+a quarter;un trimestre;...;...;N;LIVREM;B1

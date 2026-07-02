@@ -1,0 +1,9 @@
+electronic surveillance;la surveillance électronique;...;...;N;LIVRE;C1
+closed-circuit television;la télévision en circuit fermé;...;...;N;LIVRE;C1
+the "telescreen";télécran (système de surveillance dans le roman de G.Orwell, 1984);...;...;N;LIVRE;C1
+wiretapping;les écoutes téléphoniques;...;...;N;LIVRE;C1
+a (phone) bug;un micro (secret);...;...;N;LIVRE;C1
+eavesdropping;la mise sur écoute;...;...;N;LIVRE;C1
+to watch;surveiller;watch signifie regarder quelque chose qui bouge<br>to look signifie regarder quelque chose d'immobile;...;V;LIVRE;A2
+to tap/to bug a phone;mettre un téléphone sur écoute;...;...;V;LIVRE;C1
+to eavesdrop on;surprendre la conversation de;...;...;V;LIVRE;C1

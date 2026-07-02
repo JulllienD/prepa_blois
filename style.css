@@ -72,6 +72,21 @@ body {
     text-align: center;
 }
 
+.breadcrumbs {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #6e7c8f;
+    
+    line-height: 1.1;
+    
+    text-align: left;
+}
+
+.breadcrumbs a {
+    text-decoration: none;
+    color: inherit; 
+}
+
 .intro-text {
     font-size: 1.7rem;
     font-weight: 600;
@@ -100,6 +115,15 @@ body {
     font-size: 1.3rem;
     color: #64748b;
     margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
+
+.fiches-section h3 {
+    font-size: 1.2rem;
+    color: #202832;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
     font-weight: 500;
 }
 
@@ -114,11 +138,13 @@ body {
 
 /* Style des liens/boutons de matières */
 .subject-link {
+    width: fit-content;
     display: block;
     background-color: #ffffff;
     color: #334155;
     text-decoration: none;
     padding: 1.2rem 1.5rem;
+    padding-right: 80px;
     border-radius: 8px;
     font-size: 1.1rem;
     font-weight: 600;
@@ -144,7 +170,7 @@ body {
 .topic-grid {
     display: grid;
     /* Crée automatiquement autant de colonnes de 220px minimum que l'écran le permet */
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 0.25fr));
     gap: 20px; /* Espace entre les blocs */
     margin-top: 1.5rem;
 }
@@ -158,6 +184,7 @@ body {
     
     background-color: #ffffff; /* Fond blanc pour l'encadré */
     border: 1px solid #e2e8f0; /* Bordure légère */
+
     border-radius: 8px; /* Bords légèrement arrondis */
     padding: 20px;
     text-decoration: none; /* Enlève le soulignement du lien */
@@ -304,6 +331,16 @@ body {
 }
 
 
+/* --- Gestion des images intégrées dans le tableau de vocabulaire --- */
+.vocab-table td img {
+    max-width: 120px;
+    height: auto;
+    display: block;
+    margin: 6px auto;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
 /* --- Design de base des Badges --- */
 .badge {
     display: inline-block;
@@ -368,6 +405,11 @@ body {
     color: #991b1b;
 }
 
+.badge-type-irr-verb {
+    background-color: #ffd1d1; /* Rouge */
+    color: #691010;
+}
+
 .badge-type-adj {
     background-color: #f3e8ff; /* Violet */
     color: #6b21a8;
@@ -379,7 +421,12 @@ body {
 }
 
 .badge-type-other {
-    background-color: #f5f5f4; /* Pierre / Neutre */
+    background-color: #d2d2cf; /* Pierre / Neutre */
+    color: #44403c;
+}
+
+.badge-type-notion {
+    background-color: #d2d2cf; /* Pierre / Neutre */
     color: #44403c;
 }
 

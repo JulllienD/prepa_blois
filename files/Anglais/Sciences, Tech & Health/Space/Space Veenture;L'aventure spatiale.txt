@@ -1,0 +1,43 @@
+Space Venture;L’aventure spatiale;...;...;DEF;LIVRE;B2
+a launch;un lancement;...;...;N;LIVRE;B1
+a launcher;un lanceur;...;...;N;LIVRE;B2
+a launch pad;une rampe/ une aire de lancement;...;...;N;LIVRE;B2
+the countdown;le compte à rebours;...;...;N;LIVRE;B1
+a blast off;une mise à feu;...;...;N;LIVRE;B2
+a lift-off, a take off;un décollage;...;...;N;LIVRE;B1
+to lift;soulever;...;...;V;LIVRE;A2
+a space flight;un vol spatial;...;...;N;LIVRE;B1
+space sickness;mal de l’espace;...;...;N;LIVRE;B2
+weightlessness;l’apesanteur;...;...;N;LIVRE;C1
+weight;le poids, la pesanteur;...;...;N;LIVRE;A2
+the orbit;l’orbite;...;...;N;LIVRE;B1
+docking;l’arrimage;...;...;N;LIVRE;C1
+a stay in space;un séjour dans l’espace;...;...;N;LIVRE;B1
+to stay;séjourner;...;...;V;LIVRE;A1
+a moon landing;un alunissage;...;...;N;LIVRE;B2
+a moon walk;une sortie Lunaire;...;...;N;LIVRE;B1
+re-entry;l’entrée dans l'atmosphère;...;...;N;LIVRE;C1
+a touchdown;un atterrissage;...;...;N;LIVRE;B2
+a splashdown;un amerrissage;...;...;N;LIVRE;C1
+a malfunction;un dysfonctionnement;...;...;N;LIVRE;B2
+a breakdown;une panne;...;...;N;LIVRE;B1
+to count down;lancer le compte à rebours;...;...;V;LIVRE;B1
+to launch;lancer;...;...;V;LIVRE;B1
+to blast off;être mis à feu;...;...;V;LIVRE;B2
+to lift off, take off;décoller;...;...;VI;LIVRE;B1
+to propel;propulser;...;...;V;LIVRE;B2
+to spacewalk;marcher dans l’espace;...;...;V;LIVRE;B2
+to dock (with);s’arrimer à;...;...;V;LIVRE;C1
+to land (on a planet);se poser (sur une planète);...;...;V;LIVRE;B1
+to land on the moon;alunir;...;...;V;LIVRE;B2
+to touch down;toucher le sol;...;...;V;LIVRE;B2
+to splash down;amerrir;...;...;V;LIVRE;C1
+to splash;éclabousser;...;...;V;LIVRE;B2
+to abort (a launch);interrompre (un lancement);...;...;V;LIVRE;B2
+to postpone;ajourner, reporter;...;...;V;LIVRE;B2
+to cancel;supprimer, annuler;...;...;V;LIVRE;A2
+malfunctionning;qui fonctionne mal, avarié;...;...;ADJ;LIVRE;B2
+uncharted;inexploré;...;...;ADJ;LIVRE;C1
+chart;une carte, un graphique;...;...;N;LIVRE;B1
+risky;risqué, hasardeux;...;...;ADJ;LIVRE;B1
+adventurous;aventureux, audacieux;...;...;ADJ;LIVRE;B2
