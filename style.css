@@ -25,31 +25,78 @@ body {
 /* En-tête avec la ligne de séparation */
 .main-header {
     text-align: center;
-    padding: 1.5rem 1rem 1.5rem 1rem;
-    border-bottom: 7px solid #1e3a8a;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+    border-bottom: 5px solid #1e3a8a;
     background-color: #2749a5;
 }
 
 .main-header h1 {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     color: #ffffff;
     font-weight: 700;
 }
 
+.main-header h1 a {
+    color: #ffffff;          /* Reste en blanc */
+    text-decoration: none;   /* Enlève le soulignement automatique */
+    display: inline-block;   /* Permet une meilleure zone de clic */
+}
+
+/* Optionnel : un léger effet au survol pour montrer que c'est cliquable */
+.main-header h1 a:hover {
+    opacity: 0.7;            /* Devient très légèrement transparent au survol */
+}
+
 /* Conteneur principal */
 .container {
-    max-width: 800px;
+    max-width: 1200px;
     width: 100%; /* S'assure de prendre la largeur disponible jusqu'à 800px */
-    margin: 3rem auto;
+    margin: 0.5rem auto;
     padding: 0 1.5rem;
 
     /* Cette ligne magique dit au conteneur de prendre tout l'espace disponible, 
        ce qui pousse automatiquement le footer tout en bas */
-    flex: 1; 
-    margin-bottom: 2rem;
+    flex: 1;
+    margin-bottom: 30rem;
 }
 
-.vocab-section h2 {
+.page-title {
+    font-size: 1.7rem;
+    font-weight: 800;
+    color: #1d222a;
+    
+    line-height: 1.1;
+    
+    margin: 3rem 0;
+    
+    text-align: center;
+}
+
+.intro-text {
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: #475569;
+    
+    line-height: 1.1;
+    
+    margin: 3rem 0;
+    
+    text-align: justify;
+}
+
+.intro-text-2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #475569;
+    
+    line-height: 1.1;
+    
+    margin: 3rem 0;
+    
+    text-align: justify;
+}
+
+.subject-section h3 {
     font-size: 1.3rem;
     color: #64748b;
     margin-bottom: 1.5rem;
@@ -87,6 +134,257 @@ body {
     color: #2563eb;
     transform: translateX(5px); /* Léger décalage vers la droite */
 }
+
+
+
+
+
+
+/* 1. La grille qui accueille tes cartes */
+.topic-grid {
+    display: grid;
+    /* Crée automatiquement autant de colonnes de 220px minimum que l'écran le permet */
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px; /* Espace entre les blocs */
+    margin-top: 1.5rem;
+}
+
+/* 2. Le style de chaque encadré (carte de thème) */
+.subject-topic {
+    display: flex;
+    flex-direction: column; /* Aligne le titre et l'image à la verticale */
+    justify-content: space-between; /* Pousse le titre en haut et l'image en bas */
+    align-items: center; /* Centre les éléments horizontalement */
+    
+    background-color: #ffffff; /* Fond blanc pour l'encadré */
+    border: 1px solid #e2e8f0; /* Bordure légère */
+    border-radius: 8px; /* Bords légèrement arrondis */
+    padding: 20px;
+    text-decoration: none; /* Enlève le soulignement du lien */
+    color: #334155; /* Couleur du texte */
+    
+    transition: transform 0.2s ease, box-shadow 0.2s ease; /* Animation fluide au survol */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Ombre légère */
+}
+
+/* Effet sympa quand on passe la souris sur l'encadré */
+.subject-topic:hover {
+    transform: translateY(-5px); /* Soulève légèrement la carte */
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); /* Assombrit l'ombre */
+    border-color: #3b82f6; /* Bordure bleue au survol (optionnel) */
+}
+
+/* 3. Style du titre à l'intérieur du carré */
+.topic-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 15px; /* Espace avec l'image en dessous */
+    text-align: center;
+}
+
+/* 4. Style de l'image à l'intérieur du carré */
+.topic-image {
+    width: 100%; /* L'image s'adapte à la largeur du carré */
+    max-width: 150px; /* Limite la taille maximale pour éviter qu'elle soit géante */
+    height: auto; /* Garde les proportions de l'image */
+    object-fit: contain; /* Évite que l'image soit déformée */
+}
+
+
+
+
+
+
+/* --- Style général de la table de vocabulaire --- */
+.vocab-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 0.95rem;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    overflow: hidden;
+    table-layout: fixed; /* Force le respect des proportions des colonnes */
+}
+
+.vocab-table th, .vocab-table td {
+    padding: 12px 10px; /* Ajusté précédemment pour l'interligne */
+    vertical-align: middle;
+    border-bottom: 1px solid #e2e8f0; /* Ligne horizontale existante */
+    border-right: 1px solid #e2e8f0;  /* AJOUT : Ligne verticale discrète gris clair */
+    word-wrap: break-word;
+}
+
+.vocab-table th {
+    background-color: #2749a5;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.5px;
+}
+
+.vocab-table tr:hover {
+    background-color: #f8fafc;
+}
+
+.vocab-table thead tr th {
+    border-right: 1px solid #1f3a83;
+}
+
+.vocab-table th:last-child, 
+.vocab-table td:last-child {
+    border-right: none;
+}
+
+/* --- Configuration précise de CHAQUE Colonne (Alignement & Largeur) --- */
+
+/* 1. Colonne TYPE : Fine, Texte centré */
+.vocab-table th:nth-child(1), 
+.vocab-table td:nth-child(1) { width: 8%; text-align: center; }
+
+/* 2. Colonne ANGLAIS : Large, Alignement à DROITE */
+.vocab-table th:nth-child(2), 
+.vocab-table td:nth-child(2) { width: 18%; text-align: right; }
+
+/* 3. Colonne FRANÇAIS : Large, Alignement à GAUCHE */
+.vocab-table th:nth-child(3), 
+.vocab-table td:nth-child(3) { width: 18%; text-align: left; }
+
+/* 4. Colonne NIVEAU : Fine, Texte centré */
+.vocab-table th:nth-child(4), 
+.vocab-table td:nth-child(4) { width: 8%; text-align: center; }
+
+/* 5. Colonne NOTE : Large, Alignement à GAUCHE */
+.vocab-table th:nth-child(5), 
+.vocab-table td:nth-child(5) { width: 20%; text-align: left; }
+
+/* 6. Colonne EXEMPLE : Large, Alignement à GAUCHE */
+.vocab-table th:nth-child(6), 
+.vocab-table td:nth-child(6) { width: 20%; text-align: left; }
+
+/* 7. Colonne PROVENANCE : Un peu fine, Texte centré */
+.vocab-table th:nth-child(7), 
+.vocab-table td:nth-child(7) { width: 10%; text-align: center; }
+
+
+/* --- Styles spécifiques des textes de chaque colonne --- */
+
+/* Anglais : Texte très gras, couleur foncée */
+.txt-anglais {
+    font-weight: 700;
+    color: #1e3a8a;
+    font-size: 1rem;
+}
+
+/* Français : Moins gras (medium / semi-bold) */
+.txt-francais {
+    font-weight: 500;
+    color: #334155;
+    font-size: 1rem;
+}
+
+/* Note : Non gras, un peu grisé */
+.txt-note {
+    font-weight: 400;
+    color: #64748b; /* Gris ardoise doux */
+    font-size: 0.75rem;
+    font-style: normal;
+    line-height: 0.5;
+}
+
+/* Exemple : Non gras, bleu */
+.txt-exemple {
+    font-weight: 400;
+    color: #2563eb; /* Beau bleu d'exemple, lisible */
+    font-size: 0.75rem;
+    font-style: italic;
+    line-height: 0.5;
+}
+
+
+/* --- Design de base des Badges --- */
+.badge {
+    display: inline-block;
+    padding: 4px 8px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    border-radius: 4px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.badge-prov {
+    background-color: #fef3c7;
+    color: #92400e;
+}
+
+
+
+
+/* --- COULEURS PAR NIVEAU (CECRL) --- */
+.badge-level-a1 {
+    background-color: #dcfce7; /* Vert très clair */
+    color: #166534;
+}
+
+.badge-level-a2 {
+    background-color: #bbf7d0; /* Vert un peu plus soutenu */
+    color: #14532d;
+}
+
+.badge-level-b1 {
+    background-color: #e0f2fe; /* Bleu clair */
+    color: #0369a1;
+}
+
+.badge-level-b2 {
+    background-color: #fff7bd; /* Jaune */
+    color: #cb791b;
+}
+
+.badge-level-c1 {
+    background-color: #ffedd5; /* Orange clair */
+    color: #9a3412;
+}
+
+.badge-level-c2 {
+    background-color: #fce7f3; /* Rose / Violet clair */
+    color: #9d174d;
+}
+
+
+
+
+/* --- COULEURS PAR TYPE DE MOT --- */
+.badge-type-noun {
+    background-color: #e0e7ff; /* Indigo */
+    color: #3730a3;
+}
+
+.badge-type-verb {
+    background-color: #fee2e2; /* Rouge */
+    color: #991b1b;
+}
+
+.badge-type-adj {
+    background-color: #f3e8ff; /* Violet */
+    color: #6b21a8;
+}
+
+.badge-type-abrev {
+    background-color: #e2e8f0; /* Gris */
+    color: #334155;
+}
+
+.badge-type-other {
+    background-color: #f5f5f4; /* Pierre / Neutre */
+    color: #44403c;
+}
+
+
+
 
 /* Style du Footer (Pied de page) */
 .main-footer {
