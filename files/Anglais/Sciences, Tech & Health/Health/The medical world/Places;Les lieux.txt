@@ -1,0 +1,14 @@
+(GP's) surgery;un cabinet médical;...;...;N;LIVRE;B2
+hospital;un hôpital;...;...;N;LIVRE;A2
+private hospital;une clinique;...;...;N;LIVRE;B1
+ward;une salle;...;...;N;LIVRE;B2
+intensive care unit;un service de soins intensifs;...;...;N;LIVRE;C1
+surgical unit, operating theatre;un bloc opératoire;...;...;N;LIVRE;C1
+laboratory;une laboratoire;...;...;N;LIVRE;B1
+organ bank;une banque d'organes;...;...;N;LIVRE;C1
+mental health hospital;un hôpital psychiatrique;...;...;N;LIVRE;B2
+rehabilitation centre;un centre de rééducation;...;...;N;LIVRE;C1
+to be hospitalized;être hospitalisé;be, was/were, been;...;VI;LIVRE;B2
+to go into hospital, be admitted to hospital;entrer à l'hôpital;go, went, gone / be, was/were, been;...;VI;LIVRE;B2
+to keep a patient;hospitaliser un patient;keep, kept, kept;...;VI;LIVRE;B2
+to intern;interner;...;...;V;LIVRE;C1

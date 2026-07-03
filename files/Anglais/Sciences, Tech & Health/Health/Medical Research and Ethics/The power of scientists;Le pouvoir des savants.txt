@@ -1,0 +1,26 @@
+Euthanasia;L’euthanasie;...;...;DEF;LIVRE;B2
+active/passive euthanasia;l'euthanasie active/passive;...;...;N;LIVRE;C1
+mercy killing;euthanasie;...;...;N;LIVRE;C1
+therapeutic obstinacy;l'acharnement thérapeutique;...;...;N;LIVRE;C1
+right to live/die;le droit à la vie/mort;...;...;N;LIVRE;B1
+to long for death;aspirer à mourir;...;...;V;LIVRE;C1
+to carry out euthanasia;pratiquer l'euthanasie;...;...;V;LIVRE;C1
+to keep alive;maintenir en vie;keep, kept, kept;...;VI;LIVRE;B1
+to drift off to sleep;s'endormir;...;...;V;LIVRE;B2
+to switch off a machine;débrancher un appareil;...;...;V;LIVRE;B1
+to put an end to someone's suffering;abréger les souffrances de qqn;put, put, put;...;VI;LIVRE;B2
+artificial;artificiel;...;...;ADJ;LIVRE;B1
+vegetative;végétatif;...;...;ADJ;LIVRE;C1
+clinically dead;cliniquement mort;...;...;ADJ;LIVRE;B2
+brain dead;à l'état de mort cérébrale;...;...;ADJ;LIVRE;C1
+irreversible;irréversible;...;...;ADJ;LIVRE;C1
+(in)humane;(in)humain, sans qualité humaine;...;...;ADJ;LIVRE;B2
+Assisted Reproductive Technology;Technologies de procréation assistée;...;...;N;LIVRE;C1
+surrogacy;maternité de substitution;...;...;N;LIVRE;C1
+surrogate mother;une mère porteuse;...;...;N;LIVRE;B2
+egg donation;le don d'ovocytes;...;...;N;LIVRE;C1
+embryo;un embryon;...;...;N;LIVRE;B2
+reproductive techniques;les techniques de fécondation;...;...;N;LIVRE;B2
+artificial insemination;l'insémination artificielle;...;...;N;LIVRE;C1
+in-vitro fertilization;la fécondation in vitro;...;...;N;LIVRE;C1
+test-tube baby;un bébé-éprouvette;...;...;N;LIVRE;B2

@@ -222,6 +222,75 @@ body {
 
 
 
+
+/* Container pour aligner les titres à gauche et le bouton à droite */
+.fiche-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+/* Style de la carte/bouton type Quizlet */
+.quizlet-card {
+    display: flex;
+    align-items: center;
+    background-color: #3a4be4; /* Bleu très foncé comme sur l'image */
+    color: #ffffff !important;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 10px 15px;
+    min-width: 280px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s, background-color 0.2s;
+}
+
+.quizlet-card:hover {
+    transform: translateY(-2px);
+    background-color: #4656e1;
+}
+
+/* Wrapper pour l'icône Q */
+.quizlet-icon-wrapper {
+    margin-right: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.quizlet-icon {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+}
+
+/* Conteneur des textes */
+.quizlet-text {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Le chemin (ex: Media / The press) */
+.quizlet-path {
+    font-size: 0.75rem;
+    color: #c7c6db;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 2px;
+}
+
+/* Le titre de la fiche */
+.quizlet-title {
+    font-size: 0.95rem;
+    font-weight: bold;
+}
+
+
+
+
+
+
 /* --- Style général de la table de vocabulaire --- */
 .vocab-table {
     width: 100%;

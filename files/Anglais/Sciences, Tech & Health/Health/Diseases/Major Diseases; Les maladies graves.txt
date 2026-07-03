@@ -1,0 +1,35 @@
+a coronary disease, a heart condition;une maladie cardiaque;;...;N;LIVRE;B2
+heart failure;l'insuffisance cardiaque;l'incapacité du muscle cardiaque à assurer normalement la propulsion du sang dans l'organisme (source : ameli);...;N;LIVRE;B2
+a heart attack;une crise cardiaque;survient quand l'apport en sang riche en oxygène est interrompu dans une partie du muscle cardiaque (source : university of Ottawa Heart Institute);...;N;LIVRE;B1
+high blood pressure;l'hypertension;est une maladie cardiovasculaire caractérisée par une pression trop élevée exercée sur la paroi des artères (source : Inserm);...;N;LIVRE;B1
+blood;sang;...;...;N;LIVREM;A1
+low blood pressure;l'hypotension;se définit par une pression artérielle inférieure à 90/60 mmHg (source : Ircem);...;N;LIVRE;B2
+cirrhosis;la cirrhose;maladie grave du foie constituée de lésions hépatiques (hépat- : préfixe pour le foie) diffuses et irréversibles (source : ameli);...;N;LIVRE;C1
+cancer;le cancer;Le cancer se traduit par une multiplication anarchique de cellules qui forment une tumeur maligne (maligne /= bénigne) (source : ameli);...;N;LIVRE;B1
+a tumour (UK)/ a tumor (US);une tumeur;Amas de cellules qui se forme par multiplication anarchique (source : dico Le Robert);...;N;LIVRE;B2
+myopathy;la myopathie;Les myopathies inflammatoires idiopathiques sont un groupe de maladies auto-immunes qui provoquent une inflammation et une faiblesse musculaires et peuvent également affecter la peau et d’autres organes. « Idiopathique » signifie « d’origine inconnue », et « myopathie » signifie « anomalie ou maladie du tissu musculaire ». (source : MSD Manuals);...;N;LIVRE;C1
+hepatitis A/B/C;l'hépatite A/B/C;Les hépatites virales A, B et C sont des infections du foie provoquées par différents types de virus (source : Laboratoires Barla);...;N;LIVRE;B2
+asthma;asthme;caractérisée par une inflammation des bronches, qui se manifeste par des symptômes respiratoires (essoufflement, sifflement, toux, oppression thoracique) (source : ameli);...;N;LIVRE;B1
+tuberculosis;la tuberculose;La tuberculose est une maladie infectieuse due à une bactérie appelée bacille de Koch (source : ameli);...;N;LIVRE;C1
+sterility;la stérilité;...;...;N;LIVRE;B2
+to have cancer;avoir un cancer;have, had, had;...;VI;LIVREM;B1
+to thump;palpiter, battre la chamade;...;...;V;LIVRE;C1
+to be out of breath;être essoufflé;be, was/were, been;...;VI;LIVRE;B1
+to gasp;avoir du mal à respirer, haleter;...;...;V;LIVRE;B2
+to choke, stifle;étouffer, manque d'air;...;...;V;LIVRE;B2
+to bleed;saigner;bleed, bled, bled;...;VI;LIVRE;B2
+to feel faint;être pris d'un malaise;feel, felt, felt;...;VI;LIVRE;B2
+to pass out;s'évanouir;...;...;V;LIVRE;B2
+to feel dizzy;avoir des vertiges;...;...;V;LIVREM;B2
+suffer from vertigo;avoir le vertige;...;...;V;LIVREM;B2
+to go into a coma;tomber dans le coma;go, went, gone;...;VI;LIVRE;B2
+bedridden;cloué au lit, alité;...;...;ADJ;LIVRE;C1
+chronic;chronique;...;...;ADJ;LIVRE;B2
+infectious;infectieux;...;...;ADJ;LIVRE;B2
+contagious;contagieux;...;...;ADJ;LIVRE;B2
+congenital;congénital;...;...;ADJ;LIVRE;C1
+(in)curable;(in)curable;...;...;ADJ;LIVRE;B2
+seriously ill;gravement malade;...;...;ADJ;LIVRE;B1
+terminally ill;condamné;...;...;ADJ;LIVREM;B1
+terminal, fatal, lethal;mortel;...;...;ADJ;LIVRE;B2
+past/beyond cure, past recovery;perdu, condamné;...;...;ADJ;LIVRE;C1

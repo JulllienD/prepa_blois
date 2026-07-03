@@ -1,0 +1,25 @@
+a germ;un microbe;...;...;N;LIVRE;B1
+a virus;un virus;...;...;N;LIVRE;A2
+an infection;une infection;...;...;N;LIVRE;B1
+contamination;la contamination;...;...;N;LIVRE;B2
+an epidemic;une épidémie;...;...;N;LIVRE;B1
+a pandemic;une pandémie;...;...;N;LIVRE;B2
+a flu pandemic;une pandémie de grippe;...;...;N;LIVRE;B2
+the immune system;le système immunitaire;...;...;N;LIVRE;B2
+blood poisoning;la septicémie;...;...;N;LIVRE;C1
+a venereal disease;une maladie vénérienne;...;...;N;LIVRE;C1
+sexually transmitted;les maladies sexuellement transmissibles;...;...;ADJ;LIVRE;B2
+A.I.D.S;le SIDA;...;...;ABREV;LIVRE;B1
+high risk population;population à risque;...;...;N;LIVRE;B2
+to infect, contaminate;infecter, contaminer;...;...;V;LIVRE;B1
+to test positive for;se révéler positif au contrôle de;...;...;V;LIVRE;B2
+to harbour/carry a virus;être porteur d'un virus;carry, carried, carried;...;VI;LIVRE;B2
+to pass on a virus;transmettre un virus;...;...;V;LIVRE;B2
+to contract a disease;contracter une maladie;...;...;V;LIVRE;B2
+to contain, control an epidemic;contenir une épidémie;...;...;V;LIVRE;B2
+to break out;se déclarer;break, broke, broken;...;VI;LIVRE;B2
+to spread;se propager;spread, spread, spread;...;VI;LIVRE;B1
+to be HIV positive;être séropositif;be, was/were, been;...;VI;LIVRE;B2
+microbic;microbien;...;...;ADJ;LIVRE;C1
+viral;viral;...;...;ADJ;LIVRE;B2
+infected;infecté, contaminé (par);...;...;ADJ;LIVRE;B1

@@ -1,0 +1,29 @@
+medical examination;un examen médical;...;...;N;LIVRE;B1
+prescription;une ordonnance;...;...;N;LIVRE;B1
+shot, an injection;une piqûre, une injection;...;...;N;LIVRE;B2
+drip;une perfusion, goutte à goutte;...;...;N;LIVRE;C1
+transfusion;une transfusion;...;...;N;LIVRE;B2
+abortion;un avortement;...;...;N;LIVRE;B2
+X-ray;une radiologie;...;...;N;LIVRE;B1
+scanner;un scanner;...;...;N;LIVRE;B1
+ultrasound scan;une échographie;...;...;N;LIVRE;C1
+(blood) test;une analyse;...;...;N;LIVRE;A2
+stethoscope;un stéthoscope;...;...;N;LIVRE;C1
+lancet;un bistouri;...;...;N;LIVRE;C2
+stitch;un point de suture;...;...;N;LIVRE;B2
+to visit;rendre visite à;...;...;V;LIVRE;A1
+to check;examine, vérifier;...;...;V;LIVRE;A2
+to take the pulse;prendre le pouls;take, took, taken;...;VI;LIVRE;B2
+to sound the chest, auscultate;ausculter;...;...;V;LIVRE;C1
+to detect;détecter;...;...;V;LIVRE;B1
+to be under observation;être en observation;be, was/were, been;...;VI;LIVRE;B2
+to give a shot/ an injection;faire une injection;give, gave, given;...;VI;LIVRE;B2
+to prescribe;prescrire;...;...;V;LIVRE;B2
+to carry out an abortion;pratiquer un avortement;...;...;V;LIVRE;B2
+to dress a wound;panser une plaie;...;...;V;LIVRE;B2
+to nurse;soigner, s'occuper de;...;...;V;LIVRE;B1
+to be on duty;être de garde;be, was/were, been;...;VI;LIVRE;B2
+clinical;clinique;...;...;ADJ;LIVRE;B2
+thorough;complet, consciencieux;...;...;ADJ;LIVRE;B2
+faulty;erroné;...;...;ADJ;LIVRE;B2
+sterile;stérile;...;...;ADJ;LIVRE;B2

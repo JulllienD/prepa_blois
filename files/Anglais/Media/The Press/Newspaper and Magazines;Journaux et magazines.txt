@@ -42,3 +42,4 @@ weekly;hebdomadaire;...;...;ADJ;LIVRE;B1
 monthly;mensuel;...;...;ADJ;LIVRE;B1
 quarterly;trimestriel;...;...;ADJ;LIVRE;B2
 a quarter;un trimestre;...;...;N;LIVREM;B1
+https://quizlet.com/fr/1192975003/prepa-en-media-the-press-newspaper-and-magazines-flash-cards/

@@ -1,0 +1,52 @@
+autism;l'autisme;...;...;N;LIVRE;B2
+anxiety;l'angoisse, l'anxiété;...;...;N;LIVRE;B1
+a phobia;une phobie;...;...;N;LIVRE;B2
+neurosis;la névrose;...;...;N;LIVRE;C1
+psychosis;la psychose;...;...;N;LIVRE;C1
+schizophrenia;la schizophrénie;...;...;N;LIVRE;C1
+paranoia;paranoïa;...;...;N;LIVRE;B2
+hysteria;l'hystérie;...;...;N;LIVRE;B2
+a depression;une dépression;...;...;N;LIVRE;B1
+a nervous breakdown;une dépression nerveuse;...;...;N;LIVRE;B2
+senility;la sénilité;...;...;N;LIVRE;C1
+dementia;la démence;...;...;N;LIVRE;C1
+a mad person, a lunatic;un fou, un aliéné;...;...;N;LIVRE;B2
+a (sex) manic;un obsédé (sexuel);...;...;N;LIVRE;C1
+a neurotic;un névrosé;...;...;N;LIVRE;C1
+a paranoid;un paranoïaque;...;...;N;LIVRE;C1
+a psychotic;un psychotique;...;...;N;LIVRE;C1
+a schizophrenic;un schizophrène;...;...;N;LIVRE;C1
+a megalomaniac;un mégalomane;...;...;N;LIVRE;C1
+a malformation;une malformation;...;...;N;LIVRE;B2
+a disability;un handicap;...;...;N;LIVRE;B1
+dwarfism;le nanisme;...;...;N;LIVRE;C1
+a cripple, an invalid;un invalide;...;...;N;LIVRE;B2
+lameness;la claudication;...;...;N;LIVRE;C1
+lisping;le zozotement;...;...;N;LIVRE;C2
+stuttering;le bégaiement;...;...;N;LIVRE;C1
+blindness;la cécité;...;...;N;LIVRE;B2
+a blind person;une personne aveugle;...;...;N;LIVRE;A2
+long sightedness;l'hypermétrie, presbytie;...;...;N;LIVRE;C1
+short sightedness;la myopie;...;...;N;LIVRE;C1
+deafness;la surdité;...;...;N;LIVRE;B2
+a deaf person;un sourd;...;...;N;LIVRE;A2
+mutism;le mutisme;...;...;N;LIVRE;C1
+speech and language difficulties;troubles de la parole et du langage;...;...;N;LIVRE;B2
+autistic;autiste;...;...;ADJ;LIVRE;B2
+phobic;phobique;...;...;ADJ;LIVRE;C1
+hysterical;hystérique;...;...;ADJ;LIVRE;B2
+depressive;dépressif;...;...;ADJ;LIVRE;B2
+depressed;déprimé;...;...;ADJ;LIVRE;B1
+anxious;anxieux;...;...;ADJ;LIVRE;B1
+psychologically deficient;qui souffre d'une déficience psychologique;...;...;ADJ;LIVRE;B2
+neurotic;névrosé;...;...;ADJ;LIVRE;C1
+senile;sénile;...;...;ADJ;LIVRE;C1
+(mentally) unbalanced;déséquilibré;...;...;ADJ;LIVRE;B2
+insane;dément, aliéné;...;...;ADJ;LIVRE;B2
+handicapped;handicapé, infirme;...;...;ADJ;LIVRE;B1
+disabled;handicapé physique;...;...;ADJ;LIVRE;B1
+crippled;estropié;...;...;ADJ;LIVRE;B2
+lame;boiteux, écoplé;...;...;ADJ;LIVRE;B2
+long sighted;hypermétrope, presbyte;...;...;ADJ;LIVRE;B2
+short sighted;myope;...;...;ADJ;LIVRE;B2
+colour blind;daltonien;...;...;ADJ;LIVRE;B2

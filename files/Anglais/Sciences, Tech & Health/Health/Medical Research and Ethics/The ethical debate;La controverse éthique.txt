@@ -1,0 +1,27 @@
+medical ethics;la déontologie médicale;...;...;N;LIVRE;C1
+Hippocratic oath;le serment d'Hippocrate;...;...;N;LIVRE;C1
+dilemma;un dilemme;...;...;N;LIVRE;B2
+principle;un principe;...;...;N;LIVRE;B1
+respect for life/human dignity;le respect de la vie/dignité humaine;...;...;N;LIVRE;B2
+legal limbo;un vide juridique;...;...;N;LIVRE;C2
+code of ethic;un code de conduite;...;...;N;LIVRE;B2
+ethics commission;une commission d'éthique;...;...;N;LIVRE;C1
+legislation;des lois, la législation;...;...;N;LIVRE;B2
+guideline;une directive;...;...;N;LIVRE;B2
+safeguard;un garde-fou, une garantie;...;...;N;LIVRE;C1
+ban;une interdiction;...;...;N;LIVRE;B2
+genetic manipulation;les manipulations génétiques;...;...;N;LIVRE;B2
+stem cells;les cellules souches;...;...;N;LIVRE;B2
+cloning;le clonage;...;...;N;LIVRE;B1
+eugenics;l'eugénisme;...;...;N;LIVRE;C2
+to legislate;légiférer;...;...;V;LIVRE;C1
+to legalize;légaliser;...;...;V;LIVRE;B2
+to uphold a principle;défendre un principe;uphold, upheld, upheld;...;VI;LIVRE;C1
+to control;contrôler;...;...;V;LIVRE;A2
+to manipulate, tamper with;manipuler, altérer;...;...;V;LIVRE;B2
+to splice a gene;modifier un gène;...;...;V;LIVRE;C2
+to clone;cloner;...;...;V;LIVRE;B1
+to misuse;faire un usage impropre ou abusif;misuse, misused, misused;...;VI;LIVRE;B2
+legal, illegal;légal, illégal;...;...;ADJ;LIVRE;B1
+banned, forbidden;interdit;...;...;ADJ;LIVRE;B2
+ethical;éthique;...;...;ADJ;LIVRE;B2

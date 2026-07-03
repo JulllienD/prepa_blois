@@ -1,0 +1,16 @@
+discomfort;la gêne, le malaise;...;...;N;LIVRE;B1
+an ache;une douleur;...;...;N;LIVRE;B1
+a twinge;un élancement;...;...;N;LIVRE;C1
+suffering;la souffrance;...;...;N;LIVRE;B2
+agony;la souffrance atroce;...;...;N;LIVRE;C1
+to itch;démanger;...;...;V;LIVRE;B2
+to sting;piquer;sting, stung, stung;...;VI;LIVRE;B2
+to be in pain;souffrir;be, was/were, been;...;VI;LIVRE;B1
+to hurt;faire mal;hurt, hurt, hurt;...;VI;LIVRE;A2
+to suffer agonies;souffrir le martyre;...;...;V;LIVRE;C1
+persistent;tenace;...;...;ADJ;LIVRE;B2
+recurrent;récurent;...;...;ADJ;LIVRE;C1
+painful sore;douloureux;...;...;ADJ;LIVRE;B1
+shooting (pain);(douleur) lancinante, aiguë;...;...;ADJ;LIVRE;C1
+agonizing, excruciating (pain);(douleur) effroyable, atroce;...;...;ADJ;LIVRE;C1
+unbearable;insupportable;...;...;ADJ;LIVRE;B2

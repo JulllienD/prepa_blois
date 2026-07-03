@@ -1,114 +1,114 @@
-a weapon;une arme;...;...;N;LIVRE;B1
-a firearm / gun;une arme à feu;...;...;N;LIVRE;B1
-a handgun;une arme de poing;...;...;N;LIVRE;B2
-a shotgun;un fusil;...;...;N;LIVRE;B2
-a rifle;une carabine;...;...;N;LIVRE;B2
-an assault rifle;un fusil d'assaut;...;...;N;LIVRE;B2
-ammunition;des munitions;...;...;N;LIVRE;B2
-a bullet;une balle;...;...;N;LIVRE;B1
-a cartridge;une cartouche;...;...;N;LIVRE;B2
-a clip / magazine;un chargeur;...;...;N;LIVRE;B2
-a [shooting / firing] range;un stand de tir;...;...;N;LIVRE;B2
-a target;une cible;...;...;N;LIVRE;B1
-a gun show;une foire aux armes à feu;...;...;N;LIVRE;B2
-a rally;un rassemblement;...;...;N;LIVRE;B1
-a licensed dealer;un armurier patenté;...;...;N;LIVRE;C1
-the gun lobby;le lobby des vendeurs d'armes;...;...;N;LIVRE;B2
-the National Rifle Association (NRA);l'Association nationale des détenteurs d'armes à feu;...;...;N;LIVRE;B2
-an advocate of;un partisan de;...;...;N;LIVRE;B2
-an activist;un militant;...;...;N;LIVRE;B2
-an opponent;un opposant;...;...;N;LIVRE;B2
-a radical;un extrémiste;...;...;N;LIVRE;B2
-ownership;la possession;...;...;N;LIVRE;B2
-a gun licence;un permis de port d'armes;...;...;N;LIVRE;B2
-registration;l'enregistrement;...;...;N;LIVRE;B1
-concealed carry (weapon);le port d'arme caché;...;...;N;LIVRE;C1
-open carry;le port d'arme visible;...;...;N;LIVRE;C1
-safety;la sécurité;...;...;N;LIVRE;A2
-a policy;une politique;...;...;N;LIVRE;B1
-gun control;la réglementation des armes à feu;...;...;N;LIVRE;B2
-the county sheriff;le sheriff du comté;...;...;N;LIVRE;B1
-a background check;une vérification des antécédents judiciaires;...;...;N;LIVRE;B2
-a thorough check;une vérification complète;...;...;N;LIVRE;B2
-restrictions on;des limitations à;...;...;N;LIVRE;B2
-an infringement;une restriction;...;...;N;LIVRE;C1
-drastic measures;des mesures radicales;...;...;N;LIVRE;B2
-a ban;une interdiction;...;...;N;LIVRE;B2
-the criminal record;le casier judiciaire;...;...;N;LIVRE;B2
-frontier justice;la justice expéditive;...;...;N;LIVRE;C1
-good;le bien;...;...;N;LIVRE;A2
-evil;le mal;...;...;N;LIVRE;B1
-the good;les bons;...;...;N;LIVRE;B1
-the villains;les méchants;...;...;N;LIVRE;B2
-a serial killer;un meurtrier en série;...;...;N;LIVRE;B1
-a shooting;une fusillade, un meurtre;...;...;N;LIVRE;B2
-a mass killing;une tuerie, une hécatombe;...;...;N;LIVRE;C1
-a bloodshed;un bain de sang;...;...;N;LIVRE;C1
-a slaughter;un massacre, un carnage;...;...;N;LIVRE;C1
-a killing spree;un accès de folie meurtrière;...;...;N;LIVRE;C1
-a rampage;un déchaînement de violence;...;...;N;LIVRE;C1
-gang warfare;la guerre des gangs;...;...;N;LIVRE;B2
-stray bullets;des balles perdues;...;...;N;LIVRE;C1
-within shooting distance;à portée de tir;...;...;A;LIVRE;C1
-the paramedics;le SAMU;...;...;N;LIVRE;B2
-999/911;numéro d'urgence (GB / US);...;...;N;LIVRE;A1
-the injured;les blessés;...;...;N;LIVRE;B2
-injuries;des blessures;...;...;N;LIVRE;B2
-the casualties;les victimes;...;...;N;LIVRE;C1
-the murder toll;la liste des victimes;...;...;N;LIVRE;C1
-a corpse;un cadavre;...;...;N;LIVRE;B2
-an undertaker;un entrepreneur de pompes funèbres;...;...;N;LIVRE;C1
-the coroner;le médecin légiste;...;...;N;LIVRE;C1
-a funeral [home/parlo(u)r];un salon funéraire;...;...;N;LIVRE;B2
-a coffin (GB) / casket (US);un cercueil;...;...;N;LIVRE;B2
-to own;posséder;...;...;V;LIVRE;B1
-to [bear/carry] a gun;porter une arme;...;...;V;LIVRE;B2
-to abide by the law;respecter la loi;...;...;V;LIVRE;C1
-to enforce the law;faire appliquer la loi;...;...;V;LIVRE;B2
-to administer justice;rendre la justice;...;...;V;LIVRE;C1
-to undergo a check;subir une vérification;undergo, underwent, undergone;...;VI;LIVRE;C1
-to restrict access to;limiter l'accès à;...;...;V;LIVRE;B2
-to deter;dissuader;...;...;V;LIVRE;C1
-to ban / prohibit;interdire;...;...;V;LIVRE;B2
-to bolster security;renforcer la sécurité;...;...;V;LIVRE;C1
-to protect oneself;se protéger;...;...;V;LIVRE;B1
-to take the law into one's hands;se faire justice soi-même;...;...;V;LIVRE;C1
-to pin the blame on;imputer la faute à;...;...;V;LIVRE;C1
-to refrain from;s'interdire de;...;...;V;LIVRE;C1
-to cherish;chérir;...;...;V;LIVRE;B2
-to resort to;recourir à;...;...;V;LIVRE;C1
-to trigger;déclencher;...;...;V;LIVRE;B2
-to uphold;soutenir, confirmer;uphold, upheld, upheld;...;VI;LIVRE;C1
-to claim / maintain;prétendre, soutenir que;...;...;V;LIVRE;B2
-to shoot;tirer;shoot, shot, shot;...;VI;LIVRE;B1
-to press the trigger;presser la gâchette;...;...;V;LIVRE;B2
-to assault;attaquer;...;...;V;LIVRE;B2
-to injure;blesser;...;...;V;LIVRE;B2
-to kill;tuer;...;...;V;LIVRE;A2
-to die, died, died;mourir;...;...;V;LIVRE;A2
-to be dead;être mort;...;...;V;LIVRE;A2
-to pop off;clamser, claquer;argotique;...;A;LIVRE;C1
-to bite the bullet / kick the bucket;passer l'arme à gauche;idiome;...;A;LIVRE;C1
-to push the daisies;manger les pissenlits par la racine;idiome;...;A;LIVRE;C1
-to commit suicide / kill oneself;se suicider;...;...;V;LIVRE;B2
-available;disponible;...;...;ADJ;LIVRE;B1
-tough;rude, dur;...;...;ADJ;LIVRE;B1
-rigid;rigide;...;...;ADJ;LIVRE;B2
-stringent;strict;...;...;ADJ;LIVRE;C1
-mandatory;obligatoire;...;...;ADJ;LIVRE;C1
-law-abiding;respectueux de la loi;...;...;ADJ;LIVRE;C1
-unlawful;illégal;...;...;ADJ;LIVRE;C1
-trigger-happy;à la gâchette facile;...;...;ADJ;LIVRE;C1
-unreasonable;déraisonnable;...;...;ADJ;LIVRE;B2
-disquieting;inquiétant;...;...;ADJ;LIVRE;C1
-threatening;menaçant;...;...;ADJ;LIVRE;B2
-destructive;destructeur;...;...;ADJ;LIVRE;B2
-foolhardy;téméraire;...;...;ADJ;LIVRE;C1
-ruthless;impitoyable;...;...;ADJ;LIVRE;C1
-insane;dément;...;...;ADJ;LIVRE;B2
-crazy;dingue;...;...;ADJ;LIVRE;A2
-bloody;sanglant;...;...;ADJ;LIVRE;B1
-deadly / lethal;mortel;...;...;ADJ;LIVRE;B2
-horrific;atroce, abominable;...;...;ADJ;LIVRE;B2
-tragic;dramatique;...;...;ADJ;LIVRE;B1
-outrageous;scandaleux;...;...;ADJ;LIVRE;C1
+a weapon;une arme;...;...;N;COURS;B1
+a firearm / gun;une arme à feu;...;...;N;COURS;B1
+a handgun;une arme de poing;...;...;N;COURS;B2
+a shotgun;un fusil;...;...;N;COURS;B2
+a rifle;une carabine;...;...;N;COURS;B2
+an assault rifle;un fusil d'assaut;...;...;N;COURS;B2
+ammunition;des munitions;...;...;N;COURS;B2
+a bullet;une balle;...;...;N;COURS;B1
+a cartridge;une cartouche;...;...;N;COURS;B2
+a clip / magazine;un chargeur;...;...;N;COURS;B2
+a [shooting / firing] range;un stand de tir;...;...;N;COURS;B2
+a target;une cible;...;...;N;COURS;B1
+a gun show;une foire aux armes à feu;...;...;N;COURS;B2
+a rally;un rassemblement;...;...;N;COURS;B1
+a licensed dealer;un armurier patenté;...;...;N;COURS;C1
+the gun lobby;le lobby des vendeurs d'armes;...;...;N;COURS;B2
+the National Rifle Association (NRA);l'Association nationale des détenteurs d'armes à feu;...;...;N;COURS;B2
+an advocate of;un partisan de;...;...;N;COURS;B2
+an activist;un militant;...;...;N;COURS;B2
+an opponent;un opposant;...;...;N;COURS;B2
+a radical;un extrémiste;...;...;N;COURS;B2
+ownership;la possession;...;...;N;COURS;B2
+a gun licence;un permis de port d'armes;...;...;N;COURS;B2
+registration;l'enregistrement;...;...;N;COURS;B1
+concealed carry (weapon);le port d'arme caché;...;...;N;COURS;C1
+open carry;le port d'arme visible;...;...;N;COURS;C1
+safety;la sécurité;...;...;N;COURS;A2
+a policy;une politique;...;...;N;COURS;B1
+gun control;la réglementation des armes à feu;...;...;N;COURS;B2
+the county sheriff;le sheriff du comté;...;...;N;COURS;B1
+a background check;une vérification des antécédents judiciaires;...;...;N;COURS;B2
+a thorough check;une vérification complète;...;...;N;COURS;B2
+restrictions on;des limitations à;...;...;N;COURS;B2
+an infringement;une restriction;...;...;N;COURS;C1
+drastic measures;des mesures radicales;...;...;N;COURS;B2
+a ban;une interdiction;...;...;N;COURS;B2
+the criminal record;le casier judiciaire;...;...;N;COURS;B2
+frontier justice;la justice expéditive;...;...;N;COURS;C1
+good;le bien;...;...;N;COURS;A2
+evil;le mal;...;...;N;COURS;B1
+the good;les bons;...;...;N;COURS;B1
+the villains;les méchants;...;...;N;COURS;B2
+a serial killer;un meurtrier en série;...;...;N;COURS;B1
+a shooting;une fusillade, un meurtre;...;...;N;COURS;B2
+a mass killing;une tuerie, une hécatombe;...;...;N;COURS;C1
+a bloodshed;un bain de sang;...;...;N;COURS;C1
+a slaughter;un massacre, un carnage;...;...;N;COURS;C1
+a killing spree;un accès de folie meurtrière;...;...;N;COURS;C1
+a rampage;un déchaînement de violence;...;...;N;COURS;C1
+gang warfare;la guerre des gangs;...;...;N;COURS;B2
+stray bullets;des balles perdues;...;...;N;COURS;C1
+within shooting distance;à portée de tir;...;...;A;COURS;C1
+the paramedics;le SAMU;...;...;N;COURS;B2
+999/911;numéro d'urgence (GB / US);...;...;N;COURS;A1
+the injured;les blessés;...;...;N;COURS;B2
+injuries;des blessures;...;...;N;COURS;B2
+the casualties;les victimes;...;...;N;COURS;C1
+the murder toll;la liste des victimes;...;...;N;COURS;C1
+a corpse;un cadavre;...;...;N;COURS;B2
+an undertaker;un entrepreneur de pompes funèbres;...;...;N;COURS;C1
+the coroner;le médecin légiste;...;...;N;COURS;C1
+a funeral [home/parlo(u)r];un salon funéraire;...;...;N;COURS;B2
+a coffin (GB) / casket (US);un cercueil;...;...;N;COURS;B2
+to own;posséder;...;...;V;COURS;B1
+to [bear/carry] a gun;porter une arme;...;...;V;COURS;B2
+to abide by the law;respecter la loi;...;...;V;COURS;C1
+to enforce the law;faire appliquer la loi;...;...;V;COURS;B2
+to administer justice;rendre la justice;...;...;V;COURS;C1
+to undergo a check;subir une vérification;undergo, underwent, undergone;...;VI;COURS;C1
+to restrict access to;limiter l'accès à;...;...;V;COURS;B2
+to deter;dissuader;...;...;V;COURS;C1
+to ban / prohibit;interdire;...;...;V;COURS;B2
+to bolster security;renforcer la sécurité;...;...;V;COURS;C1
+to protect oneself;se protéger;...;...;V;COURS;B1
+to take the law into one's hands;se faire justice soi-même;...;...;V;COURS;C1
+to pin the blame on;imputer la faute à;...;...;V;COURS;C1
+to refrain from;s'interdire de;...;...;V;COURS;C1
+to cherish;chérir;...;...;V;COURS;B2
+to resort to;recourir à;...;...;V;COURS;C1
+to trigger;déclencher;...;...;V;COURS;B2
+to uphold;soutenir, confirmer;uphold, upheld, upheld;...;VI;COURS;C1
+to claim / maintain;prétendre, soutenir que;...;...;V;COURS;B2
+to shoot;tirer;shoot, shot, shot;...;VI;COURS;B1
+to press the trigger;presser la gâchette;...;...;V;COURS;B2
+to assault;attaquer;...;...;V;COURS;B2
+to injure;blesser;...;...;V;COURS;B2
+to kill;tuer;...;...;V;COURS;A2
+to die, died, died;mourir;...;...;V;COURS;A2
+to be dead;être mort;...;...;V;COURS;A2
+to pop off;clamser, claquer;argotique;...;A;COURS;C1
+to bite the bullet / kick the bucket;passer l'arme à gauche;idiome;...;A;COURS;C1
+to push the daisies;manger les pissenlits par la racine;idiome;...;A;COURS;C1
+to commit suicide / kill oneself;se suicider;...;...;V;COURS;B2
+available;disponible;...;...;ADJ;COURS;B1
+tough;rude, dur;...;...;ADJ;COURS;B1
+rigid;rigide;...;...;ADJ;COURS;B2
+stringent;strict;...;...;ADJ;COURS;C1
+mandatory;obligatoire;...;...;ADJ;COURS;C1
+law-abiding;respectueux de la loi;...;...;ADJ;COURS;C1
+unlawful;illégal;...;...;ADJ;COURS;C1
+trigger-happy;à la gâchette facile;...;...;ADJ;COURS;C1
+unreasonable;déraisonnable;...;...;ADJ;COURS;B2
+disquieting;inquiétant;...;...;ADJ;COURS;C1
+threatening;menaçant;...;...;ADJ;COURS;B2
+destructive;destructeur;...;...;ADJ;COURS;B2
+foolhardy;téméraire;...;...;ADJ;COURS;C1
+ruthless;impitoyable;...;...;ADJ;COURS;C1
+insane;dément;...;...;ADJ;COURS;B2
+crazy;dingue;...;...;ADJ;COURS;A2
+bloody;sanglant;...;...;ADJ;COURS;B1
+deadly / lethal;mortel;...;...;ADJ;COURS;B2
+horrific;atroce, abominable;...;...;ADJ;COURS;B2
+tragic;dramatique;...;...;ADJ;COURS;B1
+outrageous;scandaleux;...;...;ADJ;COURS;C1

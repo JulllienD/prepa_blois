@@ -1,0 +1,20 @@
+a physician;un médecin;...;...;N;LIVRE;B2
+a doctor;un docteur;...;...;N;LIVRE;A1
+a general practitioner;un généraliste;...;...;N;LIVRE;B2
+a volunteer doctor;un médecin bénévole;...;...;N;LIVRE;B2
+a specialist;un spécialiste;...;...;N;LIVRE;B1
+a heart specialist;un cardiologue;...;...;N;LIVRE;B2
+a surgeon;un chirurgien;...;...;N;LIVRE;B2
+an anaesthetist;un anesthésiste;...;...;N;LIVRE;C1
+a radiologist;un radiologue;...;...;N;LIVRE;C1
+a paediatrician;un pédiatre;...;...;N;LIVRE;C1
+a psychiatrist;un psychiatre;...;...;N;LIVRE;B2
+a dentist;un dentiste;...;...;N;LIVRE;A2
+a midwife;une sage femme;...;...;N;LIVRE;B2
+a nurse;une infirmière;...;...;N;LIVRE;A2
+a male nurse;un infirmier;...;...;N;LIVRE;B1
+an ambulance man;un ambulancier;...;...;N;LIVRE;B1
+a first aid worker;un secouriste;...;...;N;LIVRE;B2
+a chemist;un pharmacien;...;...;N;LIVRE;B1
+aid worker;un secouriste;...;...;N;LIVRE;B2
+a chemist;un pharmacien;...;...;N;LIVRE;B1

@@ -1,0 +1,12 @@
+a challenge;un défi;...;...;N;LIVRE;B1
+a success;une réussite;...;...;N;LIVRE;A2
+a feat;un exploit;...;...;N;LIVRE;B2
+a breakthrough;une percée;...;...;N;LIVRE;C1
+a discovery;une découverte;...;...;N;LIVRE;B1
+to achieve something;mener à bien, réussir quelque chose;...;...;V;LIVRE;B2
+to succeed;réussir;...;...;V;LIVRE;A2
+to discover;découvrir;...;...;V;LIVRE;A2
+to devise;mettre au point;...;...;V;LIVRE;B2
+major;d'une grande importance;...;...;ADJ;LIVRE;B1
+successful;réussi;...;...;ADJ;LIVRE;A2
+revolutionary;révolutionnaire;...;...;ADJ;LIVRE;B2
