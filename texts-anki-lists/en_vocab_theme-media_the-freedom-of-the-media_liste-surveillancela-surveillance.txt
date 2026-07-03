@@ -1,0 +1,9 @@
+electronic surveillance;la surveillance électronique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance
+closed-circuit television;la télévision en circuit fermé;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance
+the "telescreen";télécran (système de surveillance dans le roman de G.Orwell, 1984);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance
+wiretapping;les écoutes téléphoniques;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance
+a (phone) bug;un micro (secret);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance
+eavesdropping;la mise sur écoute;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance
+to watch;surveiller<br><br>Note :<br>watch signifie regarder quelque chose qui bouge<br>to look signifie regarder quelque chose d'immobile;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance
+to tap/to bug a phone;mettre un téléphone sur écoute;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance
+to eavesdrop on;surprendre la conversation de;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Surveillance

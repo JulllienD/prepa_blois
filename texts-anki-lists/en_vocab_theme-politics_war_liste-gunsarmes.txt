@@ -1,0 +1,114 @@
+a weapon;une arme;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a firearm / gun;une arme à feu;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a handgun;une arme de poing;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a shotgun;un fusil;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a rifle;une carabine;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+an assault rifle;un fusil d'assaut;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+ammunition;des munitions;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a bullet;une balle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a cartridge;une cartouche;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a clip / magazine;un chargeur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a [shooting / firing] range;un stand de tir;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a target;une cible;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a gun show;une foire aux armes à feu;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a rally;un rassemblement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a licensed dealer;un armurier patenté;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the gun lobby;le lobby des vendeurs d'armes;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the National Rifle Association (NRA);l'Association nationale des détenteurs d'armes à feu;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+an advocate of;un partisan de;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+an activist;un militant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+an opponent;un opposant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a radical;un extrémiste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+ownership;la possession;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a gun licence;un permis de port d'armes;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+registration;l'enregistrement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+concealed carry (weapon);le port d'arme caché;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+open carry;le port d'arme visible;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+safety;la sécurité;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a policy;une politique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+gun control;la réglementation des armes à feu;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the county sheriff;le sheriff du comté;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a background check;une vérification des antécédents judiciaires;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a thorough check;une vérification complète;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+restrictions on;des limitations à;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+an infringement;une restriction;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+drastic measures;des mesures radicales;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a ban;une interdiction;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the criminal record;le casier judiciaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+frontier justice;la justice expéditive;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+good;le bien;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+evil;le mal;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the good;les bons;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the villains;les méchants;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a serial killer;un meurtrier en série;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a shooting;une fusillade, un meurtre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a mass killing;une tuerie, une hécatombe;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a bloodshed;un bain de sang;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a slaughter;un massacre, un carnage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a killing spree;un accès de folie meurtrière;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a rampage;un déchaînement de violence;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+gang warfare;la guerre des gangs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+stray bullets;des balles perdues;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+within shooting distance;à portée de tir;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Politics::War::Guns
+the paramedics;le SAMU;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+999/911;numéro d'urgence (GB / US);ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the injured;les blessés;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+injuries;des blessures;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the casualties;les victimes;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the murder toll;la liste des victimes;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a corpse;un cadavre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+an undertaker;un entrepreneur de pompes funèbres;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+the coroner;le médecin légiste;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a funeral [home/parlo(u)r];un salon funéraire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+a coffin (GB) / casket (US);un cercueil;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::War::Guns
+to own;posséder;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to [bear/carry] a gun;porter une arme;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to abide by the law;respecter la loi;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to enforce the law;faire appliquer la loi;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to administer justice;rendre la justice;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to undergo a check;subir une vérification<br><br>Note :<br>undergo, underwent, undergone;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Politics::War::Guns
+to restrict access to;limiter l'accès à;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to deter;dissuader;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to ban / prohibit;interdire;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to bolster security;renforcer la sécurité;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to protect oneself;se protéger;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to take the law into one's hands;se faire justice soi-même;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to pin the blame on;imputer la faute à;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to refrain from;s'interdire de;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to cherish;chérir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to resort to;recourir à;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to trigger;déclencher;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to uphold;soutenir, confirmer<br><br>Note :<br>uphold, upheld, upheld;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Politics::War::Guns
+to claim / maintain;prétendre, soutenir que;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to shoot;tirer<br><br>Note :<br>shoot, shot, shot;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Politics::War::Guns
+to press the trigger;presser la gâchette;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to assault;attaquer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to injure;blesser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to kill;tuer;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to die, died, died;mourir;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to be dead;être mort;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+to pop off;clamser, claquer<br><br>Note :<br>argotique;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Politics::War::Guns
+to bite the bullet / kick the bucket;passer l'arme à gauche<br><br>Note :<br>idiome;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Politics::War::Guns
+to push the daisies;manger les pissenlits par la racine<br><br>Note :<br>idiome;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Politics::War::Guns
+to commit suicide / kill oneself;se suicider;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::War::Guns
+available;disponible;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+tough;rude, dur;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+rigid;rigide;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+stringent;strict;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+mandatory;obligatoire;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+law-abiding;respectueux de la loi;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+unlawful;illégal;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+trigger-happy;à la gâchette facile;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+unreasonable;déraisonnable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+disquieting;inquiétant;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+threatening;menaçant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+destructive;destructeur;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+foolhardy;téméraire;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+ruthless;impitoyable;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+insane;dément;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+crazy;dingue;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+bloody;sanglant;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+deadly / lethal;mortel;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+horrific;atroce, abominable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+tragic;dramatique;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns
+outrageous;scandaleux;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::War::Guns

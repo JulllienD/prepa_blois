@@ -1,0 +1,49 @@
+The Way to Discoveries;La voie des découvertes;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a phenomenon;un phénomène;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+several phenomena;plusieurs phénomènes;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+observation;l’observation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+description;la description;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+an intuition;une intuition;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+methodology;la méthodologie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a proof / piece of evidence;une preuve;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+evidence;des preuves;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a stroke of genius;un trait de génie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a stroke of inspiration;une trouvaille;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a stroke of luck;un coup de chance;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a hypothesis;une hypothèse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+several hypotheses;plusieurs hypothèses;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a theory;une théorie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+experimentation;l’experimentation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a test;un test, un essai;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a procedure;un protocole;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a check;un contrôle, une vérification;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+an improvement;amélioration;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a discovery / a find(ing);une découverte;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a breakthrough;une découverte capitale, une percée;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+a patent;un brevet;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to experiment;expérimenter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to carry out an experiment;procéder à une expérience;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to proceed by trial and error;tâtonner;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to progress, make headway;progresser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to prove;prouver;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to disprove;réfuter;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to confirm;confirmer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to invalidate;infirmer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to analyse;analyser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to synthesise;synthétiser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to build / contrive a theory;élaborer une théorie;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to discover;découvrir;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to devise, design;inventer, imaginer, concevoir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to test, put to test;tester, mettre à l'essai;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to put to the acid test;faire subir l'épreuve de vérité;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to check;vérifier;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to develop;mettre au point;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+to improve, upgrade;améliorer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+random;aléatoire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+at random;au hasard;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+empirical;empirique;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+confirmed;avéré, confirmé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+major;crucial, majeur;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+spectacular;spectaculaire;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+ground-breaking;révolutionnaire;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries
+controversial, debatable;contestable, controversé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::The-Way-to-Discoveries

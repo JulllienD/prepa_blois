@@ -1,0 +1,43 @@
+Space Venture;L’aventure spatiale;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a launch;un lancement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a launcher;un lanceur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a launch pad;une rampe/ une aire de lancement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+the countdown;le compte à rebours;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a blast off;une mise à feu;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a lift-off, a take off;un décollage;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to lift;soulever;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a space flight;un vol spatial;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+space sickness;mal de l’espace;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+weightlessness;l’apesanteur;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+weight;le poids, la pesanteur;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+the orbit;l’orbite;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+docking;l’arrimage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a stay in space;un séjour dans l’espace;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to stay;séjourner;ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a moon landing;un alunissage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a moon walk;une sortie Lunaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+re-entry;l’entrée dans l'atmosphère;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a touchdown;un atterrissage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a splashdown;un amerrissage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a malfunction;un dysfonctionnement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+a breakdown;une panne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to count down;lancer le compte à rebours;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to launch;lancer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to blast off;être mis à feu;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to lift off, take off;décoller;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to propel;propulser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to spacewalk;marcher dans l’espace;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to dock (with);s’arrimer à;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to land (on a planet);se poser (sur une planète);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to land on the moon;alunir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to touch down;toucher le sol;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to splash down;amerrir;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to splash;éclabousser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to abort (a launch);interrompre (un lancement);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to postpone;ajourner, reporter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+to cancel;supprimer, annuler;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+malfunctionning;qui fonctionne mal, avarié;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+uncharted;inexploré;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+chart;une carte, un graphique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+risky;risqué, hasardeux;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture
+adventurous;aventureux, audacieux;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Space::Space-Veenture

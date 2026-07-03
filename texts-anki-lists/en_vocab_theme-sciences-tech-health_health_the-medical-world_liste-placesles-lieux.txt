@@ -1,0 +1,14 @@
+(GP's) surgery;un cabinet médical;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+hospital;un hôpital;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+private hospital;une clinique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+ward;une salle;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+intensive care unit;un service de soins intensifs;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+surgical unit, operating theatre;un bloc opératoire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+laboratory;une laboratoire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+organ bank;une banque d'organes;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+mental health hospital;un hôpital psychiatrique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+rehabilitation centre;un centre de rééducation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+to be hospitalized;être hospitalisé<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+to go into hospital, be admitted to hospital;entrer à l'hôpital<br><br>Note :<br>go, went, gone / be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+to keep a patient;hospitaliser un patient<br><br>Note :<br>keep, kept, kept;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places
+to intern;interner;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Places

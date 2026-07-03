@@ -1,0 +1,12 @@
+a challenge;un défi;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+a success;une réussite;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+a feat;un exploit;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+a breakthrough;une percée;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+a discovery;une découverte;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+to achieve something;mener à bien, réussir quelque chose;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+to succeed;réussir;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+to discover;découvrir;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+to devise;mettre au point;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+major;d'une grande importance;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+successful;réussi;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research
+revolutionary;révolutionnaire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::Medical-Research

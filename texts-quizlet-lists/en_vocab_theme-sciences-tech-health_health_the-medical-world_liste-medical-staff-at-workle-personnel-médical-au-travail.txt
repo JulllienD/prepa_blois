@@ -1,0 +1,65 @@
+medical examination||un examen médical
+----------
+prescription||une ordonnance
+----------
+shot, an injection||une piqûre, une injection
+----------
+drip||une perfusion, goutte à goutte
+----------
+transfusion||une transfusion
+----------
+abortion||un avortement
+----------
+X-ray||une radiologie
+----------
+scanner||un scanner
+----------
+ultrasound scan||une échographie
+----------
+(blood) test||une analyse
+----------
+stethoscope||un stéthoscope
+----------
+lancet||un bistouri
+----------
+stitch||un point de suture
+----------
+to visit||rendre visite à
+----------
+to check||examine, vérifier
+----------
+to take the pulse||prendre le pouls
+
+Note : take, took, taken
+----------
+to sound the chest, auscultate||ausculter
+----------
+to detect||détecter
+----------
+to be under observation||être en observation
+
+Note : be, was/were, been
+----------
+to give a shot/ an injection||faire une injection
+
+Note : give, gave, given
+----------
+to prescribe||prescrire
+----------
+to carry out an abortion||pratiquer un avortement
+----------
+to dress a wound||panser une plaie
+----------
+to nurse||soigner, s'occuper de
+----------
+to be on duty||être de garde
+
+Note : be, was/were, been
+----------
+clinical||clinique
+----------
+thorough||complet, consciencieux
+----------
+faulty||erroné
+----------
+sterile||stérile

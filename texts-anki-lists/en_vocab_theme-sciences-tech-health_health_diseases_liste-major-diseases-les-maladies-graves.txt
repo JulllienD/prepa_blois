@@ -1,0 +1,35 @@
+a coronary disease, a heart condition;une maladie cardiaque<br><br>Note :<br>;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+heart failure;l'insuffisance cardiaque<br><br>Note :<br>l'incapacité du muscle cardiaque à assurer normalement la propulsion du sang dans l'organisme (source : ameli);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+a heart attack;une crise cardiaque<br><br>Note :<br>survient quand l'apport en sang riche en oxygène est interrompu dans une partie du muscle cardiaque (source : university of Ottawa Heart Institute);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+high blood pressure;l'hypertension<br><br>Note :<br>est une maladie cardiovasculaire caractérisée par une pression trop élevée exercée sur la paroi des artères (source : Inserm);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+blood;sang;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+low blood pressure;l'hypotension<br><br>Note :<br>se définit par une pression artérielle inférieure à 90/60 mmHg (source : Ircem);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+cirrhosis;la cirrhose<br><br>Note :<br>maladie grave du foie constituée de lésions hépatiques (hépat- : préfixe pour le foie) diffuses et irréversibles (source : ameli);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+cancer;le cancer<br><br>Note :<br>Le cancer se traduit par une multiplication anarchique de cellules qui forment une tumeur maligne (maligne /= bénigne) (source : ameli);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+a tumour (UK)/ a tumor (US);une tumeur<br><br>Note :<br>Amas de cellules qui se forme par multiplication anarchique (source : dico Le Robert);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+myopathy;la myopathie<br><br>Note :<br>Les myopathies inflammatoires idiopathiques sont un groupe de maladies auto-immunes qui provoquent une inflammation et une faiblesse musculaires et peuvent également affecter la peau et d’autres organes. « Idiopathique » signifie « d’origine inconnue », et « myopathie » signifie « anomalie ou maladie du tissu musculaire ». (source : MSD Manuals);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+hepatitis A/B/C;l'hépatite A/B/C<br><br>Note :<br>Les hépatites virales A, B et C sont des infections du foie provoquées par différents types de virus (source : Laboratoires Barla);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+asthma;asthme<br><br>Note :<br>caractérisée par une inflammation des bronches, qui se manifeste par des symptômes respiratoires (essoufflement, sifflement, toux, oppression thoracique) (source : ameli);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+tuberculosis;la tuberculose<br><br>Note :<br>La tuberculose est une maladie infectieuse due à une bactérie appelée bacille de Koch (source : ameli);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+sterility;la stérilité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to have cancer;avoir un cancer<br><br>Note :<br>have, had, had;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to thump;palpiter, battre la chamade;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to be out of breath;être essoufflé<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to gasp;avoir du mal à respirer, haleter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to choke, stifle;étouffer, manque d'air;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to bleed;saigner<br><br>Note :<br>bleed, bled, bled;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to feel faint;être pris d'un malaise<br><br>Note :<br>feel, felt, felt;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to pass out;s'évanouir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to feel dizzy;avoir des vertiges;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+suffer from vertigo;avoir le vertige;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+to go into a coma;tomber dans le coma<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+bedridden;cloué au lit, alité;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+chronic;chronique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+infectious;infectieux;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+contagious;contagieux;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+congenital;congénital;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+(in)curable;(in)curable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+seriously ill;gravement malade;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+terminally ill;condamné;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+terminal, fatal, lethal;mortel;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases
+past/beyond cure, past recovery;perdu, condamné;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Major-Diseases

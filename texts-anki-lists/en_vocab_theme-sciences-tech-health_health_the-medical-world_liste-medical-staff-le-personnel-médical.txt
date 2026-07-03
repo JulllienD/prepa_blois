@@ -1,0 +1,20 @@
+a physician;un médecin;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a doctor;un docteur;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a general practitioner;un généraliste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a volunteer doctor;un médecin bénévole;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a specialist;un spécialiste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a heart specialist;un cardiologue;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a surgeon;un chirurgien;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+an anaesthetist;un anesthésiste;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a radiologist;un radiologue;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a paediatrician;un pédiatre;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a psychiatrist;un psychiatre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a dentist;un dentiste;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a midwife;une sage femme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a nurse;une infirmière;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a male nurse;un infirmier;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+an ambulance man;un ambulancier;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a first aid worker;un secouriste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a chemist;un pharmacien;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+aid worker;un secouriste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff
+a chemist;un pharmacien;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff

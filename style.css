@@ -233,60 +233,69 @@ body {
     gap: 15px;
 }
 
-/* Style de la carte/bouton type Quizlet */
-.quizlet-card {
+/* Container de l'en-tête */
+.fiche-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f1f3f5;
+}
+
+/* Bloc qui regroupe les boutons à droite */
+.fiche-actions-inline {
     display: flex;
     align-items: center;
-    background-color: #3a4be4; /* Bleu très foncé comme sur l'image */
-    color: #ffffff !important;
+    gap: 10px; /* Écart entre les deux boutons */
+}
+
+/* Style commun pour les boutons RECTANGLES ARRONDIS */
+.action-button-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    padding: 0 12px; /* Donne la forme rectangulaire */
+    border-radius: 6px; /* Coins arrondis du rectangle */
+    border: 1px solid #dee2e6;
+    background-color: #b0b4b8;
+    transition: all 0.2s ease;
     text-decoration: none;
-    border-radius: 8px;
-    padding: 10px 15px;
-    min-width: 280px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    transition: transform 0.2s, background-color 0.2s;
 }
 
-.quizlet-card:hover {
-    transform: translateY(-2px);
-    background-color: #4656e1;
+.action-button-link:hover {
+    background-color: #e9ecef;
+    border-color: #ced4da;
+    transform: translateY(-1px); /* Léger effet de survol */
 }
 
-/* Wrapper pour l'icône Q */
-.quizlet-icon-wrapper {
-    margin-right: 12px;
-    display: flex;
-    align-items: center;
+/* Style spécifique au bouton Quizlet */
+.action-button-link.quizlet-btn {
+    background-color: #3342cf; /* Fond sombre Quizlet */
+    border: none;
+}
+.action-button-link.quizlet-btn:hover {
+    background-color: #4454e4;
 }
 
-.quizlet-icon {
-    width: 32px;
-    height: 32px;
+/* Taille des images/icônes à l'intérieur des boutons */
+.action-button-link img {
+    width: 35px;
+    height: 35px;
     object-fit: contain;
 }
 
-/* Conteneur des textes */
-.quizlet-text {
-    display: flex;
-    flex-direction: column;
+
+
+/* Style spécifique optionnel pour le bouton Anki (si vous voulez un fond bleu Anki) */
+.action-button-link.anki-btn {
+    background-color: #8fc5f5; /* Bleu Anki */
+    border: none;
 }
-
-/* Le chemin (ex: Media / The press) */
-.quizlet-path {
-    font-size: 0.75rem;
-    color: #c7c6db;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 2px;
+.action-button-link.anki-btn:hover {
+    background-color: #a2ccf1;
 }
-
-/* Le titre de la fiche */
-.quizlet-title {
-    font-size: 0.95rem;
-    font-weight: bold;
-}
-
-
 
 
 
@@ -502,6 +511,59 @@ body {
 
 
 
+
+
+/* --- Style des Articles --- */
+article {
+    background-color: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+}
+
+/* Titre de l'article */
+article h3 {
+    font-size: 1.4rem;
+    color: #1e3a8a; /* Reprise du bleu foncé de l'en-tête */
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+
+/* Petite ligne decorative sous le titre de l'article */
+article h3::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40px;
+    height: 3px;
+    background-color: #3b82f6; /* Bleu plus vif pour l'accent */
+    border-radius: 2px;
+}
+
+/* Paragraphes à l'intérieur de l'article */
+article p {
+    color: #475569; /* Gris ardoise doux */
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+/* On enlève la marge sur le dernier élément pour éviter les espaces vides en bas */
+article p:last-child {
+    margin-bottom: 0;
+}
+
+
+
+
+
+
 /* Style du Footer (Pied de page) */
 .main-footer {
     background-color: #ffffff;
@@ -531,4 +593,110 @@ body {
 
 .footer-links a:hover {
     color: #3b82f6; /* Devient bleu au survol */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --- RESPONSIVE DESIGN (ADAPTATION MOBILES & TABLETTES) --- */
+
+/* Ajustement global pour éviter les débordements sur mobile */
+@media (max-width: 768px) {
+    .container {
+        padding: 0 1rem;
+        margin-bottom: 5rem; /* Réduction de l'énorme marge du bas sur mobile */
+    }
+
+    /* Ajustement des titres globaux */
+    .page-title {
+        font-size: 1.4rem;
+        margin: 1.5rem 0;
+    }
+
+    .intro-text, .intro-text-2 {
+        font-size: 1.2rem;
+        margin: 1.5rem 0;
+        text-align: left; /* Le justify rend parfois très mal sur petit écran */
+    }
+
+    /* Grille de thèmes : passe en 2 colonnes ou 1 colonne selon l'écran */
+    .topic-grid {
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        gap: 12px;
+    }
+    
+    .subject-topic {
+        padding: 12px;
+    }
+
+    .topic-title {
+        font-size: 1rem;
+        margin-bottom: 8px;
+    }
+
+    /* Liens des fiches : prend toute la largeur et supprime le décalage forcé */
+    .subject-link {
+        width: 100%;
+        padding-right: 1.5rem;
+    }
+
+    /* En-tête des fiches (Titres + Boutons d'action) */
+    .fiche-header-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .fiche-actions-inline {
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    /* --- GESTION CRITIQUE DU TABLEAU SUR MOBILE --- */
+    /* Pour éviter que le tableau détruise la mise en page, on lui permet de défiler horizontalement */
+    .vocab-table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch; /* Défilement fluide sur iOS */
+        table-layout: auto; /* Permet aux colonnes de s'adapter au contenu */
+    }
+
+    /* Réduction légère de la taille du texte et des paddings dans le tableau */
+    .vocab-table th, .vocab-table td {
+        padding: 8px 6px;
+        font-size: 0.85rem;
+    }
+
+    .txt-anglais, .txt-francais {
+        font-size: 0.9rem;
+    }
+    
+    /* Empêche les badges de forcer des retours à la ligne trop violents */
+    .badge {
+        padding: 2px 6px;
+        font-size: 0.7rem;
+    }
 }

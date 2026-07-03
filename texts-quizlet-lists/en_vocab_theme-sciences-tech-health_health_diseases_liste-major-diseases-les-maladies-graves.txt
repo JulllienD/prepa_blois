@@ -1,0 +1,103 @@
+a coronary disease, a heart condition||une maladie cardiaque
+
+Note :
+----------
+heart failure||l'insuffisance cardiaque
+
+Note : l'incapacité du muscle cardiaque à assurer normalement la propulsion du sang dans l'organisme (source : ameli)
+----------
+a heart attack||une crise cardiaque
+
+Note : survient quand l'apport en sang riche en oxygène est interrompu dans une partie du muscle cardiaque (source : university of Ottawa Heart Institute)
+----------
+high blood pressure||l'hypertension
+
+Note : est une maladie cardiovasculaire caractérisée par une pression trop élevée exercée sur la paroi des artères (source : Inserm)
+----------
+blood||sang
+----------
+low blood pressure||l'hypotension
+
+Note : se définit par une pression artérielle inférieure à 90/60 mmHg (source : Ircem)
+----------
+cirrhosis||la cirrhose
+
+Note : maladie grave du foie constituée de lésions hépatiques (hépat- : préfixe pour le foie) diffuses et irréversibles (source : ameli)
+----------
+cancer||le cancer
+
+Note : Le cancer se traduit par une multiplication anarchique de cellules qui forment une tumeur maligne (maligne /= bénigne) (source : ameli)
+----------
+a tumour (UK)/ a tumor (US)||une tumeur
+
+Note : Amas de cellules qui se forme par multiplication anarchique (source : dico Le Robert)
+----------
+myopathy||la myopathie
+
+Note : Les myopathies inflammatoires idiopathiques sont un groupe de maladies auto-immunes qui provoquent une inflammation et une faiblesse musculaires et peuvent également affecter la peau et d’autres organes. « Idiopathique » signifie « d’origine inconnue », et « myopathie » signifie « anomalie ou maladie du tissu musculaire ». (source : MSD Manuals)
+----------
+hepatitis A/B/C||l'hépatite A/B/C
+
+Note : Les hépatites virales A, B et C sont des infections du foie provoquées par différents types de virus (source : Laboratoires Barla)
+----------
+asthma||asthme
+
+Note : caractérisée par une inflammation des bronches, qui se manifeste par des symptômes respiratoires (essoufflement, sifflement, toux, oppression thoracique) (source : ameli)
+----------
+tuberculosis||la tuberculose
+
+Note : La tuberculose est une maladie infectieuse due à une bactérie appelée bacille de Koch (source : ameli)
+----------
+sterility||la stérilité
+----------
+to have cancer||avoir un cancer
+
+Note : have, had, had
+----------
+to thump||palpiter, battre la chamade
+----------
+to be out of breath||être essoufflé
+
+Note : be, was/were, been
+----------
+to gasp||avoir du mal à respirer, haleter
+----------
+to choke, stifle||étouffer, manque d'air
+----------
+to bleed||saigner
+
+Note : bleed, bled, bled
+----------
+to feel faint||être pris d'un malaise
+
+Note : feel, felt, felt
+----------
+to pass out||s'évanouir
+----------
+to feel dizzy||avoir des vertiges
+----------
+suffer from vertigo||avoir le vertige
+----------
+to go into a coma||tomber dans le coma
+
+Note : go, went, gone
+----------
+bedridden||cloué au lit, alité
+----------
+chronic||chronique
+----------
+infectious||infectieux
+----------
+contagious||contagieux
+----------
+congenital||congénital
+----------
+(in)curable||(in)curable
+----------
+seriously ill||gravement malade
+----------
+terminally ill||condamné
+----------
+terminal, fatal, lethal||mortel
+----------
+past/beyond cure, past recovery||perdu, condamné

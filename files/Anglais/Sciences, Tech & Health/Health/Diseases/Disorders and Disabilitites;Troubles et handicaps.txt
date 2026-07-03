@@ -1,6 +1,7 @@
 autism;l'autisme;...;...;N;LIVRE;B2
 anxiety;l'angoisse, l'anxiété;...;...;N;LIVRE;B1
 a phobia;une phobie;...;...;N;LIVRE;B2
+have a phobia about something;avoir la phobie de quelque chose;have, had, had;...;VI;LIVREM;B2
 neurosis;la névrose;...;...;N;LIVRE;C1
 psychosis;la psychose;...;...;N;LIVRE;C1
 schizophrenia;la schizophrénie;...;...;N;LIVRE;C1
@@ -11,6 +12,7 @@ a nervous breakdown;une dépression nerveuse;...;...;N;LIVRE;B2
 senility;la sénilité;...;...;N;LIVRE;C1
 dementia;la démence;...;...;N;LIVRE;C1
 a mad person, a lunatic;un fou, un aliéné;...;...;N;LIVRE;B2
+whimsical;lunatique;...;...;ADJ;LIVREM;C2
 a (sex) manic;un obsédé (sexuel);...;...;N;LIVRE;C1
 a neurotic;un névrosé;...;...;N;LIVRE;C1
 a paranoid;un paranoïaque;...;...;N;LIVRE;C1
@@ -25,16 +27,20 @@ lameness;la claudication;...;...;N;LIVRE;C1
 lisping;le zozotement;...;...;N;LIVRE;C2
 stuttering;le bégaiement;...;...;N;LIVRE;C1
 blindness;la cécité;...;...;N;LIVRE;B2
+colour blindness;le daltonisme;...;...;N;LIVREM;B2
 a blind person;une personne aveugle;...;...;N;LIVRE;A2
+the blind;les aveugles;...;...;N;LIVREM;B1
 long sightedness;l'hypermétrie, presbytie;...;...;N;LIVRE;C1
 short sightedness;la myopie;...;...;N;LIVRE;C1
 deafness;la surdité;...;...;N;LIVRE;B2
 a deaf person;un sourd;...;...;N;LIVRE;A2
+the deaf;les sourds;...;...;N;LIVREM;B1
 mutism;le mutisme;...;...;N;LIVRE;C1
 speech and language difficulties;troubles de la parole et du langage;...;...;N;LIVRE;B2
 autistic;autiste;...;...;ADJ;LIVRE;B2
 phobic;phobique;...;...;ADJ;LIVRE;C1
 hysterical;hystérique;...;...;ADJ;LIVRE;B2
+(a fit of) hysterics;une crise de nerfs;...;...;DEF;LIVREM;B2
 depressive;dépressif;...;...;ADJ;LIVRE;B2
 depressed;déprimé;...;...;ADJ;LIVRE;B1
 anxious;anxieux;...;...;ADJ;LIVRE;B1
@@ -47,6 +53,7 @@ handicapped;handicapé, infirme;...;...;ADJ;LIVRE;B1
 disabled;handicapé physique;...;...;ADJ;LIVRE;B1
 crippled;estropié;...;...;ADJ;LIVRE;B2
 lame;boiteux, écoplé;...;...;ADJ;LIVRE;B2
+a lame duck;un canard boiteux;...;...;DEF;LIVREM;B2
 long sighted;hypermétrope, presbyte;...;...;ADJ;LIVRE;B2
 short sighted;myope;...;...;ADJ;LIVRE;B2
 colour blind;daltonien;...;...;ADJ;LIVRE;B2

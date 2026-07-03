@@ -1,0 +1,17 @@
+discomfort;la gêne, le malaise;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+an ache<br><br>Exemple :<br>My head aches<br>My tooth aches<br>My heart aches;une douleur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+a twinge;un élancement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+suffering;la souffrance;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+agony;la souffrance atroce;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+to itch;démanger;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+to sting;piquer<br><br>Note :<br>sting, stung, stung;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+to be in pain;souffrir<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+to hurt<br><br>Exemple :<br>It hurts : ça fait mal;faire mal<br><br>Note :<br>hurt, hurt, hurt;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+to suffer agonies;souffrir le martyre;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+persistent;tenace;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+recurrent;récurent;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+painful sore;douloureux;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+bedsores;escarres<br><br>Note :<br>lésion cutanée d'origine ischémique liée à une compression des tissus mous entre un plan dur et les saillies osseuses (source : HAS);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+shooting (pain);(douleur) lancinante, aiguë;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+agonizing, excruciating (pain);(douleur) effroyable, atroce;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain
+unbearable;insupportable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::The-body-in-pain

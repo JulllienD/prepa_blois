@@ -1,0 +1,27 @@
+Purposes of Space Exploration;Les fins de l’exploration spatiale;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+space probing;l’exploration de l’espace;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a space probe;une sonde spatiale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a land-based observatory;un observatoire terrestre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a space-based observatory;un observatoire spatial;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a space platform, a space station;une station spatiale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a space programme;un programme spatial;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a space laboratory, a skylab;un laboratoire spatial;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a space colony;une colonie spatiale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+satellite observations;l’observation par satellite;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a(n artificial) satellite;un satellite artificiel;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a solar panel;un panneau solaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+un stray satellite;un satellite à la dérive;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+an applications satellite;un satellite utilitaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a communications satellite;un satellite de télécommunications;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a weather satellite;un satellite météorologique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+satellite transmission;la transmission par satellite;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a spy satellite;un satellite espion;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+satellite imagery;les images satellite;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+satellite photography;la photographie par satellite;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a photograph;une photographie;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a rescue attempt;une tentative de sauvetage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+to probe (space);sonder l’espace;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+to sample the soil;prélever des échantillons du sol;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+to map / chart (weather patterns / ocean currents);dresser la carte (météorologique / des courants océaniques);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+a pattern;un motif / un dessin;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration
+to provide global coverage;fournir une vue spatiale;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Space::Purposes-of-Space-Exploration

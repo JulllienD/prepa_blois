@@ -1,0 +1,29 @@
+medical examination;un examen médical;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+prescription;une ordonnance;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+shot, an injection;une piqûre, une injection;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+drip;une perfusion, goutte à goutte;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+transfusion;une transfusion;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+abortion;un avortement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+X-ray;une radiologie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+scanner;un scanner;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+ultrasound scan;une échographie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+(blood) test;une analyse;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+stethoscope;un stéthoscope;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+lancet;un bistouri;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+stitch;un point de suture;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to visit;rendre visite à;ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to check;examine, vérifier;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to take the pulse;prendre le pouls<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to sound the chest, auscultate;ausculter;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to detect;détecter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to be under observation;être en observation<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to give a shot/ an injection;faire une injection<br><br>Note :<br>give, gave, given;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to prescribe;prescrire;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to carry out an abortion;pratiquer un avortement;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to dress a wound;panser une plaie;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to nurse;soigner, s'occuper de;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+to be on duty;être de garde<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+clinical;clinique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+thorough;complet, consciencieux;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+faulty;erroné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work
+sterile;stérile;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::The-medical-world::Medical-Staff-at-work

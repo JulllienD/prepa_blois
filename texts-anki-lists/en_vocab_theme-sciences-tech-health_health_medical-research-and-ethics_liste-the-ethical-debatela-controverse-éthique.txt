@@ -1,0 +1,27 @@
+medical ethics;la déontologie médicale;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+Hippocratic oath;le serment d'Hippocrate;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+dilemma;un dilemme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+principle;un principe;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+respect for life/human dignity;le respect de la vie/dignité humaine;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+legal limbo;un vide juridique;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+code of ethic;un code de conduite;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+ethics commission;une commission d'éthique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+legislation;des lois, la législation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+guideline;une directive;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+safeguard;un garde-fou, une garantie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+ban;une interdiction;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+genetic manipulation;les manipulations génétiques;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+stem cells;les cellules souches;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+cloning;le clonage;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+eugenics;l'eugénisme;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+to legislate;légiférer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+to legalize;légaliser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+to uphold a principle;défendre un principe<br><br>Note :<br>uphold, upheld, upheld;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+to control;contrôler;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+to manipulate, tamper with;manipuler, altérer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+to splice a gene;modifier un gène;ANGLAIS::niveau::C2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+to clone;cloner;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+to misuse;faire un usage impropre ou abusif<br><br>Note :<br>misuse, misused, misused;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+legal, illegal;légal, illégal;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+banned, forbidden;interdit;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate
+ethical;éthique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-ethical-debate

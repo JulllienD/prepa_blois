@@ -1,0 +1,26 @@
+Euthanasia;L’euthanasie;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+active/passive euthanasia;l'euthanasie active/passive;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+mercy killing;euthanasie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+therapeutic obstinacy;l'acharnement thérapeutique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+right to live/die;le droit à la vie/mort;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+to long for death;aspirer à mourir;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+to carry out euthanasia;pratiquer l'euthanasie;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+to keep alive;maintenir en vie<br><br>Note :<br>keep, kept, kept;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+to drift off to sleep;s'endormir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+to switch off a machine;débrancher un appareil;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+to put an end to someone's suffering;abréger les souffrances de qqn<br><br>Note :<br>put, put, put;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+artificial;artificiel;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+vegetative;végétatif;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+clinically dead;cliniquement mort;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+brain dead;à l'état de mort cérébrale;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+irreversible;irréversible;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+(in)humane;(in)humain, sans qualité humaine;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+Assisted Reproductive Technology;Technologies de procréation assistée;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+surrogacy;maternité de substitution;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+surrogate mother;une mère porteuse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+egg donation;le don d'ovocytes;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+embryo;un embryon;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+reproductive techniques;les techniques de fécondation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+artificial insemination;l'insémination artificielle;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+in-vitro fertilization;la fécondation in vitro;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists
+test-tube baby;un bébé-éprouvette;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Medical-Research-and-Ethics::The-power-of-scientists

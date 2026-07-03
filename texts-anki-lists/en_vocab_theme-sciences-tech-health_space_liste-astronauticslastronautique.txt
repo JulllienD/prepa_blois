@@ -1,0 +1,38 @@
+Astronautics;L‘astronautique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+The Space Age;L’ère spatiale;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+The Crew and the Staff;L’équipage et le personnel;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+an astronaut;un astronaute;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a cosmonaut;un cosmonaute;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a spaceman / spacewoman;un(e) spationaute;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a space base;une base spatiale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a pilot;un pilote;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a flight / mission controller;un contrôleur de mission;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a flight;un vol;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a flight instructor;un instructeur de vol;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+The Equipment;L’équipement;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a flight simulator;un simulateur de vol;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a spaceship / spacecraft;un vaisseau spatial;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a manned spacecraft;un engin spatial habité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+manned;ce qui est occupé par un homme;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+an unmanned spacecraft;un engin spatial inhabité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a space suit;une combinaison spatiale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a gravity-suit;une combinaison spatiale antigravité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+remote control;le contrôle à distance;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+remote;lointain;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a roving robot;un robot autonome;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+to rove;vagabonder, rôder;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a rocket;une fusée;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a multi-stage rocket;une fusée à étages;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+the retrorockets;les rétrofusées;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a booster;un booster, un propulseur auxiliaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+an airlock;un sas;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+to boost;stimuler;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a space shuttle;une navette spatiale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a lunar vehicule;un véhicule lunaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+a moon buggy;une jeep lunaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+to explore;explorer;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+to fly a mission;faire partie d’une mission;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+to orbit (a satellite);placer (un satellite) en orbite;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+to go/put into orbit;se mettre/ mettre en orbite;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+to circle (the earth);tourner (autour de la terre);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Astronautics
+to retrieve, recover;récupérer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Space::Astronautics

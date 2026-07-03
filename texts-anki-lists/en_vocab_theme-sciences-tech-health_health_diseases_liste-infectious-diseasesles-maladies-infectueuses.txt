@@ -1,0 +1,25 @@
+a germ;un microbe;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+a virus;un virus;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+an infection;une infection;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+contamination;la contamination;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+an epidemic;une épidémie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+a pandemic;une pandémie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+a flu pandemic;une pandémie de grippe;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+the immune system;le système immunitaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+blood poisoning;la septicémie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+a venereal disease;une maladie vénérienne;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+sexually transmitted;les maladies sexuellement transmissibles;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+A.I.D.S;le SIDA;ANGLAIS::niveau::B1 ANGLAIS::type::abrev ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+high risk population;population à risque;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to infect, contaminate;infecter, contaminer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to test positive for;se révéler positif au contrôle de;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to harbour/carry a virus;être porteur d'un virus<br><br>Note :<br>carry, carried, carried;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to pass on a virus;transmettre un virus;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to contract a disease;contracter une maladie;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to contain, control an epidemic;contenir une épidémie;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to break out;se déclarer<br><br>Note :<br>break, broke, broken;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to spread;se propager<br><br>Note :<br>spread, spread, spread;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+to be HIV positive;être séropositif<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+microbic;microbien;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+viral;viral;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases
+infected;infecté, contaminé (par);ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Infectious-Diseases

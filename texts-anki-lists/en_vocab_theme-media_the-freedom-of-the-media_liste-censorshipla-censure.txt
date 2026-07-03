@@ -1,0 +1,19 @@
+censorship;la censure;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+self-censorship;l'autocensure;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+right of search;le droit de perquisition;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+seizure;une saisie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+a ban (on);une interdiction (de);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+news blackout;le black-out de l'information;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to censor;censurer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to censure;critiquer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to suppress press freedom;supprimer la liberté de la presse;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to be subject to censorship;être soumis à la censure;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to subject;assujettir, soumettre;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to blue-pencil;"caviarder", corriger;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+a pencil;un crayon;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to silence;réduire au silence;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to gag;bâillonner, museler;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+a gag;un bâillon;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to curtail access;limiter l'accès;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to confiscate, to seize;saisir, confisquer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship
+to ban, to suppress;interdire;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Censorship

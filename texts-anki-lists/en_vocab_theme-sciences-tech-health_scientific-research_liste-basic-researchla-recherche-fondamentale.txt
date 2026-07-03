@@ -1,0 +1,20 @@
+Scientific Research;La recherche scientifique;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+Basic Research;La recherche fondamentales;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+a field of research;un domaine de recherche;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+a research laboratory;un laboratoire de recherche;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+an R&D lab;a Research and Development laboratory : un laboratoire de recherche et de développement;ANGLAIS::niveau::B2 ANGLAIS::type::abrev ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+a team;une équipe;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+teamwork;le travail d’équipe;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+a researcher;un chercheur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+a scientist;un scientifique, un savant;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+a scholar;un savant, un érudit;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+an assistant;un assistant;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+a laboratory assistant;un laborantin;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+an expert;un spécialiste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+to do / carry out researches;faire de la recherche;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+to team up with;faire équipe avec;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+to study;étudier;ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+to research into;mener une recherche sur;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+basic, fundamental;fondamental;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+experimental;expérimental;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research
+applied;appliqué;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::Basic-Research

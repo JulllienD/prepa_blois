@@ -1,0 +1,59 @@
+autism;l'autisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+anxiety;l'angoisse, l'anxiété;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a phobia;une phobie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+have a phobia about something;avoir la phobie de quelque chose<br><br>Note :<br>have, had, had;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+neurosis;la névrose;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+psychosis;la psychose;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+schizophrenia;la schizophrénie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+paranoia;paranoïa;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+hysteria;l'hystérie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a depression;une dépression;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a nervous breakdown;une dépression nerveuse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+senility;la sénilité;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+dementia;la démence;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a mad person, a lunatic;un fou, un aliéné;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+whimsical;lunatique;ANGLAIS::niveau::C2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a (sex) manic;un obsédé (sexuel);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a neurotic;un névrosé;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a paranoid;un paranoïaque;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a psychotic;un psychotique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a schizophrenic;un schizophrène;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a megalomaniac;un mégalomane;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a malformation;une malformation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a disability;un handicap;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+dwarfism;le nanisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a cripple, an invalid;un invalide;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+lameness;la claudication;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+lisping;le zozotement;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+stuttering;le bégaiement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+blindness;la cécité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+colour blindness;le daltonisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a blind person;une personne aveugle;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+the blind;les aveugles;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+long sightedness;l'hypermétrie, presbytie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+short sightedness;la myopie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+deafness;la surdité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a deaf person;un sourd;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+the deaf;les sourds;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+mutism;le mutisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+speech and language difficulties;troubles de la parole et du langage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+autistic;autiste;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+phobic;phobique;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+hysterical;hystérique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+(a fit of) hysterics;une crise de nerfs;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+depressive;dépressif;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+depressed;déprimé;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+anxious;anxieux;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+psychologically deficient;qui souffre d'une déficience psychologique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+neurotic;névrosé;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+senile;sénile;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+(mentally) unbalanced;déséquilibré;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+insane;dément, aliéné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+handicapped;handicapé, infirme;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+disabled;handicapé physique;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+crippled;estropié;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+lame;boiteux, écoplé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+a lame duck;un canard boiteux;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+long sighted;hypermétrope, presbyte;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+short sighted;myope;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites
+colour blind;daltonien;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Health::Diseases::Disorders-and-Disabilitites

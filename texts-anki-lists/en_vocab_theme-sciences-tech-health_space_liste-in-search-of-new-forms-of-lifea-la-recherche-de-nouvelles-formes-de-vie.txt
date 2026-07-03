@@ -1,0 +1,9 @@
+In Search of New Forms of Life;A la recherche de nouvelles formes de vie;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life
+an extraterrestrial;un extraterrestre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life
+a creature from outer space;une créature venue de l’espace;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life
+a Martian;un Martien;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life
+a green man;un homme vert;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life
+an alien;une créature inconnue;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life
+a flying saucer;une soucoupe volante;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life
+an Unidentified Flying Object;un Objet Volant non identifié;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life
+UFO;OVNI;ANGLAIS::niveau::B1 ANGLAIS::type::abrev ANGLAIS::Sciences-Tech--Health::Space::In-Search-of-New-Forms-of-Life

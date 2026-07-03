@@ -1,0 +1,17 @@
+Funds for Research;Le financement de la recherche;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+credits;les crédits;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+a subsidy;une subvention;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+a donation;un don;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+a donor;un donateur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+investement;les investissements;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+public / private funding;les financements public / privé;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+a sponsoring;le parrainage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+a sponsor;un parrain, un mécène;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+cuts, cutbacks;les réductions (de);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+a tight budget;un budget restreint;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+tight;serré;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+to support;soutenir financer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+to supporter / bear;supporter / endurer;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+to fund;financer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+to subsidise;subventionner;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research
+to sponsor;parrainer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Scientific-Research::Funds-for-Research

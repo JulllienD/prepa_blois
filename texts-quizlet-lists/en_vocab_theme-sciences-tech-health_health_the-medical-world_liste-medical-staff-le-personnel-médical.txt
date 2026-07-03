@@ -1,0 +1,39 @@
+a physician||un médecin
+----------
+a doctor||un docteur
+----------
+a general practitioner||un généraliste
+----------
+a volunteer doctor||un médecin bénévole
+----------
+a specialist||un spécialiste
+----------
+a heart specialist||un cardiologue
+----------
+a surgeon||un chirurgien
+----------
+an anaesthetist||un anesthésiste
+----------
+a radiologist||un radiologue
+----------
+a paediatrician||un pédiatre
+----------
+a psychiatrist||un psychiatre
+----------
+a dentist||un dentiste
+----------
+a midwife||une sage femme
+----------
+a nurse||une infirmière
+----------
+a male nurse||un infirmier
+----------
+an ambulance man||un ambulancier
+----------
+a first aid worker||un secouriste
+----------
+a chemist||un pharmacien
+----------
+aid worker||un secouriste
+----------
+a chemist||un pharmacien

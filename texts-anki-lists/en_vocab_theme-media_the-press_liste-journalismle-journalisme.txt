@@ -1,0 +1,24 @@
+media coverage;la couverture médiatique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a journalist, a newsman;un journaliste;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a reporter;un reporter;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a columnist;un chroniqueur, un échotier;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a freelance;un pigiste, un indépendant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a (foreign) correspondent;un correspondant (à l'étranger);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+an editor;un rédacteur en chef;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a newspaper editor;un directeur de publication;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a publisher;un éditeur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a press tycoon;un magnat de la presse;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+news gathering;la collecte des informations;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+a news release (US);un communiqué de presse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+to inform;informer, mettre au courant;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Journalism
+to report (on);faire un reportage (sur);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Journalism
+to cover;assurer la couverture de;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Journalism
+to rewrite;remanier, réviser<br><br>Note :<br>rewrite, rewrote, rewritten;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Media::The-Press::Journalism
+to edit;être le rédacteur;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Journalism
+to publish;publier;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Journalism
+to scoop;publier en exclusivité;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Journalism
+a scoop;un scoop<br><br>Note :<br>une information, une photographie ou un reportage exclusif vis-à-vis de la concurrence dans le milieu de la presse et ayant un grand retentissement. Il peut s'agir d'information de grande importance comme de contenus sensationnels. (source : Wikipédia);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Journalism
+to hit the headlines;faire la une des journaux<br><br>Note :<br>hit, hit, hit;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Media::The-Press::Journalism
+to sensitize public opinion;sensibiliser l'opinion publique<br><br>Note :<br>Attention !<br>"sensible" en anglais désigne quelqu'un de raisonnable, cette formulation reste rare;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Journalism
+to make people aware of;rendre les gens conscients de<br><br>Note :<br>make, made, made;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Media::The-Press::Journalism
+to have news value;présenter un intérêt<br><br>Note :<br>have, had, had;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Media::The-Press::Journalism

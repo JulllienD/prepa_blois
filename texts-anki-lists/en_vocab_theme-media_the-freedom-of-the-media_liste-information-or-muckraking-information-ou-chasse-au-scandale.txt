@@ -1,0 +1,44 @@
+muck;boue, saletés (dans muckracking);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to rake;râcler, ratisser (dans muckracking);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+the fourth estate;le quatrième pouvoir (la presse);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+the freedom of the press, press freedom;la liberté de la presse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+freedom of expression/speech;la liberté d'expression;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+the right to know;le droit à l'information;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+investigative journalism;le journalisme d'investigation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+(media) coverage;la couverture (médiatique);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+a newsmaker;un sujet vedette;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+the right to privacy;le droit à la vie privée;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+a breach of ethics;une faute éthique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+propaganda;la propagande;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+a muckraker;un dénicheur de scandales;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+a rake;un râteau;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+a rumour (UK) / a rumor (US);une rumeur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+a scandal;un scandale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+libel;la diffamation (écrite);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+slander;une calomnie, une diffamation (orale);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+voyeurism;le voyeurisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to check;vérifier;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+fact-checking;la vérification des faits;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to investigate (a case);enquêter (sur une affaire);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to cover;assurer la couverture médiatique;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to spy (on somebody);espionner (quelqu'un);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+a spy;un espion;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to pester, harass;embêter, harceler;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to stalk;poursuivre, pourchasser;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to unearth, to dig out;déterrer, dénicher<br><br>Note :<br>dig, dug, dug;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to disclose;révéler;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to expose (somebody/a scandal);dénnoncer (quelqu'un/un scandal);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to libel, to defame;diffamer (par écrit);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to slander;calomnier (verbalement)<br><br>Note :<br>diffamer ça marche aussi;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to manipulate;manipuler;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to make the news;défrayer la chronique<br><br>Note :<br>make, made, made;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+(in)accurate;(in)exact;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+(un)reliable;(peu) fiable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+objective;objectif;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+biased, prejudiced;partisan, tendancieux;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+damage;un préjudice;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+a prejudice;un préjugé;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+fake;faux;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+fake news;de fausses nouvelles;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+blackmail;chantage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking
+to blackmail;faire du chantage;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Media::The-Freedom-of-the-Media::Information-or-Muckraking

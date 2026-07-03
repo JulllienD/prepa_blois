@@ -1,0 +1,119 @@
+autism||l'autisme
+----------
+anxiety||l'angoisse, l'anxiété
+----------
+a phobia||une phobie
+----------
+have a phobia about something||avoir la phobie de quelque chose
+
+Note : have, had, had
+----------
+neurosis||la névrose
+----------
+psychosis||la psychose
+----------
+schizophrenia||la schizophrénie
+----------
+paranoia||paranoïa
+----------
+hysteria||l'hystérie
+----------
+a depression||une dépression
+----------
+a nervous breakdown||une dépression nerveuse
+----------
+senility||la sénilité
+----------
+dementia||la démence
+----------
+a mad person, a lunatic||un fou, un aliéné
+----------
+whimsical||lunatique
+----------
+a (sex) manic||un obsédé (sexuel)
+----------
+a neurotic||un névrosé
+----------
+a paranoid||un paranoïaque
+----------
+a psychotic||un psychotique
+----------
+a schizophrenic||un schizophrène
+----------
+a megalomaniac||un mégalomane
+----------
+a malformation||une malformation
+----------
+a disability||un handicap
+----------
+dwarfism||le nanisme
+----------
+a cripple, an invalid||un invalide
+----------
+lameness||la claudication
+----------
+lisping||le zozotement
+----------
+stuttering||le bégaiement
+----------
+blindness||la cécité
+----------
+colour blindness||le daltonisme
+----------
+a blind person||une personne aveugle
+----------
+the blind||les aveugles
+----------
+long sightedness||l'hypermétrie, presbytie
+----------
+short sightedness||la myopie
+----------
+deafness||la surdité
+----------
+a deaf person||un sourd
+----------
+the deaf||les sourds
+----------
+mutism||le mutisme
+----------
+speech and language difficulties||troubles de la parole et du langage
+----------
+autistic||autiste
+----------
+phobic||phobique
+----------
+hysterical||hystérique
+----------
+(a fit of) hysterics||une crise de nerfs
+----------
+depressive||dépressif
+----------
+depressed||déprimé
+----------
+anxious||anxieux
+----------
+psychologically deficient||qui souffre d'une déficience psychologique
+----------
+neurotic||névrosé
+----------
+senile||sénile
+----------
+(mentally) unbalanced||déséquilibré
+----------
+insane||dément, aliéné
+----------
+handicapped||handicapé, infirme
+----------
+disabled||handicapé physique
+----------
+crippled||estropié
+----------
+lame||boiteux, écoplé
+----------
+a lame duck||un canard boiteux
+----------
+long sighted||hypermétrope, presbyte
+----------
+short sighted||myope
+----------
+colour blind||daltonien

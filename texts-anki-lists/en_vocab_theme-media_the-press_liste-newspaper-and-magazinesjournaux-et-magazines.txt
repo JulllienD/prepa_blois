@@ -1,0 +1,44 @@
+a morning paper;un journal du matin;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+an evening paper;un journal du soir;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a Sunday paper;un journal du dimanche;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a colour supplement;un supplément couleur<br><br>Note :<br>désigne un magazine qui est imprimé en couleur, généralement ce sont des magazines du week-end;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a quality paper;un journal de qualité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a tabloid;un tabloïd, un quotidien populaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the gutter press;la presse à scandales;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the gutter;le caniveau;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a glossy magazine;un magazine de luxe;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+glossy;sur papier glacé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a specialist magazine;un magazine spécialisé;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a woman's magazine;un magazine féminin;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the motoring press (UK) / the car press (US);la presse automobile;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the economic press;la presse économique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+economical;économique, bon marché;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a journal<br><br>Exemple :<br>The British Medical Journal;une revue (savante)<br><br>Note :<br>a journal désigne une publication périodique très spécifique. Elle regroupe des articles de recherche originaux, des analyses approfondies et des études rédigées par des spécialistes, des scientifiques ou des universitaires.<br> En dehors de la presse, a journal peut aussi désigner un journal intime ou un cahier de bord personnel;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the front page;la première page, la une;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the cover;la couverture;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the headlines;les (gros) titres;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a section;une rubrique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+an article;un article;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a press article;un article de presse;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a leader;un éditorial<br><br>Note :<br>c'est un type d'article où la rédaction du journal exprime son avis, contrairement aux autres articles d'information classiques qui doivent rester neutres et factuels;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a column;une colonne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the gossip column;la rubrique mondaine;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the agony column;le courrier du cœur;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the obituaries;la rubrique nécrologique;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the classified ads;les petites annonces;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+ad;advertisement;ANGLAIS::niveau::A1 ANGLAIS::type::abrev ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+an issue;un numéro, une parution;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a copy;un exemplaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the circulation;la diffusion, le tirage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a subscription;un abonnement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a subscriber;un abonné;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+to print;imprimer;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+to issue;publier, faire paraître;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+to come out;être publié, sortir, paraître;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+to subscribe;s'abonner;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+daily;quotidien;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+the dailies;les quotidiens;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+weekly;hebdomadaire;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+monthly;mensuel;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+quarterly;trimestriel;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Media::The-Press::Newspaper-and-Magazines
+a quarter;un trimestre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Media::The-Press::Newspaper-and-Magazines
