@@ -1,0 +1,28 @@
+a bill;un projet de loi;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a law, an act;une loi;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a green law;une loi en faveur de l’environnement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+an incentive;une mesure d’encouragement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a game reserve, a game park;une réserve d’animaux sauvages;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a nature reserve;une réserve naturelle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a gamekeeper, a game-warden;un garde-chasse;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a bird sanctuary;une réserve d’oiseaux;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a protected species;une espèce protégée;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+energy-saving measures;des mesures d’économie d’énergie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+untapped resources;des ressources inexploitées;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+rubbish-collecting, garbage-collecting (UK), garbage-collection (US);le ramassage des déchets;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+public transport;les transports en commun;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+car-pooling;le co-voiturage;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+alternate traffic;la circulation alternée;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a tax, a duty;une taxe;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a fine;une amende;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+a sanction, a penalty;une sanction;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to pass a law;voter une loi;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to enact;promulguer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to implement;mettre en application;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to enforce;faire respecter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to promote;promouvoir, encourager;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to regulate;réglementer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to control, to check;contrôler;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to guarantee;garantir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to fine;condamner à une amende;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action
+to abide by the law;respecter la loi<br><br>Note :<br>abode/abided, abode/abided;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Government-Action

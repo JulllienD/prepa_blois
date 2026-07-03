@@ -1,0 +1,28 @@
+graduation;l’obtention d’un diplôme;...;...;N;LIVRE;B2
+graduation-day;le jour de remise des diplômes;...;...;N;LIVRE;B2
+a graduate;un diplômé;...;...;N;LIVRE;B2
+a high-school graduate;un bachelier;...;...;N;LIVRE;B2
+an undergraduate;un étudiant (pas encore diplômé);...;...;N;LIVRE;B2
+a post-graduate student;un étudiant de troisième cycle;...;...;N;LIVRE;C1
+a scholar;un érudit, un spécialiste;...;...;N;LIVRE;C1
+a Shakespeare scholar;un spécialiste de Shakespeare;...;...;N;LIVRE;C1
+a high achiever;quelqu’un qui réussit, un gagnant;...;...;N;LIVRE;B2
+an academic achiever;un élève brillant;...;...;N;LIVRE;C1
+a whizz-kid;un enfant surdoué, un phénomène;...;...;N;LIVRE;C1
+a bookworm;un rat de bibliothèque;...;...;N;LIVRE;C1
+a worm;un ver;...;...;N;LIVRE;B1
+
+
+to pass an exam;réussir un examen;...;...;V;LIVRE;A2
+to graduate;obtenir son diplôme;...;...;V;LIVRE;B2
+to get / obtain a degree;obtenir un diplôme;get, got, got;...;VI;LIVRE;B1
+to achieve (a result);obtenir, arriver à (un résultat);...;...;V;LIVRE;B2
+to do well;bien réussir;do, did, done;...;VI;LIVRE;A2
+to manage (in doing something);arriver / réussir (à faire quelque chose);...;...;V;LIVRE;B1
+to succeed (in doing something);réussir (à faire quelque chose);...;...;V;LIVRE;B1
+to succeed at (a test);réussir (un test);...;...;V;LIVRE;B1
+to sail through;réussir avec aisance / haut la main;...;...;V;LIVRE;C1
+to be a credit to;faire honneur à;be, was/were, been;...;VI;LIVRE;C1
+to shine at;briller en, être brillant en;shine, shone, shone;...;VI;LIVRE;B2
+to shine through;éclater au grand jour;shine, shone, shone;...;VI;LIVRE;C1
+to win a scholarship;obtenir une bourse;win, won, won;...;VI;LIVRE;B2

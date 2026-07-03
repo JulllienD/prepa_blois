@@ -1,0 +1,25 @@
+exploitation, exploiting;l’exploitation;...;...;N;LIVRE;B2
+an oil-rig;une plateforme pétrolière;...;...;N;LIVRE;B2
+shale-gas hydraulic fracturing;la fracturation hydraulique des gaz de schiste;...;...;N;LIVRE;C1
+rare earths mining;l’exploitation minière des terres rares;...;...;N;LIVRE;C1
+depletion;la diminution, l’appauvrissement;...;...;N;LIVRE;B2
+devastation;la dévastation;...;...;N;LIVRE;B2
+soil erosion;l’érosion;...;...;N;LIVRE;B2
+the soil;le sol;...;...;N;LIVRE;B1
+the ozone layer;la couche d’ozone;...;...;N;LIVRE;B1
+acid rain;les pluies acides;...;...;N;LIVRE;B1
+global warming;le réchauffement de la planète;...;...;N;LIVRE;B1
+the greenhouse effect;l’effet de serre;...;...;N;LIVRE;B1
+a greenhouse;une serre;...;...;N;LIVRE;B1
+greenhouse gases;les gaz à effet de serre;...;...;N;LIVRE;B1
+an environmental disaster;un désastre écologique;...;...;N;LIVRE;B1
+
+to exploit, to tap;exploiter;...;...;V;LIVRE;B2
+to impoverish;appauvrir;...;...;V;LIVRE;C1
+to exhaust, to deplete;épuiser;...;...;V;LIVRE;B2
+to dig;creuser;dig, dug, dug;...;VI;LIVRE;A2
+to contaminate;contaminer;...;...;V;LIVRE;B2
+to waste, to squander;gaspiller;...;...;V;LIVRE;B1
+to damage;endommager, nuire à;...;...;V;LIVRE;B1
+to destroy;détruire;...;...;V;LIVRE;A2
+to devastate, to wreak havoc (on);ravager, dévaster;...;...;V;LIVRE;B2

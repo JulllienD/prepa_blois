@@ -1,0 +1,46 @@
+Water Pollution;La pollution des eaux;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+sewage;les eaux usées;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+a sewer;un égout;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+polluted water;des eaux polluées;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+pollutants;des (agents) polluants;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+an oil slick;une marée noire, une nappe de pétrole;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+oil;le pétrole / l'huile;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to get rid (of);se débarrasser (de)<br><br>Note :<br>get, got, got;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to dump, to discharge;déverser / rejeter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+No dumping;Décharge interdite;ANGLAIS::niveau::B2 ANGLAIS::type::expr ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to spill;déverser, se répandre<br><br>Note :<br>spilt/spilled, spilt/spilled;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+Waste;Les déchets;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+household waste;des ordures ménagères;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+industrial waste;des déchets industriels;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+hazardous waste;des déchets dangereux;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+hazard;le risque / le danger;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+chemical waste;des déchets chimiques;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+radioactive waste;des déchets radioactifs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+a repository;un site d’enfouissement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+rubbish, refuse (UK), garbage, trash (US);des détritus, des déchets;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+a rubbish bin, a dustbin (UK), a trash can, a garbage can (US);une poubelle;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+a dump, a tip;un dépotoir, une décharge;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+junk;des vieilleries, des objets bons à jeter;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+disposable products;des produits jetables;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+scrap;la ferraille;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+a scrap heap;un tas de ferraille, une décharge;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+a surplus;un excédent;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to dispose of;se débarrasser de;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to have at one’s disposal;disposer (de)<br><br>Note :<br>have, had, had;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to junk, to scrap;mettre à la ferraille, bazarder;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to discard;jeter, mettre au rebut;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to waste;gaspiller;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to smell foul;sentir mauvais<br><br>Note :<br>smelt/smelled, smelt/smelled;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to stink;empester<br><br>Note :<br>stank, stunk;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to pile up;(s’)entasser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+a pile;un tas;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to ooze;suinter, s’infiltrer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to leak;fuir, s’échapper;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to poison;intoxiquer, empoisonner;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+to contaminate;contaminer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+disposable;jetable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+dirty;sale;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+hazardous;dangereux, risqué;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+smelly, foul-smelling;malodorant;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+poisonous;toxique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes
+cumbersome, bulky;encombrant;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Water-Wastes

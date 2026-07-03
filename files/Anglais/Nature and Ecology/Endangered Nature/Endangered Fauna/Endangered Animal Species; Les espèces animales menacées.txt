@@ -1,0 +1,28 @@
+wild animals;les animaux sauvages;...;...;N;LIVRE;A2
+big cats;les fauves;...;...;N;LIVRE;B2
+game;le gibier;...;...;N;LIVRE;B2
+big game;le gros gibier;...;...;N;LIVRE;C1
+a lion, a lioness;un lion, une lionne;...;...;N;LIVRE;A2
+a tiger, a tigress;un tigre, une tigresse;...;...;N;LIVRE;A2
+a monkey, a she-monkey;un singe, un guénon;...;...;N;LIVRE;A2
+an ape;un grand singe;...;...;N;LIVRE;B1
+a gorilla;un gorille;...;...;N;LIVRE;A2
+a rhinoceros, a rhino;un rhinocéros;...;...;N;LIVRE;B1
+several rhinoceros/rhinoceroses;des rhinocéros;...;...;N;LIVRE;B2
+a horn;une corne;...;...;N;LIVRE;B1
+an elephant;un éléphant;...;...;N;LIVRE;A2
+the tusks;les défenses;...;...;N;LIVRE;B2
+ivory;l’ivoire;...;...;N;LIVRE;B2
+sea mammals;les mammifères marins;...;...;N;LIVRE;B2
+a whale;une baleine;...;...;N;LIVRE;B1
+a dolphin;un dauphin;...;...;N;LIVRE;A2
+a seal;un phoque;...;...;N;LIVRE;B1
+fur;la fourrure;...;...;N;LIVRE;B1
+fish, fishes;les poissons;...;...;N;LIVRE;A1
+a shark;un requin;...;...;N;LIVRE;A2
+a fin;une nageoire, un aileron;...;...;N;LIVRE;B2
+exotic fish;les poissons exotiques;...;...;N;LIVRE;B1
+deep-sea fish;les poissons des profondeurs;...;...;N;LIVRE;B2
+rare species;des espèces rares;...;...;N;LIVRE;B1
+shellfish;les coquillages (mollusques);...;...;N;LIVRE;B2
+a shell;un coquillage (coquille);...;...;N;LIVRE;A2

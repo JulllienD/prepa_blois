@@ -1,0 +1,95 @@
+concentration||la concentration
+----------
+hard work||le travail sérieux
+----------
+memory||la mémoire
+----------
+a memory||un souvenir
+----------
+memorization||la mémorisation
+----------
+autonomy||l’autonomie
+----------
+a skill, a competence||une compétence
+----------
+reading skills||l’aptitude à la lecture
+----------
+writing skills||l’aptitude à écrire
+----------
+reasoning skills||l’aptitude au raisonnement
+----------
+literacy||l’alphabétisation
+----------
+illiteracy||l’analphabétisme, l’illettrisme
+----------
+understanding||la compréhension
+----------
+reasoning||le raisonnement
+----------
+interpretation||l’interprétation
+----------
+analysis||l’analyse
+----------
+several analyses||plusieurs analyses
+----------
+a demonstration||une démonstration
+----------
+to concentrate on, focus on||se concentrer sur
+----------
+to decipher||déchiffrer
+----------
+to read||lire
+
+Note : read, read, read
+----------
+to write||écrire, rédiger
+
+Note : write, wrote, written
+----------
+to understand||comprendre
+
+Note : understand, understood, understood
+----------
+to grasp||saisir, comprendre
+----------
+to reason||raisonner
+----------
+to interpret||interpréter
+----------
+to analyse (UK), analyze (US)||analyser
+----------
+to anticipate||anticiper
+----------
+to induce, infer||induire
+----------
+to deduce||déduire
+----------
+to demonstrate||démontrer
+----------
+to count||compter
+----------
+to calculate, compute, reckon||calculer
+----------
+to compute with a computer||calculer avec un ordinateur
+----------
+to carry out (an experiment)||exécuter, réaliser (une expérience)
+----------
+literate||qui sait lire et écrire
+----------
+numerate||qui sait compter
+----------
+logical||logique
+----------
+good at||bon en
+----------
+proficient at||très bon en, fort en
+----------
+excellent at||excellent en
+----------
+gifted (for)||doué (pour)
+----------
+clever, bright, intelligent||intelligent
+----------
+sharp||vif
+----------
+able||capable

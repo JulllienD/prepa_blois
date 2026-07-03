@@ -1,0 +1,40 @@
+ecology;l’écologie;...;...;N;LIVRE;B1
+an ecologist;un écologiste;...;...;N;LIVRE;B1
+environmentalism;l’écologie;...;...;N;LIVRE;B2
+an environmentalist, a conservationist;un écologiste / défenseur de la nature;...;...;N;LIVRE;B2
+
+an environmental lawyer;un avocat spécialiste de l’écologie;...;...;N;LIVRE;C1
+an activist;un militant;...;...;N;LIVRE;B2
+a whistle blower;un lanceur d’alerte;...;...;N;LIVRE;B2
+the Greens;les Verts;...;...;N;LIVRE;B1
+a Green party;un parti écologiste;...;...;N;LIVRE;B1
+a Green lobby;un groupe de pression écologiste;...;...;N;LIVRE;B2
+commitment;l’engagement;...;...;N;LIVRE;B2
+involvement;la participation / l'implication;...;...;N;LIVRE;B2
+a campaign;une campagne;...;...;N;LIVRE;B1
+an awareness campaign;une campagne de sensibilisation;...;...;N;LIVRE;B2
+awareness;la conscience / sensibilisation;...;...;N;LIVRE;B2
+boycott;le boycott;...;...;N;LIVRE;B2
+Charles Boycott: an Irishman who was the victim of the first boycott;Charles Boycott: an Irishman who was the victim of the first boycott;...;...;A;LIVRE;C1
+lobbying;l’activité des groupes de pression;...;...;N;LIVRE;B2
+a suit, a lawsuit;un procès;...;...;N;LIVRE;B2
+
+to commit oneself;s’engager;...;...;V;LIVRE;B2
+to be involved in;participer à, être impliqué dans;be, was/were, been;...;VI;LIVRE;B1
+to make the public aware, sensitize;sensibiliser (le public);make, made, made;...;VI;LIVRE;B2
+to campaign (against);faire campagne (contre);...;...;V;LIVRE;B1
+to denounce;dénoncer;...;...;V;LIVRE;B2
+to reveal, to expose;réveler, dénoncer;...;...;V;LIVRE;B2
+to exhibit;exposer;...;...;V;LIVRE;B1
+to fight (against something);lutter (contre quelque chose);fight, fought, fought;...;VI;LIVRE;B1
+to oppose (something);s’opposer (à quelque chose);...;...;V;LIVRE;B2
+to boycott;boycotter;...;...;V;LIVRE;B2
+to complain;se plaindre;...;...;V;LIVRE;A2
+to lodge a complaint;porter plainte;...;...;V;LIVRE;B2
+to sue;attaquer en justice;...;...;V;LIVRE;B2
+to bring a lawsuit against;intenter un procès à;bring, brought, brought;...;VI;LIVRE;C1
+
+militant;militant;...;...;ADJ;LIVRE;B2
+environmental;écologique;...;...;ADJ;LIVRE;B1
+provocative;provocateur;...;...;ADJ;LIVRE;C1
+committed;engagé;...;...;ADJ;LIVRE;B2

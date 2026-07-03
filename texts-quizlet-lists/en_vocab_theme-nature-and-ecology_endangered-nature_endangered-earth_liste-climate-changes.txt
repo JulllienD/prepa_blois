@@ -1,0 +1,27 @@
+drought||la sécheresse
+----------
+the desert||le désert
+----------
+desertification||la désertification
+----------
+ground water||la nappe phréatique
+----------
+the ground water level||le niveau de la nappe phréatique
+----------
+a flood||une inondation
+----------
+a tidal wave||un raz-de-marée
+----------
+a wave||une vague
+----------
+a tide||la marée
+----------
+to dry up, to dry out||dessécher
+----------
+to flood||inonder
+----------
+dry||sec
+----------
+barren||désertique, aride, stérile
+----------
+hungry, starved, starving||affamé

@@ -1,0 +1,18 @@
+shortage, scarcity;la pénurie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+lack;le manque;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+want, need;le besoin;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+for want of;à défaut de;ANGLAIS::niveau::B2 ANGLAIS::type::prep ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+famine, starvation;la famine;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+plenty, abundance;l’abondance;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+glut;l’excès / le trop-plein;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+misuse;le mauvais usage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+mismanagement;la mauvaise gestion;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+to be short (of);être à court (de)<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+to run short of;commencer à manquer de<br><br>Note :<br>run, ran, run;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+to lack (something), to want (for something);manquer (de quelque chose);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+to need;avoir besoin de;ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+to starve, to die of hunger;courir à la famine, mourir de faim;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+starve vient de l’allemand sterben qui signifie mourir;starve vient de l’allemand sterben qui signifie mourir;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+to be packed with, to overflow with;regorger de, déborder de<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+to misuse;faire mauvais usage de;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus
+to mismanage;mal gérer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Scarcity-and-Surplus

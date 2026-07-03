@@ -1,0 +1,18 @@
+the school year;l’année scolaire;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+a term;un trimestre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+a school day;une journée de cours;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+schooldays;les années d’école;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+a timetable / a schedule;un emploi du temps;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+a period, a class;une séance (de cours);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+a free period;une heure de permanence;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+a break (UK), a recess (US);une pause, une récréation;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+the lunch break;la pause déjeuner;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+a school holiday (UK), a school vacation (US);les vacances scolaires;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+half-term holiday;des petites vacances;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+the winter break;les vacances d’hiver;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+the spring break;les vacances de printemps;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::School-Life
+to attend school;fréquenter l’école;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::School-Life
+to go to school;aller à l’école<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::School-Life
+to have a (History) class;avoir cours (d’histoire)<br><br>Note :<br>have, had, had;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::School-Life
+to take a break;faire une pause<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::School-Life
+to be on holiday (UK), on vacation (US);être en vacances<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::School-Life

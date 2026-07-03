@@ -1,0 +1,43 @@
+the school year||l’année scolaire
+----------
+a term||un trimestre
+----------
+a school day||une journée de cours
+----------
+schooldays||les années d’école
+----------
+a timetable / a schedule||un emploi du temps
+----------
+a period, a class||une séance (de cours)
+----------
+a free period||une heure de permanence
+----------
+a break (UK), a recess (US)||une pause, une récréation
+----------
+the lunch break||la pause déjeuner
+----------
+a school holiday (UK), a school vacation (US)||les vacances scolaires
+----------
+half-term holiday||des petites vacances
+----------
+the winter break||les vacances d’hiver
+----------
+the spring break||les vacances de printemps
+----------
+to attend school||fréquenter l’école
+----------
+to go to school||aller à l’école
+
+Note : go, went, gone
+----------
+to have a (History) class||avoir cours (d’histoire)
+
+Note : have, had, had
+----------
+to take a break||faire une pause
+
+Note : take, took, taken
+----------
+to be on holiday (UK), on vacation (US)||être en vacances
+
+Note : be, was/were, been

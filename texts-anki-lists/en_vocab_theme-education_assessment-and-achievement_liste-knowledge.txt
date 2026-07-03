@@ -1,0 +1,22 @@
+learning;l’apprentissage, l’érudition;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+general knowledge;la culture générale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+know-how;le savoir-faire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+literacy;l’alphabétisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+a smattering (of);des notions, des rudiments (de);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to learn;apprendre<br><br>Note :<br>learn, learnt/learned, learnt/learned;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to know;savoir, connaître<br><br>Note :<br>know, knew, known;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to know how to do something;savoir faire quelque chose<br><br>Note :<br>know, knew, known;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to acquire;acquérir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to be familiar with;bien connaître<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+familiar;familier, connu, intime;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to master (a subject);maîtriser (un sujet);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to be conversant with;s’y connaître en;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to be able to read and write<br><br>Exemple :<br>He can read : Il sait lire;savoir lire et écrire<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to reach (a level);atteindre (un niveau);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+to achieve (an objective);atteindre (un objectif);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+knowledgeable;savant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+learned;instruit, savant;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+educated, well-read;cultivé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+skilled, qualified;qualifié;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+competent;compétent;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Knowledge
+well-rounded;qui a reçu une éducation complète;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Knowledge

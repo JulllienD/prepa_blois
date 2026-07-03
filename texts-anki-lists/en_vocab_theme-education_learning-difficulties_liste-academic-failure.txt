@@ -1,0 +1,19 @@
+a low achiever;un élève en difficulté;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Academic-Failure
+a repeater;un redoublant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Academic-Failure
+a dunce;un cancre;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Academic-Failure
+a dunce’s cap;un bonnet d’âne;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Academic-Failure
+a dropout;un élève qui arrête ses études;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Academic-Failure
+to drop;laisser tomber;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Academic-Failure
+a problem child;un enfant caractériel;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Academic-Failure
+to have learning difficulties;avoir du retard<br><br>Note :<br>have, had, had;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Education::Learning-difficulties::Academic-Failure
+to repeat (a year);redoubler;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Academic-Failure
+to fail;échouer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Academic-Failure
+to get a fail;être recalé<br><br>Note :<br>get, got, got;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Education::Learning-difficulties::Academic-Failure
+to flunk an exam;échouer à un examen, être recalé;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Academic-Failure
+to flunk a student;recaler un étudiant;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Academic-Failure
+to drop out of school;abandonner ses études;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Academic-Failure
+illogical;illogique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
+immature;immature;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
+dull;terne, médiocre;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
+dim-witted / slow-witted;lent d’esprit;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
+slow on the uptake;qui ne comprend pas vite;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure

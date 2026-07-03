@@ -1,0 +1,49 @@
+concentration;la concentration;...;...;N;LIVRE;B1
+hard work;le travail sérieux;...;...;N;LIVRE;A2
+memory;la mémoire;...;...;N;LIVRE;A2
+a memory;un souvenir;...;...;N;LIVRE;A2
+memorization;la mémorisation;...;...;N;LIVRE;B2
+autonomy;l’autonomie;...;...;N;LIVRE;B2
+a skill, a competence;une compétence;...;...;N;LIVRE;B1
+reading skills;l’aptitude à la lecture;...;...;N;LIVRE;B1
+writing skills;l’aptitude à écrire;...;...;N;LIVRE;B1
+reasoning skills;l’aptitude au raisonnement;...;...;N;LIVRE;B2
+literacy;l’alphabétisation;...;...;N;LIVRE;B2
+illiteracy;l’analphabétisme, l’illettrisme;...;...;N;LIVRE;B2
+understanding;la compréhension;...;...;N;LIVRE;B1
+reasoning;le raisonnement;...;...;N;LIVRE;B2
+interpretation;l’interprétation;...;...;N;LIVRE;B2
+analysis;l’analyse;...;...;N;LIVRE;B2
+several analyses;plusieurs analyses;...;...;N;LIVRE;C1
+a demonstration;une démonstration;...;...;N;LIVRE;B2
+
+to concentrate on, focus on;se concentrer sur;...;...;V;LIVRE;B1
+to decipher;déchiffrer;...;...;V;LIVRE;C1
+to read;lire;read, read, read;...;VI;LIVRE;A1
+to write;écrire, rédiger;write, wrote, written;...;VI;LIVRE;A1
+to understand;comprendre;understand, understood, understood;...;VI;LIVRE;A1
+to grasp;saisir, comprendre;...;...;V;LIVRE;B2
+to reason;raisonner;...;...;V;LIVRE;B2
+to interpret;interpréter;...;...;V;LIVRE;B2
+to analyse (UK), analyze (US);analyser;...;...;V;LIVRE;B1
+to anticipate;anticiper;...;...;V;LIVRE;B2
+to induce, infer;induire;...;...;V;LIVRE;C1
+to deduce;déduire;...;...;V;LIVRE;B2
+to demonstrate;démontrer;...;...;V;LIVRE;B2
+to count;compter;...;...;V;LIVRE;A1
+to calculate, compute, reckon;calculer;...;...;V;LIVRE;B2
+to compute with a computer;calculer avec un ordinateur;...;...;V;LIVRE;B2
+to carry out (an experiment);exécuter, réaliser (une expérience);...;...;V;LIVRE;B2
+
+literate;qui sait lire et écrire;...;...;ADJ;LIVRE;B2
+numerate;qui sait compter;...;...;ADJ;LIVRE;C1
+logical;logique;...;...;ADJ;LIVRE;B1
+good at;bon en;...;...;ADJ;LIVRE;A2
+proficient at;très bon en, fort en;...;...;ADJ;LIVRE;B2
+excellent at;excellent en;...;...;ADJ;LIVRE;A2
+gifted (for);doué (pour);...;...;ADJ;LIVRE;B2
+
+
+clever, bright, intelligent;intelligent;...;...;ADJ;LIVRE;A2
+sharp;vif;...;...;ADJ;LIVRE;B2
+able;capable;...;...;ADJ;LIVRE;A2

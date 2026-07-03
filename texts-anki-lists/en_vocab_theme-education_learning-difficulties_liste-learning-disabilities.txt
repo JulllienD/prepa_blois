@@ -1,0 +1,19 @@
+an obstacle, a barrier;un obstacle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+a handicap, a disability;un handicap;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+impairment;des troubles, des difficultés;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+hearing impairment;la déficience auditive;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+visual impairment;la déficience visuelle;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+physical impairments;des troubles moteurs;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+dyslexia;la dyslexie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+lack of memory;le manque de mémoire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+lack of concentration / focus;le manque de concentration;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+behavioural difficulties;les troubles du comportement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+school phobia;la phobie scolaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+monitoring;l’aide, le suivi;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+a special needs student;un élève en difficulté;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+to impair;affecter, diminuer, affaiblir;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+to weaken;amoindrir, affaiblir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+to diminish;diminuer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+to require;nécessiter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+to adapt, tailor;adapter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Learning-Disabilities
+to monitor (a student);suivre (un élève);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Learning-difficulties::Learning-Disabilities

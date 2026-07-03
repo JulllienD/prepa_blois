@@ -1,0 +1,44 @@
+the ecosystem;l’écosystème;...;...;N;LIVRE;B2
+the environment;le milieu / l'environnement;...;...;N;LIVRE;B1
+ecological imbalance;le déséquilibre écologique;...;...;N;LIVRE;B2
+ecological balance;l’équilibre écologique;...;...;N;LIVRE;B2
+scales;une balance, pour se peser soi ou des objets;...;...;N;LIVRE;B1
+the forest;la forêt;...;...;N;LIVRE;A1
+the Amazonian forest;la forêt amazonienne;...;...;N;LIVRE;B1
+the Amazon;l’Amazonie;...;...;N;LIVRE;B1
+the rain forest;la forêt tropicale;...;...;N;LIVRE;B1
+a tree;un arbre;...;...;N;LIVRE;A1
+a root;une racine;...;...;N;LIVRE;B1
+a branch;une branche;...;...;N;LIVRE;A2
+a wood;un bois;...;...;N;LIVRE;A2
+wood;du bois;...;...;N;LIVRE;A2
+precious wood;du bois précieux;...;...;N;LIVRE;B2
+
+ebony;l’ébène;...;...;N;LIVRE;C1
+mahogany;l’acajou;...;...;N;LIVRE;C1
+firewood;du bois de chauffage;...;...;N;LIVRE;B2
+fuel;des combustibles / carburant;...;...;N;LIVRE;B1
+deforestation;le déboisement / déforestation;...;...;N;LIVRE;B2
+land-clearing;le défrichage;...;...;N;LIVRE;C1
+a flower;une fleur;...;...;N;LIVRE;A1
+a plant;une plante;...;...;N;LIVRE;A1
+medicinal plants;les plantes médicinales;...;...;N;LIVRE;B2
+
+to fell, chop down (a tree);abattre (un arbre);...;...;V;LIVRE;C1
+to log;débiter (un arbre);...;...;V;LIVRE;C1
+a log;un rondin, une bûche;...;...;N;LIVRE;B2
+to deforest;déboiser;...;...;V;LIVRE;B2
+to burn;brûler;burn, burnt/burned, burnt/burned;...;VI;LIVRE;A2
+to build (roads);percer (des routes);build, broke, broken;...;VI;LIVRE;A2
+to pick;cueillir;...;...;V;LIVRE;A2
+to wither;se dessécher, se flétrir;...;...;V;LIVRE;C1
+to jeopardize;mettre en peril;...;...;V;LIVRE;C1
+jeopardy: from the old French “jeu parti”: à l’issue incertaine;jeopardy: from the old French “jeu parti”: à l’issue incertaine;...;...;A;LIVRE;C1
+to be in jeopardy;être en péril;be, was/were, been;...;VI;LIVRE;C1
+to become/get scarce;se raréfier;become, became, become / get, got, got;...;VI;LIVRE;B2
+
+woody;boisé;...;...;ADJ;LIVRE;B2
+wooden;en bois;...;...;ADJ;LIVRE;A2
+scattered;clairsemé;...;...;ADJ;LIVRE;B2
+scarce;rare;...;...;ADJ;LIVRE;B2
+to make oneself scarce;s’éclipser;make, made, made;...;VI;LIVRE;C1

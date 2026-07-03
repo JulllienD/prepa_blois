@@ -1,0 +1,33 @@
+a polluter;un pollueur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+an emission;une émission (de gaz, etc.);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+carbon dioxide;le dioxyde de carbone;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+exhaust fumes;les gaz d’échappement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+road traffic;la circulation automobile;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+an exhaust pipe;un pot d’échappement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+industrial smoke/fumes;les fumées industrielles;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+industrial facilities;des installations industrielles;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+CFCs (chlorofluorocarbon);les CFC (chlorofluorocarbure);ANGLAIS::niveau::C1 ANGLAIS::type::abrev ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+an aerosol;une bombe aérosol;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+smoke;la fumée;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+fog;le brouillard;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+smog (smoke + fog);le brouillard polluant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+asbestos;l’amiante;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+lead;le plomb;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+lead-poisoning;le saturnisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+an allergy;une allergie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+poisoning;une intoxication;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+breathing difficulties;des difficultés respiratoires;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+asthma;l’asthme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+to release, to let out smoke;dégager de la fumée;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+to pollute;polluer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+to breathe in, to inhale;inspirer, inhaler;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+to choke;(s’)asphyxier / s'étouffer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+to fight for breath, to gasp for breath;avoir du mal à respirer<br><br>Note :<br>fight, fought, fought;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+breath;la respiration;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+dusty;poussiéreux;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+toxic;toxique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+noxious;nocif;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+stifling;étouffant, suffocant;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+unbreathable;irrespirable;ANGLAIS::niveau::C2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+carcinogenic, cancer-causing;cancérigène;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution
+unwholesome;malsain;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Air-Pollution

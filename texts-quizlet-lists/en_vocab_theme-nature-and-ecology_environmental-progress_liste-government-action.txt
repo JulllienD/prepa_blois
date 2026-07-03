@@ -1,0 +1,57 @@
+a bill||un projet de loi
+----------
+a law, an act||une loi
+----------
+a green law||une loi en faveur de l’environnement
+----------
+an incentive||une mesure d’encouragement
+----------
+a game reserve, a game park||une réserve d’animaux sauvages
+----------
+a nature reserve||une réserve naturelle
+----------
+a gamekeeper, a game-warden||un garde-chasse
+----------
+a bird sanctuary||une réserve d’oiseaux
+----------
+a protected species||une espèce protégée
+----------
+energy-saving measures||des mesures d’économie d’énergie
+----------
+untapped resources||des ressources inexploitées
+----------
+rubbish-collecting, garbage-collecting (UK), garbage-collection (US)||le ramassage des déchets
+----------
+public transport||les transports en commun
+----------
+car-pooling||le co-voiturage
+----------
+alternate traffic||la circulation alternée
+----------
+a tax, a duty||une taxe
+----------
+a fine||une amende
+----------
+a sanction, a penalty||une sanction
+----------
+to pass a law||voter une loi
+----------
+to enact||promulguer
+----------
+to implement||mettre en application
+----------
+to enforce||faire respecter
+----------
+to promote||promouvoir, encourager
+----------
+to regulate||réglementer
+----------
+to control, to check||contrôler
+----------
+to guarantee||garantir
+----------
+to fine||condamner à une amende
+----------
+to abide by the law||respecter la loi
+
+Note : abode/abided, abode/abided

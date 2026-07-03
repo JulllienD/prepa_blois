@@ -1,0 +1,46 @@
+fishing;la pêche;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a fisherman;un pêcheur;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+angling;la pêche à la ligne;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+an angler;un pêcheur à la ligne;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+industrial fishing;la pêche industrielle;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a net;un filet;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a harpoon;un harpon;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+explosives;des explosifs;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+hunting, shooting;la chasse;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a hunter, a huntsman;un chasseur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+an ivory-hunter;un chasseur d’ivoire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+big game hunting;la chasse au gros gibier;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a big game hunter;un chasseur de gros gibier;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a safari;un safari;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a rifle;un fusil;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a collector;un collectionneur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a trophy;un trophée;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+traffic, trafficking;le trafic;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+contraband, smuggling;la contrebande;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a smuggler;un contrebandier;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+poaching;le braconnage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+a poacher;un braconnier;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to fish;pêcher;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to go fishing;aller à la pêche<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to angle;pêcher à la ligne;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to hunt;chasser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to drive away, to frighten away;chasser (faire fuir)<br><br>Note :<br>drive, drove, driven;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to go hunting;aller à la chasse<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to catch;capturer<br><br>Note :<br>catch, caught, caught;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to collect;collectionner;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to traffic;trafiquer, faire du trafic;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked, avec un K;la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked, avec un K;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to smuggle;faire de la contrebande;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to poach;braconner;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to massacre, to slaughter;massacrer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to threaten, to endanger;menacer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to shoot (at);tirer (sur)<br><br>Note :<br>shoot, shot, shot;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to harm;faire du mal (à), nuire (à);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to dwindle;diminuer (en nombre);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+to disappear, become extinct;disparaître;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+harmful;nocif, nuisible;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+cruel;cruel;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+irresponsible;irresponsable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+disappearing, endangered;en voie de disparition;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+captive;captif;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats
+helpless, defenceless (UK), defenseless (US);sans défense;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Threats

@@ -1,0 +1,18 @@
+Greenpeace, Friends of Earth, WWF (World Wide Fund for Nature);organismes indépendants de protection de l’environnement;...;...;ABREV;LIVRE;B1
+UNEP (United Nations Environment Programme);programme des Nations Unies en faveur de l’environnement;...;...;ABREV;LIVRE;B2
+EPA (Environment Protection Agency);agence américaine de protection de l’environnement;...;...;ABREV;LIVRE;B2
+Nature Conservancy Board (UK);direction générale de la protection de la nature et de l’environnement;...;...;N;LIVRE;C1
+RSPB (Royal Society for the Protection of Birds);association britannique de protection des oiseaux sauvages;Fondée en 1889;...;ABREV;LIVRE;C1
+Deep ecology;écologie profonde;Théorie radicale : l’homme n’est pas prioritaire par rapport à la nature;...;N;LIVRE;C2
+Shallow ecology;écologie traditionnelle;Littéralement "peu profond";...;N;LIVRE;C2
+Ecologically PC (Politically Correct);écologiquement correct / respectueux de l’environnement;...;...;ADJ;LIVRE;C1
+Nimby;riverain s'opposant à un projet local;Acronyme de "Not In My Backyard" (pas dans mon arrière-cour);...;N;LIVRE;C1
+countrycide;destructeur de la nature;Jeu de mots sur "countryside" (la campagne);...;N;LIVRE;C2
+rivercide;dangereux pour les rivières;Jeu de mots sur "riverside" (la rive d’un fleuve);...;N;LIVRE;C2
+seacide;dangereux pour la mer;Jeu de mots sur "seaside" (le littoral);...;N;LIVRE;C2
+eco-imperialism;l’impérialisme écologique;...;...;N;LIVRE;C2
+an ecocide;un écocide;Destruction méthodique de la flore et de la faune;...;N;LIVRE;C1
+an eco-freak;un obsédé d’écologie;...;...;N;LIVRE;C1
+an eco-terrorist;un terroriste écologiste;...;...;N;LIVRE;C1
+eco-aware;sensibilisé aux problèmes de l’environnement;...;...;ADJ;LIVRE;B2
+an ecocatastrophe;une catastrophe écologique;...;...;N;LIVRE;B2

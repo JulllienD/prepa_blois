@@ -1,0 +1,24 @@
+preservation;la préservation;...;...;N;LIVRE;B2
+protection, conservation;la protection;...;...;N;LIVRE;B1
+recycling;le recyclage;...;...;N;LIVRE;B1
+sorting out;le tri;...;...;N;LIVRE;B2
+a bottle bank;un collecteur de verre usagé;...;...;N;LIVRE;B2
+a green product;un produit écologique;...;...;N;LIVRE;A2
+organic food;de la nourriture bio;...;...;N;LIVRE;A2
+
+to reuse;réutiliser;...;...;V;LIVRE;B1
+to recycle;recycler;...;...;V;LIVRE;B1
+to sort (out);faire le tri (de);...;...;V;LIVRE;B2
+to collect (used glass);ramasser (le verre usagé);...;...;V;LIVRE;A2
+to be aware of;être conscient de;be, was/were, been;...;VI;LIVRE;B1
+to become aware of;prendre conscience de;become, became, become;...;VI;LIVRE;B1
+
+reusable;réutilisable;...;...;ADJ;LIVRE;B1
+recyclable;recyclable;...;...;ADJ;LIVRE;B1
+returnable;consigné;...;...;ADJ;LIVRE;B2
+to return;rendre, rapporter;...;...;V;LIVRE;A2
+harmless;inoffensif;...;...;ADJ;LIVRE;B2
+wholesome;sain;...;...;ADJ;LIVRE;C1
+ozone-friendly;sans danger pour l’ozone;...;...;ADJ;LIVRE;B2
+environmentally-friendly, eco-friendly;sans danger pour l’environnement;...;...;ADJ;LIVRE;B1
+environmentally-minded, ecologically-minded;conscient des enjeux écologiques;...;...;ADJ;LIVRE;B2

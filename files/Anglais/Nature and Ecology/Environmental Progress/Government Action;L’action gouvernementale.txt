@@ -1,0 +1,29 @@
+a bill;un projet de loi;...;...;N;LIVRE;B2
+a law, an act;une loi;...;...;N;LIVRE;A2
+a green law;une loi en faveur de l’environnement;...;...;N;LIVRE;B1
+an incentive;une mesure d’encouragement;...;...;N;LIVRE;C1
+a game reserve, a game park;une réserve d’animaux sauvages;...;...;N;LIVRE;C1
+a nature reserve;une réserve naturelle;...;...;N;LIVRE;B1
+a gamekeeper, a game-warden;un garde-chasse;...;...;N;LIVRE;C1
+a bird sanctuary;une réserve d’oiseaux;...;...;N;LIVRE;C1
+a protected species;une espèce protégée;...;...;N;LIVRE;B1
+energy-saving measures;des mesures d’économie d’énergie;...;...;N;LIVRE;B2
+untapped resources;des ressources inexploitées;...;...;N;LIVRE;C1
+rubbish-collecting, garbage-collecting (UK), garbage-collection (US);le ramassage des déchets;...;...;N;LIVRE;B1
+public transport;les transports en commun;...;...;N;LIVRE;A2
+car-pooling;le co-voiturage;...;...;N;LIVRE;B1
+alternate traffic;la circulation alternée;...;...;N;LIVRE;B2
+a tax, a duty;une taxe;...;...;N;LIVRE;B1
+a fine;une amende;...;...;N;LIVRE;B1
+a sanction, a penalty;une sanction;...;...;N;LIVRE;B2
+
+to pass a law;voter une loi;...;...;V;LIVRE;B1
+to enact;promulguer;...;...;V;LIVRE;C1
+to implement;mettre en application;...;...;V;LIVRE;B2
+to enforce;faire respecter;...;...;V;LIVRE;B2
+to promote;promouvoir, encourager;...;...;V;LIVRE;B1
+to regulate;réglementer;...;...;V;LIVRE;B2
+to control, to check;contrôler;...;...;V;LIVRE;A2
+to guarantee;garantir;...;...;V;LIVRE;B2
+to fine;condamner à une amende;...;...;V;LIVRE;B1
+to abide by the law;respecter la loi;abode/abided, abode/abided;...;VI;LIVRE;B2

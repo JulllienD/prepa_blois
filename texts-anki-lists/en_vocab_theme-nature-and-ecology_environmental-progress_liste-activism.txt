@@ -1,0 +1,37 @@
+ecology;l’écologie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+an ecologist;un écologiste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+environmentalism;l’écologie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+an environmentalist, a conservationist;un écologiste / défenseur de la nature;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+an environmental lawyer;un avocat spécialiste de l’écologie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+an activist;un militant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+a whistle blower;un lanceur d’alerte;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+the Greens;les Verts;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+a Green party;un parti écologiste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+a Green lobby;un groupe de pression écologiste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+commitment;l’engagement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+involvement;la participation / l'implication;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+a campaign;une campagne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+an awareness campaign;une campagne de sensibilisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+awareness;la conscience / sensibilisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+boycott;le boycott;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+Charles Boycott: an Irishman who was the victim of the first boycott;Charles Boycott: an Irishman who was the victim of the first boycott;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+lobbying;l’activité des groupes de pression;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+a suit, a lawsuit;un procès;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to commit oneself;s’engager;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to be involved in;participer à, être impliqué dans<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to make the public aware, sensitize;sensibiliser (le public)<br><br>Note :<br>make, made, made;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to campaign (against);faire campagne (contre);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to denounce;dénoncer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to reveal, to expose;réveler, dénoncer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to exhibit;exposer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to fight (against something);lutter (contre quelque chose)<br><br>Note :<br>fight, fought, fought;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to oppose (something);s’opposer (à quelque chose);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to boycott;boycotter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to complain;se plaindre;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to lodge a complaint;porter plainte;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to sue;attaquer en justice;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+to bring a lawsuit against;intenter un procès à<br><br>Note :<br>bring, brought, brought;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+militant;militant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+environmental;écologique;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+provocative;provocateur;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism
+committed;engagé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Activism

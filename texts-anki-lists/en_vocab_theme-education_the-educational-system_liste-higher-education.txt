@@ -1,0 +1,34 @@
+further education;la formation continue;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a college of further education;un centre de formation continue;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a college;un établissement d’enseignement supérieur;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+college sport;le sport universitaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a state/private university;une université d’État/privée;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a polytechnic;un I.U.T.;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+an engineering school;une école d’ingénieur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a business school;une école de commerce;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a medical school;une faculté de médecine;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a medic;un étudiant en médecine;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a law school;une faculté de droit;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a graduate school (US);≈ une université de 3ᵉ cycle;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a lecture room/theatre;un amphithéâtre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a laboratory;un laboratoire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+facilities;les équipements, l’infrastructure;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+research facilities;les équipements de recherche;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a university library;une bibliothèque universitaire;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a bookshop;une librairie;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+registration, enrolment (UK), enrollment (US);l’inscription;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+the intake;les admissions;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+tuition;les cours / l'enseignement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a lecture;un cours magistral;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+the (tuition) fees;les frais de scolarité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a grant;une bourse d’études (selon revenus);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+to grant;accorder;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
+a scholarship;une bourse (selon résultats scolaires);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a fellowship;une bourse de recherche;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+to register, enrol (UK), enroll (US);s’inscrire;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
+to go to college;aller à l’université<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education
+to attend a lecture;aller à une conférence;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
+to go to graduate school;faire des études spécialisées<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education
+to read (History);étudier, faire des études (d’histoire)<br><br>Note :<br>read, read, read;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education
+to major in (US);se spécialiser en;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
+to have a college education;avoir fait des études supérieures<br><br>Note :<br>have, had, had;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education

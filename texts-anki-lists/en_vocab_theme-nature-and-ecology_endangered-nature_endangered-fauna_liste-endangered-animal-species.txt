@@ -1,0 +1,28 @@
+wild animals;les animaux sauvages;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+big cats;les fauves;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+game;le gibier;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+big game;le gros gibier;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a lion, a lioness;un lion, une lionne;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a tiger, a tigress;un tigre, une tigresse;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a monkey, a she-monkey;un singe, un guénon;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+an ape;un grand singe;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a gorilla;un gorille;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a rhinoceros, a rhino;un rhinocéros;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+several rhinoceros/rhinoceroses;des rhinocéros;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a horn;une corne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+an elephant;un éléphant;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+the tusks;les défenses;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+ivory;l’ivoire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+sea mammals;les mammifères marins;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a whale;une baleine;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a dolphin;un dauphin;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a seal;un phoque;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+fur;la fourrure;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+fish, fishes;les poissons;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a shark;un requin;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a fin;une nageoire, un aileron;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+exotic fish;les poissons exotiques;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+deep-sea fish;les poissons des profondeurs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+rare species;des espèces rares;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+shellfish;les coquillages (mollusques);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species
+a shell;un coquillage (coquille);ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Fauna::Endangered-Animal-Species

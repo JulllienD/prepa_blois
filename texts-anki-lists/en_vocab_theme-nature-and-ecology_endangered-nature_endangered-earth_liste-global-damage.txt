@@ -1,0 +1,24 @@
+exploitation, exploiting;l’exploitation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+an oil-rig;une plateforme pétrolière;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+shale-gas hydraulic fracturing;la fracturation hydraulique des gaz de schiste;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+rare earths mining;l’exploitation minière des terres rares;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+depletion;la diminution, l’appauvrissement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+devastation;la dévastation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+soil erosion;l’érosion;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+the soil;le sol;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+the ozone layer;la couche d’ozone;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+acid rain;les pluies acides;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+global warming;le réchauffement de la planète;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+the greenhouse effect;l’effet de serre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+a greenhouse;une serre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+greenhouse gases;les gaz à effet de serre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+an environmental disaster;un désastre écologique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to exploit, to tap;exploiter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to impoverish;appauvrir;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to exhaust, to deplete;épuiser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to dig;creuser<br><br>Note :<br>dig, dug, dug;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to contaminate;contaminer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to waste, to squander;gaspiller;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to damage;endommager, nuire à;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to destroy;détruire;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage
+to devastate, to wreak havoc (on);ravager, dévaster;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Global-Damage

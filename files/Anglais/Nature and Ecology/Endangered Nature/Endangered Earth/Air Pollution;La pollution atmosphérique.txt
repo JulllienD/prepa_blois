@@ -1,0 +1,35 @@
+a polluter;un pollueur;...;...;N;LIVRE;B2
+an emission;une émission (de gaz, etc.);...;...;N;LIVRE;B2
+carbon dioxide;le dioxyde de carbone;...;...;N;LIVRE;B1
+exhaust fumes;les gaz d’échappement;...;...;N;LIVRE;B2
+road traffic;la circulation automobile;...;...;N;LIVRE;A2
+an exhaust pipe;un pot d’échappement;...;...;N;LIVRE;C1
+industrial smoke/fumes;les fumées industrielles;...;...;N;LIVRE;B2
+industrial facilities;des installations industrielles;...;...;N;LIVRE;B2
+CFCs (chlorofluorocarbon);les CFC (chlorofluorocarbure);...;...;ABREV;LIVRE;C1
+an aerosol;une bombe aérosol;...;...;N;LIVRE;B2
+smoke;la fumée;...;...;N;LIVRE;A2
+fog;le brouillard;...;...;N;LIVRE;A2
+smog (smoke + fog);le brouillard polluant;...;...;N;LIVRE;B2
+asbestos;l’amiante;...;...;N;LIVRE;C1
+lead;le plomb;...;...;N;LIVRE;B2
+lead-poisoning;le saturnisme;...;...;N;LIVRE;C1
+an allergy;une allergie;...;...;N;LIVRE;B1
+poisoning;une intoxication;...;...;N;LIVRE;B2
+breathing difficulties;des difficultés respiratoires;...;...;N;LIVRE;B2
+asthma;l’asthme;...;...;N;LIVRE;B2
+
+to release, to let out smoke;dégager de la fumée;...;...;V;LIVRE;B2
+to pollute;polluer;...;...;V;LIVRE;B1
+to breathe in, to inhale;inspirer, inhaler;...;...;V;LIVRE;B2
+to choke;(s’)asphyxier / s'étouffer;...;...;V;LIVRE;B2
+to fight for breath, to gasp for breath;avoir du mal à respirer;fight, fought, fought;...;VI;LIVRE;B2
+breath;la respiration;...;...;N;LIVRE;B1
+
+dusty;poussiéreux;...;...;ADJ;LIVRE;B1
+toxic;toxique;...;...;ADJ;LIVRE;B2
+noxious;nocif;...;...;ADJ;LIVRE;C1
+stifling;étouffant, suffocant;...;...;ADJ;LIVRE;C1
+unbreathable;irrespirable;...;...;ADJ;LIVRE;C2
+carcinogenic, cancer-causing;cancérigène;...;...;ADJ;LIVRE;C1
+unwholesome;malsain;...;...;ADJ;LIVRE;C1

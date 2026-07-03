@@ -1,0 +1,27 @@
+a daycare centre (UK), a day-care center (US);une crèche, une garderie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a child-minder, a nanny;une nourrice;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a nursery school (UK), kindergarten (US/DE);une école maternelle;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a preschool child;un élève de maternelle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a workplace nursery;une crèche sur le lieu de travail;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+to put a child into daycare;mettre un enfant à la crèche<br><br>Note :<br>put, put, put;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+to go to nursery school;aller à la maternelle<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+schooling;l’instruction scolaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+compulsory schooling;la scolarité obligatoire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+school age;l’âge scolaire;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+teaching;l’enseignement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a school;une école (putain on le savait pas);ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a public school (US);une école publique;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a private/independant school;une école privée;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a “public” school;en anglais britannique c’est une école privée (historiquement ouverte au public par opposition aux précepteurs privés);ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a boys’ school;une école de garçons;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a girls’ school;une école de filles;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a vocational school (US);un lycée professionnel;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a boarding-school;un internat;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a boarder;un interne;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+compulsory, mandatory;obligatoire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+denominational;confessionnel, religieux;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+non-denominational;laïque;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+mixed, co-educational “co-ed”;mixte;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+state-run;géré par l’Etat;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+fee-paying;payant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+fees;les honoraires / frais;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary

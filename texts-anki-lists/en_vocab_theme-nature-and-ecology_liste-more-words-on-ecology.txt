@@ -1,0 +1,18 @@
+Greenpeace, Friends of Earth, WWF (World Wide Fund for Nature);organismes indépendants de protection de l’environnement;ANGLAIS::niveau::B1 ANGLAIS::type::abrev ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+UNEP (United Nations Environment Programme);programme des Nations Unies en faveur de l’environnement;ANGLAIS::niveau::B2 ANGLAIS::type::abrev ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+EPA (Environment Protection Agency);agence américaine de protection de l’environnement;ANGLAIS::niveau::B2 ANGLAIS::type::abrev ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+Nature Conservancy Board (UK);direction générale de la protection de la nature et de l’environnement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+RSPB (Royal Society for the Protection of Birds);association britannique de protection des oiseaux sauvages<br><br>Note :<br>Fondée en 1889;ANGLAIS::niveau::C1 ANGLAIS::type::abrev ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+Deep ecology;écologie profonde<br><br>Note :<br>Théorie radicale : l’homme n’est pas prioritaire par rapport à la nature;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+Shallow ecology;écologie traditionnelle<br><br>Note :<br>Littéralement "peu profond";ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+Ecologically PC (Politically Correct);écologiquement correct / respectueux de l’environnement;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+Nimby;riverain s'opposant à un projet local<br><br>Note :<br>Acronyme de "Not In My Backyard" (pas dans mon arrière-cour);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+countrycide;destructeur de la nature<br><br>Note :<br>Jeu de mots sur "countryside" (la campagne);ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+rivercide;dangereux pour les rivières<br><br>Note :<br>Jeu de mots sur "riverside" (la rive d’un fleuve);ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+seacide;dangereux pour la mer<br><br>Note :<br>Jeu de mots sur "seaside" (le littoral);ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+eco-imperialism;l’impérialisme écologique;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+an ecocide;un écocide<br><br>Note :<br>Destruction méthodique de la flore et de la faune;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+an eco-freak;un obsédé d’écologie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+an eco-terrorist;un terroriste écologiste;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+eco-aware;sensibilisé aux problèmes de l’environnement;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::More-words-on-Ecology
+an ecocatastrophe;une catastrophe écologique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::More-words-on-Ecology

@@ -1,0 +1,53 @@
+Water Pollution;La pollution des eaux;...;...;DEF;LIVRE;B1
+
+sewage;les eaux usées;...;...;N;LIVRE;B2
+a sewer;un égout;...;...;N;LIVRE;B2
+polluted water;des eaux polluées;...;...;N;LIVRE;B1
+pollutants;des (agents) polluants;...;...;N;LIVRE;B2
+an oil slick;une marée noire, une nappe de pétrole;...;...;N;LIVRE;B2
+oil;le pétrole / l'huile;...;...;N;LIVRE;A2
+
+to get rid (of);se débarrasser (de);get, got, got;...;VI;LIVRE;A2
+to dump, to discharge;déverser / rejeter;...;...;V;LIVRE;B2
+No dumping;Décharge interdite;...;...;EXPR;LIVRE;B2
+to spill;déverser, se répandre;spilt/spilled, spilt/spilled;...;V;LIVRE;B1
+
+Waste;Les déchets;...;...;DEF;LIVRE;B1
+
+household waste;des ordures ménagères;...;...;N;LIVRE;B2
+industrial waste;des déchets industriels;...;...;N;LIVRE;B2
+hazardous waste;des déchets dangereux;...;...;N;LIVRE;B2
+hazard;le risque / le danger;...;...;N;LIVRE;B2
+chemical waste;des déchets chimiques;...;...;N;LIVRE;B2
+radioactive waste;des déchets radioactifs;...;...;N;LIVRE;B2
+a repository;un site d’enfouissement;...;...;N;LIVRE;C1
+rubbish, refuse (UK), garbage, trash (US);des détritus, des déchets;...;...;N;LIVRE;A2
+a rubbish bin, a dustbin (UK), a trash can, a garbage can (US);une poubelle;...;...;N;LIVRE;A2
+a dump, a tip;un dépotoir, une décharge;...;...;N;LIVRE;B2
+junk;des vieilleries, des objets bons à jeter;...;...;N;LIVRE;B1
+disposable products;des produits jetables;...;...;N;LIVRE;B2
+scrap;la ferraille;...;...;N;LIVRE;B2
+a scrap heap;un tas de ferraille, une décharge;...;...;N;LIVRE;C1
+a surplus;un excédent;...;...;N;LIVRE;B2
+
+to dispose of;se débarrasser de;...;...;V;LIVRE;B2
+to have at one’s disposal;disposer (de);have, had, had;...;VI;LIVRE;B2
+to junk, to scrap;mettre à la ferraille, bazarder;...;...;V;LIVRE;C1
+to discard;jeter, mettre au rebut;...;...;V;LIVRE;B2
+to waste;gaspiller;...;...;V;LIVRE;B1
+to smell foul;sentir mauvais;smelt/smelled, smelt/smelled;...;VI;LIVRE;B2
+
+to stink;empester;stank, stunk;...;VI;LIVRE;B2
+to pile up;(s’)entasser;...;...;V;LIVRE;B2
+a pile;un tas;...;...;N;LIVRE;B1
+to ooze;suinter, s’infiltrer;...;...;V;LIVRE;C1
+to leak;fuir, s’échapper;...;...;V;LIVRE;B2
+to poison;intoxiquer, empoisonner;...;...;V;LIVRE;B2
+to contaminate;contaminer;...;...;V;LIVRE;B2
+
+disposable;jetable;...;...;ADJ;LIVRE;B2
+dirty;sale;...;...;ADJ;LIVRE;A1
+hazardous;dangereux, risqué;...;...;ADJ;LIVRE;B2
+smelly, foul-smelling;malodorant;...;...;ADJ;LIVRE;B1
+poisonous;toxique;...;...;ADJ;LIVRE;B2
+cumbersome, bulky;encombrant;...;...;ADJ;LIVRE;C1

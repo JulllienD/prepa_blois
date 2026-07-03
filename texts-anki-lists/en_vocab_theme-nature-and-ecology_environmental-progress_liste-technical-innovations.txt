@@ -1,0 +1,33 @@
+energy efficiency;les économies d’énergie / efficacité énergétique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+clean energy;l’énergie propre/non-polluante;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+wind power;l’énergie éolienne;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+solar energy;l’énergie solaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+tidal energy;l’énergie marémotrice;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+a sewage treatment plant;une station d’épuration;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+waste disposal;le traitement des déchets;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+a catalytic converter;un pot catalytique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+lead-free/unleaded petrol;l’essence sans plomb;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+an electric car;une voiture électrique;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+thermal insulation;l’isolation thermique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to protect;protéger;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to renew;renouveler;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to save;économiser / sauver;ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to convert;convertir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to clean up;assainir / nettoyer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to decontaminate;décontaminer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to process (sewage);traiter (eaux usées);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to manage (waste);traiter (déchets);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+to insulate;isoler;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+biological;biologique;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+natural, organic;naturel, bio(logique);ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+clean;propre, non-polluant;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+ecological;écologique;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+innovative;innovant, novateur;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+solar-powered;qui fonctionne à l’énergie solaire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+wind-powered;qui fonctionne à l’énergie éolienne;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+renewable;renouvelable;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+energy-efficient;économique en énergie;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+fuel-efficient;économique en carburant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+pollutant-free;sans agent polluant;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+phosphate-free;sans phosphates;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations
+lead-free, unleaded;sans plomb;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Technical-Innovations

@@ -19,20 +19,32 @@
             - Donner la traduction et potentiellement la définition<br>
             - Conjuguer des verbes<br>
             - Compléter des phrases<br>
-            - Faire des traductions
+            - Faire des traductions<br><br>
+            Désolé c'est juste un test ça, j'ai rien fait encore
         </p>
-        <section class="subject-section">
-            <h3>Sujets</h3>
-            <ul class="subject-list">
-                <li><a href="pages/en_vocab.html" class="subject-link">📖 Fiches de vocabulaire</a></li>
-                <li><a href="pages/en_exercices.html" class="subject-link">✍ Exercices</a></li>
-            </ul>
-        </section>
+        <div class="exercice-container">
+            <h3>Thème : La Nourriture</h3>
+            
+            <div class="question">
+                <p>Comment dit-on <strong>"Pomme"</strong> en anglais ?</p>
+                <!-- On utilise un attribut data-answer pour stocker la bonne réponse secrètement -->
+                <input type="text" class="user-input" data-answer="apple" placeholder="Votre réponse...">
+                <span class="feedback"></span>
+            </div>
+
+            <div class="question">
+                <p>Comment dit-on <strong>"Voiture"</strong> en anglais ?</p>
+                <input type="text" class="user-input" data-answer="car" placeholder="Votre réponse...">
+                <span class="feedback"></span>
+            </div>
+
+            <button id="check-button">Vérifier les réponses</button>
+        </div>
     </main>
 
     <footer class="main-footer">
         <p>Mis à jour le --/--/----</p>
     </footer>
-
+    <script src="../script1.js"></script>
 </body>
 </html>

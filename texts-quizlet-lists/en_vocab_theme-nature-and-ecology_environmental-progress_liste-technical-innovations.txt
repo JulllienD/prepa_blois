@@ -1,0 +1,65 @@
+energy efficiency||les économies d’énergie / efficacité énergétique
+----------
+clean energy||l’énergie propre/non-polluante
+----------
+wind power||l’énergie éolienne
+----------
+solar energy||l’énergie solaire
+----------
+tidal energy||l’énergie marémotrice
+----------
+a sewage treatment plant||une station d’épuration
+----------
+waste disposal||le traitement des déchets
+----------
+a catalytic converter||un pot catalytique
+----------
+lead-free/unleaded petrol||l’essence sans plomb
+----------
+an electric car||une voiture électrique
+----------
+thermal insulation||l’isolation thermique
+----------
+to protect||protéger
+----------
+to renew||renouveler
+----------
+to save||économiser / sauver
+----------
+to convert||convertir
+----------
+to clean up||assainir / nettoyer
+----------
+to decontaminate||décontaminer
+----------
+to process (sewage)||traiter (eaux usées)
+----------
+to manage (waste)||traiter (déchets)
+----------
+to insulate||isoler
+----------
+biological||biologique
+----------
+natural, organic||naturel, bio(logique)
+----------
+clean||propre, non-polluant
+----------
+ecological||écologique
+----------
+innovative||innovant, novateur
+----------
+solar-powered||qui fonctionne à l’énergie solaire
+----------
+wind-powered||qui fonctionne à l’énergie éolienne
+----------
+renewable||renouvelable
+----------
+energy-efficient||économique en énergie
+----------
+fuel-efficient||économique en carburant
+----------
+pollutant-free||sans agent polluant
+----------
+phosphate-free||sans phosphates
+----------
+lead-free, unleaded||sans plomb

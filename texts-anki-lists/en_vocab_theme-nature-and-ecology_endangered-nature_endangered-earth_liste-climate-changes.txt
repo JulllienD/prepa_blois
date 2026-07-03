@@ -1,0 +1,14 @@
+drought;la sécheresse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+the desert;le désert;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+desertification;la désertification;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+ground water;la nappe phréatique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+the ground water level;le niveau de la nappe phréatique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+a flood;une inondation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+a tidal wave;un raz-de-marée;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+a wave;une vague;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+a tide;la marée;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+to dry up, to dry out;dessécher;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+to flood;inonder;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+dry;sec;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+barren;désertique, aride, stérile;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes
+hungry, starved, starving;affamé;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Earth::Climate-Changes

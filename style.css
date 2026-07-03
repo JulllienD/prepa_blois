@@ -559,8 +559,38 @@ article p:last-child {
     margin-bottom: 0;
 }
 
+/* Le conteneur aligne en ligne et gère le retour à la ligne automatique */
+.article-image-group {
+    display: flex;
+    gap: 16px;          /* Espace entre les images */
+    flex-wrap: wrap;    /* Permet le retour à la ligne automatique si ça déborde */
+    margin: 1.5rem 0;
+    align-items: flex-start; /* Aligne les images par le haut pour respecter leur proportion */
+}
 
+/* Style des images à l'intérieur de ce groupe */
+.article-image-group img {
+    height: 250px;      /* Fixe la hauteur commune pour qu'elles s'alignent proprement */
+    width: auto;        /* Calcule automatiquement la largeur proportionnelle (pas de déformation) */
+    border: 2px solid #a0a4aa;
+    object-fit: contain; /* Sécurité pour garder l'image entière */
+    border-radius: 8px;  /* Coins légèrement arrondis pour le style */
+    
+    /* Sur de très petits écrans, si l'image est plus large que le téléphone,
+       elle ne dépassera pas et s'adaptera */
+    max-width: 100%;
+}
 
+article code {
+    background-color: #f1f5f9;  /* Fond gris-bleu très clair */
+    color: #0f172a;             /* Texte foncé pour une excellente lisibilité */
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace; /* Police de code */
+    font-size: 0.9rem;          /* Taille légèrement plus petite que le texte normal */
+    padding: 3px 6px;           /* Espace interne tout autour du texte */
+    border: 1px solid #cbd5e1;  /* Bordure fine et discrète */
+    border-radius: 4px;         /* Coins légèrement arrondis */
+    word-break: break-word;     /* Évite que les codes trop longs ne cassent le design */
+}
 
 
 
@@ -594,21 +624,6 @@ article p:last-child {
 .footer-links a:hover {
     color: #3b82f6; /* Devient bleu au survol */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -699,4 +714,67 @@ article p:last-child {
         padding: 2px 6px;
         font-size: 0.7rem;
     }
+    .article-image-group {
+        justify-content: center; /* Centre les images si elles passent l'une sous l'autre sur mobile */
+        gap: 12px;
+    }
+    
+    .article-image-group img {
+        height: auto;       /* Sur mobile, on libère la hauteur */
+        max-height: 250px;  /* On limite simplement la hauteur max pour les téléphones */
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.exercice-container {
+    max-width: 500px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+.question {
+    margin-bottom: 15px;
+}
+
+input[type="text"] {
+    padding: 8px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
 }

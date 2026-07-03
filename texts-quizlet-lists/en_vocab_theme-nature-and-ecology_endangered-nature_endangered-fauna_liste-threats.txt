@@ -1,0 +1,101 @@
+fishing||la pêche
+----------
+a fisherman||un pêcheur
+----------
+angling||la pêche à la ligne
+----------
+an angler||un pêcheur à la ligne
+----------
+industrial fishing||la pêche industrielle
+----------
+a net||un filet
+----------
+a harpoon||un harpon
+----------
+explosives||des explosifs
+----------
+hunting, shooting||la chasse
+----------
+a hunter, a huntsman||un chasseur
+----------
+an ivory-hunter||un chasseur d’ivoire
+----------
+big game hunting||la chasse au gros gibier
+----------
+a big game hunter||un chasseur de gros gibier
+----------
+a safari||un safari
+----------
+a rifle||un fusil
+----------
+a collector||un collectionneur
+----------
+a trophy||un trophée
+----------
+traffic, trafficking||le trafic
+----------
+contraband, smuggling||la contrebande
+----------
+a smuggler||un contrebandier
+----------
+poaching||le braconnage
+----------
+a poacher||un braconnier
+----------
+to fish||pêcher
+----------
+to go fishing||aller à la pêche
+
+Note : go, went, gone
+----------
+to angle||pêcher à la ligne
+----------
+to hunt||chasser
+----------
+to drive away, to frighten away||chasser (faire fuir)
+
+Note : drive, drove, driven
+----------
+to go hunting||aller à la chasse
+
+Note : go, went, gone
+----------
+to catch||capturer
+
+Note : catch, caught, caught
+----------
+to collect||collectionner
+----------
+to traffic||trafiquer, faire du trafic
+----------
+la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked, avec un K||la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked, avec un K
+----------
+to smuggle||faire de la contrebande
+----------
+to poach||braconner
+----------
+to massacre, to slaughter||massacrer
+----------
+to threaten, to endanger||menacer
+----------
+to shoot (at)||tirer (sur)
+
+Note : shoot, shot, shot
+----------
+to harm||faire du mal (à), nuire (à)
+----------
+to dwindle||diminuer (en nombre)
+----------
+to disappear, become extinct||disparaître
+----------
+harmful||nocif, nuisible
+----------
+cruel||cruel
+----------
+irresponsible||irresponsable
+----------
+disappearing, endangered||en voie de disparition
+----------
+captive||captif
+----------
+helpless, defenceless (UK), defenseless (US)||sans défense

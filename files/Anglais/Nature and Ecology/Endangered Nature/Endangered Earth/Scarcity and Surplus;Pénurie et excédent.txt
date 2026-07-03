@@ -1,0 +1,19 @@
+shortage, scarcity;la pénurie;...;...;N;LIVRE;B2
+lack;le manque;...;...;N;LIVRE;B1
+want, need;le besoin;...;...;N;LIVRE;B1
+for want of;à défaut de;...;...;PREP;LIVRE;B2
+famine, starvation;la famine;...;...;N;LIVRE;B2
+plenty, abundance;l’abondance;...;...;N;LIVRE;B1
+glut;l’excès / le trop-plein;...;...;N;LIVRE;C1
+misuse;le mauvais usage;...;...;N;LIVRE;B2
+mismanagement;la mauvaise gestion;...;...;N;LIVRE;C1
+
+to be short (of);être à court (de);be, was/were, been;...;VI;LIVRE;A2
+to run short of;commencer à manquer de;run, ran, run;...;VI;LIVRE;B2
+to lack (something), to want (for something);manquer (de quelque chose);...;...;V;LIVRE;B1
+to need;avoir besoin de;...;...;V;LIVRE;A1
+to starve, to die of hunger;courir à la famine, mourir de faim;...;...;V;LIVRE;B2
+starve vient de l’allemand sterben qui signifie mourir;starve vient de l’allemand sterben qui signifie mourir;...;...;A;LIVRE;C1
+to be packed with, to overflow with;regorger de, déborder de;be, was/were, been;...;VI;LIVRE;C1
+to misuse;faire mauvais usage de;...;...;V;LIVRE;B2
+to mismanage;mal gérer;...;...;V;LIVRE;C1

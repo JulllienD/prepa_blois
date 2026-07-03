@@ -1,0 +1,22 @@
+preservation;la préservation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+protection, conservation;la protection;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+recycling;le recyclage;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+sorting out;le tri;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+a bottle bank;un collecteur de verre usagé;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+a green product;un produit écologique;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+organic food;de la nourriture bio;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+to reuse;réutiliser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+to recycle;recycler;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+to sort (out);faire le tri (de);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+to collect (used glass);ramasser (le verre usagé);ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+to be aware of;être conscient de<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+to become aware of;prendre conscience de<br><br>Note :<br>become, became, become;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+reusable;réutilisable;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+recyclable;recyclable;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+returnable;consigné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+to return;rendre, rapporter;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+harmless;inoffensif;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+wholesome;sain;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+ozone-friendly;sans danger pour l’ozone;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+environmentally-friendly, eco-friendly;sans danger pour l’environnement;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism
+environmentally-minded, ecologically-minded;conscient des enjeux écologiques;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Environmental-Progress::Day-to-day-Environmentalism

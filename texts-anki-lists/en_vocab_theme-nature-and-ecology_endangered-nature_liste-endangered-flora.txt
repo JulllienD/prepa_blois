@@ -1,0 +1,41 @@
+the ecosystem;l’écosystème;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+the environment;le milieu / l'environnement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+ecological imbalance;le déséquilibre écologique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+ecological balance;l’équilibre écologique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+scales;une balance, pour se peser soi ou des objets;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+the forest;la forêt;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+the Amazonian forest;la forêt amazonienne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+the Amazon;l’Amazonie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+the rain forest;la forêt tropicale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+a tree;un arbre;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+a root;une racine;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+a branch;une branche;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+a wood;un bois;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+wood;du bois;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+precious wood;du bois précieux;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+ebony;l’ébène;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+mahogany;l’acajou;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+firewood;du bois de chauffage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+fuel;des combustibles / carburant;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+deforestation;le déboisement / déforestation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+land-clearing;le défrichage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+a flower;une fleur;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+a plant;une plante;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+medicinal plants;les plantes médicinales;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to fell, chop down (a tree);abattre (un arbre);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to log;débiter (un arbre);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+a log;un rondin, une bûche;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to deforest;déboiser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to burn;brûler<br><br>Note :<br>burn, burnt/burned, burnt/burned;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to build (roads);percer (des routes)<br><br>Note :<br>build, broke, broken;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to pick;cueillir;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to wither;se dessécher, se flétrir;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to jeopardize;mettre en peril;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+jeopardy: from the old French “jeu parti”: à l’issue incertaine;jeopardy: from the old French “jeu parti”: à l’issue incertaine;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to be in jeopardy;être en péril<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to become/get scarce;se raréfier<br><br>Note :<br>become, became, become / get, got, got;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+woody;boisé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+wooden;en bois;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+scattered;clairsemé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+scarce;rare;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora
+to make oneself scarce;s’éclipser<br><br>Note :<br>make, made, made;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Nature-and-Ecology::Endangered-Nature::Endangered-Flora

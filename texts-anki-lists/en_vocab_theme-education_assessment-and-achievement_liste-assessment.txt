@@ -1,0 +1,38 @@
+a level, a standard;un niveau;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+academic standards;le niveau scolaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a requirement;un niveau requis;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+entrance requirements;le niveau d’entrée;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+the IQ (intellectual quotient);le Q.I. (quotient intellectuel);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a paper;un devoir;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+an examination paper;une copie, un sujet d’examen;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a test;un contrôle, un test;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a mock exam (UK), a practice (US);un examen blanc;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+an oral/written test;un examen oral/écrit;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+an assessment;un bilan, une évaluation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+an examination, an exam;un examen;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a competitive exam;un concours;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a candidate;un candidat;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a performance;un résultat;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+academic results;les résultats scolaires;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a score;une note, un résultat;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a (good/bad) mark (UK), grade (US);une (bonne/mauvaise) note;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+the average mark;la moyenne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+an average student;un élève moyen;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a school report, a report card;un bulletin scolaire;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a diploma, a degree;un diplôme;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a pass degree;un diplôme sans mention;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to select;sélectionner;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a career adviser;un conseiller d’orientation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to guide;orienter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to assess, rate;évaluer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to test;tester;ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to examine;interroger;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to mark (UK), to grade (US);noter, attribuer une note;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to award (a diploma);décerner (un diplôme);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to prepare for an exam;se préparer à un examen;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to cram;bachoter;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to take an exam;passer un examen<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to stand for/sit for an exam;se présenter à un examen<br><br>Note :<br>stand, stood, stood / sit, sat, sat;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to hand in a paper;rendre/remettre un devoir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to defend a Ph.D.;soutenir une thèse;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+Ph.D.;Philosophiae Doctor (doctorat d’Etat);ANGLAIS::niveau::B2 ANGLAIS::type::abrev ANGLAIS::Education::Assessment-and-Achievement::Assessment

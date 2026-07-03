@@ -1,0 +1,49 @@
+fishing;la pêche;...;...;N;LIVRE;A2
+a fisherman;un pêcheur;...;...;N;LIVRE;A2
+angling;la pêche à la ligne;...;...;N;LIVRE;C1
+an angler;un pêcheur à la ligne;...;...;N;LIVRE;C1
+industrial fishing;la pêche industrielle;...;...;N;LIVRE;B2
+a net;un filet;...;...;N;LIVRE;A2
+a harpoon;un harpon;...;...;N;LIVRE;C1
+explosives;des explosifs;...;...;N;LIVRE;B1
+hunting, shooting;la chasse;...;...;N;LIVRE;B1
+a hunter, a huntsman;un chasseur;...;...;N;LIVRE;B1
+an ivory-hunter;un chasseur d’ivoire;...;...;N;LIVRE;B2
+big game hunting;la chasse au gros gibier;...;...;N;LIVRE;C1
+
+a big game hunter;un chasseur de gros gibier;...;...;N;LIVRE;C1
+a safari;un safari;...;...;N;LIVRE;B1
+a rifle;un fusil;...;...;N;LIVRE;B2
+a collector;un collectionneur;...;...;N;LIVRE;B1
+a trophy;un trophée;...;...;N;LIVRE;B1
+traffic, trafficking;le trafic;...;...;N;LIVRE;B2
+contraband, smuggling;la contrebande;...;...;N;LIVRE;C1
+a smuggler;un contrebandier;...;...;N;LIVRE;C1
+poaching;le braconnage;...;...;N;LIVRE;C1
+a poacher;un braconnier;...;...;N;LIVRE;C1
+
+to fish;pêcher;...;...;V;LIVRE;A2
+to go fishing;aller à la pêche;go, went, gone;...;VI;LIVRE;A2
+to angle;pêcher à la ligne;...;...;V;LIVRE;C1
+to hunt;chasser;...;...;V;LIVRE;B1
+to drive away, to frighten away;chasser (faire fuir);drive, drove, driven;...;VI;LIVRE;B2
+to go hunting;aller à la chasse;go, went, gone;...;VI;LIVRE;B1
+to catch;capturer;catch, caught, caught;...;VI;LIVRE;A2
+to collect;collectionner;...;...;V;LIVRE;A2
+to traffic;trafiquer, faire du trafic;...;...;V;LIVRE;B2
+la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked, avec un K;la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked, avec un K;...;...;A;LIVRE;C1
+to smuggle;faire de la contrebande;...;...;V;LIVRE;C1
+to poach;braconner;...;...;V;LIVRE;C1
+to massacre, to slaughter;massacrer;...;...;V;LIVRE;C1
+to threaten, to endanger;menacer;...;...;V;LIVRE;B2
+to shoot (at);tirer (sur);shoot, shot, shot;...;VI;LIVRE;B1
+to harm;faire du mal (à), nuire (à);...;...;V;LIVRE;B2
+to dwindle;diminuer (en nombre);...;...;V;LIVRE;C1
+to disappear, become extinct;disparaître;...;...;V;LIVRE;B2
+
+harmful;nocif, nuisible;...;...;ADJ;LIVRE;B2
+cruel;cruel;...;...;ADJ;LIVRE;B1
+irresponsible;irresponsable;...;...;ADJ;LIVRE;B2
+disappearing, endangered;en voie de disparition;...;...;ADJ;LIVRE;B2
+captive;captif;...;...;ADJ;LIVRE;B2
+helpless, defenceless (UK), defenseless (US);sans défense;...;...;ADJ;LIVRE;B2

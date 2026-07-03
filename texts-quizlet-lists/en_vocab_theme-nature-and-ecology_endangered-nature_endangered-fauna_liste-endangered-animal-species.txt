@@ -1,0 +1,55 @@
+wild animals||les animaux sauvages
+----------
+big cats||les fauves
+----------
+game||le gibier
+----------
+big game||le gros gibier
+----------
+a lion, a lioness||un lion, une lionne
+----------
+a tiger, a tigress||un tigre, une tigresse
+----------
+a monkey, a she-monkey||un singe, un guénon
+----------
+an ape||un grand singe
+----------
+a gorilla||un gorille
+----------
+a rhinoceros, a rhino||un rhinocéros
+----------
+several rhinoceros/rhinoceroses||des rhinocéros
+----------
+a horn||une corne
+----------
+an elephant||un éléphant
+----------
+the tusks||les défenses
+----------
+ivory||l’ivoire
+----------
+sea mammals||les mammifères marins
+----------
+a whale||une baleine
+----------
+a dolphin||un dauphin
+----------
+a seal||un phoque
+----------
+fur||la fourrure
+----------
+fish, fishes||les poissons
+----------
+a shark||un requin
+----------
+a fin||une nageoire, un aileron
+----------
+exotic fish||les poissons exotiques
+----------
+deep-sea fish||les poissons des profondeurs
+----------
+rare species||des espèces rares
+----------
+shellfish||les coquillages (mollusques)
+----------
+a shell||un coquillage (coquille)

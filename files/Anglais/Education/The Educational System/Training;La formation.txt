@@ -1,0 +1,22 @@
+vocational training;la formation professionnelle;...;...;N;LIVRE;B2
+a training course (UK), internship (US);un stage de formation;...;...;N;LIVRE;B1
+a trainee (UK), an intern (US);un stagiaire;...;...;N;LIVRE;B1
+
+a training scheme (UK), programme (US);un programme de formation;...;...;N;LIVRE;B2
+on-the-job training;la formation sur le tas;...;...;N;LIVRE;B2
+off-the-job training;la formation hors entreprise;...;...;N;LIVRE;C1
+in-house training;la formation en interne;...;...;N;LIVRE;B2
+job-specific training;la formation à un emploi;...;...;N;LIVRE;B2
+work experience;l’expérience professionnelle;...;...;N;LIVRE;B1
+a placement;un (lieu de) stage;...;...;N;LIVRE;B2
+a customized course;des cours sur mesure;...;...;N;LIVRE;C1
+an intensive course;des cours intensifs/accélérés;...;...;N;LIVRE;B1
+a refresher course;des cours de recyclage;...;...;N;LIVRE;C1
+a sandwich course;une formation en alternance;...;...;N;LIVRE;C1
+night school;les cours du soir;...;...;N;LIVRE;A2
+to train;former, se former;...;...;V;LIVRE;A2
+to train for a job;suivre une formation pour un poste;...;...;V;LIVRE;B1
+to retrain;former à nouveau, recycler;...;...;V;LIVRE;B2
+to improve, enhance;améliorer;...;...;V;LIVRE;B2
+to go into training;aller en stage;go, went, gone;...;VI;LIVRE;B1
+to coach;entraîner, donner des leçons (à);...;...;V;LIVRE;B1

@@ -1,0 +1,16 @@
+drought;la sécheresse;...;...;N;LIVRE;B2
+the desert;le désert;...;...;N;LIVRE;A2
+desertification;la désertification;...;...;N;LIVRE;B2
+ground water;la nappe phréatique;...;...;N;LIVRE;C1
+the ground water level;le niveau de la nappe phréatique;...;...;N;LIVRE;C1
+a flood;une inondation;...;...;N;LIVRE;B1
+a tidal wave;un raz-de-marée;...;...;N;LIVRE;B2
+a wave;une vague;...;...;N;LIVRE;A2
+a tide;la marée;...;...;N;LIVRE;B1
+
+to dry up, to dry out;dessécher;...;...;V;LIVRE;B2
+to flood;inonder;...;...;V;LIVRE;B1
+
+dry;sec;...;...;ADJ;LIVRE;A1
+barren;désertique, aride, stérile;...;...;ADJ;LIVRE;C1
+hungry, starved, starving;affamé;...;...;ADJ;LIVRE;A2

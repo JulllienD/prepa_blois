@@ -1,0 +1,18 @@
+the school year;l’année scolaire;...;...;N;LIVRE;A1
+a term;un trimestre;...;...;N;LIVRE;B1
+a school day;une journée de cours;...;...;N;LIVRE;A1
+schooldays;les années d’école;...;...;N;LIVRE;B1
+a timetable / a schedule;un emploi du temps;...;...;N;LIVRE;A2
+a period, a class;une séance (de cours);...;...;N;LIVRE;B1
+a free period;une heure de permanence;...;...;N;LIVRE;B1
+a break (UK), a recess (US);une pause, une récréation;...;...;N;LIVRE;A1
+the lunch break;la pause déjeuner;...;...;N;LIVRE;A1
+a school holiday (UK), a school vacation (US);les vacances scolaires;...;...;N;LIVRE;A1
+half-term holiday;des petites vacances;...;...;N;LIVRE;B1
+the winter break;les vacances d’hiver;...;...;N;LIVRE;A1
+the spring break;les vacances de printemps;...;...;N;LIVRE;A1
+to attend school;fréquenter l’école;...;...;V;LIVRE;B1
+to go to school;aller à l’école;go, went, gone;...;VI;LIVRE;A1
+to have a (History) class;avoir cours (d’histoire);have, had, had;...;VI;LIVRE;A1
+to take a break;faire une pause;take, took, taken;...;VI;LIVRE;A1
+to be on holiday (UK), on vacation (US);être en vacances;be, was/were, been;...;VI;LIVRE;A1

@@ -1,0 +1,39 @@
+a level, a standard;un niveau;...;...;N;LIVRE;A2
+academic standards;le niveau scolaire;...;...;N;LIVRE;B2
+a requirement;un niveau requis;...;...;N;LIVRE;B2
+entrance requirements;le niveau d’entrée;...;...;N;LIVRE;B2
+the IQ (intellectual quotient);le Q.I. (quotient intellectuel);...;...;N;LIVRE;B1
+a paper;un devoir;...;...;N;LIVRE;A2
+an examination paper;une copie, un sujet d’examen;...;...;N;LIVRE;B1
+a test;un contrôle, un test;...;...;N;LIVRE;A1
+a mock exam (UK), a practice (US);un examen blanc;...;...;N;LIVRE;B1
+an oral/written test;un examen oral/écrit;...;...;N;LIVRE;A2
+an assessment;un bilan, une évaluation;...;...;N;LIVRE;B2
+an examination, an exam;un examen;...;...;N;LIVRE;A2
+a competitive exam;un concours;...;...;N;LIVRE;B2
+a candidate;un candidat;...;...;N;LIVRE;B1
+a performance;un résultat;...;...;N;LIVRE;B1
+academic results;les résultats scolaires;...;...;N;LIVRE;B1
+a score;une note, un résultat;...;...;N;LIVRE;A2
+a (good/bad) mark (UK), grade (US);une (bonne/mauvaise) note;...;...;N;LIVRE;A2
+the average mark;la moyenne;...;...;N;LIVRE;B1
+an average student;un élève moyen;...;...;N;LIVRE;B1
+a school report, a report card;un bulletin scolaire;...;...;N;LIVRE;A2
+a diploma, a degree;un diplôme;...;...;N;LIVRE;B1
+a pass degree;un diplôme sans mention;...;...;N;LIVRE;C1
+
+to select;sélectionner;...;...;V;LIVRE;B1
+a career adviser;un conseiller d’orientation;...;...;N;LIVRE;B2
+to guide;orienter;...;...;V;LIVRE;B1
+to assess, rate;évaluer;...;...;V;LIVRE;B2
+to test;tester;...;...;V;LIVRE;A1
+to examine;interroger;...;...;V;LIVRE;B1
+to mark (UK), to grade (US);noter, attribuer une note;...;...;V;LIVRE;A2
+to award (a diploma);décerner (un diplôme);...;...;V;LIVRE;B2
+to prepare for an exam;se préparer à un examen;...;...;V;LIVRE;A2
+to cram;bachoter;...;...;V;LIVRE;C1
+to take an exam;passer un examen;take, took, taken;...;VI;LIVRE;A2
+to stand for/sit for an exam;se présenter à un examen;stand, stood, stood / sit, sat, sat;...;VI;LIVRE;B1
+to hand in a paper;rendre/remettre un devoir;...;...;V;LIVRE;B1
+to defend a Ph.D.;soutenir une thèse;...;...;V;LIVRE;C1
+Ph.D.;Philosophiae Doctor (doctorat d’Etat);...;...;ABREV;LIVRE;B2

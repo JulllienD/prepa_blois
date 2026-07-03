@@ -1,0 +1,35 @@
+energy efficiency;les économies d’énergie / efficacité énergétique;...;...;N;LIVRE;B2
+clean energy;l’énergie propre/non-polluante;...;...;N;LIVRE;B1
+wind power;l’énergie éolienne;...;...;N;LIVRE;B2
+solar energy;l’énergie solaire;...;...;N;LIVRE;B1
+tidal energy;l’énergie marémotrice;...;...;N;LIVRE;C1
+a sewage treatment plant;une station d’épuration;...;...;N;LIVRE;C1
+waste disposal;le traitement des déchets;...;...;N;LIVRE;B2
+a catalytic converter;un pot catalytique;...;...;N;LIVRE;C1
+lead-free/unleaded petrol;l’essence sans plomb;...;...;N;LIVRE;B2
+an electric car;une voiture électrique;...;...;N;LIVRE;A2
+thermal insulation;l’isolation thermique;...;...;N;LIVRE;C1
+
+to protect;protéger;...;...;V;LIVRE;B1
+to renew;renouveler;...;...;V;LIVRE;B1
+to save;économiser / sauver;...;...;V;LIVRE;A1
+to convert;convertir;...;...;V;LIVRE;B2
+to clean up;assainir / nettoyer;...;...;V;LIVRE;B1
+to decontaminate;décontaminer;...;...;V;LIVRE;C1
+to process (sewage);traiter (eaux usées);...;...;V;LIVRE;B2
+to manage (waste);traiter (déchets);...;...;V;LIVRE;B1
+to insulate;isoler;...;...;V;LIVRE;B2
+
+biological;biologique;...;...;ADJ;LIVRE;B1
+natural, organic;naturel, bio(logique);...;...;ADJ;LIVRE;A2
+clean;propre, non-polluant;...;...;ADJ;LIVRE;A1
+ecological;écologique;...;...;ADJ;LIVRE;B1
+innovative;innovant, novateur;...;...;ADJ;LIVRE;B2
+solar-powered;qui fonctionne à l’énergie solaire;...;...;ADJ;LIVRE;B2
+wind-powered;qui fonctionne à l’énergie éolienne;...;...;ADJ;LIVRE;B2
+renewable;renouvelable;...;...;ADJ;LIVRE;B1
+energy-efficient;économique en énergie;...;...;ADJ;LIVRE;B2
+fuel-efficient;économique en carburant;...;...;ADJ;LIVRE;B2
+pollutant-free;sans agent polluant;...;...;ADJ;LIVRE;C1
+phosphate-free;sans phosphates;...;...;ADJ;LIVRE;C1
+lead-free, unleaded;sans plomb;...;...;ADJ;LIVRE;B2
