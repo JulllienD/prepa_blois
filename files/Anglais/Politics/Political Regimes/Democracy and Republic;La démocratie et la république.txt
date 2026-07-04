@@ -1,0 +1,19 @@
+direct democracy;la démocratie directe;...;...;N;LIVRE;B2
+representative democracy;la démocratie représentative;...;...;N;LIVRE;B2
+a people’s republic/democracy;une république/démocratie populaire;...;...;N;LIVRE;B2
+legitimacy;la légitimité;...;...;N;LIVRE;C1
+separation of powers;la séparation des pouvoirs;...;...;N;LIVRE;B2
+pluralism;le pluralisme;...;...;N;LIVRE;C1
+the constitution;la constitution;...;...;N;LIVRE;B2
+human rights;les droits de l’homme;...;...;N;LIVRE;B1
+civil rights;les droits civiques;...;...;N;LIVRE;B2
+liberty, freedom;la liberté;...;...;N;LIVRE;B1
+equality;l’égalité;...;...;N;LIVRE;B1
+fraternity;la fraternité;...;...;N;LIVRE;B2
+a Democrat;un démocrate;...;...;N;LIVRE;B1
+a Republican;un républicain;...;...;N;LIVRE;B1
+
+democratic;démocratique;...;...;ADJ;LIVRE;B1
+republican;républicain;...;...;ADJ;LIVRE;B1
+presidential;présidentiel;...;...;ADJ;LIVRE;B2
+legitimate;légitime;...;...;ADJ;LIVRE;B2

@@ -1,0 +1,25 @@
+anarchy;l’anarchie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+an anarchist;un anarchiste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+conservatism;le conservatisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+the Conservative Party<br><br>Exemple :<br>Au Royaume-Uni notamment;le Parti conservateur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+communism;le communisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+class struggle;la lutte des classes;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+fascism;le fascisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+the Labour doctrine;le travaillisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+the Labour Party<br><br>Exemple :<br>Parti britannique de centre-gauche;le Parti travailliste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+monarchism;le monarchisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+national socialism;le national-socialisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+Nazism;le nazisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+radicalism;le radicalisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+royalism;le royalisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+socialism;le socialisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+alter-globalization;l’altermondialisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+conservative;conservateur;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+Labour<br><br>Exemple :<br>Relatif au parti ou à la doctrine;travailliste;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+fascist;fasciste;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+left-wing, right-wing;de gauche, de droite;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+reactionary;réactionnaire;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+progressive;progressiste;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+revolutionary;révolutionnaire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+moderate;modéré;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends
+extremist;extrémiste;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Political-Doctrines-and-Trends

@@ -1,0 +1,44 @@
+The technological age;l’ère technologique / l’ère de la technologie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+A technological shift;un changement / une mutation technologique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+An irreversible trend;une tendance irréversible;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+A techno-pessimist;quelqu'un qui n’a pas confiance en la technologie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+A techno-optimist;quelqu'un qui a confiance en la technologie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+An android robot;un robot androïde;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+AI / Artificial intelligence;l’intelligence artificielle;ANGLAIS::niveau::B1 ANGLAIS::type::abrev ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+3D printing;l’impression 3D / tridimensionnelle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Ethics;l’éthique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Ethical decisions;des décisions éthiques;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+ethical dilemma;un dilemme d’ordre éthique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Useful;utile;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Useless;inutile;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Harmful;dangereux / nuisible;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Reliable;fiable<br><br>Note :<br>Something / someone that you can rely on;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Custom-fitted / customised;sur mesure;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Cheap;bon marché;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+expensive;cher;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Affordable;abordable<br><br>Note :<br>Something that you can afford<br>Pas adorable;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Creepy / scary;qui fait peur<br><br>Note :<br>"Creepy" est plus familier / informel;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+Autonomous robots;robots autonomes;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+A companion robot;un robot de compagnie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+A military robot;un robot militaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+A Terminator-like robot;un robot qui ressemble à Terminator<br><br>Note :<br>Référence au film;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To be beneficial to firms / companies;être bénéfique à / pour les entreprises;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To have disruptive effects on society;avoir des effets négatifs/perturbants sur la société;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To assess the long term effects of the current technological revolution;évaluer les effets à long terme de la révolution technologique actuelle;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To cope with a situation;gérer une situation<br><br>Note :<br>Proche de "to handle" ou "to deal with";ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To feel insecure;se sentir en insécurité;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To benefit from new technologies;bénéficier des nouvelles technologies;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To set a deadline;poser une date limite;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To boost economic growth;relancer la croissance économique;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To provide;fournir, apporter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To move out of the realm of science fiction;s’éloigner du domaine de la science fiction;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To be at the forefront of;être au premier plan, occuper le premier plan;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To end up making life-or-death decisions;finir par / se retrouver à prendre des décisions de vie ou de mort;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To be taken for granted;aller de soi;ANGLAIS::niveau::B2 ANGLAIS::type::expr ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To make a choice;faire un choix;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To interact with robots;interagir avec des robots;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To design a robot;créer, concevoir un robot;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To develop a robot;mettre au point, réaliser un robot;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To differentiate a person from a machine;faire la différence entre une personne et une machine;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To look like a human being;ressembler à un être humain;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI
+To be lifelike;être ressemblant / plus vrai que nature;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::The-Tech-Era-Ethics--AI

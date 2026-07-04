@@ -1,0 +1,19 @@
+assimilation;l’assimilation;...;...;N;LIVRE;B2
+naturalization;la naturalisation;...;...;N;LIVRE;B2
+bilingualism;le bilinguisme;...;...;N;LIVRE;B2
+citizenship;la nationalité;...;...;N;LIVRE;B2
+a citizen;un citoyen;...;...;N;LIVRE;B1
+a would-be citizen;un citoyen potentiel;...;...;N;LIVRE;B1
+mutual respect;le respect mutuel;...;...;N;LIVRE;B2
+understanding;la compréhension;...;...;N;LIVRE;B2
+
+adapt, adjust;(s’) adapter;...;...;V;LIVRE;B1
+assimilate;(s’) intégrer;...;...;V;LIVRE;B1
+integrate;(s’) intégrer;...;...;V;LIVRE;B1
+blend/merge into;se fondre dans;...;...;V;LIVRE;B1
+conform (to, with);se conformer (à);...;...;V;LIVRE;B1
+put down new roots;se créer de nouvelles racines;put, put, put;...;VI;LIVRE;B1
+apply for citizenship;demander la nationalité;...;...;V;LIVRE;B1
+naturalize;naturaliser;...;...;V;LIVRE;B1
+grant citizenship;accorder la nationalité;...;...;V;LIVRE;B1
+respect;respecter;...;...;V;LIVRE;B1

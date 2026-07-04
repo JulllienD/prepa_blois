@@ -1,0 +1,22 @@
+a (trade) union (UK), a labor union (US);un syndicat;Attention : "The Syndicate" désigne la Mafia / un réseau criminel, comme dans Mission Impossible Rogue Nation;...;N;LIVRE;B1
+a spokesperson (for);un porte-parole (de);...;...;N;LIVRE;B2
+the union movement;le mouvement syndical;...;...;N;LIVRE;B2
+unionization;la syndicalisation;...;...;N;LIVRE;C1
+a union member;un travailleur syndiqué;...;...;N;LIVRE;B1
+a trade-unionist;un syndicaliste;...;...;N;LIVRE;B2
+the shop-floor;les ouvriers;Désigne l'usine même ou la base des travailleurs par opposition à la direction;...;N;LIVRE;C1
+the shop;l'atelier;Dans un contexte industriel;...;N;LIVRE;B1
+the rank and file;la base;Les membres de base d'une organisation/syndicat;...;N;LIVRE;C1
+a union official;un responsable syndical;...;...;N;LIVRE;B2
+a union representative, a shop steward;un délégué syndical;...;...;N;LIVRE;B2
+a union leader;un dirigeant syndical;...;...;N;LIVRE;B2
+union fees;la cotisation syndicale;...;...;N;LIVRE;B2
+a non-union worker;un ouvrier non syndiqué;...;...;N;LIVRE;B1
+
+to unionize;(se) syndiquer;...;...;V;LIVRE;B2
+to join a union;adhérer à un syndicat;...;...;V;LIVRE;B1
+to protect rights;préserver les droits;...;...;V;LIVRE;B1
+to represent;représenter;...;...;V;LIVRE;B1
+to defend;défendre;...;...;V;LIVRE;B1
+to support;soutenir;Attention : ne signifie pas "supporter" au sens d'endurer (to bear);...;V;LIVRE;A2
+to back up a claim;soutenir une revendication;...;...;V;LIVRE;B2

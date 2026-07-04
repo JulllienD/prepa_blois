@@ -1,0 +1,26 @@
+anarchy;l’anarchie;...;...;N;LIVRE;B2
+an anarchist;un anarchiste;...;...;N;LIVRE;B2
+conservatism;le conservatisme;...;...;N;LIVRE;B2
+the Conservative Party;le Parti conservateur;...;Au Royaume-Uni notamment;N;LIVRE;B1
+communism;le communisme;...;...;N;LIVRE;B2
+class struggle;la lutte des classes;...;...;N;LIVRE;B2
+fascism;le fascisme;...;...;N;LIVRE;B2
+the Labour doctrine;le travaillisme;...;...;N;LIVRE;B2
+the Labour Party;le Parti travailliste;...;Parti britannique de centre-gauche;N;LIVRE;B1
+monarchism;le monarchisme;...;...;N;LIVRE;C1
+national socialism;le national-socialisme;...;...;N;LIVRE;C1
+Nazism;le nazisme;...;...;N;LIVRE;B2
+radicalism;le radicalisme;...;...;N;LIVRE;C1
+royalism;le royalisme;...;...;N;LIVRE;B2
+socialism;le socialisme;...;...;N;LIVRE;B2
+alter-globalization;l’altermondialisme;...;...;N;LIVRE;C1
+
+conservative;conservateur;...;...;ADJ;LIVRE;B1
+Labour;travailliste;...;Relatif au parti ou à la doctrine;ADJ;LIVRE;B1
+fascist;fasciste;...;...;ADJ;LIVRE;B2
+left-wing, right-wing;de gauche, de droite;...;...;ADJ;LIVRE;B1
+reactionary;réactionnaire;...;...;ADJ;LIVRE;C1
+progressive;progressiste;...;...;ADJ;LIVRE;B2
+revolutionary;révolutionnaire;...;...;ADJ;LIVRE;B2
+moderate;modéré;...;...;ADJ;LIVRE;B1
+extremist;extrémiste;...;...;ADJ;LIVRE;B2

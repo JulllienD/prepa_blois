@@ -1,0 +1,67 @@
+poverty||la pauvreté
+----------
+dire poverty||la misère
+
+Note : 'Dire' signifie extrême ou désastreux dans ce contexte.
+----------
+dire||# extrême
+
+Note : 'Dire' signifie extrême ou désastreux dans ce contexte.
+----------
+misery||# détresse
+
+Note : Attention faux-ami : 'misery' signifie détresse/malheur, pas misère financière.
+----------
+persecution||la persécution
+----------
+oppression||l’oppression
+----------
+repression||la répression
+----------
+tyranny||la tyrannie
+----------
+conflict||le conflit
+----------
+hardship||les épreuves, la souffrance
+----------
+war||la guerre
+----------
+civil war||la guerre civile
+----------
+a dissident, a dissenter||un dissident, un contestataire
+----------
+emigration||l’émigration
+----------
+an emigrant||un émigrant, un émigré
+----------
+an exodus||un exode
+----------
+exile||l’exil
+----------
+an exile||un exilé
+----------
+to escape (from)||échapper (à), s’échapper (de)
+----------
+to flee, to run away (from)||fuir
+----------
+flee, fled, fled||# fuir (verbe irrégulier)
+
+Note : Note additionnelle ou faux-ami
+----------
+to migrate||migrer
+----------
+to emigrate||émigrer
+----------
+to go into exile||s’exiler
+----------
+to drive away||chasser
+----------
+to persecute||persécuter
+----------
+to oppress||opprimer
+----------
+poor||pauvre
+----------
+miserable||malheureux
+----------
+tyrannical||tyrannique

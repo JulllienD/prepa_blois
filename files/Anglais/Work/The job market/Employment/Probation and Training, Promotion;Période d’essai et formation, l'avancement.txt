@@ -1,0 +1,29 @@
+Probation and Training;Période d’essai et formation;...;...;DEF;LIVRE;B2
+a probationary period;une période d’essai;...;...;N;LIVRE;C1
+vocational training;la formation professionnelle;...;...;N;LIVRE;B2
+a training period/session/an internship;un stage (de formation);...;"Internship" désigne souvent un stage étudiant ou d'insertion;N;LIVRE;B1
+a training programme;un programme de formation;...;...;N;LIVRE;B1
+a trainee, an intern (US);un stagiaire;...;...;N;LIVRE;B1
+continuing education;la formation continue;...;...;N;LIVRE;C1
+to train;(se) former;...;...;V;LIVRE;A2
+to retrain;(se) recycler / se reconvertir;...;...;V;LIVRE;B2
+to take sb on probation;prendre quelqu’un à l’essai;take, took, taken;...;VI;LIVRE;C1
+to take sb for a trial period;prendre quelqu’un à l’essai;take, took, taken;...;VI;LIVRE;B2
+to be on a training period;être en stage;be, was/were, been;...;VI;LIVRE;B1
+to specialize (in);se spécialiser (en);...;...;V;LIVRE;B1
+
+Promotion;L’avancement / la promotion;...;...;DEF;LIVRE;B1
+an appointment (as);une nomination (en tant que);...;...;N;LIVRE;C1
+an assignment;une affectation (administrative);...;...;N;LIVRE;B2
+tenure;la titularisation;...;Notamment dans l'enseignement supérieur ou la fonction publique;N;LIVRE;C1
+seniority;l’ancienneté;...;...;N;LIVRE;C1
+promotion by seniority;l’avancement à l’ancienneté;...;...;N;LIVRE;C1
+merit;le mérite;...;...;N;LIVRE;B2
+promotion by selection;l’avancement au mérite;...;...;N;LIVRE;C1
+career prospects;les perspectives de carrière;...;...;N;LIVRE;B2
+to be assigned/appointed;être nommé;be, was/were, been;...;VI;LIVRE;C1
+to be reassigned/transferred;être muté;be, was/were, been;...;VI;LIVRE;B2
+to get tenure;être titularisé;get, got, got;...;VI;LIVRE;C1
+to be promoted;être promu;be, was/were, been;...;VI;LIVRE;B1
+to climb the ladder;monter dans la hiérarchie / gravir les échelons;climb, climbed, climbed;...;VI;LIVRE;B2
+to further one’s career;gérer / faire avancer sa carrière;...;...;V;LIVRE;C1

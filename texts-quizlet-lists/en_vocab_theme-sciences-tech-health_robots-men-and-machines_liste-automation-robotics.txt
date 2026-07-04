@@ -1,0 +1,87 @@
+Assembly line||chaîne de montage
+----------
+Automation||automatisation
+----------
+to Automate||robotiser / automatiser
+----------
+Computer-aided Design (CAD)||conception assistée par ordinateur (CAO)
+----------
+Digital computer||ordinateur numérique
+----------
+Digital switchover||passage au numérique
+----------
+digitally-controlled||à commande numérique
+----------
+Hazard||danger / risque
+----------
+joint limit||limite d'articulation
+----------
+maintenance||entretien / maintenance
+----------
+mechanization||mécanisation
+----------
+miniaturization||miniaturisation
+----------
+nanotechnology||nanotechnologie
+----------
+off-line processing||traitement hors ligne
+----------
+online programming||programmation en ligne
+----------
+palletizing||palettisation
+----------
+reliability||fiabilité
+----------
+repeatability||répétabilité
+----------
+robot arm||bras robotique
+----------
+robot reach||portée du robot
+----------
+robot-supported||robotisé
+----------
+robotic surgery||robotique chirurgicale
+----------
+sensor||capteur
+----------
+safeguard||précaution / dispositif de protection
+----------
+safety factor||coefficient de sécurité
+----------
+safety procedure||dispositif de sécurité / procédure de sécurité
+----------
+software||logiciel
+----------
+unmanned operation||fonctionnement sans opérateur
+----------
+work cell||cellule de travail
+----------
+work envelope||enveloppe de travail
+----------
+XYZ Coordinates||coordonnées XYZ ou cartésiennes
+----------
+Yaw mechanism
+
+Exemple : En aéronautique ou robotique (lacet)||mécanisme d'orientation
+----------
+R&D||Recherche et Développement
+
+Note : Research and Development
+----------
+Robotics||la robotique
+----------
+A robotics graduate||un diplômé en robotique
+----------
+A robotics scientist/engineer||roboticien
+----------
+Robotic
+
+Exemple : Adjectif||robotique
+----------
+Industrial robot||un robot industriel
+
+Note : Pour le domaine de l’industrie
+----------
+Computer-controlled machines||des machines contrôlées par ordinateur
+----------
+Remote-controlled machines||des machines contrôlées à distance

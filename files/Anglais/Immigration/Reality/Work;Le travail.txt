@@ -1,0 +1,33 @@
+a gold digger;un chercheur d’or;...;...;N;LIVRE;B1
+a farmer;un fermier;...;...;N;LIVRE;B1
+a peddler;un colporteur, un revendeur;...;...;N;LIVRE;B1
+a fruit-picker;un ramasseur de fruits;...;...;N;LIVRE;B1
+a seasonal worker;un ouvrier saisonnier;...;...;N;LIVRE;B1
+a farm labourer / worker;un ouvrier agricole;...;...;N;LIVRE;B1
+a workshop;un atelier;...;...;N;LIVRE;B1
+a sweatshop;un atelier où le personnel est exploité;Mot composé évoquant la sueur (sweat) du travail exploité.;...;N;LIVRE;B1
+sweat;# la sueur;Note additionnelle ou faux-ami;...;A;LIVRE;B2
+a manufacture;une fabrique;...;...;N;LIVRE;B1
+a factory;une usine;...;...;N;LIVRE;B1
+piece work;le travail payé à la pièce;...;...;A;LIVRE;B2
+a low-paid job;un emploi mal payé;...;...;N;LIVRE;B1
+a thankless / unrewarding job;un travail ingrat;...;...;N;LIVRE;B1
+a menial job;un emploi subalterne;...;...;N;LIVRE;B1
+moonlighting;le travail au noir;...;...;A;LIVRE;C1
+labour;la main-d’œuvre;...;...;N;LIVRE;B2
+to work hard, toil [tɔɪl];travailler dur;...;...;V;LIVRE;B1
+to slave away;trimer, travailler comme un forçat;...;...;V;LIVRE;B1
+a slave;# un esclave;Note additionnelle ou faux-ami;...;N;LIVRE;B2
+to peddle;colporter;...;...;V;LIVRE;B1
+to pick (fruit…);ramasser (des fruits…);...;...;V;LIVRE;B1
+to sew [səʊ];coudre;...;...;VI;LIVRE;B1
+sew, sewed, sewn;# coudre (verbe irrégulier);Note additionnelle ou faux-ami;...;VI;LIVRE;B2
+to exploit;exploiter;...;...;V;LIVRE;B1
+to take advantage of;tirer profit de;...;...;V;LIVRE;B1
+cheap;bon marché;...;...;ADJ;LIVRE;A2
+unskilled;non qualifié;...;...;ADJ;LIVRE;B2
+a skill;# une compétence;Note additionnelle ou faux-ami;...;N;LIVRE;B2
+flexible;flexible;...;...;ADJ;LIVRE;B2
+hard-working;travailleur, laborieux;...;...;ADJ;LIVRE;B2
+underpaid;sous-payé;...;...;ADJ;LIVRE;B2
+overpaid;# sur-payé;Note additionnelle ou faux-ami;...;A;LIVRE;B2

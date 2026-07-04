@@ -1,0 +1,50 @@
+a job hunt;une recherche d’emploi;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a job hunter/seeker;un demandeur d’emploi;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+the classified ads, the classifieds;les annonces classées;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+job definition/description;le profil d’un poste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a job title;un intitulé de poste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a vacancy, a vacant post;un poste vacant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+an opportunity;une opportunité d’emploi;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+an application;une candidature;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+an applicant;un postulant, un candidat;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a letter of application;une lettre de candidature;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+an application form;un formulaire de candidature;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a résumé (US), a CV (Brit.);un CV (Curriculum Vitae);ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a letter of recommendation;une lettre de recommandation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+credentials<br><br>Exemple :<br>Titres, diplômes ou références professionnelles;des références;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+skills;les compétences, les qualifications;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a(n un)skilled worker;un travailleur (non) qualifié;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+work experience;l’expérience professionnelle;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a job centre<br><br>Exemple :<br>Équivalent historique de l'ANPE au Royaume-Uni;une agence pour l'emploi;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+placement services;les agences pour l’emploi;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a placement office;un bureau de placement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+an employment agency;une agence de placement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a recruiter;un recruteur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a human resources department<br><br>Exemple :<br>Souvent abrégé "HR department";un service de ressources humaines;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a head-hunting firm<br><br>Exemple :<br>Spécialisé dans les cadres;un cabinet de recrutement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a head hunter;un chasseur de têtes;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a (job) interview;un entretien (d’embauche);ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+an appointment<br><br>Exemple :<br>Professionnel ou médical;un rendez-vous;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+a test;un test;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+psychology;la psychologie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+(positive) discrimination;la discrimination (positive);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+restrictive practices;les pratiques de restriction;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+sexism;le sexisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+ageism;la discrimination par l’âge;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+racism;le racisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Recruitment
+to look/hunt for a job;rechercher un emploi;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to change jobs;changer d’emploi;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to apply for a job;postuler;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to fill in a form;remplir un formulaire;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to interview someone;faire passer un entretien à qqn;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to sit a test;passer un test<br><br>Note :<br>sit, sat, sat;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to select;sélectionner;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to choose;choisir<br><br>Note :<br>choose, chose, chosen;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to offer a job;proposer un emploi;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to take on, hire;embaucher<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to recruit;recruter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to fill a post;pourvoir un poste;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to appoint sb to a post;nommer quelqu’un à un poste;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to employ sb as…;employer quelqu’un comme…;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to sign a contract;signer un contrat;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment
+to turn down (an applicant);refuser (un candidat) à l’embauche;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Recruitment

@@ -1,0 +1,22 @@
+direct/indirect/universal suffrage;le suffrage direct/indirect/universel;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a referendum;un référendum;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a plebiscite;un plébiscite;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a voting system;un système électoral;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+the list system;le système du scrutin de liste;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a flexible list;une liste panachée;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a one-round proportional system;une proportionnelle à un tour;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a secret ballot;un vote à bulletin secret;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a representative;un représentant;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+(in)eligibility;l’(in)éligibilité;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+the presidential election;les élections présidentielles;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+general elections;les élections législatives<br><br>Note :<br>Aux États-Unis, précédé par les "Primaries" (les élections primaires);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+local elections;les élections municipales / locales;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+multi-party elections;les élections multipartites;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a direct election;une élection au suffrage direct;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a two-stage / a two-tier election;une élection à deux tours;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+an election on a majority basis;une élection au scrutin majoritaire<br><br>Note :<br>Pluriel de basis : bases;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a by-election<br><br>Exemple :<br>Organisée pour remplacer un élu démissionnaire ou décédé;une élection partielle;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+a cross-party / a coalition majority;une majorité de coalition;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+an election reform;une réforme électorale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+to call an election;appeler aux urnes / organiser des élections;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems
+to call an early election;organiser des élections anticipées;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Electoral-Systems

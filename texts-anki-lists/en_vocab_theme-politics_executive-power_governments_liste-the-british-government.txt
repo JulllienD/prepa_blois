@@ -1,0 +1,12 @@
+the Prime Minister (PM);le Premier ministre;ANGLAIS::niveau::A2 ANGLAIS::type::abrev ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Cabinet;le Cabinet<br><br>Note :<br>Le conseil des ministres restreint;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Lord Chancellor;le ministre de la Justice<br><br>Note :<br>Spécifique au système britannique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Lord Chancellor’s Office;le ministère de la Justice;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Chancellor of the Exchequer;le chancelier de l’Échiquier<br><br>Note :<br>Équivalent britannique du ministre des Finances;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Treasury;le Trésor;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Foreign Office;le ministère des Affaires étrangères<br><br>Note :<br>Prononciation : [ˈfɒrən] pour Foreign;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Department of Health;le ministère de la Santé<br><br>Note :<br>Prononciation : [helθ];ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Home Secretary;le ministre de l’Intérieur<br><br>Note :<br>Prononciation : [ˈsəkrətri] pour Secretary;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Home Office;le ministère de l’Intérieur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Shadow Cabinet;le Cabinet fantôme<br><br>Note :<br>"a shadow" signifie une ombre (Cabinet formé par l'opposition);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government
+the Shadow Foreign Secretary;le porte-parole de l’opposition sur les affaires étrangères;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-British-Government

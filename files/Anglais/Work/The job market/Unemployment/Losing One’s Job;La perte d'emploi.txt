@@ -1,0 +1,25 @@
+short-time working;le chômage partiel;...;...;N;LIVRE;C1
+overmanning;les sureffectifs;...;...;N;LIVRE;C2
+restructuring;la restructuration;...;...;N;LIVRE;B2
+staff reductions;la compression de personnel;...;...;N;LIVRE;B2
+downsizing, streamlining;le « dégraissage » (des effectifs);...;Réduction de la taille d'une entreprise;N;LIVRE;C1
+job cuts;les réductions d’effectifs;...;...;N;LIVRE;B2
+a tenuous job;un emploi précaire;...;...;N;LIVRE;C1
+redundancy;le licenciement économique;...;Spécifique au Royaume-Uni pour des raisons économiques;N;LIVRE;B2
+a redundancy letter;une lettre de licenciement;...;...;N;LIVRE;B2
+voluntary redundancy;le départ volontaire;...;...;N;LIVRE;C1
+lay-off;la mise en chômage technique / licenciement;...;...;N;LIVRE;B2
+a job loss;une perte, une suppression d’emploi;...;...;N;LIVRE;B1
+a dismissal, a discharge;un licenciement, un renvoi;...;Souvent pour motif personnel ou faute;N;LIVRE;B2
+early retirement;la pré-retraite;...;...;N;LIVRE;B2
+resignation;la démission;...;...;N;LIVRE;B2
+
+to reduce the staff;réduire les effectifs;...;...;V;LIVRE;B2
+to cut down jobs;supprimer des emplois;cut, cut, cut;...;VI;LIVRE;B1
+to lay off, make (sb) redundant;licancier (quelqu’un);lay, laid, laid / make, made, made;...;VI;LIVRE;B2
+to dismiss, discharge;renvoyer / licencier;...;...;V;LIVRE;B2
+to fire;mettre à la porte;...;Familier / familier;V;LIVRE;B1
+to pension sb off;mettre qqn à la retraite d’office;...;...;V;LIVRE;C2
+to retire;prendre sa retraite;...;...;V;LIVRE;B1
+to resign (from);démissionner;...;...;V;LIVRE;B2
+to quit (a job);quitter (un emploi);quit, quit, quit;...;VI;LIVRE;B1

@@ -1,0 +1,18 @@
+the maiden speech;le premier discours d'un député au Parlement;UK<br>"a maiden" désigne à l'origine une jeune fille, d'où le sens de "premier / inaugural";...;N;LIVRE;C1
+a whip / the Chief Whip;un/le député chargé de la discipline du parti;UK<br>"a whip" signifie un fouet (vient des piqueurs à la chasse à courre chargés de rassembler les chiens);...;N;LIVRE;C1
+a three-line whip;un ordre de vote strict et urgent;UK<br>Appel où l'obligation de siéger et voter est soulignée trois fois (infraction très grave pour le député);...;N;LIVRE;C2
+a frontbencher;un leader parlementaire / membre du gouvernement;UK<br>"a bench" signifie un banc (siègent sur les bancs de devant : ministres ou membres du Shadow Cabinet);...;N;LIVRE;B2
+a backbencher;un député de la base / sans portefeuille;UK<br>Député sans rôle officiel dans la direction du parti (siègent sur les bancs du fond);...;N;LIVRE;B2
+a crossbencher;un député indépendant / sans étiquette;UK<br>Au Parlement britannique, ils siègent sur des bancs transversaux face au Speaker;...;N;LIVRE;C1
+10 Downing Street;la résidence officielle du Premier ministre britannique;UK<br>Désigne par extension le Premier ministre et son équipe (métonymie);...;N;LIVRE;B1
+Whitehall;le gouvernement britannique;UK<br>Rue de Londres où se trouvent de nombreux ministères (désigne par extension l'administration centrale);...;N;LIVRE;B2
+"first past the post";le scrutin uninominal majoritaire à un tour;UK<br>Expression empruntée aux courses de chevaux ("le premier qui franchit le poteau d'arrivée");...;N;LIVRE;C1
+the White House;la Maison Blanche;USA<br>Résidence officielle et bureau du président américain à Washington, DC;...;N;LIVRE;A1
+the Oval Office;le bureau ovale;USA<br>Bureau officiel du président des États-Unis (situé dans l'aile ouest de la Maison Blanche);...;N;LIVRE;B1
+the Capitol;le Capitole;USA<br>Siège du Congrès américain (Sénat et Chambre des représentants) à Washington, DC;...;N;LIVRE;B1
+Checks and Balances;le système des poids et contrepoids;USA<br>Principe constitutionnel américain d'équilibre et de contrôle mutuel des trois pouvoirs;...;N;LIVRE;B2
+A litigious nation;Un peuple procédurier / une nation judiciarisée;USA<br>Qualifie une société qui recourt très facilement aux tribunaux pour régler les litiges;...;EXPR;LIVRE;C1
+a malpractice suit;un procès pour négligence professionnelle;USA<br>Intenté principalement contre des professionnels de santé (médecins, chirurgiens);...;N;LIVRE;C2
+a liability suit;un procès en responsabilité civile;USA<br>Souvent intenté par des consommateurs contre des fabricants pour des produits défectueux;...;N;LIVRE;C1
+an alimony suit;un procès pour obtenir une pension alimentaire;USA<br>Versée à un ex-conjoint après un divorce;...;N;LIVRE;C1
+a contingency fee;des honoraires de résultat;USA<br>Honoraires d'avocat calculés au prorata (pourcentage) des sommes d'argent gagnées pour le client;...;N;LIVRE;C2

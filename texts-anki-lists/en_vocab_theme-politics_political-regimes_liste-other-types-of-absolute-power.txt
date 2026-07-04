@@ -1,0 +1,28 @@
+imperialism;l’impérialisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+colonialism;colonialisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a colony;une colonie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+an empire;un empire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+an emperor, an empress;un empereur, une impératrice;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a sultan;un sultan;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+an emir;un émir;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a sheikh;un cheik;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a warlord;un seigneur de guerre;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+despotism;le despotisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a despot;un despote;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+tyranny;la tyrannie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a tyrant;un tyran;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a dictatorship;une dictature;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a dictator;un dictateur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a military junta;une junte militaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a coup;un coup d’État;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+to foment/attempt a coup;fomenter/faire une tentative de coup d’État;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a coupster;un participant à un coup d’État;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a putsch;un putsch;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a putschist;un putschiste;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+a police state;un État policier;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+the state police;la police d’État;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+full powers;les pleins pouvoirs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+imperial;impérial;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+tyrannic(al);tyrannique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+dictatorial;dictatorial;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power
+totalitarian;totalitaire;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Other-Types-of-Absolute-Power

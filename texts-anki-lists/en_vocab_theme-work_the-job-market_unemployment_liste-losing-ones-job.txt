@@ -1,0 +1,24 @@
+short-time working;le chômage partiel;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+overmanning;les sureffectifs;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+restructuring;la restructuration;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+staff reductions;la compression de personnel;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+downsizing, streamlining<br><br>Exemple :<br>Réduction de la taille d'une entreprise;le « dégraissage » (des effectifs);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+job cuts;les réductions d’effectifs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+a tenuous job;un emploi précaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+redundancy<br><br>Exemple :<br>Spécifique au Royaume-Uni pour des raisons économiques;le licenciement économique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+a redundancy letter;une lettre de licenciement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+voluntary redundancy;le départ volontaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+lay-off;la mise en chômage technique / licenciement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+a job loss;une perte, une suppression d’emploi;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+a dismissal, a discharge<br><br>Exemple :<br>Souvent pour motif personnel ou faute;un licenciement, un renvoi;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+early retirement;la pré-retraite;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+resignation;la démission;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to reduce the staff;réduire les effectifs;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to cut down jobs;supprimer des emplois<br><br>Note :<br>cut, cut, cut;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to lay off, make (sb) redundant;licancier (quelqu’un)<br><br>Note :<br>lay, laid, laid / make, made, made;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to dismiss, discharge;renvoyer / licencier;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to fire<br><br>Exemple :<br>Familier / familier;mettre à la porte;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to pension sb off;mettre qqn à la retraite d’office;ANGLAIS::niveau::C2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to retire;prendre sa retraite;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to resign (from);démissionner;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job
+to quit (a job);quitter (un emploi)<br><br>Note :<br>quit, quit, quit;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Unemployment::Losing-Ones-Job

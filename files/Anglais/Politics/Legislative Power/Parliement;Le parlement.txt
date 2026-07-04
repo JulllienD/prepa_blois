@@ -1,0 +1,37 @@
+the parliamentary season;la saison parlementaire;...;...;N;LIVRE;C1
+a parliamentary session;une session parlementaire;...;...;N;LIVRE;B2
+a parliamentary sitting;une séance parlementaire;...;...;N;LIVRE;C1
+the agenda;l’ordre du jour;...;Ne pas confondre avec un journal intime ("diary");N;LIVRE;B1
+"my dear diary";"mon cher journal";...;Rien à voir avec l'ordre du jour, note humoristique;EXPR;LIVRE;A1
+
+the Constitution;la Constitution;...;...;N;LIVRE;B2
+a Member of Parliament (an MP);un parlementaire;...;Député à la Chambre des Communes au Royaume-Uni;N;LIVRE;B1
+parliamentary privilege;l’immunité parlementaire;...;...;N;LIVRE;C1
+a speech;un discours;...;...;N;LIVRE;A2
+a spokesman, a spokeswoman;un(e) porte-parole;...;...;N;LIVRE;B2
+a statement;une déclaration;...;...;N;LIVRE;B1
+the proceedings;les délibérations;...;Compte-rendu officiel des séances;N;LIVRE;C1
+parliamentary debates;les débats parlementaires;...;...;N;LIVRE;B2
+a discussion;une discussion;...;...;N;LIVRE;A2
+a controversy;une controverse;...;...;N;LIVRE;B2
+an issue;un sujet de débat / problème;...;...;N;LIVRE;B1
+a much-debated issue;un sujet fort controversé;...;...;N;LIVRE;B2
+a proposal;une proposition;...;...;N;LIVRE;B1
+opposition;l’opposition;...;...;N;LIVRE;B1
+a veto;un veto;...;...;N;LIVRE;B2
+an adjournment;un ajournement;...;...;N;LIVRE;C1
+a dissolution;une dissolution;...;...;N;LIVRE;C1
+
+recess;les vacances parlementaires;recess c'est aussi la récréation pour les mioches;...;N;LIVRE;B2
+to reconvene Parliament;rouvrir la session parlementaire;...;...;V;LIVRE;C1
+to summon a session;convoquer le Parlement;...;...;V;LIVRE;C1
+to be sitting;être en session;be, was/were, been;...;VI;LIVRE;B2
+to make a speech;prononcer un discours;make, made, made;...;VI;LIVRE;A2
+to state;déclarer;...;...;V;LIVRE;B1
+to debate (a proposition);démettre / débattre (d’une proposition);...;...;V;LIVRE;B2
+to discuss (a point);discuter / débattre (d’un problème);...;...;V;LIVRE;A2
+to come under discussion;faire l’objet d’un débat;come, came, come;...;VI;LIVRE;B2
+to veto;mettre son veto sur;...;...;V;LIVRE;B2
+to adjourn;ajourner;...;...;V;LIVRE;C1
+to dissolve Parliament;dissoudre l’Assemblée;...;...;V;LIVRE;C1
+to recess;suspendre la séance;...;...;V;LIVRE;B2

@@ -1,0 +1,18 @@
+the economic policy;la politique économique<br><br>Note :<br>Attention : "economical" signifie bon marché (cheap);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+taxation;l’imposition, les contributions<br><br>Note :<br>Système fiscal;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+tax(es);les impôts / taxes;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+tax levy;le prélèvement fiscal;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+income tax;l’impôt sur le revenu<br><br>Note :<br>La déclaration de revenus se dit "an income tax return";ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+property tax;l’impôt foncier;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+wealth tax;l’impôt sur la fortune;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+a tax break / cut;un avantage fiscal / réduction d'impôt;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+tax exemption;l’exonération d’impôt;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+the tax office;le fisc / centre des impôts<br><br>Note :<br>UK : "Inland Revenue" | US : "Internal Revenue";ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+a taxpayer;un contribuable;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+a tax-evader, a tax-dodger;un fraudeur fiscal;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+VAT (Value Added Tax) (UK), sales tax (US);la T.V.A.;ANGLAIS::niveau::B1 ANGLAIS::type::abrev ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+duties;les taxes douanières;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+a tax haven;un paradis fiscal<br><br>Note :<br>"a haven" signifie un refuge ou un havre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+to levy / to collect taxes;prélever / percevoir des impôts;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+to pay taxes;payer des impôts<br><br>Note :<br>pay, paid, paid;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Politics::Executive-Power::Governments::The-Budget
+to dodge / to evade taxes;frauder le fisc;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Executive-Power::Governments::The-Budget

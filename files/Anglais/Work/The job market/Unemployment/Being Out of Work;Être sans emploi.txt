@@ -1,0 +1,25 @@
+joblessness, unemployment;le chômage;...;...;N;LIVRE;B1
+youth unemployment;le chômage des jeunes;...;...;N;LIVRE;B2
+short-/long-term unemployment;le chômage de courte/longue durée;...;...;N;LIVRE;B2
+the unemployed, the jobless;les chômeurs;...;S'emploie souvent au pluriel collectif "the unemployed";N;LIVRE;B1
+the unemployment rate;le taux de chômage;...;...;N;LIVRE;B2
+redundancy compensation;une indemnité de licenciement;...;...;N;LIVRE;C1
+severance pay;une prime de licenciement;Prononciation : [ˈsevərəns];...;N;LIVRE;C1
+a golden handshake;une prime de départ;...;Généralement substantielle pour un cadre;N;LIVRE;C1
+unemployment insurance;l’assurance chômage;...;...;N;LIVRE;B2
+an unemployment fund;une caisse d’assurance-chômage;...;...;N;LIVRE;C1
+unemployment benefits;les indemnités chômage;...;...;N;LIVRE;B2
+dole (money);les allocations de chômage;Prononciation : [mʌnɪ], familier / familier;N;LIVRE;B2
+a claimant;un demandeur;...;Personne qui réclame une allocation;N;LIVRE;C1
+loss of status;la perte de statut;...;...;N;LIVRE;C1
+to compensate (for sth);indemniser, dédommager (de qqch);...;...;V;LIVRE;B2
+to ask for compensation;réclamer des indemnités;...;...;V;LIVRE;B1
+to collect unemployment benefits;toucher des allocations chômage;...;...;V;LIVRE;B2
+to be on the dole;toucher le chômage;be, was/were, been;Argot britannique;VI;LIVRE;B2
+to check in/sign on at the unemployment agency;pointer à une agence pour l’emploi;...;Prononciation : [ˈedʒənsɪ];V;LIVRE;B2
+to find a job again;retrouver un emploi;find, found, found;...;VI;LIVRE;A2
+jobless, unemployed;sans emploi, au chômage;...;...;ADJ;LIVRE;B1
+idle, inactive;inactif, désœuvré;Prononciation : [ˈaɪdl];...;ADJ;LIVRE;C1
+temporary;temporaire;...;...;ADJ;LIVRE;B1
+chronic;chronique;...;...;ADJ;LIVRE;C1
+cyclical;cyclique, conjoncturel;...;...;ADJ;LIVRE;C1

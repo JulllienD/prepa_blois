@@ -1,0 +1,25 @@
+the leisure society;la société de loisirs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+leisure time;du temps pour les loisirs<br><br>Note :<br>Prononciation : [ˈleʒə];ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+time off, free time, spare time;du temps libre;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+recreation;la détente / les loisirs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+idleness;l’oisiveté<br><br>Note :<br>Prononciation : [ˈaɪdlɪs];ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+leisure(-oriented) activities<br><br>Exemple :<br>Exemple : a leisure-oriented society;les activités de loisirs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+a pastime;un passe-temps;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+a hobby;un violon d’Ingres / un passe-temps favori;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+entertainment;les distractions, le divertissement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+holidays (UK), vacation (US)<br><br>Exemple :<br>Attention : "a holiday" au singulier peut signifier un jour férié;les vacances<br><br>Note :<br>Prononciation : [ˈhɒlədeɪz] pour "holidays";ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+a holiday maker;un vacancier;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+a sabbatical;un congé sabbatique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+retirement;la retraite<br><br>Note :<br>Prononciation : [rɪˈtaɪəmənt];ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+a retiree, a pensioner<br><br>Exemple :<br>Abréviation britannique courante : an OAP (Old Age Pensioner);un retraité<br><br>Note :<br>Prononciation : [rɪtaɪˈriː] pour "retiree";ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+a work-free society;une société sans travail;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+to do something at leisure;faire quelque chose à loisir<br><br>Note :<br>do, did, done;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+to have time on one’s hands;avoir du temps libre / ne savoir que faire de son temps<br><br>Note :<br>have, had, had;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+to go on holiday<br><br>Exemple :<br>Prononciation : [ˈhɒlədeɪ];partir en vacances<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+to retire, be a pensioner<br><br>Exemple :<br>Prononciation : [rɪˈtaɪə];prendre sa retraite;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+to take a sabbatical;prendre une année sabbatique<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+to be freed / released from work;être libéré du travail<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+leisured<br><br>Exemple :<br>Exemple : the leisured classes;privilégié, nanti<br><br>Note :<br>Prononciation : [ˈleʒəd];ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+free;libre;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+recreational;récréatif, de détente;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark
+idle;oisif / inactif<br><br>Note :<br>Prononciation : [ˈaɪdl];ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Trends::The-End-of-Work-question-mark

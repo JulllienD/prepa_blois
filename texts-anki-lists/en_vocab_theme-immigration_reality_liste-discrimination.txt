@@ -1,0 +1,26 @@
+rejection;le rejet, l’exclusion;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+xenophobia [ˌzenəˈfəʊbiə];la xénophobie;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Discrimination
+anti-immigrant feelings;des sentiments xénophobes;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Discrimination
+resentment;l’animosité, le ressentiment;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+intolerance;l’intolérance;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+racism [ˈreɪsɪzəm];le racisme;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Discrimination
+segregation;la ségrégation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+a ghetto;un ghetto;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+several ghettos;# plusieurs ghettos<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Discrimination
+an accusation;une accusation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+a scapegoat;un bouc-émissaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+a goat;# une chèvre<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+a social burden;un fardeau social;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+a clash of civilizations;un choc de civilisations;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+to discriminate;pratiquer la discrimination;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination
+to be discriminated against;être victime de discrimination;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination
+to resent;en vouloir à, ne pas supporter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination
+to look down on;mépriser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination
+to accuse (of);accuser (de);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination
+to blame sb (for);rendre qqn responsable (de);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination
+to take jobs away from;prendre l’emploi de;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination
+to segregate (from);séparer, isoler, exclure (de);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination
+discriminatory;discriminatoire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Discrimination
+resentful;amer, plein de ressentiment;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Discrimination
+intolerant;intolérant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Discrimination
+racist [ˈreɪsɪst];raciste;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Discrimination

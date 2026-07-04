@@ -1,0 +1,15 @@
+a law;une loi;...;...;N;LIVRE;A2
+a guideline;une directive / ligne directrice;...;...;N;LIVRE;B2
+a (work) contract;un contrat (de travail);...;...;N;LIVRE;A2
+a fixed-term contract;un CDD;...;...;N;LIVRE;B2
+an open-end contract;un CDI;...;...;N;LIVRE;B2
+(un)declared work;du travail (non) déclaré;...;...;N;LIVRE;B2
+moonlighting;le travail au noir;...;...;N;LIVRE;C1
+a moonlighter;un travailleur au noir;...;...;N;LIVRE;C1
+labour inspection;l'inspection du travail;...;...;N;LIVRE;B2
+
+to legislate;légiférer;...;...;V;LIVRE;C1
+to regulate;réglementer;...;...;V;LIVRE;B2
+to enforce (a law);appliquer / faire respecter (une loi);...;...;V;LIVRE;B2
+to declare;déclarer;...;...;V;LIVRE;B1
+to moonlight, to work on the sly;travailler au noir;...;...;V;LIVRE;C1

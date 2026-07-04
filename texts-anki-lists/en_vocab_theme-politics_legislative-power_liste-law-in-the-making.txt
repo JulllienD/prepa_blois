@@ -1,0 +1,33 @@
+Law commission;la commission des Lois;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a lawgiver, a legislator (UK) a lawmaker (US);un législateur;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a draft;un avant-projet de loi;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a bill;un projet de loi;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a reform;une réforme;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a law;une loi;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a law against (smoking);une loi interdisant (de fumer);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a law on (crime);une loi sur (la délinquance);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+an Act of Parliament<br><br>Exemple :<br>Devient un "Act" une fois voté et signé;une loi (adoptée par le Parlement);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a motion;une motion, une proposition;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a motion of censure;une motion de censure;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+an article<br><br>Exemple :<br>D'une loi ou d'un traité;un article;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a provision<br><br>Exemple :<br>Clause ou mesure d'une loi;une disposition;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+an amendment;un amendement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a decree;un décret;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+an ordinance, an order;une ordonnance, un arrêté;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a lobby / a pressure group;un lobby, un groupe de pression;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+lobbying;le lobbying;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a lobby<br><br>Exemple :<br>Sens architectural d'origine où l'on abordait les élus;un couloir;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+a petition;une requête, une pétition;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+the repeal of a law;l’abrogation d’une loi;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to draft a law / bill;rédiger un avant-projet de loi;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to sponsor a bill<br><br>Exemple :<br>Présenter officiellement un texte au vote;introduire un projet de loi;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to take a vote;procéder à un vote<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to pass a bill / law;adopter un projet de loi / une loi;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to amend;amender / modifier;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to present a petition (to);soumettre une demande / pétition (à);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to oppose a bill;s’opposer à un projet de loi;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to filibuster<br><br>Exemple :<br>Technique de blocage par des discours interminables;faire de l’obstruction parlementaire;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to defeat a bill;rejeter un projet de loi;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to withdraw a bill;retirer un projet de loi<br><br>Note :<br>withdraw, withdrew, withdrawn;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to lobby;faire pression;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making
+to repeal a law;abroger une loi;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Law-in-the-Making

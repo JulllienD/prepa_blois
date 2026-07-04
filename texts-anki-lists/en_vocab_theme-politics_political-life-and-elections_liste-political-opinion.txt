@@ -1,0 +1,38 @@
+a political leaning;une tendance / inclinaison politique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+a stance, a position;une position, une opinion;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+the left wing;la gauche<br><br>Note :<br>"wing" signifie l'aile;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+the right wing;la droite;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+the centre;le centre<br><br>Note :<br>Orthographe US : "center";ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+a sympathizer;un sympathisant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+support;un soutien<br><br>Note :<br>Nom indénombrable;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+approval/disapproval;l’approbation / la désapprobation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+agreement/disagreement;l’accord / le désaccord;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+a complaint;une doléance / plainte;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+a clash;un affrontement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+a quarrel, a bone of contention;une querelle, une pomme de discorde<br><br>Note :<br>"a bone" signifie un os;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+a hard-line approach;le jusqu’au-boutisme<br><br>Note :<br>Un partisan de cette approche est un "hard-liner" (un pur et dur);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+a swing to (the left);un virage à (gauche);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+a turnabout, a turnaround;une volte-face<br><br>Note :<br>Proche de "a U-turn" (un demi-tour);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+political dissent;la dissension politique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to advocate;préconiser / défendre;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to urge;inciter / presser<br><br>Note :<br>Prononciation : [ɜːdʒ];ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to back, to support;soutenir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to defend;défendre;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to take sides with, to side with;prendre parti pour;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to (dis)approve (of something);(dés)approuver (qqch);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to (dis)agree (with);(ne pas) être d’accord (avec);ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to dispute;contester;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to question;mettre en doute / contester<br><br>Note :<br>Prononciation : ['kwestʃən];ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to contradict;contredire;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to oppose (something);s’opposer (à quelque chose);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to complain;se plaindre;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to protest;protester;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to lodge a protest;protester solennellement;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to swing to (the right)<br><br>Exemple :<br>Le verbe est irrégulier : swing, swung, swung (balancer);virer à (droite);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to back-pedal;faire marche-arrière;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to soften an opinion;nuancer une opinion<br><br>Note :<br>De "soft" (doux);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to toughen a position;durcir une position<br><br>Note :<br>Prononciation : ['tʌfn]. De "tough" (dur);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to disown;renier, désavouer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to criticize;critiquer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to challenge;remettre en question, contester;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion
+to condemn;condamner;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Political-Opinion

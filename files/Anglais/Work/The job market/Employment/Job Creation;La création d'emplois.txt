@@ -1,0 +1,21 @@
+the public/private sector;le secteur public/privé;...;...;N;LIVRE;B1
+a field, a branch, a sector;une branche, un domaine d’activité;...;...;N;LIVRE;B1
+a job;un emploi;...;...;N;LIVRE;A1
+job offers;les offres d’emploi;...;...;N;LIVRE;A2
+an employer;un employeur;...;...;N;LIVRE;B1
+labour, the work force;la main-d’œuvre;...;...;N;LIVRE;B2
+a labour shortage;une pénurie de main-d’œuvre;...;...;N;LIVRE;C1
+a labour surplus;un excédent de main-d’œuvre;...;...;N;LIVRE;C1
+an employee;un employé;...;...;N;LIVRE;B1
+a jobholder;le titulaire d’un emploi;...;...;N;LIVRE;C1
+a wage-earner;un salarié;...;...;N;LIVRE;B2
+a self-employed person;un auto-entrepreneur / travailleur indépendant;...;...;N;LIVRE;B2
+the working population;la population active;...;...;N;LIVRE;B2
+to create/generate jobs;créer des emplois;...;...;V;LIVRE;B1
+to create job opportunities;créer des débouchés;...;...;V;LIVRE;B2
+to offer jobs;proposer des emplois;...;...;V;LIVRE;A2
+to join the labour force;arriver sur le marché de l’emploi;...;...;V;LIVRE;B2
+to start a business;monter son entreprise;...;...;V;LIVRE;B1
+overcrowded;bouché;S'emploie pour un secteur d'activité saturé;...;ADJ;LIVRE;B2
+glutted;saturé;S'emploie pour un marché de l'emploi saturé;...;ADJ;LIVRE;C1
+competitive;concurrentiel;...;...;ADJ;LIVRE;B1

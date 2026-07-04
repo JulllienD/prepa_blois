@@ -1,0 +1,46 @@
+pay, salary;la paie, le salaire;...;...;N;LIVRE;A2
+a payslip, a paysheet;un bulletin de salaire;...;...;N;LIVRE;B2
+payday;le jour de paie;...;...;N;LIVRE;B1
+backpay;un rappel de salaire;...;...;N;LIVRE;C1
+holiday with pay, paid vacation (US);les congés payés;Prononciation : [ˈhɒlədeɪ];...;N;LIVRE;B1
+a leave on full pay;un congé rémunéré;...;...;N;LIVRE;C1
+a leave without pay;un congé sans solde;...;...;N;LIVRE;C1
+a salary scale;une grille/échelle de salaires;...;...;N;LIVRE;B2
+a fee / fees;des honoraires;S'utilise pour les professions libérales (avocats, médecins);...;N;LIVRE;B2
+a commission;une commission;...;...;N;LIVRE;B2
+wages;le salaire, la paie;Souvent utilisé pour les salaires payés à la semaine ou à l'heure (ouvriers);...;N;LIVRE;B1
+a wage earner;un salarié;...;...;N;LIVRE;B2
+a (pay) rise, (pay) hike;une augmentation (de salaire);...;...;N;LIVRE;B1
+a wage increase (UK), a raise (US);une hausse de salaire;...;...;N;LIVRE;B1
+a wage / a pay freeze;un gel de salaire;...;...;N;LIVRE;C1
+the minimum wage;le salaire minimum;...;...;N;LIVRE;B1
+the income;le(s) revenu(s);...;...;N;LIVRE;B1
+gross income;le revenu brut;...;...;N;LIVRE;B2
+net income;le revenu net (imposable);...;...;N;LIVRE;B2
+disposable income;le revenu disponible;...;...;N;LIVRE;C1
+purchasing power;le pouvoir d’achat;Prononciation : [ˈpaʊə];...;N;LIVRE;B2
+
+a bonus;une prime, une gratification;Pluriel : several bonuses;...;N;LIVRE;B1
+profit-sharing;l’intéressement;...;...;N;LIVRE;C1
+fringe benefits;les avantages sociaux;...;...;N;LIVRE;C1
+a perk;un avantage en nature;Abréviation de "perquisite";...;N;LIVRE;B2
+an expense account;les frais de représentation;...;...;N;LIVRE;C1
+a company car;une voiture de fonction;...;...;N;LIVRE;B1
+a lunch voucher;un ticket-restaurant;...;...;N;LIVRE;B2
+
+to earn money;gagner de l’argent en travaillant;Ne pas confondre avec "to win money" (gagner au jeu);...;V;LIVRE;A2
+to earn one’s living (as…);gagner sa vie (comme…);...;...;V;LIVRE;B1
+to eke out a living;gagner un maigre salaire;...;...;V;LIVRE;C2
+to be/to get paid;gagner, être payé;...;...;V;LIVRE;A2
+to be paid in kind;être payé en nature;...;...;V;LIVRE;C1
+to be paid in cash;être payé en espèces;...;...;V;LIVRE;B1
+to draw/to earn a salary;toucher un salaire;...;...;V;LIVRE;B2
+to get a rise;obtenir une augmentation;...;...;V;LIVRE;B1
+to increase, to raise;augmenter;...;...;V;LIVRE;B1
+to freeze (wages);geler (les salaires);freeze, froze, frozen;...;VI;LIVRE;B2
+to keep one’s head above water;survivre tant bien que mal;...;...;EXPR;LIVRE;B2
+
+overpaid;surpayé;...;...;ADJ;LIVRE;B2
+well-paid;bien payé;...;...;ADJ;LIVRE;A2
+badly-paid;mal payé;...;...;ADJ;LIVRE;B1
+underpaid;sous-payé;...;...;ADJ;LIVRE;B2

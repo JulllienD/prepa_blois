@@ -1,0 +1,30 @@
+industrial action;la grève, l’action revendicative<br><br>Note :<br>Terme général pour désigner les mouvements de grève;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+the right to strike;le droit de grève;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a striker;un gréviste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a strike committee;un comité de grève;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a strike call;un appel à la grève;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+without advance warning;sans préavis;ANGLAIS::niveau::B2 ANGLAIS::type::expr ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a strike;une grève;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a lightning strike;une grève surprise<br><br>Note :<br>"lightning" signifie la foudre, les éclairs;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a sit-down strike;une grève sur le tas<br><br>Note :<br>De "to sit down" (s'asseoir);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a rolling strike;une grève tournante;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a wildcat strike;une grève sauvage<br><br>Note :<br>Grève déclenchée sans l'accord officiel d'un syndicat;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a general strike;une grève générale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a hunger strike;une grève de la faim;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a picket;un piquet de grève<br><br>Note :<br>Désigne aussi une personne faisant le piquet;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a picket line;les piquets de grève<br><br>Note :<br>La ligne formée par les grévistes devant l'entreprise;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a non-striker;un non-gréviste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a strikebreaker;un briseur de grève;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+a scab, a blackleg;un “jaune” / briseur de grève<br><br>Note :<br>Argot / Termes très péjoratifs;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+to give notice of strike action;déposer un préavis de grève<br><br>Note :<br>give, gave, given;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+to call a strike;lancer un appel à la grève;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+to go on strike;se mettre en grève<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+to strike, to be on strike;faire la grève<br><br>Note :<br>strike, struck, struck / be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+to lead a strike;mener une grève<br><br>Note :<br>lead, led, led;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+to break a strike;briser une grève<br><br>Note :<br>break, broke, broken;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+to picket (a factory);placer des piquets de grève (devant une usine);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+indefinite;illimité<br><br>Note :<br>S'emploie souvent pour "an indefinite strike" (une grève illimitée);ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+sudden, unexpected;soudain, inattendu;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+determined;décidé, déterminé;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+entrenched;campé sur ses positions;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike
+strikebound;paralysé par la grève;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Industrial-Relations::Going-on-Strike

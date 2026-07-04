@@ -1,0 +1,12 @@
+the Prime Minister (PM);le Premier ministre;...;...;ABREV;LIVRE;A2
+the Cabinet;le Cabinet;Le conseil des ministres restreint;...;N;LIVRE;B2
+the Lord Chancellor;le ministre de la Justice;Spécifique au système britannique;...;N;LIVRE;C1
+the Lord Chancellor’s Office;le ministère de la Justice;...;...;N;LIVRE;C1
+the Chancellor of the Exchequer;le chancelier de l’Échiquier;Équivalent britannique du ministre des Finances;...;N;LIVRE;C1
+the Treasury;le Trésor;...;...;N;LIVRE;B2
+the Foreign Office;le ministère des Affaires étrangères;Prononciation : [ˈfɒrən] pour Foreign;...;N;LIVRE;B2
+the Department of Health;le ministère de la Santé;Prononciation : [helθ];...;N;LIVRE;B1
+the Home Secretary;le ministre de l’Intérieur;Prononciation : [ˈsəkrətri] pour Secretary;...;N;LIVRE;B2
+the Home Office;le ministère de l’Intérieur;...;...;N;LIVRE;B2
+the Shadow Cabinet;le Cabinet fantôme;"a shadow" signifie une ombre (Cabinet formé par l'opposition);...;N;LIVRE;C1
+the Shadow Foreign Secretary;le porte-parole de l’opposition sur les affaires étrangères;...;...;N;LIVRE;C1

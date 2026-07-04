@@ -1,0 +1,46 @@
+a monarch, a sovereign;un monarque, un souverain;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the Royal Family;la famille royale;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a king, a queen;un roi, une reine;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+His/Her Royal Majesty;Son Altesse Royale;ANGLAIS::niveau::B2 ANGLAIS::type::expr ANGLAIS::Politics::Political-Regimes::Monarchy
+a kingdom;un royaume;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a realm<br><br>Exemple :<br>Souvent au sens figuré;un royaume;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+royalty;la royauté;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a coronation;un couronnement, un sacre;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the Crown;la Couronne;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the throne;le trône;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the sceptre;le sceptre;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the reign;le règne;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+abdication;l’abdication;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+deposition<br><br>Exemple :<br>Ne pas confondre avec "destitution" en français (dénuement);la destitution;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+destitution<br><br>Exemple :<br>En anglais, signifie la pauvreté extrême;le dénuement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a prince, a princess;un prince, une princesse;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the heir apparent;l’héritier présomptif;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the heiress;l’héritière;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a duke, a duchess;un duc, une duchesse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a count/an earl, a countess<br><br>Exemple :<br>"Earl" s'utilise pour la noblesse britannique;un comte, une comtesse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a baron, a baroness;un baron, une baronne;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a peer<br><br>Exemple :<br>Membre de la haute noblesse;un pair;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+peerage;la pairie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+an aristocrat;un aristocrate;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the aristocracy;l’aristocratie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a nobleman, a noblewoman;un noble, une noble;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the nobility;la noblesse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+the gentry;la petite noblesse;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a lord;un seigneur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+my Lord;mon Seigneur;ANGLAIS::niveau::B2 ANGLAIS::type::expr ANGLAIS::Politics::Political-Regimes::Monarchy
+the Lord;le Seigneur (Dieu);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a lady;une dame;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+milady (my lady);votre grâce;ANGLAIS::niveau::B2 ANGLAIS::type::expr ANGLAIS::Politics::Political-Regimes::Monarchy
+a squire;un châtelain;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+a subject<br><br>Exemple :<br>Ressortissant d'une monarchie;un sujet;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Monarchy
+to reign (over);régner (sur);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Regimes::Monarchy
+to abdicate;abdiquer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Regimes::Monarchy
+to usurp;usurper;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Regimes::Monarchy
+to succeed somebody;succéder à quelqu’un;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Regimes::Monarchy
+to depose (a king);déposer, détrôner (un roi);ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Regimes::Monarchy
+royal;royal, du roi;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Monarchy
+regal;royal, majestueux;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Monarchy
+kingly;royal, d’apparence royale;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Monarchy
+aristocratic;aristocratique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Monarchy
+noble;noble;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Monarchy
+by divine right;de droit divin;ANGLAIS::niveau::C1 ANGLAIS::type::expr ANGLAIS::Politics::Political-Regimes::Monarchy

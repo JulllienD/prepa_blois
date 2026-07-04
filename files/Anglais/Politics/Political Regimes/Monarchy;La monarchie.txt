@@ -1,0 +1,48 @@
+a monarch, a sovereign;un monarque, un souverain;...;...;N;LIVRE;B2
+the Royal Family;la famille royale;...;...;N;LIVRE;A2
+a king, a queen;un roi, une reine;...;...;N;LIVRE;A2
+His/Her Royal Majesty;Son Altesse Royale;...;...;EXPR;LIVRE;B2
+a kingdom;un royaume;...;...;N;LIVRE;B1
+a realm;un royaume;...;Souvent au sens figuré;N;LIVRE;C1
+royalty;la royauté;...;...;N;LIVRE;B2
+a coronation;un couronnement, un sacre;...;...;N;LIVRE;C1
+the Crown;la Couronne;...;...;N;LIVRE;B2
+the throne;le trône;...;...;N;LIVRE;B2
+the sceptre;le sceptre;...;...;N;LIVRE;C2
+the reign;le règne;...;...;N;LIVRE;B2
+abdication;l’abdication;...;...;N;LIVRE;C1
+deposition;la destitution;...;Ne pas confondre avec "destitution" en français (dénuement);N;LIVRE;C1
+destitution;le dénuement;...;En anglais, signifie la pauvreté extrême;N;LIVRE;C1
+a prince, a princess;un prince, une princesse;...;...;N;LIVRE;A2
+the heir apparent;l’héritier présomptif;...;...;N;LIVRE;C1
+the heiress;l’héritière;...;...;N;LIVRE;C1
+a duke, a duchess;un duc, une duchesse;...;...;N;LIVRE;B2
+a count/an earl, a countess;un comte, une comtesse;...;"Earl" s'utilise pour la noblesse britannique;N;LIVRE;B2
+a baron, a baroness;un baron, une baronne;...;...;N;LIVRE;B2
+a peer;un pair;...;Membre de la haute noblesse;N;LIVRE;C1
+peerage;la pairie;...;...;N;LIVRE;C1
+an aristocrat;un aristocrate;...;...;N;LIVRE;B2
+the aristocracy;l’aristocratie;...;...;N;LIVRE;B2
+a nobleman, a noblewoman;un noble, une noble;...;...;N;LIVRE;B2
+the nobility;la noblesse;...;...;N;LIVRE;B2
+the gentry;la petite noblesse;...;...;N;LIVRE;C1
+a lord;un seigneur;...;...;N;LIVRE;B1
+my Lord;mon Seigneur;...;...;EXPR;LIVRE;B2
+the Lord;le Seigneur (Dieu);...;...;N;LIVRE;B1
+a lady;une dame;...;...;N;LIVRE;A2
+milady (my lady);votre grâce;...;...;EXPR;LIVRE;B2
+a squire;un châtelain;...;...;N;LIVRE;C1
+a subject;un sujet;...;Ressortissant d'une monarchie;N;LIVRE;B1
+
+to reign (over);régner (sur);...;...;V;LIVRE;B2
+to abdicate;abdiquer;...;...;V;LIVRE;C1
+to usurp;usurper;...;...;V;LIVRE;C1
+to succeed somebody;succéder à quelqu’un;...;...;V;LIVRE;B1
+to depose (a king);déposer, détrôner (un roi);...;...;V;LIVRE;C1
+
+royal;royal, du roi;...;...;ADJ;LIVRE;A2
+regal;royal, majestueux;...;...;ADJ;LIVRE;C1
+kingly;royal, d’apparence royale;...;...;ADJ;LIVRE;C1
+aristocratic;aristocratique;...;...;ADJ;LIVRE;B2
+noble;noble;...;...;ADJ;LIVRE;B1
+by divine right;de droit divin;...;...;EXPR;LIVRE;C1

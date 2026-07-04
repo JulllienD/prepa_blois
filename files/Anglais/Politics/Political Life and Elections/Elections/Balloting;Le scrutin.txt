@@ -1,0 +1,49 @@
+the electorate;l’électorat;...;...;N;LIVRE;B2
+an electoral roll;une liste électorale;...;...;N;LIVRE;C1
+a constituent;un électeur de la circonscription;...;...;N;LIVRE;C1
+a voter;un électeur;...;...;N;LIVRE;A2
+an abstainer;un abstentionniste;...;...;N;LIVRE;C1
+the voting age;l’âge légal autorisant à voter;...;...;N;LIVRE;B1
+a vote;un vote, un suffrage, une voix;...;...;N;LIVRE;A1
+a proxy vote;un vote par procuration;...;...;N;LIVRE;B2
+a useful vote;un vote utile;...;...;N;LIVRE;B2
+a protest vote;un vote de protestation;"protest" signifie la contestation;...;N;LIVRE;B2
+a blank vote;un vote blanc;...;...;N;LIVRE;B2
+the first / second ballot;le 1er / 2nd tour (de scrutin);...;...;N;LIVRE;B2
+a round of voting / balloting;un tour de scrutin;...;...;N;LIVRE;B2
+the first round (of elections) / ballot;le premier tour (de scrutin);...;...;N;LIVRE;B2
+the run-off / the second round;le second tour;"the run-off" désigne la finale / le tour décisif;...;N;LIVRE;B2
+a ballot (paper);un bulletin de vote;...;...;N;LIVRE;B1
+a voting booth / polling booth (Brit.);un isoloir;...;...;N;LIVRE;B2
+a ballot box;une urne (électorale);...;...;N;LIVRE;B1
+the counting (of the votes);le dépouillement;...;...;N;LIVRE;B1
+the turnout;la participation / le taux de participation;...;...;N;LIVRE;B2
+abstention;l’abstention;...;...;N;LIVRE;B2
+the abstention rate;le taux d’abstention;...;...;N;LIVRE;B2
+over-representation;la sur-représentation;...;...;N;LIVRE;C1
+under-representation;la sous-représentation;...;...;N;LIVRE;C1
+electoral fraud;la fraude électorale;Prononciation : [frɔːd];...;N;LIVRE;C1
+a (landslide) victory;une victoire (écrasante);"a landslide" désigne à l'origine un glissement de terrain;...;N;LIVRE;B2
+a defeat;une défaite;...;...;N;LIVRE;B1
+relative majority;la majorité relative;...;...;N;LIVRE;C1
+overall / absolute majority;la majorité absolue;...;...;N;LIVRE;B2
+the silent majority;la majorité silencieuse;...;...;N;LIVRE;B2
+to be on the electoral roll / be registered to vote;être inscrit sur les listes électorales;be, was/were, been;...;VI;LIVRE;B2
+to take a ballot;procéder à un scrutin;take, took, taken;...;VI;LIVRE;C1
+to vote by proxy;voter par procuration;...;...;V;LIVRE;B2
+to go to the polls;aller aux urnes;go, went, gone;...;VI;LIVRE;B1
+to turn out;participer / se déplacer pour voter;...;...;V;LIVRE;B2
+to choose;choisir;choose, chose, chosen;...;VI;LIVRE;A1
+to elect;élire;...;...;V;LIVRE;B1
+to abstain;être abstentionniste / s'abstenir;...;...;V;LIVRE;B2
+to rig;truquer;...;Double la consonne : rigging, rigged;V;LIVRE;C1
+to bribe;soudoyer, suborner;...;...;V;LIVRE;B2
+to stuff ballot boxes;bourrer les urnes;"to stuff" signifie remplir, garnir;...;V;LIVRE;C1
+to gag the opposition;bâillonner l’opposition;"a gag" signifie un bâillon;...;V;LIVRE;C1
+to supervise, monitor;superviser, contrôler;...;...;V;LIVRE;B2
+to invalidate;invalider;...;...;V;LIVRE;C1
+to obtain a majority;obtenir la majorité;...;...;V;LIVRE;B2
+to win (over) 50% of the votes;remporter (+ de) 50 % des voix;win, won, won;...;VI;LIVRE;B1
+to win the election;remporter les élections;win, won, won;...;VI;LIVRE;B1
+to win office;être élu à un poste;win, won, won;...;VI;LIVRE;B2
+to come into office / power;arriver au pouvoir;come, came, come;...;VI;LIVRE;B1

@@ -1,0 +1,39 @@
+a government||un gouvernement
+----------
+a statesman||un homme d’État
+----------
+a head of state||un chef d’État
+----------
+a leader, a ruler||un dirigeant
+----------
+a president||un président
+----------
+a citizen||un citoyen
+----------
+a national||un ressortissant
+----------
+a country||un pays
+----------
+a nation||une nation
+----------
+a nation-state||un Etat-nation
+----------
+a (con)federation||une (con)fédération
+----------
+an institution||une institution
+----------
+to govern||gouverner
+----------
+to rule/lead/run a country||diriger/gouverner un pays
+
+Note : rule, ruled, ruled / lead, led, led / run, ran, run
+----------
+national||national
+----------
+(con)federal||(con)fédéral
+----------
+(con)federate||(con)fédéré
+----------
+in power||en place, au pouvoir
+----------
+institutional||institutionnel

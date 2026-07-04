@@ -1,0 +1,52 @@
+difference;la différence;...;...;V;LIVRE;A2
+otherness;l’altérité;...;...;N;LIVRE;C1
+variety;la variété;...;...;N;LIVRE;B2
+a medley, a mix;un mélange;...;...;N;LIVRE;C1
+a mosaic;une mosaïque;...;...;N;LIVRE;B1
+a melting-pot;un creuset;...;...;N;LIVRE;B1
+a multi-cultural society;une société multi-culturelle;...;...;N;LIVRE;B1
+the heritage of immigration;l’héritage de l’immigration;...;...;N;LIVRE;B1
+an asset;un atout;...;...;N;LIVRE;B1
+openness;l’ouverture d’esprit;...;...;N;LIVRE;B2
+a mixed marriage;un mariage mixte;...;...;N;LIVRE;B1
+a half-blood;un/une métisse;Terme parfois jugé vieilli ou très littéraire/péjoratif selon le contexte.;...;N;LIVRE;B1
+borrowing;un emprunt (style, coutume);...;...;N;LIVRE;B2
+an ethnic restaurant;un restaurant exotique;...;...;N;LIVRE;B1
+
+ethnic food;la nourriture exotique;...;...;A;LIVRE;B2
+exoticism;l’exotisme;...;...;N;LIVRE;B2
+a cultural background;un arrière-plan culturel;...;...;N;LIVRE;B1
+origin;l’origine;...;...;N;LIVRE;B2
+an ancestor;un ancêtre;...;...;N;LIVRE;B1
+ancestry;les ancêtres, les aïeux;...;...;N;LIVRE;B2
+a foreign-born person;une personne d’origine étrangère;...;...;N;LIVRE;B1
+a native;un natif, qqn né dans le pays;...;...;N;LIVRE;B1
+
+differ (from);différer, être différent (de);...;...;V;LIVRE;B1
+stand out;se distinguer, ne pas passer inaperçu;stand, stood, stood;...;VI;LIVRE;B1
+look different;paraître différent;...;...;V;LIVRE;B1
+be of foreign origin;être d’origine étrangère;...;...;V;LIVRE;B1
+be torn between two cultures;être partagé entre deux cultures;...;...;V;LIVRE;B1
+tear;déchirer;tear, tore, torn;...;VI;LIVRE;B1
+stick to one’s ways;s’accrocher à ses coutumes;...;...;V;LIVRE;B1
+ways;les coutumes;...;...;N;LIVRE;B2
+value;apprécier;...;...;V;LIVRE;B1
+reconcile;concilier;...;...;V;LIVRE;B1
+be enriched;s’enrichir;...;...;V;LIVRE;B1
+
+different;différent;...;...;ADJ;LIVRE;B2
+other;autre;...;...;ADJ;LIVRE;A2
+diverse, varied;divers, varié;...;...;ADJ;LIVRE;B2
+multifarious;d’une grande variété;...;...;ADJ;LIVRE;C1
+ethnic;ethnique;...;...;ADJ;LIVRE;B2
+multi-cultural;multi-culturel;...;...;ADJ;LIVRE;B2
+exotic;exotic;...;...;ADJ;LIVRE;B2
+outlandish;bizarre, peu habituel;...;...;ADJ;LIVRE;C1
+unusual;inhabituel;...;...;ADJ;LIVRE;B2
+respectful;respectueux;...;...;ADJ;LIVRE;B2
+understanding;compréhensif;...;...;ADJ;LIVRE;B2
+open-minded;à l’esprit ouvert, sans préjugés;...;...;ADJ;LIVRE;B2
+native;natal;...;...;ADJ;LIVRE;B2
+foreign-born;d’origine étrangère;...;...;ADJ;LIVRE;B2
+first-generation;de la première génération;...;...;ADJ;LIVRE;B2
+second-generation;de la seconde génération;...;...;ADJ;LIVRE;B2

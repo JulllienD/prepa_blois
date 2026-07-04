@@ -1,0 +1,30 @@
+the government;le gouvernement;Majuscule aux USA : "the Administration";...;N;LIVRE;A2
+a majority / minority government;un gouvernement majoritaire / minoritaire;...;...;N;LIVRE;C1
+the executive;l’exécutif;Désigne le pouvoir ou l'organe dirigeant;...;N;LIVRE;B2
+a minister;un ministre;Aux USA, on utilise "a secretary";...;N;LIVRE;B1
+a State Secretary;un Secrétaire d’Etat;En France / UK, rang inférieur à un ministre;...;N;LIVRE;B2
+a governor (US);un gouverneur;Dirigeant d'un État fédéré américain;...;N;LIVRE;B2
+local government;l’administration locale;...;...;N;LIVRE;B1
+decentralization;la décentralisation;...;...;N;LIVRE;B2
+regionalization;la régionalisation;...;...;N;LIVRE;C1
+a county / regional council;un conseil régional;...;...;N;LIVRE;B2
+the local authorities;les autorités locales;...;...;N;LIVRE;B1
+the town hall;la mairie, l’hôtel de ville;Aux USA : "the city hall";...;N;LIVRE;A2
+a mayor;un maire;Prononciation : [ˈmeə];...;N;LIVRE;B1
+the town council;le conseil municipal;Aux USA : "the municipal corporation";...;N;LIVRE;B1
+a town councillor;un conseiller municipal;Aux USA : "a city councilman / councilwoman";...;N;LIVRE;B2
+an assembly;une assemblée;...;...;N;LIVRE;B1
+a meeting;une réunion;...;...;N;LIVRE;A1
+a committee;un comité;...;...;N;LIVRE;B1
+a commission;une commission;...;...;N;LIVRE;B2
+a government employee;un fonctionnaire;Terme général;...;N;LIVRE;B1
+a (senior) civil servant, a (top) government official;un (haut) fonctionnaire;...;...;N;LIVRE;B2
+an appointment;une nomination;...;...;N;LIVRE;B2
+a reshuffle;un remaniement;Notamment ministériel;...;N;LIVRE;C1
+a policy;une politique;Ligne d'action / programme (ne pas confondre avec "politics");...;N;LIVRE;B1
+to run a government;diriger un gouvernement;run, ran, run;...;VI;LIVRE;B2
+to appoint;nommer;...;...;V;LIVRE;B2
+to enter / to join the government;entre au gouvernement;...;...;V;LIVRE;B1
+to reshuffle;remanier;...;...;V;LIVRE;C1
+to dismiss a minister;limoger un ministre;...;...;V;LIVRE;C1
+to resign;se retirer, démissionner;...;...;V;LIVRE;B2

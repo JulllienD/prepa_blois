@@ -1,0 +1,17 @@
+national migrations;les flux migratoires nationaux;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+a migrant worker;un travailleur immigré / migrant;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+rural exodus;l’exode rural<br><br>Note :<br>Prononciation : [ˈeksədəs];ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+the drift to towns;la migration vers les villes<br><br>Note :<br>"drift" signifie dériver;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+a demand for labour;un appel de main d’œuvre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+seasonal migrations;les migrations saisonnières;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+a seasonal worker;un travailleur saisonnier;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+commuting;les migrations quotidiennes<br><br>Note :<br>Fait de faire les trajets quotidiens domicile-travail;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+a commuter;un travailleur de banlieue / effectuant un trajet régulier;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+relocation;la délocalisation<br><br>Note :<br>Action de déplacer une activité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+a transfer, a re-assignment;une mutation<br><br>Note :<br>Dans le cadre professionnel;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Trends::Work-Migrations
+to migrate;migrer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::Trends::Work-Migrations
+to commute;faire le trajet domicile-travail;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Trends::Work-Migrations
+to relocalize;délocaliser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Trends::Work-Migrations
+to transfer, move, re-assign;muter / déplacer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Trends::Work-Migrations
+migratory;migratoire<br><br>Note :<br>Prononciation : [ˈmaɪgrətri];ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::Trends::Work-Migrations
+temporary;temporaire<br><br>Note :<br>Prononciation : [ˈtempərəri];ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Work::Trends::Work-Migrations

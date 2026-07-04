@@ -1,0 +1,18 @@
+direct democracy;la démocratie directe;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+representative democracy;la démocratie représentative;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+a people’s republic/democracy;une république/démocratie populaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+legitimacy;la légitimité;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+separation of powers;la séparation des pouvoirs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+pluralism;le pluralisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+the constitution;la constitution;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+human rights;les droits de l’homme;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+civil rights;les droits civiques;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+liberty, freedom;la liberté;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+equality;l’égalité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+fraternity;la fraternité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+a Democrat;un démocrate;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+a Republican;un républicain;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+democratic;démocratique;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+republican;républicain;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+presidential;présidentiel;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic
+legitimate;légitime;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::Democracy-and-Republic

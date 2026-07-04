@@ -1,0 +1,17 @@
+The British Parliament;Le parlement britannique;...;...;DEF;LIVRE;B1
+the House of Commons;la Chambre des communes;Chambre basse du Parlement britannique;...;N;LIVRE;B2
+the House of Lords;la Chambre des Lords;Chambre haute du Parlement britannique;...;N;LIVRE;B2
+a Lord, a Peer;un Lord, un Pair;...;...;N;LIVRE;B2
+
+The American Parliament;Le parlement américain;...;...;DEF;LIVRE;B1
+Congress;le Congrès;...;Pouvoir législatif américain (Sénat + Chambre);N;LIVRE;B1
+a Congressman / Congresswoman;un membre du Congrès;Généralement membre de la Chambre des Représentants;...;N;LIVRE;B2
+the House of Representatives;la Chambre des députés / représentants;Chambre basse du Congrès américain;...;N;LIVRE;B2
+a Representative;un représentant;Député américain;...;N;LIVRE;B2
+the Senate;le Sénat;Chambre haute aux États-Unis et en France;...;N;LIVRE;B2
+a Senator;un sénateur;...;...;N;LIVRE;B2
+
+The French Parliament;Le parlement français;...;...;DEF;LIVRE;B1
+the Chamber of Deputies;la Chambre des députés;Nom historique ou générique;...;N;LIVRE;B2
+a deputy;un député;...;...;N;LIVRE;B2
+the National Assembly;l’Assemblée nationale;Chambre basse du Parlement français;...;N;LIVRE;B2

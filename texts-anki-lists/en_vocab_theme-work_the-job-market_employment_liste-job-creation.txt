@@ -1,0 +1,21 @@
+the public/private sector;le secteur public/privé;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+a field, a branch, a sector;une branche, un domaine d’activité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+a job;un emploi;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+job offers;les offres d’emploi;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+an employer;un employeur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+labour, the work force;la main-d’œuvre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+a labour shortage;une pénurie de main-d’œuvre;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+a labour surplus;un excédent de main-d’œuvre;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+an employee;un employé;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+a jobholder;le titulaire d’un emploi;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+a wage-earner;un salarié;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+a self-employed person;un auto-entrepreneur / travailleur indépendant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+the working population;la population active;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Job-Creation
+to create/generate jobs;créer des emplois;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Job-Creation
+to create job opportunities;créer des débouchés;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Job-Creation
+to offer jobs;proposer des emplois;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Job-Creation
+to join the labour force;arriver sur le marché de l’emploi;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Job-Creation
+to start a business;monter son entreprise;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Job-Creation
+overcrowded;bouché<br><br>Note :<br>S'emploie pour un secteur d'activité saturé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Employment::Job-Creation
+glutted;saturé<br><br>Note :<br>S'emploie pour un marché de l'emploi saturé;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Employment::Job-Creation
+competitive;concurrentiel;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Employment::Job-Creation

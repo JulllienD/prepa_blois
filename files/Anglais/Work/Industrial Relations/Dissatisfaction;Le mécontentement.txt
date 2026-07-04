@@ -1,0 +1,22 @@
+labour unrest;le mécontentement des travailleurs;...;...;N;LIVRE;C1
+social discontent;le mécontentement social;...;...;N;LIVRE;B2
+an industrial dispute (UK), a labor dispute (US);un conflit social;...;...;N;LIVRE;B2
+a grievance;un grief, une doléance;...;...;N;LIVRE;C1
+a claim;une revendication;...;...;N;LIVRE;B1
+a shorter working week;une réduction du temps de travail;...;...;N;LIVRE;B1
+(better) working conditions;(de meilleures) conditions de travail;...;...;N;LIVRE;A2
+(more) safety regulations;(davantage de) consignes de sécurité;...;...;N;LIVRE;B2
+a wage demand;une revendication salariale;...;...;N;LIVRE;B2
+improved pay, a wage increase;une augmentation de salaire;...;...;N;LIVRE;B1
+a deadline;une date limite;...;...;N;LIVRE;B1
+a deadlock;une impasse;...;...;N;LIVRE;C1
+
+to be dissatisfied;être insatisfait, mécontent;be, was/were, been;...;VI;LIVRE;B2
+to disagree with somebody;ne pas être d’accord avec quelqu'un;...;...;V;LIVRE;A2
+to disapprove of something;ne pas être d’accord avec / désapprouver quelque chose;...;...;V;LIVRE;B2
+to claim;réclamer, revendiquer;Attention : "a demand" = une exigence;...;V;LIVRE;B1
+to demand;exiger;...;...;V;LIVRE;B1
+to meet demands;satisfaire les revendications;meet, met, met;...;VI;LIVRE;B2
+to arbitrate;arbitrer;...;...;V;LIVRE;C1
+to reach a deadlock;aboutir à une impasse;...;...;V;LIVRE;C1
+to break off negotiations;quitter la table des négociations;break, broke, broken;"to break off" signifie interrompre;VI;LIVRE;C1

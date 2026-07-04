@@ -1,0 +1,26 @@
+rejection;le rejet, l’exclusion;...;...;N;LIVRE;B2
+xenophobia [ˌzenəˈfəʊbiə];la xénophobie;...;...;A;LIVRE;B2
+anti-immigrant feelings;des sentiments xénophobes;...;...;A;LIVRE;B2
+resentment;l’animosité, le ressentiment;...;...;N;LIVRE;B2
+intolerance;l’intolérance;...;...;N;LIVRE;B2
+racism [ˈreɪsɪzəm];le racisme;...;...;A;LIVRE;B2
+segregation;la ségrégation;...;...;N;LIVRE;B2
+a ghetto;un ghetto;...;...;N;LIVRE;B1
+several ghettos;# plusieurs ghettos;Note additionnelle ou faux-ami;...;A;LIVRE;B2
+an accusation;une accusation;...;...;N;LIVRE;B1
+a scapegoat;un bouc-émissaire;...;...;N;LIVRE;B1
+a goat;# une chèvre;Note additionnelle ou faux-ami;...;N;LIVRE;B2
+a social burden;un fardeau social;...;...;N;LIVRE;B1
+a clash of civilizations;un choc de civilisations;...;...;N;LIVRE;B1
+to discriminate;pratiquer la discrimination;...;...;V;LIVRE;B1
+to be discriminated against;être victime de discrimination;...;...;V;LIVRE;B1
+to resent;en vouloir à, ne pas supporter;...;...;V;LIVRE;B1
+to look down on;mépriser;...;...;V;LIVRE;B1
+to accuse (of);accuser (de);...;...;V;LIVRE;B1
+to blame sb (for);rendre qqn responsable (de);...;...;V;LIVRE;B1
+to take jobs away from;prendre l’emploi de;...;...;V;LIVRE;B1
+to segregate (from);séparer, isoler, exclure (de);...;...;V;LIVRE;B1
+discriminatory;discriminatoire;...;...;ADJ;LIVRE;B2
+resentful;amer, plein de ressentiment;...;...;ADJ;LIVRE;B2
+intolerant;intolérant;...;...;ADJ;LIVRE;B2
+racist [ˈreɪsɪst];raciste;...;...;A;LIVRE;B2

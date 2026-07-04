@@ -1,0 +1,14 @@
+an occupation;une profession;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+the professions;les professions libérales;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+a post, a position;un poste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+a career;une carrière;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+an executive;un cadre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+a top executive;un cadre supérieur;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+a freelance;un travailleur indépendant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+to have a job;exercer un métier;ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+to be employed (in a company);travailler (pour une entreprise)<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+to work (as);travailler (comme);ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+to hold a post/a position (as…);occuper un poste (en qualité de…)<br><br>Note :<br>hold, held, held;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+to be in charge of;être responsable de<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+to earn a living;gagner sa vie;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Being-in-Work
+to be at work;être au travail<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Being-in-Work

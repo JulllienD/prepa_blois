@@ -1,0 +1,21 @@
+a (trade) union (UK), a labor union (US);un syndicat<br><br>Note :<br>Attention : "The Syndicate" désigne la Mafia / un réseau criminel, comme dans Mission Impossible Rogue Nation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+a spokesperson (for);un porte-parole (de);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+the union movement;le mouvement syndical;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+unionization;la syndicalisation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+a union member;un travailleur syndiqué;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+a trade-unionist;un syndicaliste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+the shop-floor;les ouvriers<br><br>Note :<br>Désigne l'usine même ou la base des travailleurs par opposition à la direction;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+the shop;l'atelier<br><br>Note :<br>Dans un contexte industriel;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+the rank and file;la base<br><br>Note :<br>Les membres de base d'une organisation/syndicat;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+a union official;un responsable syndical;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+a union representative, a shop steward;un délégué syndical;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+a union leader;un dirigeant syndical;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+union fees;la cotisation syndicale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+a non-union worker;un ouvrier non syndiqué;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Unionism
+to unionize;(se) syndiquer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Unionism
+to join a union;adhérer à un syndicat;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Unionism
+to protect rights;préserver les droits;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Unionism
+to represent;représenter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Unionism
+to defend;défendre;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Unionism
+to support;soutenir<br><br>Note :<br>Attention : ne signifie pas "supporter" au sens d'endurer (to bear);ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Unionism
+to back up a claim;soutenir une revendication;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Unionism

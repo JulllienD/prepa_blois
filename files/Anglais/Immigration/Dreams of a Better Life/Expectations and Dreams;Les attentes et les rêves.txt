@@ -1,0 +1,69 @@
+a hope;un espoir;...;...;N;LIVRE;B1
+a wish;un souhait;...;...;N;LIVRE;B1
+an incentive;une incitation;...;...;N;LIVRE;B1
+attraction, appeal;l’attrait;...;...;A;LIVRE;B2
+lure;l’attrait (trompeur), le leurre;...;...;A;LIVRE;B2
+aspiration;l’aspiration;...;...;A;LIVRE;B2
+yearning ['jɜːnɪŋ];le désir ardent, l’aspiration;Terme littéraire et soutenu pour un désir très fort.;...;A;LIVRE;B2
+longing;l’envie, l’aspiration;...;...;A;LIVRE;B2
+the search (for);la recherche (de);...;...;N;LIVRE;B1
+the quest (for);la quête (de);...;...;N;LIVRE;B1
+the thirst (for);la soif (de);...;...;N;LIVRE;B1
+a magnet ['mæɡnɪt];un aimant, un pôle d’attraction;...;...;N;LIVRE;B1
+freedom;la liberté;...;...;N;LIVRE;B2
+an opportunity;une occasion;...;...;N;LIVRE;B1
+an occasion;# une grande occasion;Faux-ami : 'occasion' désigne un grand événement, utiliser 'opportunity' pour une opportunité.;...;N;LIVRE;B2
+a livelihood;un gagne-pain;...;...;N;LIVRE;B1
+a shelter;un abri, un refuge;...;...;N;LIVRE;B1
+living conditions;les conditions de vie;...;...;N;LIVRE;B1
+a prospect;une perspective;...;...;N;LIVRE;B1
+education;l’éducation, la scolarisation;...;...;A;LIVRE;B2
+schooling;la scolarisation;...;...;A;LIVRE;B2
+affluence;la richesse, l’abondance;...;...;N;LIVRE;C1
+wealth;la fortune, la richesse;...;...;N;LIVRE;B2
+riches (always plural);les richesses;...;...;A;LIVRE;B2
+upward mobility;l’ascension sociale;...;...;A;LIVRE;B2
+a success story;un cas d’ascension fulgurante;...;...;N;LIVRE;B1
+a rags-to-riches story;une réussite spectaculaire;Expression idiomatique signifiant passer des haillons à la richesse.;...;N;LIVRE;B1
+rags;# des haillons;Note additionnelle ou faux-ami;...;A;LIVRE;B2
+to dream;rêver;...;...;V;LIVRE;B1
+to fulfil a dream;réaliser un rêve;...;...;V;LIVRE;B1
+to expect (something);s’attendre à (quelque chose);...;...;V;LIVRE;B1
+to meet expectations;satisfaire des attentes;...;...;V;LIVRE;B1
+to hope;espérer;...;...;V;LIVRE;B1
+to wish for something;souhaiter avoir quelque chose;...;...;V;LIVRE;B1
+to aspire (to) [ə'spaɪə];aspirer (à);...;...;V;LIVRE;B1
+to yearn for;désirer;...;...;V;LIVRE;B1
+to long for;désirer, aspirer à;...;...;V;LIVRE;B1
+to be attracted (to);être attiré (par);...;...;V;LIVRE;B1
+to have access to;avoir accès à;...;...;V;LIVRE;B1
+to earn a living;gagner sa vie;...;...;V;LIVRE;B1
+to provide for one’s family;satisfaire les besoins de sa famille;...;...;V;LIVRE;B1
+to seek refuge;chercher refuge;...;...;VI;LIVRE;B1
+seek, sought, sought;# chercher (verbe irrégulier);Note additionnelle ou faux-ami;...;VI;LIVRE;B2
+to find shelter;trouver refuge;...;...;V;LIVRE;B1
+to feed;nourrir;...;...;V;LIVRE;B1
+to educate;éduquer;...;...;V;LIVRE;B1
+to improve;améliorer;...;...;V;LIVRE;B1
+to become / to get rich;s’enrichir;...;...;V;LIVRE;B1
+to rise;s’élever;...;...;V;LIVRE;B1
+to work one’s way up;s’élever socialement;...;...;V;LIVRE;B1
+to dig for gold;chercher de l’or (en creusant);...;...;VI;LIVRE;B1
+dig, dug, dug;# creuser (verbe irrégulier);Note additionnelle ou faux-ami;...;VI;LIVRE;B2
+to discover / to strike gold;découvrir de l’or;...;...;V;LIVRE;B1
+to make a fortune;faire fortune;...;...;V;LIVRE;B1
+to set up an empire;construire un empire;...;...;V;LIVRE;B1
+to go from rags to riches;passer du dénuement à l’opulence;...;...;V;LIVRE;B1
+free;libre;...;...;ADJ;LIVRE;A2
+peaceful;paisible, pacifique;...;...;ADJ;LIVRE;B2
+pacific;pacifique;...;...;ADJ;LIVRE;B2
+attractive;attrayant;...;...;ADJ;LIVRE;B2
+appealing;attirant;...;...;ADJ;LIVRE;B2
+enticing, alluring;attrayant, tentant;...;...;A;LIVRE;B2
+irresistible;irrésistible;...;...;ADJ;LIVRE;B2
+hopeful;plein d’espoir;...;...;ADJ;LIVRE;B2
+impatient, eager;impatient;...;...;A;LIVRE;B2
+greedy;avide, cupide;...;...;ADJ;LIVRE;B2
+well-off;aisé;...;...;ADJ;LIVRE;B2
+affluent;riche;...;...;ADJ;LIVRE;B2
+wealthy;riche, fortuné;...;...;ADJ;LIVRE;B2

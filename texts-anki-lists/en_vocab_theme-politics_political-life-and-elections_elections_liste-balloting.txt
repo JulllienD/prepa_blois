@@ -1,0 +1,49 @@
+the electorate;l’électorat;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+an electoral roll;une liste électorale;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a constituent;un électeur de la circonscription;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a voter;un électeur;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+an abstainer;un abstentionniste;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+the voting age;l’âge légal autorisant à voter;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a vote;un vote, un suffrage, une voix;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a proxy vote;un vote par procuration;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a useful vote;un vote utile;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a protest vote;un vote de protestation<br><br>Note :<br>"protest" signifie la contestation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a blank vote;un vote blanc;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+the first / second ballot;le 1er / 2nd tour (de scrutin);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a round of voting / balloting;un tour de scrutin;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+the first round (of elections) / ballot;le premier tour (de scrutin);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+the run-off / the second round;le second tour<br><br>Note :<br>"the run-off" désigne la finale / le tour décisif;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a ballot (paper);un bulletin de vote;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a voting booth / polling booth (Brit.);un isoloir;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a ballot box;une urne (électorale);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+the counting (of the votes);le dépouillement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+the turnout;la participation / le taux de participation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+abstention;l’abstention;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+the abstention rate;le taux d’abstention;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+over-representation;la sur-représentation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+under-representation;la sous-représentation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+electoral fraud;la fraude électorale<br><br>Note :<br>Prononciation : [frɔːd];ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a (landslide) victory;une victoire (écrasante)<br><br>Note :<br>"a landslide" désigne à l'origine un glissement de terrain;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+a defeat;une défaite;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+relative majority;la majorité relative;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+overall / absolute majority;la majorité absolue;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+the silent majority;la majorité silencieuse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to be on the electoral roll / be registered to vote;être inscrit sur les listes électorales<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to take a ballot;procéder à un scrutin<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to vote by proxy;voter par procuration;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to go to the polls;aller aux urnes<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to turn out;participer / se déplacer pour voter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to choose;choisir<br><br>Note :<br>choose, chose, chosen;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to elect;élire;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to abstain;être abstentionniste / s'abstenir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to rig<br><br>Exemple :<br>Double la consonne : rigging, rigged;truquer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to bribe;soudoyer, suborner;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to stuff ballot boxes;bourrer les urnes<br><br>Note :<br>"to stuff" signifie remplir, garnir;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to gag the opposition;bâillonner l’opposition<br><br>Note :<br>"a gag" signifie un bâillon;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to supervise, monitor;superviser, contrôler;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to invalidate;invalider;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to obtain a majority;obtenir la majorité;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to win (over) 50% of the votes;remporter (+ de) 50 % des voix<br><br>Note :<br>win, won, won;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to win the election;remporter les élections<br><br>Note :<br>win, won, won;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to win office;être élu à un poste<br><br>Note :<br>win, won, won;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting
+to come into office / power;arriver au pouvoir<br><br>Note :<br>come, came, come;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Life-and-Elections::Elections::Balloting

@@ -1,0 +1,49 @@
+difference;la différence;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+otherness;l’altérité;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+variety;la variété;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a medley, a mix;un mélange;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a mosaic;une mosaïque;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a melting-pot;un creuset;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a multi-cultural society;une société multi-culturelle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+the heritage of immigration;l’héritage de l’immigration;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+an asset;un atout;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+openness;l’ouverture d’esprit;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a mixed marriage;un mariage mixte;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a half-blood;un/une métisse<br><br>Note :<br>Terme parfois jugé vieilli ou très littéraire/péjoratif selon le contexte.;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+borrowing;un emprunt (style, coutume);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+an ethnic restaurant;un restaurant exotique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+ethnic food;la nourriture exotique;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+exoticism;l’exotisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a cultural background;un arrière-plan culturel;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+origin;l’origine;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+an ancestor;un ancêtre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+ancestry;les ancêtres, les aïeux;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a foreign-born person;une personne d’origine étrangère;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+a native;un natif, qqn né dans le pays;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+differ (from);différer, être différent (de);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+stand out;se distinguer, ne pas passer inaperçu<br><br>Note :<br>stand, stood, stood;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+look different;paraître différent;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+be of foreign origin;être d’origine étrangère;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+be torn between two cultures;être partagé entre deux cultures;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+tear;déchirer<br><br>Note :<br>tear, tore, torn;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+stick to one’s ways;s’accrocher à ses coutumes;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+ways;les coutumes;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+value;apprécier;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+reconcile;concilier;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+be enriched;s’enrichir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+different;différent;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+other;autre;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+diverse, varied;divers, varié;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+multifarious;d’une grande variété;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+ethnic;ethnique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+multi-cultural;multi-culturel;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+exotic;exotic;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+outlandish;bizarre, peu habituel;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+unusual;inhabituel;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+respectful;respectueux;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+understanding;compréhensif;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+open-minded;à l’esprit ouvert, sans préjugés;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+native;natal;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+foreign-born;d’origine étrangère;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+first-generation;de la première génération;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+second-generation;de la seconde génération;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth

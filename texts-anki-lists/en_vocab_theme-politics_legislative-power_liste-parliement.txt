@@ -1,0 +1,35 @@
+the parliamentary season;la saison parlementaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a parliamentary session;une session parlementaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a parliamentary sitting;une séance parlementaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+the agenda<br><br>Exemple :<br>Ne pas confondre avec un journal intime ("diary");l’ordre du jour;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+"my dear diary"<br><br>Exemple :<br>Rien à voir avec l'ordre du jour, note humoristique;"mon cher journal";ANGLAIS::niveau::A1 ANGLAIS::type::expr ANGLAIS::Politics::Legislative-Power::Parliement
+the Constitution;la Constitution;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a Member of Parliament (an MP)<br><br>Exemple :<br>Député à la Chambre des Communes au Royaume-Uni;un parlementaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+parliamentary privilege;l’immunité parlementaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a speech;un discours;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a spokesman, a spokeswoman;un(e) porte-parole;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a statement;une déclaration;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+the proceedings<br><br>Exemple :<br>Compte-rendu officiel des séances;les délibérations;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+parliamentary debates;les débats parlementaires;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a discussion;une discussion;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a controversy;une controverse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+an issue;un sujet de débat / problème;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a much-debated issue;un sujet fort controversé;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a proposal;une proposition;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+opposition;l’opposition;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a veto;un veto;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+an adjournment;un ajournement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+a dissolution;une dissolution;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+recess;les vacances parlementaires<br><br>Note :<br>recess c'est aussi la récréation pour les mioches;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement
+to reconvene Parliament;rouvrir la session parlementaire;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement
+to summon a session;convoquer le Parlement;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement
+to be sitting;être en session<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Politics::Legislative-Power::Parliement
+to make a speech;prononcer un discours<br><br>Note :<br>make, made, made;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Politics::Legislative-Power::Parliement
+to state;déclarer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement
+to debate (a proposition);démettre / débattre (d’une proposition);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement
+to discuss (a point);discuter / débattre (d’un problème);ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement
+to come under discussion;faire l’objet d’un débat<br><br>Note :<br>come, came, come;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Politics::Legislative-Power::Parliement
+to veto;mettre son veto sur;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement
+to adjourn;ajourner;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement
+to dissolve Parliament;dissoudre l’Assemblée;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement
+to recess;suspendre la séance;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Legislative-Power::Parliement

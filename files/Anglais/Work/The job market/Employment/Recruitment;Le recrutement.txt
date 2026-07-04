@@ -1,0 +1,50 @@
+a job hunt;une recherche d’emploi;...;...;N;LIVRE;B1
+a job hunter/seeker;un demandeur d’emploi;...;...;N;LIVRE;B1
+the classified ads, the classifieds;les annonces classées;...;...;N;LIVRE;B2
+job definition/description;le profil d’un poste;...;...;N;LIVRE;B2
+a job title;un intitulé de poste;...;...;N;LIVRE;B1
+a vacancy, a vacant post;un poste vacant;...;...;N;LIVRE;B2
+an opportunity;une opportunité d’emploi;...;...;N;LIVRE;B1
+an application;une candidature;...;...;N;LIVRE;B1
+an applicant;un postulant, un candidat;...;...;N;LIVRE;B2
+a letter of application;une lettre de candidature;...;...;N;LIVRE;B1
+an application form;un formulaire de candidature;...;...;N;LIVRE;A2
+a résumé (US), a CV (Brit.);un CV (Curriculum Vitae);...;...;N;LIVRE;A2
+a letter of recommendation;une lettre de recommandation;...;...;N;LIVRE;B1
+credentials;des références;...;Titres, diplômes ou références professionnelles;N;LIVRE;C1
+skills;les compétences, les qualifications;...;...;N;LIVRE;B1
+a(n un)skilled worker;un travailleur (non) qualifié;...;...;N;LIVRE;B2
+work experience;l’expérience professionnelle;...;...;N;LIVRE;A2
+a job centre;une agence pour l'emploi;...;Équivalent historique de l'ANPE au Royaume-Uni;N;LIVRE;B1
+placement services;les agences pour l’emploi;...;...;N;LIVRE;B2
+a placement office;un bureau de placement;...;...;N;LIVRE;B2
+an employment agency;une agence de placement;...;...;N;LIVRE;B1
+a recruiter;un recruteur;...;...;N;LIVRE;B2
+a human resources department;un service de ressources humaines;...;Souvent abrégé "HR department";N;LIVRE;B2
+a head-hunting firm;un cabinet de recrutement;...;Spécialisé dans les cadres;N;LIVRE;C1
+a head hunter;un chasseur de têtes;...;...;N;LIVRE;C1
+a (job) interview;un entretien (d’embauche);...;...;N;LIVRE;A2
+an appointment;un rendez-vous;...;Professionnel ou médical;N;LIVRE;A2
+a test;un test;...;...;N;LIVRE;A1
+psychology;la psychologie;...;...;N;LIVRE;B1
+(positive) discrimination;la discrimination (positive);...;...;N;LIVRE;B2
+restrictive practices;les pratiques de restriction;...;...;N;LIVRE;C1
+sexism;le sexisme;...;...;N;LIVRE;B2
+ageism;la discrimination par l’âge;...;...;N;LIVRE;C1
+racism;le racisme;...;...;N;LIVRE;B2
+to look/hunt for a job;rechercher un emploi;...;...;V;LIVRE;A2
+to change jobs;changer d’emploi;...;...;V;LIVRE;A2
+to apply for a job;postuler;...;...;V;LIVRE;B1
+to fill in a form;remplir un formulaire;...;...;V;LIVRE;A2
+to interview someone;faire passer un entretien à qqn;...;...;V;LIVRE;B1
+to sit a test;passer un test;sit, sat, sat;...;VI;LIVRE;B1
+to select;sélectionner;...;...;V;LIVRE;B1
+to choose;choisir;choose, chose, chosen;...;VI;LIVRE;A1
+to offer a job;proposer un emploi;...;...;V;LIVRE;A2
+to take on, hire;embaucher;take, took, taken;...;VI;LIVRE;B1
+to recruit;recruter;...;...;V;LIVRE;B2
+to fill a post;pourvoir un poste;...;...;V;LIVRE;B2
+to appoint sb to a post;nommer quelqu’un à un poste;...;...;V;LIVRE;C1
+to employ sb as…;employer quelqu’un comme…;...;...;V;LIVRE;B1
+to sign a contract;signer un contrat;...;...;V;LIVRE;A2
+to turn down (an applicant);refuser (un candidat) à l’embauche;...;...;V;LIVRE;B2

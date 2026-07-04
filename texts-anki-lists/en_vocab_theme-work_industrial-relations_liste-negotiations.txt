@@ -1,0 +1,27 @@
+bargaining;les tractations / négociations;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+an offer;une proposition;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a counter-offer;une contre-proposition;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a stalemate, a deadlock;une impasse / un point mort;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+an objection;une objection;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a rejection;un rejet;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+an agreement;un accord;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a draft agreement;un protocole d’accord<br><br>Note :<br>"a draft" signifie un brouillon, une ébauche;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a collective agreement;une convention collective;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a disagreement;un désaccord;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a compromise;un compromis;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a concession;une concession;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+a settlement;un accord, une entente<br><br>Note :<br>Règlement à l'amiable ou conclusion d'un conflit;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::Industrial-Relations::Negotiations
+to open (talks);ouvrir (les négociations);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to carry out (negotiations);mener (une négociation)<br><br>Note :<br>carry, carried, carried;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to bargain;négocier, discuter, marchander<br><br>Note :<br>Prononciation : [ˈbɑːgɪn]<br>Ca me fait penser à Docteur Strange qui débarque 5000 fois en remontant le temps devant un être tout puissant et qui dit donc 5000 fois "Dormammu, I've come to bargain !!" Voilà, faites en ce que vous voulez, perso les références ça m'aide beaucoup à retenir des mots;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to offer;proposer;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to object (to something);élever des objections (contre quelque chose);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to reject;rejeter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to agree (on something);être d’accord (sur quelque chose);ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to make concessions;faire des concessions<br><br>Note :<br>make, made, made;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to settle for;accepter / se contenter de;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to grant;accorder;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to yield;céder<br><br>Note :<br>Prononciation : [jiːld];ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to approve of;accepter, être d’accord avec;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to end a strike;mettre fin à une grève;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations
+to resume work<br><br>Exemple :<br>Ne pas confondre "to resume" (reprendre) et "to sum up" (résumer);reprendre le travail;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::Industrial-Relations::Negotiations

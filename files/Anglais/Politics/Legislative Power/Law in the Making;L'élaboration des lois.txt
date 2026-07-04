@@ -1,0 +1,34 @@
+Law commission;la commission des Lois;...;...;N;LIVRE;C1
+a lawgiver, a legislator (UK) a lawmaker (US);un législateur;...;...;N;LIVRE;C1
+a draft;un avant-projet de loi;...;...;N;LIVRE;B2
+a bill;un projet de loi;...;...;N;LIVRE;B2
+a reform;une réforme;...;...;N;LIVRE;B1
+a law;une loi;...;...;N;LIVRE;A2
+a law against (smoking);une loi interdisant (de fumer);...;...;N;LIVRE;B1
+a law on (crime);une loi sur (la délinquance);...;...;N;LIVRE;B1
+an Act of Parliament;une loi (adoptée par le Parlement);...;Devient un "Act" une fois voté et signé;N;LIVRE;B2
+a motion;une motion, une proposition;...;...;N;LIVRE;B2
+a motion of censure;une motion de censure;...;...;N;LIVRE;C1
+an article;un article;...;D'une loi ou d'un traité;N;LIVRE;A2
+a provision;une disposition;...;Clause ou mesure d'une loi;N;LIVRE;C1
+an amendment;un amendement;...;...;N;LIVRE;B2
+a decree;un décret;...;...;N;LIVRE;B2
+an ordinance, an order;une ordonnance, un arrêté;...;...;N;LIVRE;C1
+a lobby / a pressure group;un lobby, un groupe de pression;...;...;N;LIVRE;B2
+lobbying;le lobbying;...;...;N;LIVRE;B2
+a lobby;un couloir;...;Sens architectural d'origine où l'on abordait les élus;N;LIVRE;C1
+a petition;une requête, une pétition;...;...;N;LIVRE;B1
+the repeal of a law;l’abrogation d’une loi;...;...;N;LIVRE;C1
+
+to draft a law / bill;rédiger un avant-projet de loi;...;...;V;LIVRE;B2
+to sponsor a bill;introduire un projet de loi;...;Présenter officiellement un texte au vote;V;LIVRE;C1
+to take a vote;procéder à un vote;take, took, taken;...;VI;LIVRE;B1
+to pass a bill / law;adopter un projet de loi / une loi;...;...;V;LIVRE;B2
+to amend;amender / modifier;...;...;V;LIVRE;B2
+to present a petition (to);soumettre une demande / pétition (à);...;...;V;LIVRE;B1
+to oppose a bill;s’opposer à un projet de loi;...;...;V;LIVRE;B2
+to filibuster;faire de l’obstruction parlementaire;...;Technique de blocage par des discours interminables;V;LIVRE;C1
+to defeat a bill;rejeter un projet de loi;...;...;V;LIVRE;C1
+to withdraw a bill;retirer un projet de loi;withdraw, withdrew, withdrawn;...;VI;LIVRE;C1
+to lobby;faire pression;...;...;V;LIVRE;B2
+to repeal a law;abroger une loi;...;...;V;LIVRE;C1

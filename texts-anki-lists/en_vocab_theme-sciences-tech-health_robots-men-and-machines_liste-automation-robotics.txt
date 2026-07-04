@@ -1,0 +1,40 @@
+Assembly line;chaîne de montage;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Automation;automatisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+to Automate;robotiser / automatiser;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Computer-aided Design (CAD);conception assistée par ordinateur (CAO);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Digital computer;ordinateur numérique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Digital switchover;passage au numérique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+digitally-controlled;à commande numérique;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Hazard;danger / risque;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+joint limit;limite d'articulation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+maintenance;entretien / maintenance;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+mechanization;mécanisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+miniaturization;miniaturisation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+nanotechnology;nanotechnologie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+off-line processing;traitement hors ligne;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+online programming;programmation en ligne;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+palletizing;palettisation;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+reliability;fiabilité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+repeatability;répétabilité;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+robot arm;bras robotique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+robot reach;portée du robot;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+robot-supported;robotisé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+robotic surgery;robotique chirurgicale;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+sensor;capteur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+safeguard;précaution / dispositif de protection;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+safety factor;coefficient de sécurité;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+safety procedure;dispositif de sécurité / procédure de sécurité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+software;logiciel;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+unmanned operation;fonctionnement sans opérateur;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+work cell;cellule de travail;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+work envelope;enveloppe de travail;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+XYZ Coordinates;coordonnées XYZ ou cartésiennes;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Yaw mechanism<br><br>Exemple :<br>En aéronautique ou robotique (lacet);mécanisme d'orientation;ANGLAIS::niveau::C2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+R&D;Recherche et Développement<br><br>Note :<br>Research and Development;ANGLAIS::niveau::B1 ANGLAIS::type::abrev ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Robotics;la robotique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+A robotics graduate;un diplômé en robotique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+A robotics scientist/engineer;roboticien;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Robotic<br><br>Exemple :<br>Adjectif;robotique;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Industrial robot;un robot industriel<br><br>Note :<br>Pour le domaine de l’industrie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Computer-controlled machines;des machines contrôlées par ordinateur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics
+Remote-controlled machines;des machines contrôlées à distance;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Sciences-Tech--Health::Robots-Men-and-machines::Automation--Robotics

@@ -1,0 +1,18 @@
+national migrations;les flux migratoires nationaux;...;...;N;LIVRE;B2
+a migrant worker;un travailleur immigré / migrant;...;...;N;LIVRE;B1
+rural exodus;l’exode rural;Prononciation : [ˈeksədəs];...;N;LIVRE;C1
+the drift to towns;la migration vers les villes;"drift" signifie dériver;...;N;LIVRE;C1
+a demand for labour;un appel de main d’œuvre;...;...;N;LIVRE;B2
+seasonal migrations;les migrations saisonnières;...;...;N;LIVRE;B2
+a seasonal worker;un travailleur saisonnier;...;...;N;LIVRE;B2
+commuting;les migrations quotidiennes;Fait de faire les trajets quotidiens domicile-travail;...;N;LIVRE;B2
+a commuter;un travailleur de banlieue / effectuant un trajet régulier;...;...;N;LIVRE;B2
+relocation;la délocalisation;Action de déplacer une activité;...;N;LIVRE;B2
+a transfer, a re-assignment;une mutation;Dans le cadre professionnel;...;N;LIVRE;B2
+
+to migrate;migrer;...;...;V;LIVRE;B1
+to commute;faire le trajet domicile-travail;...;...;V;LIVRE;B2
+to relocalize;délocaliser;...;...;V;LIVRE;B2
+to transfer, move, re-assign;muter / déplacer;...;...;V;LIVRE;B2
+migratory;migratoire;Prononciation : [ˈmaɪgrətri];...;ADJ;LIVRE;C1
+temporary;temporaire;Prononciation : [ˈtempərəri];...;ADJ;LIVRE;B1

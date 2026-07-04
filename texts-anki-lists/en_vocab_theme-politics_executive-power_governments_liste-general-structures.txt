@@ -1,0 +1,30 @@
+the government;le gouvernement<br><br>Note :<br>Majuscule aux USA : "the Administration";ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a majority / minority government;un gouvernement majoritaire / minoritaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+the executive;l’exécutif<br><br>Note :<br>Désigne le pouvoir ou l'organe dirigeant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a minister;un ministre<br><br>Note :<br>Aux USA, on utilise "a secretary";ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a State Secretary;un Secrétaire d’Etat<br><br>Note :<br>En France / UK, rang inférieur à un ministre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a governor (US);un gouverneur<br><br>Note :<br>Dirigeant d'un État fédéré américain;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+local government;l’administration locale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+decentralization;la décentralisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+regionalization;la régionalisation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a county / regional council;un conseil régional;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+the local authorities;les autorités locales;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+the town hall;la mairie, l’hôtel de ville<br><br>Note :<br>Aux USA : "the city hall";ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a mayor;un maire<br><br>Note :<br>Prononciation : [ˈmeə];ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+the town council;le conseil municipal<br><br>Note :<br>Aux USA : "the municipal corporation";ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a town councillor;un conseiller municipal<br><br>Note :<br>Aux USA : "a city councilman / councilwoman";ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+an assembly;une assemblée;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a meeting;une réunion;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a committee;un comité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a commission;une commission;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a government employee;un fonctionnaire<br><br>Note :<br>Terme général;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a (senior) civil servant, a (top) government official;un (haut) fonctionnaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+an appointment;une nomination;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a reshuffle;un remaniement<br><br>Note :<br>Notamment ministériel;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+a policy;une politique<br><br>Note :<br>Ligne d'action / programme (ne pas confondre avec "politics");ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+to run a government;diriger un gouvernement<br><br>Note :<br>run, ran, run;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+to appoint;nommer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+to enter / to join the government;entre au gouvernement;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+to reshuffle;remanier;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+to dismiss a minister;limoger un ministre;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Executive-Power::Governments::General-Structures
+to resign;se retirer, démissionner;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Executive-Power::Governments::General-Structures

@@ -1,0 +1,32 @@
+industrial action;la grève, l’action revendicative;Terme général pour désigner les mouvements de grève;...;N;LIVRE;B2
+the right to strike;le droit de grève;...;...;N;LIVRE;B1
+a striker;un gréviste;...;...;N;LIVRE;B1
+a strike committee;un comité de grève;...;...;N;LIVRE;B2
+a strike call;un appel à la grève;...;...;N;LIVRE;B2
+without advance warning;sans préavis;...;...;EXPR;LIVRE;B2
+a strike;une grève;...;...;N;LIVRE;B1
+a lightning strike;une grève surprise;"lightning" signifie la foudre, les éclairs;...;N;LIVRE;C1
+a sit-down strike;une grève sur le tas;De "to sit down" (s'asseoir);...;N;LIVRE;C1
+a rolling strike;une grève tournante;...;...;N;LIVRE;C1
+a wildcat strike;une grève sauvage;Grève déclenchée sans l'accord officiel d'un syndicat;...;N;LIVRE;C1
+a general strike;une grève générale;...;...;N;LIVRE;B2
+a hunger strike;une grève de la faim;...;...;N;LIVRE;B2
+a picket;un piquet de grève;Désigne aussi une personne faisant le piquet;...;N;LIVRE;C1
+a picket line;les piquets de grève;La ligne formée par les grévistes devant l'entreprise;...;N;LIVRE;C1
+a non-striker;un non-gréviste;...;...;N;LIVRE;B2
+a strikebreaker;un briseur de grève;...;...;N;LIVRE;C1
+a scab, a blackleg;un “jaune” / briseur de grève;Argot / Termes très péjoratifs;...;N;LIVRE;C2
+
+to give notice of strike action;déposer un préavis de grève;give, gave, given;...;VI;LIVRE;C1
+to call a strike;lancer un appel à la grève;...;...;V;LIVRE;B2
+to go on strike;se mettre en grève;go, went, gone;...;VI;LIVRE;B1
+to strike, to be on strike;faire la grève;strike, struck, struck / be, was/were, been;...;VI;LIVRE;B1
+to lead a strike;mener une grève;lead, led, led;...;VI;LIVRE;B2
+to break a strike;briser une grève;break, broke, broken;...;VI;LIVRE;C1
+to picket (a factory);placer des piquets de grève (devant une usine);...;...;V;LIVRE;C1
+
+indefinite;illimité;S'emploie souvent pour "an indefinite strike" (une grève illimitée);...;ADJ;LIVRE;B2
+sudden, unexpected;soudain, inattendu;...;...;ADJ;LIVRE;B1
+determined;décidé, déterminé;...;...;ADJ;LIVRE;B1
+entrenched;campé sur ses positions;...;...;ADJ;LIVRE;C1
+strikebound;paralysé par la grève;...;...;ADJ;LIVRE;C1

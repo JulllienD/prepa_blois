@@ -1,0 +1,28 @@
+a legal immigrant;un immigré en règle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+an asylum-seeker [əˈsaɪləm];un demandeur d’asile;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+political asylum;l’asile politique;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Status
+a foreigner [ˈfɒrənə];un étranger;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+a fugitive;un fugitif;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+a political / climate refugee;un réfugié politique / climatique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+a second-class citizen;un citoyen de seconde zone;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+an illegal immigrant / alien;un immigré clandestin;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+an undocumented worker (US);un travailleur sans papiers;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+an illegal crossing;une entrée clandestine;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+a smuggler;un passeur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+an identity card;une carte d’identité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+abbreviation ID-card;# abréviation de carte d’indentité en anglais<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Status
+a residence permit;un permis de résidence;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+a work permit;un permis de travail;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+a Green Card (US);un permis de séjour;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+legalization;la légalisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+to cross;traverser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
+to enter (a country) illegally;entrer clandestinement (dans un pays);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
+to sneak into;se faufiler, entrer clandestinement;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
+to seek asylum [əˈsaɪləm];demander asile;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Reality::Status
+to overstay;excéder une durée fixée;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
+to legalize;légaliser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
+to smuggle (into);faire entrer clandestinement;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
+(il)legal;(il)légal;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Status
+undesirable, unwanted;indésirable;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Status
+uprooted;déraciné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Status
+rootless;sans racines;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Status

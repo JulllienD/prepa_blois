@@ -1,0 +1,55 @@
+anarchy||l’anarchie
+----------
+an anarchist||un anarchiste
+----------
+conservatism||le conservatisme
+----------
+the Conservative Party
+
+Exemple : Au Royaume-Uni notamment||le Parti conservateur
+----------
+communism||le communisme
+----------
+class struggle||la lutte des classes
+----------
+fascism||le fascisme
+----------
+the Labour doctrine||le travaillisme
+----------
+the Labour Party
+
+Exemple : Parti britannique de centre-gauche||le Parti travailliste
+----------
+monarchism||le monarchisme
+----------
+national socialism||le national-socialisme
+----------
+Nazism||le nazisme
+----------
+radicalism||le radicalisme
+----------
+royalism||le royalisme
+----------
+socialism||le socialisme
+----------
+alter-globalization||l’altermondialisme
+----------
+conservative||conservateur
+----------
+Labour
+
+Exemple : Relatif au parti ou à la doctrine||travailliste
+----------
+fascist||fasciste
+----------
+left-wing, right-wing||de gauche, de droite
+----------
+reactionary||réactionnaire
+----------
+progressive||progressiste
+----------
+revolutionary||révolutionnaire
+----------
+moderate||modéré
+----------
+extremist||extrémiste

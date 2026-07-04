@@ -1,0 +1,22 @@
+direct/indirect/universal suffrage;le suffrage direct/indirect/universel;...;...;N;LIVRE;C1
+a referendum;un référendum;...;...;N;LIVRE;B1
+a plebiscite;un plébiscite;...;...;N;LIVRE;C1
+a voting system;un système électoral;...;...;N;LIVRE;B2
+the list system;le système du scrutin de liste;...;...;N;LIVRE;C1
+a flexible list;une liste panachée;...;...;N;LIVRE;C2
+a one-round proportional system;une proportionnelle à un tour;...;...;N;LIVRE;C1
+a secret ballot;un vote à bulletin secret;...;...;N;LIVRE;B2
+a representative;un représentant;...;...;N;LIVRE;B1
+(in)eligibility;l’(in)éligibilité;...;...;N;LIVRE;C1
+the presidential election;les élections présidentielles;...;...;N;LIVRE;A2
+general elections;les élections législatives;Aux États-Unis, précédé par les "Primaries" (les élections primaires);...;N;LIVRE;B1
+local elections;les élections municipales / locales;...;...;N;LIVRE;B1
+multi-party elections;les élections multipartites;...;...;N;LIVRE;B2
+a direct election;une élection au suffrage direct;...;...;N;LIVRE;B2
+a two-stage / a two-tier election;une élection à deux tours;...;...;N;LIVRE;C1
+an election on a majority basis;une élection au scrutin majoritaire;Pluriel de basis : bases;...;N;LIVRE;C1
+a by-election;une élection partielle;...;Organisée pour remplacer un élu démissionnaire ou décédé;N;LIVRE;C1
+a cross-party / a coalition majority;une majorité de coalition;...;...;N;LIVRE;C1
+an election reform;une réforme électorale;...;...;N;LIVRE;B2
+to call an election;appeler aux urnes / organiser des élections;...;...;V;LIVRE;B2
+to call an early election;organiser des élections anticipées;...;...;V;LIVRE;C1

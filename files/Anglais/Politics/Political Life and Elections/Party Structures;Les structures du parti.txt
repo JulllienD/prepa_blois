@@ -1,0 +1,31 @@
+the ruling party;le parti au pouvoir, la majorité;...;...;N;LIVRE;B2
+an alliance;une alliance;...;...;N;LIVRE;B1
+an opposition party;un parti d’opposition;...;...;N;LIVRE;B2
+a splinter party;un parti dissident;"a splinter" désigne un éclat ou une écharde;...;N;LIVRE;C1
+political dissidence;la dissidence;...;...;N;LIVRE;C1
+a political dissenter;un dissident;...;...;N;LIVRE;C1
+a cleavage;une division / un clivage;...;...;N;LIVRE;C1
+a split, a rift;une scission;...;...;N;LIVRE;B2
+a manifesto;un manifeste;...;...;N;LIVRE;B2
+a platform;un programme;Dans un contexte politique (programme électoral);...;N;LIVRE;B2
+ideology;l’idéologie;...;...;N;LIVRE;B2
+an ideologist;un idéologue;...;...;N;LIVRE;C1
+financing;le financement;...;...;N;LIVRE;B2
+a slush fund;une caisse noire;...;...;N;LIVRE;C1
+the party members;les membres du parti;...;...;N;LIVRE;A2
+party membership;l’adhésion à un parti / les effectifs;...;...;N;LIVRE;B2
+the leadership;la direction / les dirigeants;...;...;N;LIVRE;B1
+a party leader;un chef de file;...;...;N;LIVRE;B1
+a party official;un responsable du parti;...;Parfois qualifié d'apparatchik;N;LIVRE;B2
+a reformist;un réformateur;...;...;N;LIVRE;B2
+the rank-and-file;la base;Les militants et membres de base (sans responsabilités);...;N;LIVRE;C1
+activism;le militantisme;...;...;N;LIVRE;B2
+an activist;un militant;...;...;N;LIVRE;B2
+a party cell;une cellule du parti;...;...;N;LIVRE;C1
+a party congress/conference;un congrès du parti;...;...;N;LIVRE;B2
+to found (a party);fonder (un parti);...;...;V;LIVRE;B1
+to finance;financer;...;...;V;LIVRE;B2
+to join (a party);adhérer (à un parti);...;...;V;LIVRE;B1
+to claim a membership of;revendiquer un effectif de;...;...;V;LIVRE;C1
+to reform;réformer;...;...;V;LIVRE;B1
+to hand out (pamphlets, tracts);distribuer (des tracts);...;...;V;LIVRE;A2

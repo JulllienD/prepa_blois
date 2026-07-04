@@ -1,0 +1,43 @@
+pay, salary;la paie, le salaire;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a payslip, a paysheet;un bulletin de salaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+payday;le jour de paie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+backpay;un rappel de salaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+holiday with pay, paid vacation (US);les congés payés<br><br>Note :<br>Prononciation : [ˈhɒlədeɪ];ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a leave on full pay;un congé rémunéré;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a leave without pay;un congé sans solde;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a salary scale;une grille/échelle de salaires;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a fee / fees;des honoraires<br><br>Note :<br>S'utilise pour les professions libérales (avocats, médecins);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a commission;une commission;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+wages;le salaire, la paie<br><br>Note :<br>Souvent utilisé pour les salaires payés à la semaine ou à l'heure (ouvriers);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a wage earner;un salarié;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a (pay) rise, (pay) hike;une augmentation (de salaire);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a wage increase (UK), a raise (US);une hausse de salaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a wage / a pay freeze;un gel de salaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+the minimum wage;le salaire minimum;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+the income;le(s) revenu(s);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+gross income;le revenu brut;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+net income;le revenu net (imposable);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+disposable income;le revenu disponible;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+purchasing power;le pouvoir d’achat<br><br>Note :<br>Prononciation : [ˈpaʊə];ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a bonus;une prime, une gratification<br><br>Note :<br>Pluriel : several bonuses;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+profit-sharing;l’intéressement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+fringe benefits;les avantages sociaux;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a perk;un avantage en nature<br><br>Note :<br>Abréviation de "perquisite";ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+an expense account;les frais de représentation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a company car;une voiture de fonction;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+a lunch voucher;un ticket-restaurant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to earn money;gagner de l’argent en travaillant<br><br>Note :<br>Ne pas confondre avec "to win money" (gagner au jeu);ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to earn one’s living (as…);gagner sa vie (comme…);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to eke out a living;gagner un maigre salaire;ANGLAIS::niveau::C2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to be/to get paid;gagner, être payé;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to be paid in kind;être payé en nature;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to be paid in cash;être payé en espèces;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to draw/to earn a salary;toucher un salaire;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to get a rise;obtenir une augmentation;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to increase, to raise;augmenter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to freeze (wages);geler (les salaires)<br><br>Note :<br>freeze, froze, frozen;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Working-conditions::Pay
+to keep one’s head above water;survivre tant bien que mal;ANGLAIS::niveau::B2 ANGLAIS::type::expr ANGLAIS::Work::The-job-market::Working-conditions::Pay
+overpaid;surpayé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Working-conditions::Pay
+well-paid;bien payé;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Working-conditions::Pay
+badly-paid;mal payé;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Working-conditions::Pay
+underpaid;sous-payé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Working-conditions::Pay

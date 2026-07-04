@@ -1,0 +1,55 @@
+imperialism||l’impérialisme
+----------
+colonialism||colonialisme
+----------
+a colony||une colonie
+----------
+an empire||un empire
+----------
+an emperor, an empress||un empereur, une impératrice
+----------
+a sultan||un sultan
+----------
+an emir||un émir
+----------
+a sheikh||un cheik
+----------
+a warlord||un seigneur de guerre
+----------
+despotism||le despotisme
+----------
+a despot||un despote
+----------
+tyranny||la tyrannie
+----------
+a tyrant||un tyran
+----------
+a dictatorship||une dictature
+----------
+a dictator||un dictateur
+----------
+a military junta||une junte militaire
+----------
+a coup||un coup d’État
+----------
+to foment/attempt a coup||fomenter/faire une tentative de coup d’État
+----------
+a coupster||un participant à un coup d’État
+----------
+a putsch||un putsch
+----------
+a putschist||un putschiste
+----------
+a police state||un État policier
+----------
+the state police||la police d’État
+----------
+full powers||les pleins pouvoirs
+----------
+imperial||impérial
+----------
+tyrannic(al)||tyrannique
+----------
+dictatorial||dictatorial
+----------
+totalitarian||totalitaire

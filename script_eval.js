@@ -23,13 +23,13 @@ document.addEventListener("DOMContentLoaded", () => {
             ligne.setAttribute("data-mode-masque", "en");
             celluleAnglais.innerHTML = `
                 <input type="text" class="input-revision" placeholder="Traduire en anglais..." 
-                       style="width: 90%; padding: 6px; border: 2px solid #ced4da; border-radius: 4px; font-size: 0.95rem;">
+                    style="width: 90%; padding: 6px; border: 2px solid #ced4da; border-radius: 4px; font-size: 0.95rem;">
             `;
         } else {
             ligne.setAttribute("data-mode-masque", "fr");
             celluleFrancais.innerHTML = `
                 <input type="text" class="input-revision" placeholder="Traduire en français..." 
-                       style="width: 90%; padding: 6px; border: 2px solid #ced4da; border-radius: 4px; font-size: 0.95rem;">
+                    style="width: 90%; padding: 6px; border: 2px solid #ced4da; border-radius: 4px; font-size: 0.95rem;">
             `;
         }
     });

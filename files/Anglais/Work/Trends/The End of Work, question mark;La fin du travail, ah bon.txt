@@ -1,0 +1,27 @@
+the leisure society;la société de loisirs;...;...;N;LIVRE;B2
+leisure time;du temps pour les loisirs;Prononciation : [ˈleʒə];...;N;LIVRE;B1
+time off, free time, spare time;du temps libre;...;...;N;LIVRE;A2
+recreation;la détente / les loisirs;...;...;N;LIVRE;B2
+idleness;l’oisiveté;Prononciation : [ˈaɪdlɪs];...;N;LIVRE;C1
+leisure(-oriented) activities;les activités de loisirs;...;Exemple : a leisure-oriented society;N;LIVRE;B2
+a pastime;un passe-temps;...;...;N;LIVRE;B1
+a hobby;un violon d’Ingres / un passe-temps favori;...;...;N;LIVRE;A2
+entertainment;les distractions, le divertissement;...;...;N;LIVRE;B1
+holidays (UK), vacation (US);les vacances;Prononciation : [ˈhɒlədeɪz] pour "holidays";Attention : "a holiday" au singulier peut signifier un jour férié;N;LIVRE;A1
+a holiday maker;un vacancier;...;...;N;LIVRE;B1
+a sabbatical;un congé sabbatique;...;...;N;LIVRE;C1
+retirement;la retraite;Prononciation : [rɪˈtaɪəmənt];...;N;LIVRE;B1
+a retiree, a pensioner;un retraité;Prononciation : [rɪtaɪˈriː] pour "retiree";Abréviation britannique courante : an OAP (Old Age Pensioner);N;LIVRE;B1
+a work-free society;une société sans travail;...;...;N;LIVRE;C1
+
+to do something at leisure;faire quelque chose à loisir;do, did, done;...;VI;LIVRE;C1
+to have time on one’s hands;avoir du temps libre / ne savoir que faire de son temps;have, had, had;...;VI;LIVRE;B2
+to go on holiday;partir en vacances;go, went, gone;Prononciation : [ˈhɒlədeɪ];VI;LIVRE;A2
+to retire, be a pensioner;prendre sa retraite;...;Prononciation : [rɪˈtaɪə];V;LIVRE;B1
+to take a sabbatical;prendre une année sabbatique;take, took, taken;...;VI;LIVRE;C1
+to be freed / released from work;être libéré du travail;be, was/were, been;...;VI;LIVRE;B2
+
+leisured;privilégié, nanti;Prononciation : [ˈleʒəd];Exemple : the leisured classes;ADJ;LIVRE;C1
+free;libre;...;...;ADJ;LIVRE;A1
+recreational;récréatif, de détente;...;...;ADJ;LIVRE;B2
+idle;oisif / inactif;Prononciation : [ˈaɪdl];...;ADJ;LIVRE;C1

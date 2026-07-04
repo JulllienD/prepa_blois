@@ -1,0 +1,44 @@
+The technological age;l’ère technologique / l’ère de la technologie;...;...;N;LIVRE;B1
+A technological shift;un changement / une mutation technologique;...;...;N;LIVRE;B2
+An irreversible trend;une tendance irréversible;...;...;N;LIVRE;B2
+A techno-pessimist;quelqu'un qui n’a pas confiance en la technologie;...;...;N;LIVRE;B2
+A techno-optimist;quelqu'un qui a confiance en la technologie;...;...;N;LIVRE;B2
+An android robot;un robot androïde;...;...;N;LIVRE;B2
+AI / Artificial intelligence;l’intelligence artificielle;...;...;ABREV;LIVRE;B1
+3D printing;l’impression 3D / tridimensionnelle;...;...;N;LIVRE;B1
+Ethics;l’éthique;...;...;N;LIVRE;B2
+Ethical decisions;des décisions éthiques;...;...;N;LIVRE;B2
+ethical dilemma;un dilemme d’ordre éthique;...;...;N;LIVRE;C1
+Useful;utile;...;...;ADJ;LIVRE;A1
+Useless;inutile;...;...;ADJ;LIVRE;A2
+Harmful;dangereux / nuisible;...;...;ADJ;LIVRE;B2
+Reliable;fiable;Something / someone that you can rely on;...;ADJ;LIVRE;B2
+Custom-fitted / customised;sur mesure;...;...;ADJ;LIVRE;B2
+Cheap;bon marché;...;...;ADJ;LIVRE;A1
+expensive;cher;...;...;ADJ;LIVRE;A1
+Affordable;abordable;Something that you can afford<br>Pas adorable;...;ADJ;LIVRE;B1
+Creepy / scary;qui fait peur;"Creepy" est plus familier / informel;...;ADJ;LIVRE;B1
+Autonomous robots;robots autonomes;...;...;N;LIVRE;B2
+A companion robot;un robot de compagnie;...;...;N;LIVRE;B2
+A military robot;un robot militaire;...;...;N;LIVRE;B2
+A Terminator-like robot;un robot qui ressemble à Terminator;Référence au film;...;N;LIVRE;B1
+To be beneficial to firms / companies;être bénéfique à / pour les entreprises;...;...;V;LIVRE;B2
+To have disruptive effects on society;avoir des effets négatifs/perturbants sur la société;...;...;V;LIVRE;C1
+To assess the long term effects of the current technological revolution;évaluer les effets à long terme de la révolution technologique actuelle;...;...;V;LIVRE;C1
+To cope with a situation;gérer une situation;Proche de "to handle" ou "to deal with";...;V;LIVRE;B2
+To feel insecure;se sentir en insécurité;...;...;V;LIVRE;B1
+To benefit from new technologies;bénéficier des nouvelles technologies;...;...;V;LIVRE;B1
+To set a deadline;poser une date limite;...;...;V;LIVRE;B1
+To boost economic growth;relancer la croissance économique;...;...;V;LIVRE;B2
+To provide;fournir, apporter;...;...;V;LIVRE;B1
+To move out of the realm of science fiction;s’éloigner du domaine de la science fiction;...;...;V;LIVRE;B2
+To be at the forefront of;être au premier plan, occuper le premier plan;...;...;V;LIVRE;C1
+To end up making life-or-death decisions;finir par / se retrouver à prendre des décisions de vie ou de mort;...;...;V;LIVRE;C1
+To be taken for granted;aller de soi;...;...;EXPR;LIVRE;B2
+To make a choice;faire un choix;...;...;V;LIVRE;A2
+To interact with robots;interagir avec des robots;...;...;V;LIVRE;B1
+To design a robot;créer, concevoir un robot;...;...;V;LIVRE;B1
+To develop a robot;mettre au point, réaliser un robot;...;...;V;LIVRE;B1
+To differentiate a person from a machine;faire la différence entre une personne et une machine;...;...;V;LIVRE;B2
+To look like a human being;ressembler à un être humain;...;...;V;LIVRE;A2
+To be lifelike;être ressemblant / plus vrai que nature;...;...;V;LIVRE;C1

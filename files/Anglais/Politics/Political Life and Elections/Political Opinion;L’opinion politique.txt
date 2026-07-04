@@ -1,0 +1,38 @@
+a political leaning;une tendance / inclinaison politique;...;...;N;LIVRE;B2
+a stance, a position;une position, une opinion;...;...;N;LIVRE;B2
+the left wing;la gauche;"wing" signifie l'aile;...;N;LIVRE;B1
+the right wing;la droite;...;...;N;LIVRE;B1
+the centre;le centre;Orthographe US : "center";...;N;LIVRE;B1
+a sympathizer;un sympathisant;...;...;N;LIVRE;B2
+support;un soutien;Nom indénombrable;...;N;LIVRE;B1
+approval/disapproval;l’approbation / la désapprobation;...;...;N;LIVRE;B2
+agreement/disagreement;l’accord / le désaccord;...;...;N;LIVRE;B1
+a complaint;une doléance / plainte;...;...;N;LIVRE;B1
+a clash;un affrontement;...;...;N;LIVRE;B2
+a quarrel, a bone of contention;une querelle, une pomme de discorde;"a bone" signifie un os;...;N;LIVRE;B2
+a hard-line approach;le jusqu’au-boutisme;Un partisan de cette approche est un "hard-liner" (un pur et dur);...;N;LIVRE;C1
+a swing to (the left);un virage à (gauche);...;...;N;LIVRE;B2
+a turnabout, a turnaround;une volte-face;Proche de "a U-turn" (un demi-tour);...;N;LIVRE;C1
+political dissent;la dissension politique;...;...;N;LIVRE;C1
+to advocate;préconiser / défendre;...;...;V;LIVRE;B2
+to urge;inciter / presser;Prononciation : [ɜːdʒ];...;V;LIVRE;B2
+to back, to support;soutenir;...;...;V;LIVRE;B1
+to defend;défendre;...;...;V;LIVRE;B1
+to take sides with, to side with;prendre parti pour;...;...;V;LIVRE;B2
+to (dis)approve (of something);(dés)approuver (qqch);...;...;V;LIVRE;B2
+to (dis)agree (with);(ne pas) être d’accord (avec);...;...;V;LIVRE;A2
+to dispute;contester;...;...;V;LIVRE;B2
+to question;mettre en doute / contester;Prononciation : ['kwestʃən];...;V;LIVRE;B1
+to contradict;contredire;...;...;V;LIVRE;B2
+to oppose (something);s’opposer (à quelque chose);...;...;V;LIVRE;B2
+to complain;se plaindre;...;...;V;LIVRE;A2
+to protest;protester;...;...;V;LIVRE;B1
+to lodge a protest;protester solennellement;...;...;V;LIVRE;C1
+to swing to (the right);virer à (droite);...;Le verbe est irrégulier : swing, swung, swung (balancer);V;LIVRE;B2
+to back-pedal;faire marche-arrière;...;...;V;LIVRE;C1
+to soften an opinion;nuancer une opinion;De "soft" (doux);...;V;LIVRE;B2
+to toughen a position;durcir une position;Prononciation : ['tʌfn]. De "tough" (dur);...;V;LIVRE;C1
+to disown;renier, désavouer;...;...;V;LIVRE;C1
+to criticize;critiquer;...;...;V;LIVRE;B1
+to challenge;remettre en question, contester;...;...;V;LIVRE;B2
+to condemn;condamner;...;...;V;LIVRE;B2

@@ -1,4 +1,3 @@
-https://quizlet.com/fr-fr/fiches-de-memorisation/prepa-en-media-the-press-journalism-1192974694
 media coverage;la couverture médiatique;...;...;N;LIVRE;B2
 a journalist, a newsman;un journaliste;...;...;N;LIVRE;A2
 a reporter;un reporter;...;...;N;LIVRE;B1
@@ -23,10 +22,4 @@ to hit the headlines;faire la une des journaux;hit, hit, hit;...;VI;LIVRE;B2
 to sensitize public opinion;sensibiliser l'opinion publique;Attention !<br>"sensible" en anglais désigne quelqu'un de raisonnable, cette formulation reste rare;...;V;LIVRE;C1
 to make people aware of;rendre les gens conscients de;make, made, made;...;VI;LIVRE;B2
 to have news value;présenter un intérêt;have, had, had;...;VI;LIVRE;B2
-
-=== EXERCICES ===
-
-There are clear indications that there is a biased media coverage.;Il apparaît clairement que la couverture médiatique n'est pas objective.;pas d'indication;biased peut se traduire littéralement par biaisé donc "pas objective" est cohérent;Fiche voc 1;TRAD;B2
-The local paper sent a [...] to cover the story.;journalist/reporter;cover the story = couvrir l'evenement;Le journal local a envoyé un journaliste pour couvrir l'évènement.;Fiche voc 1;TRAD;A2
-
-I don't know how to make him aware of how much he is hurting her feelings.;Je ne sais pas comment lui faire prendre conscience à quel point il l'a blessée.;...;...;Fiche conj 1;TRAD;B2
+https://quizlet.com/fr-fr/fiches-de-memorisation/prepa-en-media-the-press-journalism-1192974694

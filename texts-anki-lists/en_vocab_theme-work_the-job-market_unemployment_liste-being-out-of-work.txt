@@ -1,0 +1,24 @@
+joblessness, unemployment;le chômage;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+youth unemployment;le chômage des jeunes;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+short-/long-term unemployment;le chômage de courte/longue durée;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+the unemployed, the jobless<br><br>Exemple :<br>S'emploie souvent au pluriel collectif "the unemployed";les chômeurs;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+the unemployment rate;le taux de chômage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+redundancy compensation;une indemnité de licenciement;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+severance pay;une prime de licenciement<br><br>Note :<br>Prononciation : [ˈsevərəns];ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+a golden handshake<br><br>Exemple :<br>Généralement substantielle pour un cadre;une prime de départ;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+unemployment insurance;l’assurance chômage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+an unemployment fund;une caisse d’assurance-chômage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+unemployment benefits;les indemnités chômage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+a claimant<br><br>Exemple :<br>Personne qui réclame une allocation;un demandeur;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+loss of status;la perte de statut;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+to compensate (for sth);indemniser, dédommager (de qqch);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+to ask for compensation;réclamer des indemnités;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+to collect unemployment benefits;toucher des allocations chômage;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+to be on the dole<br><br>Exemple :<br>Argot britannique;toucher le chômage<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+to check in/sign on at the unemployment agency<br><br>Exemple :<br>Prononciation : [ˈedʒənsɪ];pointer à une agence pour l’emploi;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+to find a job again;retrouver un emploi<br><br>Note :<br>find, found, found;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+jobless, unemployed;sans emploi, au chômage;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+idle, inactive;inactif, désœuvré<br><br>Note :<br>Prononciation : [ˈaɪdl];ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+temporary;temporaire;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+chronic;chronique;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work
+cyclical;cyclique, conjoncturel;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Unemployment::Being-Out-of-Work

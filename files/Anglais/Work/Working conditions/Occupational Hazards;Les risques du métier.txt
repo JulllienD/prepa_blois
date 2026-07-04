@@ -1,0 +1,17 @@
+an occupational disease;une maladie du travail / professionnelle;...;...;N;LIVRE;C1
+an accident;un accident;...;...;N;LIVRE;A2
+a workplace accident;un accident sur le lieu de travail;...;...;N;LIVRE;B1
+incapacitation for work;une incapacité de travail;...;...;N;LIVRE;C1
+paternity/maternity leave;le congé de paternité/maternité;...;...;N;LIVRE;B2
+(sick) leave;un congé (maladie);...;...;N;LIVRE;B1
+an insurance;une assurance;...;...;N;LIVRE;B1
+health/sickness insurance;l’assurance maladie;...;...;N;LIVRE;B1
+cover;la couverture;...;Dans le sens couverture d'assurance;N;LIVRE;B2
+sick pay;les prestations maladie;...;...;N;LIVRE;B2
+
+to have an accident;avoir un accident;have, had, had;...;VI;LIVRE;A2
+to be incapacitated for work;être dans l’incapacité de travailler;be, was/were, been;...;VI;LIVRE;C1
+to take a day off;prendre un jour de congé;take, took, taken;...;VI;LIVRE;A2
+to be on leave;être en congé;be, was/were, been;...;VI;LIVRE;B1
+to get compensation;obtenir des dommages et intérêts;get, got, got;...;VI;LIVRE;B2
+to be on a pension;recevoir une pension / retraite;be, was/were, been;...;VI;LIVRE;B1

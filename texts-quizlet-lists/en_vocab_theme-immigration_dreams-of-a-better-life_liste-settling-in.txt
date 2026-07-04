@@ -1,0 +1,47 @@
+a settler||un colon
+----------
+a settlement||un village, une colonie
+----------
+a pioneer||un pionnier
+----------
+an immigrant||un immigrant, un immigré
+----------
+a new arrival||un arrivant
+----------
+a foreigner||un étranger
+----------
+an alien||un ressortissant étranger
+----------
+a stranger||# un inconnu
+
+Note : Faux-ami : 'stranger' signifie un inconnu, pas un étranger (alien/foreigner).
+----------
+a resident alien||un résident étranger
+----------
+a newcomer||un nouveau venu
+----------
+a stream||un flot, un torrent
+----------
+a flow||un afflux
+----------
+a wave||une vague
+----------
+to settle||s’installer, s’établir
+----------
+to let in||laisser entrer
+----------
+to allow (somebody) in||autoriser l’entrée (de qqn)
+----------
+to entice||attirer
+----------
+to encourage||encourager
+----------
+to open one’s borders||ouvrir ses frontières
+----------
+to welcome||accueillir favorablement
+----------
+to provide shelter / a haven||offrir un refuge
+----------
+a tax haven||# un paradis fiscal
+
+Note : Ne pas confondre 'haven' (refuge) et 'heaven' (paradis).

@@ -1,0 +1,18 @@
+the economic policy;la politique économique;Attention : "economical" signifie bon marché (cheap);...;N;LIVRE;B2
+taxation;l’imposition, les contributions;Système fiscal;...;N;LIVRE;B2
+tax(es);les impôts / taxes;...;...;N;LIVRE;A2
+tax levy;le prélèvement fiscal;...;...;N;LIVRE;C1
+income tax;l’impôt sur le revenu;La déclaration de revenus se dit "an income tax return";...;N;LIVRE;B1
+property tax;l’impôt foncier;...;...;N;LIVRE;B2
+wealth tax;l’impôt sur la fortune;...;...;N;LIVRE;B2
+a tax break / cut;un avantage fiscal / réduction d'impôt;...;...;N;LIVRE;B2
+tax exemption;l’exonération d’impôt;...;...;N;LIVRE;C1
+the tax office;le fisc / centre des impôts;UK : "Inland Revenue" | US : "Internal Revenue";...;N;LIVRE;B1
+a taxpayer;un contribuable;...;...;N;LIVRE;B2
+a tax-evader, a tax-dodger;un fraudeur fiscal;...;...;N;LIVRE;C1
+VAT (Value Added Tax) (UK), sales tax (US);la T.V.A.;...;...;ABREV;LIVRE;B1
+duties;les taxes douanières;...;...;N;LIVRE;B2
+a tax haven;un paradis fiscal;"a haven" signifie un refuge ou un havre;...;N;LIVRE;B2
+to levy / to collect taxes;prélever / percevoir des impôts;...;...;V;LIVRE;C1
+to pay taxes;payer des impôts;pay, paid, paid;...;VI;LIVRE;A2
+to dodge / to evade taxes;frauder le fisc;...;...;V;LIVRE;C1

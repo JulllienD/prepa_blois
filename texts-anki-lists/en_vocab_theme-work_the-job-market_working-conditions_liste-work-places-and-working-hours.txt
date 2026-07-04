@@ -1,0 +1,29 @@
+Work Places;Les lieux de travail;ANGLAIS::niveau::A2 ANGLAIS::type::notion ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+a factory;une usine;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+a shop<br><br>Exemple :<br>Dans le contexte industriel (et non un magasin);un atelier;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+a sweatshop;un atelier de misère / clandestin<br><br>Note :<br>Prononciation : [ˈswetʃɒp];ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+a company, a firm;une entreprise<br><br>Note :<br>Prononciation : [fɜːm] pour "firm";ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+the headquarters / a branch<br><br>Exemple :<br>"Headquarters" s'emploie souvent au pluriel;le siège / une succursale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+a shop<br><br>Exemple :<br>Dans le contexte du commerce;un magasin, une boutique;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+an office<br><br>Exemple :<br>Le lieu / la pièce de travail;un bureau;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+the premises<br><br>Exemple :<br>Toujours au pluriel;les locaux;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+Working Hours;Le temps de travail;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+a working day;un jour ouvrable / de travail;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+the working week;la semaine de travail;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+a 39-/35-hour working week;une semaine de 39/35 heures;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+office hours;les heures de bureau<br><br>Note :<br>Prononciation : [ˈaʊəz];ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+flexitime;les horaires flexibles;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+part-time work;le travail à temps partiel;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+a part-time worker, a part-timer;un travailleur à temps partiel;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+temporary work, temping;le travail temporaire, l’intérim;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+shiftwork;le travail par roulement / en équipes;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+the day/night shift;l’équipe de jour/de nuit;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+overtime;les heures supplémentaires;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+work sharing;le partage du travail;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+to work full-time;travailler à temps plein;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+to work shifts;travailler par roulement;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+to work overtime;faire des heures supplémentaires;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+to do job sharing;partager le travail<br><br>Note :<br>do, did, done;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+full-time;à temps plein;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+part-time;à temps partiel;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours
+half-time;à mi-temps<br><br>Note :<br>Prononciation : [hɑːf];ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Work::The-job-market::Working-conditions::Work-Places-and-working-hours

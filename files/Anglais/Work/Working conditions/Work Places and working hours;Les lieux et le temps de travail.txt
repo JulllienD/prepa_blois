@@ -1,0 +1,30 @@
+Work Places;Les lieux de travail;...;...;DEF;LIVRE;A2
+a factory;une usine;...;...;N;LIVRE;A2
+a shop;un atelier;...;Dans le contexte industriel (et non un magasin);N;LIVRE;B1
+a sweatshop;un atelier de misère / clandestin;Prononciation : [ˈswetʃɒp];...;N;LIVRE;C1
+a company, a firm;une entreprise;Prononciation : [fɜːm] pour "firm";...;N;LIVRE;A2
+the headquarters / a branch;le siège / une succursale;...;"Headquarters" s'emploie souvent au pluriel;N;LIVRE;B2
+a shop;un magasin, une boutique;...;Dans le contexte du commerce;N;LIVRE;A1
+an office;un bureau;...;Le lieu / la pièce de travail;N;LIVRE;A1
+the premises;les locaux;...;Toujours au pluriel;N;LIVRE;B2
+
+Working Hours;Le temps de travail;...;...;DEF;LIVRE;B1
+a working day;un jour ouvrable / de travail;...;...;N;LIVRE;A2
+the working week;la semaine de travail;...;...;N;LIVRE;B1
+a 39-/35-hour working week;une semaine de 39/35 heures;...;...;N;LIVRE;B1
+office hours;les heures de bureau;Prononciation : [ˈaʊəz];...;N;LIVRE;A2
+flexitime;les horaires flexibles;...;...;N;LIVRE;B2
+part-time work;le travail à temps partiel;...;...;N;LIVRE;B1
+a part-time worker, a part-timer;un travailleur à temps partiel;...;...;N;LIVRE;B1
+temporary work, temping;le travail temporaire, l’intérim;...;...;N;LIVRE;B1
+shiftwork;le travail par roulement / en équipes;...;...;N;LIVRE;B2
+the day/night shift;l’équipe de jour/de nuit;...;...;N;LIVRE;B2
+overtime;les heures supplémentaires;...;...;N;LIVRE;B2
+work sharing;le partage du travail;...;...;N;LIVRE;C1
+to work full-time;travailler à temps plein;...;...;V;LIVRE;A2
+to work shifts;travailler par roulement;...;...;V;LIVRE;B2
+to work overtime;faire des heures supplémentaires;...;...;V;LIVRE;B2
+to do job sharing;partager le travail;do, did, done;...;VI;LIVRE;C1
+full-time;à temps plein;...;...;ADJ;LIVRE;A2
+part-time;à temps partiel;...;...;ADJ;LIVRE;A2
+half-time;à mi-temps;Prononciation : [hɑːf];...;ADJ;LIVRE;B1

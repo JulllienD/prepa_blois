@@ -1,0 +1,6 @@
+the Cabinet;le Cabinet<br><br>Note :<br>Conseil des secrétaires d'État autour du Président;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-American-Government
+the Attorney General;le ministre de la Justice<br><br>Note :<br>Prononciation : [əˈtɜːni];ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-American-Government
+the Secretary of the Treasury;le ministre des Finances;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-American-Government
+the Treasury Department;le Trésor;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-American-Government
+the State Secretary / Secretary of State;le ministre des Affaires étrangères;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-American-Government
+the State Department;le ministère des Affaires étrangères;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Executive-Power::Governments::The-American-Government

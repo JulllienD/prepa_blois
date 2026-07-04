@@ -1,0 +1,20 @@
+a government;un gouvernement;...;...;N;LIVRE;A2
+a statesman;un homme d’État;...;...;N;LIVRE;B2
+a head of state;un chef d’État;...;...;N;LIVRE;B2
+a leader, a ruler;un dirigeant;...;...;N;LIVRE;B1
+a president;un président;...;...;N;LIVRE;A1
+a citizen;un citoyen;...;...;N;LIVRE;B1
+a national;un ressortissant;...;...;N;LIVRE;B2
+a country;un pays;...;...;N;LIVRE;A1
+a nation;une nation;...;...;N;LIVRE;B1
+a nation-state;un Etat-nation;...;...;N;LIVRE;C1
+a (con)federation;une (con)fédération;...;...;N;LIVRE;B2
+an institution;une institution;...;...;N;LIVRE;B1
+
+to govern;gouverner;...;...;V;LIVRE;B1
+to rule/lead/run a country;diriger/gouverner un pays;rule, ruled, ruled / lead, led, led / run, ran, run;...;VI;LIVRE;B1
+national;national;...;...;ADJ;LIVRE;A2
+(con)federal;(con)fédéral;...;...;ADJ;LIVRE;B2
+(con)federate;(con)fédéré;...;...;ADJ;LIVRE;C1
+in power;en place, au pouvoir;...;...;EXPR;LIVRE;B1
+institutional;institutionnel;...;...;ADJ;LIVRE;B2

@@ -1,0 +1,6 @@
+the Cabinet;le Cabinet;Conseil des secrétaires d'État autour du Président;...;N;LIVRE;B2
+the Attorney General;le ministre de la Justice;Prononciation : [əˈtɜːni];...;N;LIVRE;C1
+the Secretary of the Treasury;le ministre des Finances;...;...;N;LIVRE;C1
+the Treasury Department;le Trésor;...;...;N;LIVRE;B2
+the State Secretary / Secretary of State;le ministre des Affaires étrangères;...;...;N;LIVRE;B2
+the State Department;le ministère des Affaires étrangères;...;...;N;LIVRE;B2

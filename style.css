@@ -547,7 +547,51 @@ body {
 
 /* FICHES EXOS */
 
+/* Champs de saisie (inputs) créés par le mode révision */
+.input-revision {
+    width: 90%;
+    padding: 6px;
+    border: 2px solid #ced4da;
+    border-radius: 4px;
+    font-size: 0.95rem;
+    box-sizing: border-box;
+    transition: all 0.2s ease;
+}
 
+/* Conteneur pour espacer le bouton de validation */
+.validation-btn-container {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Bouton de validation (hérite de ton bouton vert existant) */
+.validation-btn-container button {
+    cursor: pointer;
+    border: none;
+}
+
+/* Styles d'états lors de la correction (Bonne / Mauvaise réponse) */
+.input-revision.is-valid {
+    border-color: #28a745 !important;
+    background-color: #e8f5e9 !important;
+    color: #155724 !important;
+}
+
+.input-revision.is-invalid {
+    border-color: #dc3545 !important;
+    background-color: #ffebee !important;
+    color: #721c24 !important;
+}
+
+/* Texte affichant la solution attendue sous l'input */
+.correction-texte {
+    color: #dc3545;
+    font-size: 0.85rem;
+    font-weight: bold;
+    margin-top: 4px;
+    text-align: left;
+}
 
 
 
@@ -794,40 +838,3 @@ article code {
 
 
 
-
-
-
-
-
-
-
-
-.exercice-container {
-    max-width: 500px;
-    margin: 20px auto;
-    font-family: Arial, sans-serif;
-}
-
-.question {
-    margin-bottom: 15px;
-}
-
-input[type="text"] {
-    padding: 8px;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    outline: none;
-}
-
-button {
-    padding: 10px 15px;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #0056b3;
-}

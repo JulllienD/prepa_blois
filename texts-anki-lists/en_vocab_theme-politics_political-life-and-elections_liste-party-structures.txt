@@ -1,0 +1,31 @@
+the ruling party;le parti au pouvoir, la majorité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+an alliance;une alliance;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+an opposition party;un parti d’opposition;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a splinter party;un parti dissident<br><br>Note :<br>"a splinter" désigne un éclat ou une écharde;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+political dissidence;la dissidence;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a political dissenter;un dissident;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a cleavage;une division / un clivage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a split, a rift;une scission;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a manifesto;un manifeste;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a platform;un programme<br><br>Note :<br>Dans un contexte politique (programme électoral);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+ideology;l’idéologie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+an ideologist;un idéologue;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+financing;le financement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a slush fund;une caisse noire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+the party members;les membres du parti;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+party membership;l’adhésion à un parti / les effectifs;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+the leadership;la direction / les dirigeants;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a party leader;un chef de file;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a party official<br><br>Exemple :<br>Parfois qualifié d'apparatchik;un responsable du parti;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a reformist;un réformateur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+the rank-and-file;la base<br><br>Note :<br>Les militants et membres de base (sans responsabilités);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+activism;le militantisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+an activist;un militant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a party cell;une cellule du parti;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+a party congress/conference;un congrès du parti;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+to found (a party);fonder (un parti);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+to finance;financer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+to join (a party);adhérer (à un parti);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+to claim a membership of;revendiquer un effectif de;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+to reform;réformer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures
+to hand out (pamphlets, tracts);distribuer (des tracts);ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Politics::Political-Life-and-Elections::Party-Structures

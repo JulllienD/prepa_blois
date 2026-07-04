@@ -1,0 +1,40 @@
+Assembly line;chaîne de montage;...;...;N;LIVRE;B1
+Automation;automatisation;...;...;N;LIVRE;B2
+to Automate;robotiser / automatiser;...;...;V;LIVRE;B2
+Computer-aided Design (CAD);conception assistée par ordinateur (CAO);...;...;N;LIVRE;C1
+Digital computer;ordinateur numérique;...;...;N;LIVRE;B2
+Digital switchover;passage au numérique;...;...;N;LIVRE;C1
+digitally-controlled;à commande numérique;...;...;ADJ;LIVRE;C1
+Hazard;danger / risque;...;...;N;LIVRE;B2
+joint limit;limite d'articulation;...;...;N;LIVRE;C1
+maintenance;entretien / maintenance;...;...;N;LIVRE;B1
+mechanization;mécanisation;...;...;N;LIVRE;B2
+miniaturization;miniaturisation;...;...;N;LIVRE;C1
+nanotechnology;nanotechnologie;...;...;N;LIVRE;C1
+off-line processing;traitement hors ligne;...;...;N;LIVRE;C1
+online programming;programmation en ligne;...;...;N;LIVRE;C1
+palletizing;palettisation;...;...;N;LIVRE;C2
+reliability;fiabilité;...;...;N;LIVRE;B2
+repeatability;répétabilité;...;...;N;LIVRE;C1
+robot arm;bras robotique;...;...;N;LIVRE;B1
+robot reach;portée du robot;...;...;N;LIVRE;C1
+robot-supported;robotisé;...;...;ADJ;LIVRE;B2
+robotic surgery;robotique chirurgicale;...;...;N;LIVRE;C1
+sensor;capteur;...;...;N;LIVRE;B2
+safeguard;précaution / dispositif de protection;...;...;N;LIVRE;B2
+safety factor;coefficient de sécurité;...;...;N;LIVRE;C1
+safety procedure;dispositif de sécurité / procédure de sécurité;...;...;N;LIVRE;B2
+software;logiciel;...;...;N;LIVRE;A2
+unmanned operation;fonctionnement sans opérateur;...;...;N;LIVRE;C1
+work cell;cellule de travail;...;...;N;LIVRE;C1
+work envelope;enveloppe de travail;...;...;N;LIVRE;C2
+XYZ Coordinates;coordonnées XYZ ou cartésiennes;...;...;N;LIVRE;C1
+Yaw mechanism;mécanisme d'orientation;...;En aéronautique ou robotique (lacet);N;LIVRE;C2
+R&D;Recherche et Développement;Research and Development;...;ABREV;LIVRE;B1
+Robotics;la robotique;...;...;N;LIVRE;B1
+A robotics graduate;un diplômé en robotique;...;...;N;LIVRE;B2
+A robotics scientist/engineer;roboticien;...;...;N;LIVRE;B2
+Robotic;robotique;...;Adjectif;ADJ;LIVRE;B1
+Industrial robot;un robot industriel;Pour le domaine de l’industrie;...;N;LIVRE;B1
+Computer-controlled machines;des machines contrôlées par ordinateur;...;...;N;LIVRE;B2
+Remote-controlled machines;des machines contrôlées à distance;...;...;N;LIVRE;B1

@@ -1,0 +1,14 @@
+an occupation;une profession;...;...;N;LIVRE;B1
+the professions;les professions libérales;...;...;N;LIVRE;B2
+a post, a position;un poste;...;...;N;LIVRE;B1
+a career;une carrière;...;...;N;LIVRE;B1
+an executive;un cadre;...;...;N;LIVRE;B2
+a top executive;un cadre supérieur;...;...;N;LIVRE;C1
+a freelance;un travailleur indépendant;...;...;N;LIVRE;B2
+to have a job;exercer un métier;...;...;V;LIVRE;A1
+to be employed (in a company);travailler (pour une entreprise);be, was/were, been;...;VI;LIVRE;B1
+to work (as);travailler (comme);...;...;V;LIVRE;A1
+to hold a post/a position (as…);occuper un poste (en qualité de…);hold, held, held;...;VI;LIVRE;B2
+to be in charge of;être responsable de;be, was/were, been;...;VI;LIVRE;B1
+to earn a living;gagner sa vie;...;...;V;LIVRE;B1
+to be at work;être au travail;be, was/were, been;...;VI;LIVRE;A2

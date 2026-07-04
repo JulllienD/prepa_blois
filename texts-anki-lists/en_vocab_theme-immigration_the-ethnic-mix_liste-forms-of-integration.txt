@@ -1,0 +1,18 @@
+assimilation;l’assimilation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+naturalization;la naturalisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+bilingualism;le bilinguisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+citizenship;la nationalité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+a citizen;un citoyen;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+a would-be citizen;un citoyen potentiel;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+mutual respect;le respect mutuel;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+understanding;la compréhension;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+adapt, adjust;(s’) adapter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+assimilate;(s’) intégrer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+integrate;(s’) intégrer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+blend/merge into;se fondre dans;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+conform (to, with);se conformer (à);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+put down new roots;se créer de nouvelles racines<br><br>Note :<br>put, put, put;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+apply for citizenship;demander la nationalité;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+naturalize;naturaliser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+grant citizenship;accorder la nationalité;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration
+respect;respecter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Forms-of-Integration

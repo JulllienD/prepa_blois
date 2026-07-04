@@ -1,0 +1,30 @@
+imperialism;l’impérialisme;...;...;N;LIVRE;B2
+colonialism;colonialisme;...;...;N;LIVRE;B2
+a colony;une colonie;...;...;N;LIVRE;B1
+an empire;un empire;...;...;N;LIVRE;B1
+
+an emperor, an empress;un empereur, une impératrice;...;...;N;LIVRE;B1
+a sultan;un sultan;...;...;N;LIVRE;B2
+an emir;un émir;...;...;N;LIVRE;B2
+a sheikh;un cheik;...;...;N;LIVRE;B2
+a warlord;un seigneur de guerre;...;...;N;LIVRE;C1
+despotism;le despotisme;...;...;N;LIVRE;C1
+a despot;un despote;...;...;N;LIVRE;C1
+tyranny;la tyrannie;...;...;N;LIVRE;B2
+a tyrant;un tyran;...;...;N;LIVRE;B2
+a dictatorship;une dictature;...;...;N;LIVRE;B2
+a dictator;un dictateur;...;...;N;LIVRE;B2
+a military junta;une junte militaire;...;...;N;LIVRE;C1
+a coup;un coup d’État;...;...;N;LIVRE;B2
+to foment/attempt a coup;fomenter/faire une tentative de coup d’État;...;...;V;LIVRE;C1
+a coupster;un participant à un coup d’État;...;...;N;LIVRE;C2
+a putsch;un putsch;...;...;N;LIVRE;C1
+a putschist;un putschiste;...;...;N;LIVRE;C2
+a police state;un État policier;...;...;N;LIVRE;C1
+the state police;la police d’État;...;...;N;LIVRE;B2
+full powers;les pleins pouvoirs;...;...;N;LIVRE;B2
+
+imperial;impérial;...;...;ADJ;LIVRE;B2
+tyrannic(al);tyrannique;...;...;ADJ;LIVRE;B2
+dictatorial;dictatorial;...;...;ADJ;LIVRE;B2
+totalitarian;totalitaire;...;...;ADJ;LIVRE;C1

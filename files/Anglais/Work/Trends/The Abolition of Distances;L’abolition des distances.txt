@@ -1,0 +1,17 @@
+a cottage industry;une entreprise artisanale / familiale;"a cottage" signifie une petite maison à la campagne;...;N;LIVRE;C1
+teleworking;le télétravail;...;...;N;LIVRE;B1
+telecommuting;le travail depuis son domicile / télétravail;...;...;N;LIVRE;B1
+a telecommuter;un travailleur à domicile / télétravailleur;...;...;N;LIVRE;B1
+flexibility;la flexibilité, la souplesse;...;...;N;LIVRE;B2
+
+to work at home / from home;travailler depuis son domicile;...;...;V;LIVRE;A2
+to run a business from home;diriger une entreprise à domicile;run, ran, run;...;VI;LIVRE;B1
+to telecommute, telework;travailler à domicile / télétravailler;...;...;V;LIVRE;B1
+to be self-employed;être à son compte;be, was/were, been;...;VI;LIVRE;B2
+to reduce maintenance cost;réduire les frais d’entretien;...;...;V;LIVRE;B2
+to cut down overheads;réduire les frais généraux;cut, cut, cut;...;VI;LIVRE;C1
+
+convenient;pratique / commode;...;...;ADJ;LIVRE;B1
+flexible;souple, flexible;...;...;ADJ;LIVRE;B1
+time-saving;qui fait gagner du temps;...;...;ADJ;LIVRE;B2
+home-based;à distance / basé à domicile;...;...;ADJ;LIVRE;B2

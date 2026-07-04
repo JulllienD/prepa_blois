@@ -1,0 +1,22 @@
+a settler;un colon;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a settlement;un village, une colonie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a pioneer;un pionnier;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+an immigrant;un immigrant, un immigré;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a new arrival;un arrivant;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a foreigner;un étranger;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+an alien;un ressortissant étranger;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a stranger;# un inconnu<br><br>Note :<br>Faux-ami : 'stranger' signifie un inconnu, pas un étranger (alien/foreigner).;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a resident alien;un résident étranger;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a newcomer;un nouveau venu;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a stream;un flot, un torrent;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a flow;un afflux;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a wave;une vague;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+to settle;s’installer, s’établir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+to let in;laisser entrer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+to allow (somebody) in;autoriser l’entrée (de qqn);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+to entice;attirer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+to encourage;encourager;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+to open one’s borders;ouvrir ses frontières;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+to welcome;accueillir favorablement;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+to provide shelter / a haven;offrir un refuge;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In
+a tax haven;# un paradis fiscal<br><br>Note :<br>Ne pas confondre 'haven' (refuge) et 'heaven' (paradis).;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Settling-In

@@ -1,0 +1,28 @@
+Probation and Training;Période d’essai et formation;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+a probationary period;une période d’essai;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+vocational training;la formation professionnelle;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+a training period/session/an internship<br><br>Exemple :<br>"Internship" désigne souvent un stage étudiant ou d'insertion;un stage (de formation);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+a training programme;un programme de formation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+a trainee, an intern (US);un stagiaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+continuing education;la formation continue;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to train;(se) former;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to retrain;(se) recycler / se reconvertir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to take sb on probation;prendre quelqu’un à l’essai<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to take sb for a trial period;prendre quelqu’un à l’essai<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to be on a training period;être en stage<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to specialize (in);se spécialiser (en);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+Promotion;L’avancement / la promotion;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+an appointment (as);une nomination (en tant que);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+an assignment;une affectation (administrative);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+tenure<br><br>Exemple :<br>Notamment dans l'enseignement supérieur ou la fonction publique;la titularisation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+seniority;l’ancienneté;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+promotion by seniority;l’avancement à l’ancienneté;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+merit;le mérite;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+promotion by selection;l’avancement au mérite;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+career prospects;les perspectives de carrière;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to be assigned/appointed;être nommé<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to be reassigned/transferred;être muté<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to get tenure;être titularisé<br><br>Note :<br>get, got, got;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to be promoted;être promu<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to climb the ladder;monter dans la hiérarchie / gravir les échelons<br><br>Note :<br>climb, climbed, climbed;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion
+to further one’s career;gérer / faire avancer sa carrière;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Work::The-job-market::Employment::Probation-and-Training-Promotion

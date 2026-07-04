@@ -1,0 +1,19 @@
+a government;un gouvernement;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a statesman;un homme d’État;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a head of state;un chef d’État;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a leader, a ruler;un dirigeant;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a president;un président;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a citizen;un citoyen;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a national;un ressortissant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a country;un pays;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a nation;une nation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a nation-state;un Etat-nation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+a (con)federation;une (con)fédération;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+an institution;une institution;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Political-Regimes::The-State
+to govern;gouverner;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Politics::Political-Regimes::The-State
+to rule/lead/run a country;diriger/gouverner un pays<br><br>Note :<br>rule, ruled, ruled / lead, led, led / run, ran, run;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Politics::Political-Regimes::The-State
+national;national;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::The-State
+(con)federal;(con)fédéral;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::The-State
+(con)federate;(con)fédéré;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::The-State
+in power;en place, au pouvoir;ANGLAIS::niveau::B1 ANGLAIS::type::expr ANGLAIS::Politics::Political-Regimes::The-State
+institutional;institutionnel;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Politics::Political-Regimes::The-State

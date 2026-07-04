@@ -1,0 +1,69 @@
+a hope;un espoir;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+a wish;un souhait;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+an incentive;une incitation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+attraction, appeal;l’attrait;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+lure;l’attrait (trompeur), le leurre;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+aspiration;l’aspiration;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+yearning ['jɜːnɪŋ];le désir ardent, l’aspiration<br><br>Note :<br>Terme littéraire et soutenu pour un désir très fort.;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+longing;l’envie, l’aspiration;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+the search (for);la recherche (de);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+the quest (for);la quête (de);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+the thirst (for);la soif (de);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+a magnet ['mæɡnɪt];un aimant, un pôle d’attraction;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+freedom;la liberté;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+an opportunity;une occasion;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+an occasion;# une grande occasion<br><br>Note :<br>Faux-ami : 'occasion' désigne un grand événement, utiliser 'opportunity' pour une opportunité.;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+a livelihood;un gagne-pain;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+a shelter;un abri, un refuge;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+living conditions;les conditions de vie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+a prospect;une perspective;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+education;l’éducation, la scolarisation;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+schooling;la scolarisation;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+affluence;la richesse, l’abondance;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+wealth;la fortune, la richesse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+riches (always plural);les richesses;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+upward mobility;l’ascension sociale;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+a success story;un cas d’ascension fulgurante;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+a rags-to-riches story;une réussite spectaculaire<br><br>Note :<br>Expression idiomatique signifiant passer des haillons à la richesse.;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+rags;# des haillons<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to dream;rêver;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to fulfil a dream;réaliser un rêve;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to expect (something);s’attendre à (quelque chose);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to meet expectations;satisfaire des attentes;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to hope;espérer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to wish for something;souhaiter avoir quelque chose;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to aspire (to) [ə'spaɪə];aspirer (à);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to yearn for;désirer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to long for;désirer, aspirer à;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to be attracted (to);être attiré (par);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to have access to;avoir accès à;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to earn a living;gagner sa vie;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to provide for one’s family;satisfaire les besoins de sa famille;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to seek refuge;chercher refuge;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+seek, sought, sought;# chercher (verbe irrégulier)<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to find shelter;trouver refuge;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to feed;nourrir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to educate;éduquer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to improve;améliorer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to become / to get rich;s’enrichir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to rise;s’élever;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to work one’s way up;s’élever socialement;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to dig for gold;chercher de l’or (en creusant);ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+dig, dug, dug;# creuser (verbe irrégulier)<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to discover / to strike gold;découvrir de l’or;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to make a fortune;faire fortune;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to set up an empire;construire un empire;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+to go from rags to riches;passer du dénuement à l’opulence;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+free;libre;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+peaceful;paisible, pacifique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+pacific;pacifique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+attractive;attrayant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+appealing;attirant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+enticing, alluring;attrayant, tentant;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+irresistible;irrésistible;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+hopeful;plein d’espoir;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+impatient, eager;impatient;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+greedy;avide, cupide;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+well-off;aisé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+affluent;riche;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
+wealthy;riche, fortuné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Expectations-and-Dreams
