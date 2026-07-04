@@ -1,0 +1,15 @@
+The British Parliament;Le parlement britannique;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+the House of Commons;la Chambre des communes<br><br>Note :<br>Chambre basse du Parlement britannique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+the House of Lords;la Chambre des Lords<br><br>Note :<br>Chambre haute du Parlement britannique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+a Lord, a Peer;un Lord, un Pair;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+The American Parliament;Le parlement américain;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+Congress<br><br>Exemple :<br>Pouvoir législatif américain (Sénat + Chambre);le Congrès;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+a Congressman / Congresswoman;un membre du Congrès<br><br>Note :<br>Généralement membre de la Chambre des Représentants;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+the House of Representatives;la Chambre des députés / représentants<br><br>Note :<br>Chambre basse du Congrès américain;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+a Representative;un représentant<br><br>Note :<br>Député américain;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+the Senate;le Sénat<br><br>Note :<br>Chambre haute aux États-Unis et en France;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+a Senator;un sénateur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+The French Parliament;Le parlement français;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+the Chamber of Deputies;la Chambre des députés<br><br>Note :<br>Nom historique ou générique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+a deputy;un député;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France
+the National Assembly;l’Assemblée nationale<br><br>Note :<br>Chambre basse du Parlement français;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Politics::Legislative-Power::Parliement-in-the-UK-the-US-and-France

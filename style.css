@@ -164,6 +164,102 @@ body {
 
 
 
+/*ARBRE*/
+
+/* Style du Bouton d'ouverture */
+.btn-tree-toggle {
+    display: block;
+    width: fit-content;
+    margin: 10px 0 25px 0;
+    padding: 12px 24px;
+    background-color: #28a745; /* Vert pour l'arbre */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1rem;
+    transition: background 0.2s, transform 0.1s;
+}
+.btn-tree-toggle:hover {
+    background-color: #218838;
+    transform: translateY(-1px);
+}
+
+/* --- CONTAINER DE L'ARBRE --- */
+.tree-page-container {
+    position: relative;
+    padding: 40px;
+    background: #fdfdfd;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+    overflow-x: auto; /* Scroll horizontal si l'arbre est très profond */
+}
+
+/* --- LE CALQUE DE LIGNES --- */
+.tree-svg-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* --- STRUCTURE EN CASCADES HORIZONTALES --- */
+.tree-root, .tree-root ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+/* Éloignement horizontal entre le dossier parent et son bloc d'enfants */
+.tree-root li > ul {
+    padding-left: 100px; 
+}
+
+/* Règle magique : Un élément "li" se structure horizontalement 
+   pour mettre son bouton à gauche et son bloc d'enfants à droite */
+.tree-root li {
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    position: relative;
+    padding: 10px 0;
+}
+
+/* --- BOUTONS --- */
+.tree-link {
+    display: inline-block;
+    padding: 10px 18px;
+    text-decoration: none;
+    color: #2d3748;
+    background: #ffffff;
+    border: 1px solid #cbd5e0;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    white-space: nowrap;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    z-index: 2;
+    margin-right: 15px; /* Petit espace à droite du bouton avant le départ des lignes */
+}
+
+.tree-link:hover {
+    background: #edf2f7;
+    border-color: #4a5568;
+}
+
+.node-theme { font-weight: bold; background: #ebf8ff; border-color: #bee3f8; color: #2b6cb0; }
+.node-sub { background: #f7fafc; border-color: #e2e8f0; font-style: italic; }
+
+
+
+
+
+
+
 
 
 /* 1. La grille qui accueille tes cartes */
@@ -773,6 +869,54 @@ article code {
         width: 100%;
         padding-right: 1.5rem;
     }
+
+
+
+
+
+    /* 1. Réduire le padding global du conteneur pour gagner de la place */
+    .tree-page-container {
+        padding: 15px;
+        background-color: #ffffff; /* Fond blanc pur sur mobile pour plus de clarté */
+        /* Permet un défilement horizontal et vertical super fluide au doigt */
+        overflow-x: auto;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    /* 2. Réduire l'écart horizontal entre les niveaux (de 100px à 50px)
+       pour éviter de devoir scroller sur des kilomètres à droite */
+    .tree-root li > ul {
+        padding-left: 55px; 
+    }
+
+    /* 3. Réduire la taille des boutons et du texte pour les petits écrans */
+    .tree-link {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+        margin-right: 8px; /* Réduire l'espace avant le départ des lignes */
+        border-radius: 4px;
+        /* Évite que le texte passe à la ligne à l'intérieur d'un bouton */
+        white-space: nowrap; 
+    }
+
+    /* 4. Espacer légèrement plus les lignes verticalement sur mobile 
+       pour faciliter le clic avec le doigt (évite les miss-clicks) */
+    .tree-root li {
+        padding: 8px 0;
+    }
+
+    /* 5. Optionnel : rendre les icônes emoji un peu plus discrètes */
+    .tree-link::before {
+        font-size: 0.9rem;
+    }
+
+
+
+
+
+
+
 
     /* En-tête des fiches (Titres + Boutons d'action) */
     .fiche-header-container {
