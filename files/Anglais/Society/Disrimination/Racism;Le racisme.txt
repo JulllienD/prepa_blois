@@ -1,0 +1,14 @@
+an ethnic group;un groupe ethnique, une ethnie;...;...;N;LIVRE;B1
+a race;une race;...;...;N;LIVRE;B1
+racialism;la discrimination raciale;...;...;N;LIVRE;B2
+(latent) racism;le racisme (voilé, rampant);...;...;N;LIVRE;B2
+a racist;un raciste;...;...;N;LIVRE;B1
+racial prejudice/stereotype;des préjugés raciaux;...;...;N;LIVRE;B2
+a racial attack;une agression raciste;...;...;N;LIVRE;B1
+xenophobia;la xénophobie;...;...;N;LIVRE;C1
+a xenophobe;un xénophobe;...;...;N;LIVRE;C1
+a ghetto;un ghetto;...;...;N;LIVRE;B1
+the colour bar;la barrière raciale;...;...;N;LIVRE;B1
+colour (UK) / color (US);couleur (écriture anglaise et américaine);Note orthographique importante (variations géographiques).;...;A;LIVRE;B2
+apartheid;l'apartheid;...;...;N;LIVRE;B2
+white supremacy;la suprématie de la race blanche;...;...;N;LIVRE;B2

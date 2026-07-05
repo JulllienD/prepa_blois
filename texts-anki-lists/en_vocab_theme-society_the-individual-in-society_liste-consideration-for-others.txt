@@ -1,0 +1,59 @@
+citizenship;la citoyenneté;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+a citizen;un citoyen;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+respect;le respect;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+concern;la sollicitude;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+consideration, regard;la considération, l’estime;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+decency;la retenue, la politesse, la décence;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+politeness;la politesse;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+tactfulness;le tact;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+faithfulness;la fidélité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+mutual understanding;la complicité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+indulgence;l’indulgence;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+tolerance;la tolérance;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+open-mindedness, openness;l’ouverture d’esprit;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+solidarity, fellow-feeling;la solidarité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+generosity;la générosité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+hospitality;l’hospitalité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+benevolence;la bienveillance;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+a benevolent society;une société de bienfaisance;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+a friendly society;une mutuelle;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+a charity;une organisation caritative;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+altruism, selflessness;l’altruisme;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+self-denial;l’abnégation;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+education;l’éducation;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+good manners, good breeding;le savoir-vivre, les bonnes manières;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+manners;manières, mœurs;ANGLAIS::niveau::B1 ANGLAIS::type::other ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+socializing;la vie sociale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+a socialite;un mondain;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+banter, small talk;le badinage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+propriety;la bienséance;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+decorum;l’étiquette, les convenances;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+protocol, etiquette;le protocole;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+gallantry;la galanterie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to break the ice;rompre la glace<br><br>Note :<br>break, broke, broken;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to behave well;bien se comporter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to understand;comprendre<br><br>Note :<br>understand, understood, understood;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to win the confidence of;gagner la confiance de<br><br>Note :<br>win, won, won;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+a confidence / confidence;une confidence / la confiance<br><br>Note :<br>Attention à la distinction : "a confidence" (une révélation) vs "confidence" (la confiance).;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to satisfy/to meet demands;satisfaire des requêtes<br><br>Note :<br>meet, met, met;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to mix;être sociable;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to socialize;fréquenter des gens;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to entertain people;recevoir/distraire des gens;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to banter;badiner;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+to pay compliments;complimenter<br><br>Note :<br>pay, paid, paid;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+pleasant, lik(e)able;agréable, aimable;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+respectful;respecteux;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+respectable;respectable;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+well-behaved, well-mannered;poli, bien élevé;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+generous;généreux;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+benevolent;bienveillant;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+considerate;attentionné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+tactful;délicat, plein de tact;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+well-meaning;bien intentionné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+lov(e)able;très sympathique, adorable;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+decent;convenable, respectable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+indulgent;indulgent;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+tolerant;tolérant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+open-minded;large d’esprit;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+selfless;altruiste;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others
+gallant, gentlemanly;galant, courtois<br><br>Note :<br>Peut aussi signifier courageux en anglais littéraire.;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::Consideration-for-Others

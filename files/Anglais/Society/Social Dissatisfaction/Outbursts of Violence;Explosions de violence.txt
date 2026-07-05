@@ -1,0 +1,55 @@
+an outbreak of violence;un accès de violence;...;...;N;LIVRE;B1
+the escalation of violence;l’escalade de la violence;...;...;N;LIVRE;B1
+collective hysteria;l’hystérie collective;...;...;N;LIVRE;B1
+a mob;~ une foule menaçante;...;...;N;LIVRE;B1
+the mob;la populace;Peut désigner la foule ordinaire ou vulgaire selon le contexte ancien.;...;A;LIVRE;B2
+the mob (slang);la Mafia;Sens argotique très répandu aux États-Unis.;...;A;LIVRE;B2
+a riot;une émeute;...;...;N;LIVRE;B1
+a rioter;un émeutier;...;...;N;LIVRE;B1
+the riot police;la police anti-émeute;...;...;N;LIVRE;B1
+a police bunder;une bavure policière;...;...;N;LIVRE;B1
+an upheaval;un soulèvement, une crise;...;...;N;LIVRE;B1
+a clash, a confrontation;un conflit, un affrontement;...;...;N;LIVRE;B1
+a barricade;une barricade;...;...;N;LIVRE;B1
+looting;le pillage;...;...;N;LIVRE;B2
+a looter;un pillard;...;...;N;LIVRE;B1
+lynching;le lynchage;...;...;N;LIVRE;B2
+Charles Lynch;magistrat américain qui, vers 1780, rendait une justice expéditive;Origine historique de l'expression loi de Lynch.;...;A;LIVRE;C1
+the lynch mob;les lyncheurs;...;...;N;LIVRE;B1
+hostage-taking;la prise d’otages;...;...;N;LIVRE;B1
+terrorism;le terrorisme;...;...;N;LIVRE;B2
+a terrorist;un terroriste;...;...;N;LIVRE;B1
+a terrorist attack, a bomb attack;un attentat;...;...;N;LIVRE;B1
+a suicide bomber;un kamikaze;...;...;N;LIVRE;B1
+a troublemaker;un fauteur de troubles;...;...;N;LIVRE;B1
+an agitator;un agitateur;...;...;N;LIVRE;B1
+hooliganism, vandalism;le vandalisme;...;...;A;LIVRE;B2
+a hooligan;un voyou, un casseur;...;...;N;LIVRE;B1
+a vandal;un vandale;...;...;N;LIVRE;B1
+an arsonist;un incendiaire, un pyromane;...;...;N;LIVRE;C1
+
+to provoke;provoquer;...;...;V;LIVRE;B1
+to trigger (off);déclencher;...;...;V;LIVRE;B1
+to deface/disfigure a building;défigurer un bâtiment;...;...;V;LIVRE;B1
+to mob;faire le siège de;...;...;V;LIVRE;B1
+to take by storm;prendre d’assaut;take, took, taken;...;VI;LIVRE;B1
+a storm;une tempête;...;...;A;LIVRE;A2
+to riot;s’insurger, faire une émeute;...;...;V;LIVRE;B1
+to loot, plunder;piller;...;...;V;LIVRE;B1
+to sack;mettre à sac;...;...;V;LIVRE;B1
+to wreck, vandalize;saccager;...;...;V;LIVRE;B1
+a wreck;une épave;...;...;A;LIVRE;B2
+to wreak havoc (on);dévaster, ravager;...;...;V;LIVRE;B1
+to overturn cars;renverser des voitures;...;...;V;LIVRE;B1
+to set up a barricade;édifier une barricade;set, set, set;...;VI;LIVRE;B1
+to hurl missiles;envoyer des projectiles;...;...;V;LIVRE;B1
+to lynch;lyncher;...;...;V;LIVRE;B1
+to take hostages;prendre des gens en otage;take, took, taken;...;VI;LIVRE;B1
+to be taken hostage;être pris en otage;take, took, taken;...;A;LIVRE;B2
+
+
+provocative;provocateur;...;...;ADJ;LIVRE;B2
+explosive;explosif;...;...;ADJ;LIVRE;B2
+riotous, rebellious;séditieux, rebelle;...;...;ADJ;LIVRE;B2
+unmanageable, out of control;incontrôlable;...;...;ADJ;LIVRE;B2
+unlawful;illégal;...;...;ADJ;LIVRE;B2

@@ -1,0 +1,52 @@
+an outbreak of violence;un accès de violence;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+the escalation of violence;l’escalade de la violence;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+collective hysteria;l’hystérie collective;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a mob;~ une foule menaçante;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+the mob;la populace<br><br>Note :<br>Peut désigner la foule ordinaire ou vulgaire selon le contexte ancien.;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+the mob (slang);la Mafia<br><br>Note :<br>Sens argotique très répandu aux États-Unis.;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a riot;une émeute;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a rioter;un émeutier;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+the riot police;la police anti-émeute;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a police bunder;une bavure policière;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+an upheaval;un soulèvement, une crise;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a clash, a confrontation;un conflit, un affrontement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a barricade;une barricade;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+looting;le pillage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a looter;un pillard;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+lynching;le lynchage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+Charles Lynch;magistrat américain qui, vers 1780, rendait une justice expéditive<br><br>Note :<br>Origine historique de l'expression loi de Lynch.;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+the lynch mob;les lyncheurs;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+hostage-taking;la prise d’otages;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+terrorism;le terrorisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a terrorist;un terroriste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a terrorist attack, a bomb attack;un attentat;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a suicide bomber;un kamikaze;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a troublemaker;un fauteur de troubles;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+an agitator;un agitateur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+hooliganism, vandalism;le vandalisme;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a hooligan;un voyou, un casseur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a vandal;un vandale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+an arsonist;un incendiaire, un pyromane;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to provoke;provoquer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to trigger (off);déclencher;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to deface/disfigure a building;défigurer un bâtiment;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to mob;faire le siège de;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to take by storm;prendre d’assaut<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a storm;une tempête;ANGLAIS::niveau::A2 ANGLAIS::type::other ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to riot;s’insurger, faire une émeute;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to loot, plunder;piller;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to sack;mettre à sac;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to wreck, vandalize;saccager;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+a wreck;une épave;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to wreak havoc (on);dévaster, ravager;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to overturn cars;renverser des voitures;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to set up a barricade;édifier une barricade<br><br>Note :<br>set, set, set;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to hurl missiles;envoyer des projectiles;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to lynch;lyncher;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to take hostages;prendre des gens en otage<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+to be taken hostage;être pris en otage<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+provocative;provocateur;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+explosive;explosif;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+riotous, rebellious;séditieux, rebelle;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+unmanageable, out of control;incontrôlable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence
+unlawful;illégal;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Social-Dissatisfaction::Outbursts-of-Violence

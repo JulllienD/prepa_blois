@@ -1,0 +1,38 @@
+a community;une communauté;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+the international community;la communauté internationale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+diplomacy;la diplomatie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a diplomat;un diplomate;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+diplospeak;le langage diplomatique<br><br>Note :<br>Néologisme désignant le jargon propre aux diplomates.;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+an ambassador;un ambassadeur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+an embassy;une ambassade;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a consul;un consul;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a consulate;un consulat;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+an emissary;un émissaire;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a peace emissary;un émissaire de la paix<br><br>Note :<br>Correction orthographique de la coquille du texte initial.;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a peacemaker;un conciliateur, un pacificateur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a spokesman, a spokeswoman;un porte-parole;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+an arbitrator;un arbitre<br><br>Note :<br>À distinguer de l'arbitre sportif (referee ou umpire).;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+the international stage;la scène internationale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+foreign affairs;les affaires étrangères;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+diplomatic circles;les sphères diplomatiques;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a negotiation;une négociation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+talks;des pourparlers;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+an alliance;une alliance;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+an ally;un allié;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a mission;une mission;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a diplomatic move;une manœuvre diplomatique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a diplomatic breakthrough;une victoire diplomatique;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a consensus;un consensus;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a compromise;un compromis;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+an agreement;un accord;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a pact;un pacte;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a treaty;un traité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a goodwill mission;une visite d’amitié;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a goodwill ambassador;un ambassadeur de bonne volonté;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+a humanitarian mission;une mission humanitaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::International-Relations
+foster a relationship with;entretenir des relations avec;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::International-Relations
+negotiate;négocier;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::International-Relations
+sign/ratify a treaty;signer/ratifier un traité;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::International-Relations
+strike an alliance;former une alliance<br><br>Note :<br>strike, struck, struck;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Society::The-individual-in-Society::International-Relations
+be appointed;être nommé;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::International-Relations
+send on a mission;envoyer en mission<br><br>Note :<br>send, sent, sent;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::The-individual-in-Society::International-Relations

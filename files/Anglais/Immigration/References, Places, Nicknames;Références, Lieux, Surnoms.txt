@@ -1,0 +1,19 @@
+the Mayflower;le navire qui, en 1620, transporta les premiers colons - des Puritains qui fuyaient l'Angleterre – jusqu'en Nouvelle-Angleterre, sur la côte nord-est du Nouveau Continent.;Navire historique des pères pèlerins (Pilgrim Fathers).;...;DEF;LIVRE;B2
+the American Dream;le rêve américain, l'image idéalisée que chaque immigrant a des États-Unis.;Concept fondateur de la culture et de l'attractivité américaine.;...;DEF;LIVRE;B1
+the Gold Rush;la ruée massive vers la Californie, consécutive à la découverte de pépites d'or près de Sacramento en 1848.;Événement historique majeur de la conquête de l'Ouest.;...;DEF;LIVRE;B1
+the closing of the Frontier;(the Frontier: la limite, mouvante, entre les terres colonisées et le reste du territoire américain) : la fin officielle de la conquête du territoire américain (en 1890), victoire sur la nature hostile que les pionniers ont réussi à dominer.;Fin d'un mythe fondateur basé sur l'expansion continue.;...;DEF;LIVRE;C1
+the Brain Drain;(la fuite des cerveaux) l'émigration d'une main-d'oeuvre hautement qualifiée, attirée par le mode de vie et par les conditions de travail aux États-Unis.;Expression métaphorique mondiale.;...;DEF;LIVRE;B2
+the Rio Grande;le fleuve, d'une longueur de 3 117 km, qui sépare les États-Unis du Mexique.;Frontière naturelle hautement surveillée.;...;N;LIVRE;B1
+Ellis Island;L'île du port de New York où les futurs immigrants étaient filtrés avant d'être - pour la plupart - admis à entrer dans le pays.;Principal point d'entrée des immigrants européens (1892-1954).;...;N;LIVRE;B1
+LAX;Los Angeles Airport, l'aéroport par lequel la plupart des immigrants accèdent aujourd'hui au territoire américain.;Code international de l'aéroport de Los Angeles.;...;ABREV;LIVRE;B1
+the land of milk and honey;le pays de lait et de miel, promis par Dieu à Moïse (Exode 3-17), ou les États-Unis en tant que terre promise (milk: le lait ; honey: le miel);Référence biblique appliquée au territoire américain.;...;DEF;LIVRE;B2
+Yuccas (Young Urban Cuban Americans);jeunes cadres dynamiques cubains.;Acronyme calqué sur le modèle de 'yuppie'.;...;ABREV;LIVRE;C1
+Chuppies (mot valise formé de Chinese + Yuppies);jeunes cadres dynamiques chinois (yuppie: abbréviation de young urban professional).;Mot-valise récent (Chinese + Yuppies).;...;ABREV;LIVRE;C1
+Latinos;les immigrants en provenance d'Amérique latine.;Terme démographique et culturel très courant aux États-Unis.;...;N;LIVRE;A2
+Chicanos;les Mexicains.;Désigne spécifiquement les Américains d'origine mexicaine.;...;N;LIVRE;B2
+Wetbacks (les "dos-mouillés");les Mexicains qui traversent le Rio Grande à la nage pour entrer clandestinement sur le territoire américain.;Terme argotique et souvent jugé péjoratif.;...;N;LIVRE;C1
+Anglos;les Blancs, à l'exception des Hispano-américains.;Utilisé principalement dans le sud-ouest des États-Unis.;...;N;LIVRE;B2
+WASPS;(White Anglo-Saxon Protestants) les Blancs d'origine anglo-saxonne et de religion protestante, considérés comme membres du groupe social dominant.;Sociotype élitaire traditionnel de la puissance américaine.;...;ABREV;LIVRE;B2
+a hyphenated American;(a hyphen: un trait d'union) un Américain d'origine étrangère.;'Hyphen' désigne le trait d'union physique et culturel.;...;N;LIVRE;B2
+a European-American;un Américain d'origine européenne.;...;...;N;LIVRE;B1
+an African-American;un Américain d'origine africaine.;...;...;N;LIVRE;B1

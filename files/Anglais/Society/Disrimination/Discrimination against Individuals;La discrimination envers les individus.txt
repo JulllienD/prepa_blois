@@ -1,0 +1,30 @@
+segregation;la ségrégation;...;...;N;LIVRE;B2
+oppression;l’oppression;...;...;N;LIVRE;B2
+disrespect;l’irrespect;...;...;N;LIVRE;B2
+inequality;l’inégalité;...;...;N;LIVRE;B2
+social injustice;l’injustice sociale;...;...;N;LIVRE;B2
+a minority;une minorité;...;...;N;LIVRE;B1
+a scapegoat;un bouc-émissaire;...;...;N;LIVRE;B1
+a bias;un préjugé, un parti-pris;...;...;N;LIVRE;B1
+a prejudice;un préjugé;...;...;N;LIVRE;B1
+intolerance;l’intolérance;...;...;N;LIVRE;B2
+the glass ceiling;le plafond de verre;...;...;N;LIVRE;B1
+
+to discriminate against;établir une discrimination envers;...;...;V;LIVRE;B1
+to be discriminated against;être victime de discrimination;...;...;V;LIVRE;B1
+to practise discrimination;pratiquer la discrimination;...;...;V;LIVRE;B1
+to endure discrimination;être l’objet de discrimination;...;...;V;LIVRE;B1
+to wrong someone;léser quelqu’un;...;...;V;LIVRE;B1
+to victimize;persécuter;...;...;V;LIVRE;B1
+to segregate;séparer;...;...;V;LIVRE;B1
+to expel, ban;rejeter, exclure;...;...;V;LIVRE;B1
+
+narrow-minded;à l’esprit étroit, borné;...;...;ADJ;LIVRE;B2
+sectarian;sectaire;...;...;ADJ;LIVRE;B2
+discriminatory;discriminatoire;...;...;ADJ;LIVRE;B2
+bias(s)ed, prejudiced;partial, tendancieux;...;...;ADJ;LIVRE;B2
+unfair;injuste, déloyal;...;...;ADJ;LIVRE;B2
+
+
+unequal;inégal;...;...;ADJ;LIVRE;B2
+intolerant;intolérant;...;...;ADJ;LIVRE;B2

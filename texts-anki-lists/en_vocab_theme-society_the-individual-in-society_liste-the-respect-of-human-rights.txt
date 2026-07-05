@@ -1,0 +1,38 @@
+freedom, liberty;la liberté;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+individual liberties;les libertés individuelles;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+freedom of speech;la liberté d’expression;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+freedom of opinion;la liberté d’opinion;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+freedom of thought;la liberté de pensée;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+freedom of worship;la liberté de culte;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+freedom of the press;la liberté de la presse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+freedom of assembly;la liberté de réunion;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+equality (of rights);l’égalité (des droits);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+fraternity, brotherhood;la fraternité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+assistance;l’assistance, l’aide;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+justice;la justice;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+security;la sécurité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+safety;la sûreté, l’absence de danger;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+a safety belt;une ceinture de sécurité;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+protection;la protection, la préservation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+national unity;l’unité nationale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+legitimacy;la légitimité;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+legality, lawfulness;la légalité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+the law;la loi, le droit;ANGLAIS::niveau::A2 ANGLAIS::type::other ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to promote human rights;défendre les droits de l'homme;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to abide by the law<br><br>Exemple :<br>Signifie respecter ou se conformer.;respecter la loi<br><br>Note :<br>abide, abode, abode;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to enforce the law;faire respecter la loi;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to respect;respecter;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to protect;protéger;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to defend the weak;défendre la veuve et l'orphelin<br><br>Note :<br>Expression idiomatique pour dire protéger les faibles.;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+the weak;les faibles;ANGLAIS::niveau::B1 ANGLAIS::type::other ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to push for change;militer pour le changement;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to press for a demand;exiger avec vigueur;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+demand;exigence;ANGLAIS::niveau::B1 ANGLAIS::type::other ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+to guarantee;garantir;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+free;libre;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+equal;égal;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+law-abiding;respectueux des lois;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+peaceful, non-violent;pacifique, non violent;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+just, fair;juste;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+legitimate;légitime;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights
+legal, lawful;légal;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Society::The-individual-in-Society::The-Respect-of-Human-Rights

@@ -1,0 +1,14 @@
+an ethnic group;un groupe ethnique, une ethnie;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+a race;une race;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+racialism;la discrimination raciale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+(latent) racism;le racisme (voilé, rampant);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+a racist;un raciste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+racial prejudice/stereotype;des préjugés raciaux;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+a racial attack;une agression raciste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+xenophobia;la xénophobie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+a xenophobe;un xénophobe;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+a ghetto;un ghetto;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+the colour bar;la barrière raciale;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+colour (UK) / color (US);couleur (écriture anglaise et américaine)<br><br>Note :<br>Note orthographique importante (variations géographiques).;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::Disrimination::Racism
+apartheid;l'apartheid;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism
+white supremacy;la suprématie de la race blanche;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Racism

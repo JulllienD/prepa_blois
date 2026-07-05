@@ -1,0 +1,26 @@
+segregation;la ségrégation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+oppression;l’oppression;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+disrespect;l’irrespect;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+inequality;l’inégalité;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+social injustice;l’injustice sociale;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+a minority;une minorité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+a scapegoat;un bouc-émissaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+a bias;un préjugé, un parti-pris;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+a prejudice;un préjugé;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+intolerance;l’intolérance;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+the glass ceiling;le plafond de verre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+to discriminate against;établir une discrimination envers;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+to be discriminated against;être victime de discrimination;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+to practise discrimination;pratiquer la discrimination;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+to endure discrimination;être l’objet de discrimination;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+to wrong someone;léser quelqu’un;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+to victimize;persécuter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+to segregate;séparer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+to expel, ban;rejeter, exclure;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+narrow-minded;à l’esprit étroit, borné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+sectarian;sectaire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+discriminatory;discriminatoire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+bias(s)ed, prejudiced;partial, tendancieux;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+unfair;injuste, déloyal;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+unequal;inégal;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Discrimination-against-Individuals
+intolerant;intolérant;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Discrimination-against-Individuals

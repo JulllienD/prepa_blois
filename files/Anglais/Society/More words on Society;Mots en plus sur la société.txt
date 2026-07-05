@@ -1,0 +1,31 @@
+The Defense of Human Rights;La défense des droits de l’homme;...;...;A;LIVRE;B2
+
+The historical heritage;L’héritage historique;...;...;A;LIVRE;B2
+
+Habeas Corpus (GB);l’Habeas Corpus;Loi fondamentale anglaise qui oblige l’instance judiciaire à fournir les raisons de l’emprisonnement d’un individu.;...;DEF;LIVRE;C1
+The Universal Declaration of Human Rights;la Déclaration universelle des droits de l’homme;...;...;DEF;LIVRE;B2
+The Declaration of the Rights of Man and of the Citizen (France);la Déclaration des droits de l’homme et du citoyen;...;...;DEF;LIVRE;B2
+The Bill of Rights;les dix premiers amendements de la Constitution américaine;Garantissent les libertés individuelles fondamentales des citoyens américains.;...;DEF;LIVRE;B2
+
+Today's organizations;Les organisations contemporaines;...;...;A;LIVRE;B2
+
+The European Court of Human Rights;la Cour européenne des droits de l’homme;...;...;N;LIVRE;B2
+Amnesty International;Amnesty International;Organisation internationale veillant au respect des droits de l’homme, publiant un rapport annuel ("report").;...;N;LIVRE;B1
+The Shaftesbury Society;The Shaftesbury Society;Organisation caritative britannique d’aide aux plus démunis, fondée en 1844 par Lord Shaftesbury (aristocrate philanthrope de la période victorienne).;...;N;LIVRE;C1
+OXFAM (Oxford Committee for Famine Relief);OXFAM;Organisation caritative britannique qui revend des objets ou vêtements d’occasion pour financer des actions humanitaires.;...;ABREV;LIVRE;B1
+Help the Aged;Help the Aged;Organisation caritative britannique d’aide aux personnes âgées.;...;N;LIVRE;B1
+Save the Children;Save the Children;Organisation caritative britannique d’aide à l’enfance maltraitée.;...;N;LIVRE;B1
+War on Want;War on Want;Organisation humanitaire d’aide au Tiers-Monde.;...;N;LIVRE;B2
+
+The Diplomatic Corps;Le corps diplomatique;...;...;A;LIVRE;B2
+
+The Foreign Office;le ministère des Affaires étrangères britannique;...;...;N;LIVRE;B2
+The Foreign Secretary;le ministre des Affaires étrangères britannique;...;...;N;LIVRE;B2
+The State Department;le ministère des Affaires étrangères américain;...;...;N;LIVRE;B2
+The Secretary of State;le ministre des Affaires étrangères américain;...;...;N;LIVRE;B2
+The Community;l’ensemble des diplomates américains haut placés;Désigne ici de façon spécifique la haute sphère diplomatique américaine.;...;N;LIVRE;C1
+
+UNO (the United Nations Organization);l’O.N.U. (l'Organisation des Nations Unies);L'abréviation "UN" est également très fréquemment employée.;...;ABREV;LIVRE;B1
+The Security Council;le Conseil de sécurité de l’ONU;...;...;N;LIVRE;B2
+The Blue Helmets;les "casques bleus" des Nations Unies;...;...;N;LIVRE;B1
+NATO (The North Atlantic Treaty Organization);l’OTAN (l’Organisation du Traité de l’Atlantique Nord);...;...;ABREV;LIVRE;B2

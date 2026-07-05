@@ -1,0 +1,21 @@
+a demonstration, a protest;une manifestation;...;...;N;LIVRE;B1
+a demonstrator, a protester;un manifestant;...;...;N;LIVRE;B1
+a march;un défilé;...;...;N;LIVRE;B1
+a marcher;un participant (à un défilé);...;...;N;LIVRE;B1
+passive resistance;la résistance passive;...;...;N;LIVRE;B1
+the crowd, the rabble;la foule, la populace;...;...;N;LIVRE;B1
+a sit-in;une occupation (passive);...;...;N;LIVRE;B1
+a claim, a demand;une revendication;...;...;N;LIVRE;B1
+a placard;une pancarte;...;...;N;LIVRE;B1
+a banner;une banderole;...;...;N;LIVRE;B1
+a slogan;un slogan;...;...;N;LIVRE;B1
+
+
+to demonstrate;manifester;...;...;V;LIVRE;B1
+to protest;protester;...;...;V;LIVRE;B1
+to march;défiler;...;...;V;LIVRE;B1
+to gather;se regrouper;...;...;V;LIVRE;B1
+to claim;réclamer;...;...;V;LIVRE;B1
+to wave banners;agiter des banderoles;...;...;V;LIVRE;B1
+to block traffic;paralyser la circulation;...;...;V;LIVRE;B1
+to boycott;boycotter;...;...;V;LIVRE;B1

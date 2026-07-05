@@ -1,0 +1,19 @@
+a demonstration, a protest;une manifestation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+a demonstrator, a protester;un manifestant;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+a march;un défilé;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+a marcher;un participant (à un défilé);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+passive resistance;la résistance passive;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+the crowd, the rabble;la foule, la populace;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+a sit-in;une occupation (passive);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+a claim, a demand;une revendication;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+a placard;une pancarte;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+a banner;une banderole;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+a slogan;un slogan;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+to demonstrate;manifester;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+to protest;protester;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+to march;défiler;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+to gather;se regrouper;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+to claim;réclamer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+to wave banners;agiter des banderoles;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+to block traffic;paralyser la circulation;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest
+to boycott;boycotter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Social-Dissatisfaction::Social-Unrest

@@ -1,0 +1,24 @@
+sexism;le sexisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+male chauvinism;le machisme, la phallocratie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+chauvinism;le nationalisme<br><br>Note :<br>Attention faux-ami : désigne un nationalisme exacerbé (chauvinisme au sens politique).;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::Disrimination::Sexual-discrimination
+jingoism;le patriotisme cocardier<br><br>Note :<br>Terme politique fort pour désigner un nationalisme agressif.;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Society::Disrimination::Sexual-discrimination
+a male chauvinist;un macho, un phallocrate;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+a chauvinist pig (coll.);un phallocrate<br><br>Note :<br>Expression familière et péjorative.;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+a sexist;un sexiste;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+(sexual) harassment;le harcèlement sexuel;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+the weaker/stronger sex;le sexe faible/fort;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+a male preserve;un domaine réservé aux hommes;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+misogyny;la misogynie;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+a misogynist, a woman hater;un misogne;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+homophobia;la haine des homosexuels;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+queer bashing (coll.);la chasse aux homosexuels<br><br>Note :<br>Argot familier et péjoratif désignant les agressions homophobes.;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::Disrimination::Sexual-discrimination
+to harass;harceler;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Sexual-discrimination
+to enslave;asservir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Sexual-discrimination
+to victimize;persécuter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Society::Disrimination::Sexual-discrimination
+to come out (of the closet);déclarer son homosexualité<br><br>Note :<br>come, came, come;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Society::Disrimination::Sexual-discrimination
+closet;placard / armoire<br><br>Note :<br>Le sens premier est le placard ou la penderie.;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::Disrimination::Sexual-discrimination
+sexist;sexiste;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Sexual-discrimination
+chauvinistic;phallocrate;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Sexual-discrimination
+misogynous;misogne;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Sexual-discrimination
+gay;homosexuel;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Sexual-discrimination
+anti-gay, homophobic;homophobe;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Society::Disrimination::Sexual-discrimination

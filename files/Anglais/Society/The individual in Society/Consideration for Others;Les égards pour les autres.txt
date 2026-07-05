@@ -1,0 +1,63 @@
+citizenship;la citoyenneté;...;...;N;LIVRE;B2
+a citizen;un citoyen;...;...;N;LIVRE;B1
+respect;le respect;...;...;N;LIVRE;B1
+concern;la sollicitude;...;...;N;LIVRE;B2
+consideration, regard;la considération, l’estime;...;...;N;LIVRE;B2
+decency;la retenue, la politesse, la décence;...;...;N;LIVRE;B2
+politeness;la politesse;...;...;N;LIVRE;A2
+tactfulness;le tact;...;...;N;LIVRE;B2
+faithfulness;la fidélité;...;...;N;LIVRE;B2
+mutual understanding;la complicité;...;...;N;LIVRE;B2
+indulgence;l’indulgence;...;...;N;LIVRE;B2
+tolerance;la tolérance;...;...;N;LIVRE;B2
+open-mindedness, openness;l’ouverture d’esprit;...;...;N;LIVRE;B2
+solidarity, fellow-feeling;la solidarité;...;...;N;LIVRE;B2
+generosity;la générosité;...;...;N;LIVRE;B1
+hospitality;l’hospitalité;...;...;N;LIVRE;B1
+benevolence;la bienveillance;...;...;N;LIVRE;C1
+a benevolent society;une société de bienfaisance;...;...;N;LIVRE;C1
+a friendly society;une mutuelle;...;...;N;LIVRE;B2
+a charity;une organisation caritative;...;...;N;LIVRE;B1
+altruism, selflessness;l’altruisme;...;...;N;LIVRE;C1
+self-denial;l’abnégation;...;...;N;LIVRE;C1
+education;l’éducation;...;...;N;LIVRE;A2
+good manners, good breeding;le savoir-vivre, les bonnes manières;...;...;N;LIVRE;B2
+manners;manières, mœurs;...;...;A;LIVRE;B1
+socializing;la vie sociale;...;...;N;LIVRE;B2
+a socialite;un mondain;...;...;N;LIVRE;C1
+banter, small talk;le badinage;...;...;N;LIVRE;B2
+propriety;la bienséance;...;...;N;LIVRE;C1
+decorum;l’étiquette, les convenances;...;...;N;LIVRE;C1
+protocol, etiquette;le protocole;...;...;N;LIVRE;B2
+gallantry;la galanterie;...;...;N;LIVRE;B2
+
+to break the ice;rompre la glace;break, broke, broken;...;VI;LIVRE;B1
+to behave well;bien se comporter;...;...;V;LIVRE;B1
+to understand;comprendre;understand, understood, understood;...;VI;LIVRE;A1
+to win the confidence of;gagner la confiance de;win, won, won;...;VI;LIVRE;B1
+a confidence / confidence;une confidence / la confiance;Attention à la distinction : "a confidence" (une révélation) vs "confidence" (la confiance).;...;A;LIVRE;B2
+to satisfy/to meet demands;satisfaire des requêtes;meet, met, met;...;VI;LIVRE;B1
+to mix;être sociable;...;...;V;LIVRE;B1
+to socialize;fréquenter des gens;...;...;V;LIVRE;B1
+
+
+to entertain people;recevoir/distraire des gens;...;...;V;LIVRE;B1
+to banter;badiner;...;...;V;LIVRE;B2
+to pay compliments;complimenter;pay, paid, paid;...;VI;LIVRE;B1
+
+pleasant, lik(e)able;agréable, aimable;...;...;ADJ;LIVRE;A2
+respectful;respecteux;...;...;ADJ;LIVRE;B1
+respectable;respectable;...;...;ADJ;LIVRE;B1
+well-behaved, well-mannered;poli, bien élevé;...;...;ADJ;LIVRE;B1
+generous;généreux;...;...;ADJ;LIVRE;B1
+benevolent;bienveillant;...;...;ADJ;LIVRE;C1
+considerate;attentionné;...;...;ADJ;LIVRE;B2
+tactful;délicat, plein de tact;...;...;ADJ;LIVRE;B2
+well-meaning;bien intentionné;...;...;ADJ;LIVRE;B2
+lov(e)able;très sympathique, adorable;...;...;ADJ;LIVRE;B1
+decent;convenable, respectable;...;...;ADJ;LIVRE;B2
+indulgent;indulgent;...;...;ADJ;LIVRE;B2
+tolerant;tolérant;...;...;ADJ;LIVRE;B2
+open-minded;large d’esprit;...;...;ADJ;LIVRE;B1
+selfless;altruiste;...;...;ADJ;LIVRE;C1
+gallant, gentlemanly;galant, courtois;Peut aussi signifier courageux en anglais littéraire.;...;ADJ;LIVRE;B2

@@ -1,0 +1,26 @@
+sexism;le sexisme;...;...;N;LIVRE;B2
+male chauvinism;le machisme, la phallocratie;...;...;N;LIVRE;B2
+chauvinism;le nationalisme;Attention faux-ami : désigne un nationalisme exacerbé (chauvinisme au sens politique).;...;A;LIVRE;B2
+jingoism;le patriotisme cocardier;Terme politique fort pour désigner un nationalisme agressif.;...;A;LIVRE;C1
+a male chauvinist;un macho, un phallocrate;...;...;N;LIVRE;B1
+a chauvinist pig (coll.);un phallocrate;Expression familière et péjorative.;...;N;LIVRE;B1
+a sexist;un sexiste;...;...;N;LIVRE;B1
+(sexual) harassment;le harcèlement sexuel;...;...;N;LIVRE;B2
+the weaker/stronger sex;le sexe faible/fort;...;...;N;LIVRE;B1
+a male preserve;un domaine réservé aux hommes;...;...;N;LIVRE;B1
+misogyny;la misogynie;...;...;N;LIVRE;C1
+a misogynist, a woman hater;un misogne;...;...;N;LIVRE;C1
+homophobia;la haine des homosexuels;...;...;N;LIVRE;B2
+queer bashing (coll.);la chasse aux homosexuels;Argot familier et péjoratif désignant les agressions homophobes.;...;N;LIVRE;B1
+
+to harass;harceler;...;...;V;LIVRE;B1
+to enslave;asservir;...;...;V;LIVRE;B1
+to victimize;persécuter;...;...;V;LIVRE;B1
+to come out (of the closet);déclarer son homosexualité;come, came, come;...;VI;LIVRE;B1
+closet;placard / armoire;Le sens premier est le placard ou la penderie.;...;A;LIVRE;B2
+
+sexist;sexiste;...;...;ADJ;LIVRE;B2
+chauvinistic;phallocrate;...;...;ADJ;LIVRE;B2
+misogynous;misogne;...;...;ADJ;LIVRE;C1
+gay;homosexuel;...;...;ADJ;LIVRE;A2
+anti-gay, homophobic;homophobe;...;...;ADJ;LIVRE;B2

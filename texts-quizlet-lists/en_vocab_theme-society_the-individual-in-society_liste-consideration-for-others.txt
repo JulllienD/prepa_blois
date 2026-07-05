@@ -1,0 +1,131 @@
+citizenship||la citoyenneté
+----------
+a citizen||un citoyen
+----------
+respect||le respect
+----------
+concern||la sollicitude
+----------
+consideration, regard||la considération, l’estime
+----------
+decency||la retenue, la politesse, la décence
+----------
+politeness||la politesse
+----------
+tactfulness||le tact
+----------
+faithfulness||la fidélité
+----------
+mutual understanding||la complicité
+----------
+indulgence||l’indulgence
+----------
+tolerance||la tolérance
+----------
+open-mindedness, openness||l’ouverture d’esprit
+----------
+solidarity, fellow-feeling||la solidarité
+----------
+generosity||la générosité
+----------
+hospitality||l’hospitalité
+----------
+benevolence||la bienveillance
+----------
+a benevolent society||une société de bienfaisance
+----------
+a friendly society||une mutuelle
+----------
+a charity||une organisation caritative
+----------
+altruism, selflessness||l’altruisme
+----------
+self-denial||l’abnégation
+----------
+education||l’éducation
+----------
+good manners, good breeding||le savoir-vivre, les bonnes manières
+----------
+manners||manières, mœurs
+----------
+socializing||la vie sociale
+----------
+a socialite||un mondain
+----------
+banter, small talk||le badinage
+----------
+propriety||la bienséance
+----------
+decorum||l’étiquette, les convenances
+----------
+protocol, etiquette||le protocole
+----------
+gallantry||la galanterie
+----------
+to break the ice||rompre la glace
+
+Note : break, broke, broken
+----------
+to behave well||bien se comporter
+----------
+to understand||comprendre
+
+Note : understand, understood, understood
+----------
+to win the confidence of||gagner la confiance de
+
+Note : win, won, won
+----------
+a confidence / confidence||une confidence / la confiance
+
+Note : Attention à la distinction : "a confidence" (une révélation) vs "confidence" (la confiance).
+----------
+to satisfy/to meet demands||satisfaire des requêtes
+
+Note : meet, met, met
+----------
+to mix||être sociable
+----------
+to socialize||fréquenter des gens
+----------
+to entertain people||recevoir/distraire des gens
+----------
+to banter||badiner
+----------
+to pay compliments||complimenter
+
+Note : pay, paid, paid
+----------
+pleasant, lik(e)able||agréable, aimable
+----------
+respectful||respecteux
+----------
+respectable||respectable
+----------
+well-behaved, well-mannered||poli, bien élevé
+----------
+generous||généreux
+----------
+benevolent||bienveillant
+----------
+considerate||attentionné
+----------
+tactful||délicat, plein de tact
+----------
+well-meaning||bien intentionné
+----------
+lov(e)able||très sympathique, adorable
+----------
+decent||convenable, respectable
+----------
+indulgent||indulgent
+----------
+tolerant||tolérant
+----------
+open-minded||large d’esprit
+----------
+selfless||altruiste
+----------
+gallant, gentlemanly||galant, courtois
+
+Note : Peut aussi signifier courageux en anglais littéraire.

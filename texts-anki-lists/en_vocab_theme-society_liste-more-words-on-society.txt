@@ -1,0 +1,24 @@
+The Defense of Human Rights;La défense des droits de l’homme;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::More-words-on-Society
+The historical heritage;L’héritage historique;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::More-words-on-Society
+Habeas Corpus (GB);l’Habeas Corpus<br><br>Note :<br>Loi fondamentale anglaise qui oblige l’instance judiciaire à fournir les raisons de l’emprisonnement d’un individu.;ANGLAIS::niveau::C1 ANGLAIS::type::notion ANGLAIS::Society::More-words-on-Society
+The Universal Declaration of Human Rights;la Déclaration universelle des droits de l’homme;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Society::More-words-on-Society
+The Declaration of the Rights of Man and of the Citizen (France);la Déclaration des droits de l’homme et du citoyen;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Society::More-words-on-Society
+The Bill of Rights;les dix premiers amendements de la Constitution américaine<br><br>Note :<br>Garantissent les libertés individuelles fondamentales des citoyens américains.;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Society::More-words-on-Society
+Today's organizations;Les organisations contemporaines;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::More-words-on-Society
+The European Court of Human Rights;la Cour européenne des droits de l’homme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+Amnesty International;Amnesty International<br><br>Note :<br>Organisation internationale veillant au respect des droits de l’homme, publiant un rapport annuel ("report").;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+The Shaftesbury Society;The Shaftesbury Society<br><br>Note :<br>Organisation caritative britannique d’aide aux plus démunis, fondée en 1844 par Lord Shaftesbury (aristocrate philanthrope de la période victorienne).;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+OXFAM (Oxford Committee for Famine Relief);OXFAM<br><br>Note :<br>Organisation caritative britannique qui revend des objets ou vêtements d’occasion pour financer des actions humanitaires.;ANGLAIS::niveau::B1 ANGLAIS::type::abrev ANGLAIS::Society::More-words-on-Society
+Help the Aged;Help the Aged<br><br>Note :<br>Organisation caritative britannique d’aide aux personnes âgées.;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+Save the Children;Save the Children<br><br>Note :<br>Organisation caritative britannique d’aide à l’enfance maltraitée.;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+War on Want;War on Want<br><br>Note :<br>Organisation humanitaire d’aide au Tiers-Monde.;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+The Diplomatic Corps;Le corps diplomatique;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Society::More-words-on-Society
+The Foreign Office;le ministère des Affaires étrangères britannique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+The Foreign Secretary;le ministre des Affaires étrangères britannique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+The State Department;le ministère des Affaires étrangères américain;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+The Secretary of State;le ministre des Affaires étrangères américain;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+The Community;l’ensemble des diplomates américains haut placés<br><br>Note :<br>Désigne ici de façon spécifique la haute sphère diplomatique américaine.;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+UNO (the United Nations Organization);l’O.N.U. (l'Organisation des Nations Unies)<br><br>Note :<br>L'abréviation "UN" est également très fréquemment employée.;ANGLAIS::niveau::B1 ANGLAIS::type::abrev ANGLAIS::Society::More-words-on-Society
+The Security Council;le Conseil de sécurité de l’ONU;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+The Blue Helmets;les "casques bleus" des Nations Unies;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Society::More-words-on-Society
+NATO (The North Atlantic Treaty Organization);l’OTAN (l’Organisation du Traité de l’Atlantique Nord);ANGLAIS::niveau::B2 ANGLAIS::type::abrev ANGLAIS::Society::More-words-on-Society

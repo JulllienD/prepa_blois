@@ -1,0 +1,39 @@
+a community;une communauté;...;...;N;LIVRE;B1
+the international community;la communauté internationale;...;...;N;LIVRE;B2
+diplomacy;la diplomatie;...;...;N;LIVRE;B2
+a diplomat;un diplomate;...;...;N;LIVRE;B2
+diplospeak;le langage diplomatique;Néologisme désignant le jargon propre aux diplomates.;...;N;LIVRE;C1
+an ambassador;un ambassadeur;...;...;N;LIVRE;B2
+an embassy;une ambassade;...;...;N;LIVRE;B1
+a consul;un consul;...;...;N;LIVRE;B2
+a consulate;un consulat;...;...;N;LIVRE;B2
+an emissary;un émissaire;...;...;N;LIVRE;C1
+a peace emissary;un émissaire de la paix;Correction orthographique de la coquille du texte initial.;...;N;LIVRE;B2
+a peacemaker;un conciliateur, un pacificateur;...;...;N;LIVRE;B2
+a spokesman, a spokeswoman;un porte-parole;...;...;N;LIVRE;B2
+an arbitrator;un arbitre;À distinguer de l'arbitre sportif (referee ou umpire).;...;N;LIVRE;C1
+the international stage;la scène internationale;...;...;N;LIVRE;B2
+foreign affairs;les affaires étrangères;...;...;N;LIVRE;B2
+diplomatic circles;les sphères diplomatiques;...;...;N;LIVRE;C1
+a negotiation;une négociation;...;...;N;LIVRE;B2
+talks;des pourparlers;...;...;N;LIVRE;B2
+an alliance;une alliance;...;...;N;LIVRE;B2
+an ally;un allié;...;...;N;LIVRE;B2
+a mission;une mission;...;...;N;LIVRE;B1
+a diplomatic move;une manœuvre diplomatique;...;...;N;LIVRE;B2
+a diplomatic breakthrough;une victoire diplomatique;...;...;N;LIVRE;C1
+a consensus;un consensus;...;...;N;LIVRE;C1
+a compromise;un compromis;...;...;N;LIVRE;B2
+an agreement;un accord;...;...;N;LIVRE;B1
+a pact;un pacte;...;...;N;LIVRE;B2
+a treaty;un traité;...;...;N;LIVRE;B2
+a goodwill mission;une visite d’amitié;...;...;N;LIVRE;B2
+a goodwill ambassador;un ambassadeur de bonne volonté;...;...;N;LIVRE;B2
+a humanitarian mission;une mission humanitaire;...;...;N;LIVRE;B2
+
+foster a relationship with;entretenir des relations avec;...;...;V;LIVRE;C1
+negotiate;négocier;...;...;V;LIVRE;B2
+sign/ratify a treaty;signer/ratifier un traité;...;...;V;LIVRE;B2
+strike an alliance;former une alliance;strike, struck, struck;...;VI;LIVRE;C1
+be appointed;être nommé;...;...;V;LIVRE;B2
+send on a mission;envoyer en mission;send, sent, sent;...;VI;LIVRE;B1

@@ -1,0 +1,42 @@
+freedom, liberty;la liberté;...;...;N;LIVRE;B1
+individual liberties;les libertés individuelles;...;...;N;LIVRE;B2
+freedom of speech;la liberté d’expression;...;...;N;LIVRE;B2
+freedom of opinion;la liberté d’opinion;...;...;N;LIVRE;B2
+freedom of thought;la liberté de pensée;...;...;N;LIVRE;B2
+freedom of worship;la liberté de culte;...;...;N;LIVRE;B2
+freedom of the press;la liberté de la presse;...;...;N;LIVRE;B2
+freedom of assembly;la liberté de réunion;...;...;N;LIVRE;B2
+equality (of rights);l’égalité (des droits);...;...;N;LIVRE;B2
+fraternity, brotherhood;la fraternité;...;...;N;LIVRE;B2
+assistance;l’assistance, l’aide;...;...;N;LIVRE;B1
+justice;la justice;...;...;N;LIVRE;B1
+security;la sécurité;...;...;N;LIVRE;B1
+safety;la sûreté, l’absence de danger;...;...;N;LIVRE;B1
+a safety belt;une ceinture de sécurité;...;...;N;LIVRE;A2
+protection;la protection, la préservation;...;...;N;LIVRE;B1
+national unity;l’unité nationale;...;...;N;LIVRE;B2
+legitimacy;la légitimité;...;...;N;LIVRE;C1
+legality, lawfulness;la légalité;...;...;N;LIVRE;B2
+the law;la loi, le droit;...;...;A;LIVRE;A2
+
+to promote human rights;défendre les droits de l'homme;...;...;V;LIVRE;B1
+to abide by the law;respecter la loi;abide, abode, abode;Signifie respecter ou se conformer.;VI;LIVRE;C1
+to enforce the law;faire respecter la loi;...;...;V;LIVRE;B2
+to respect;respecter;...;...;V;LIVRE;A2
+to protect;protéger;...;...;V;LIVRE;B1
+to defend the weak;défendre la veuve et l'orphelin;Expression idiomatique pour dire protéger les faibles.;...;V;LIVRE;B1
+the weak;les faibles;...;...;A;LIVRE;B1
+to push for change;militer pour le changement;...;...;V;LIVRE;B1
+
+
+to press for a demand;exiger avec vigueur;...;...;V;LIVRE;B2
+demand;exigence;...;...;A;LIVRE;B1
+to guarantee;garantir;...;...;V;LIVRE;B2
+
+free;libre;...;...;ADJ;LIVRE;A1
+equal;égal;...;...;ADJ;LIVRE;B1
+law-abiding;respectueux des lois;...;...;ADJ;LIVRE;B2
+peaceful, non-violent;pacifique, non violent;...;...;ADJ;LIVRE;B1
+just, fair;juste;...;...;ADJ;LIVRE;B1
+legitimate;légitime;...;...;ADJ;LIVRE;B2
+legal, lawful;légal;...;...;ADJ;LIVRE;B1
