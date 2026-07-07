@@ -701,23 +701,18 @@ body {
     
     /* MODIFICATIONS CRITIQUES ICI : */
     width: auto;                  /* Désactive la largeur fixe forcée à 160px */
+    max-width: 100%;
+    box-sizing: border-box;
     display: inline-block;        /* Permet à l'input de s'intégrer parfaitement au milieu du texte */
     margin: 0 4px;
     transition: all 0.2s;
-}
-
-.select-exo-qcm {
-    padding: 4px 8px;
-    border: 2px solid #cbd5e0;
-    border-radius: 4px;
-    font-size: 1rem;
-    background-color: #fff;
-    margin: 0 5px;
-    cursor: pointer;
+    vertical-align: middle;
 }
 
 .input-exo-long {
     width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
     min-height: 80px;
     margin-top: 15px;
     padding: 10px;
@@ -727,6 +722,7 @@ body {
     font-family: inherit;
     resize: vertical;
 }
+
 
 /* États de correction */
 .juste {
