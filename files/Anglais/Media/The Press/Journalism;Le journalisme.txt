@@ -23,5 +23,7 @@ to sensitize public opinion;sensibiliser l'opinion publique;Attention !<br>"sens
 to make people aware of;rendre les gens conscients de;make, made, made;...;VI;LIVRE;B2
 to have news value;présenter un intérêt;have, had, had;...;VI;LIVRE;B2
 QUIZLET;https://quizlet.com/fr-fr/fiches-de-memorisation/prepa-en-media-the-press-journalism-1192974694
-EXOS;en_exo_media_fiche-exos-sur-le-journalisme.html
-EXOS;en_exo_media_fiche-exos-sur-le-journalisme-2.html
+EXOS;en_exo_media_the-press_fiche-limpact-sur-lopinion-et-le-sensationnel.html
+EXOS;en_exo_media_the-press_fiche-linformation-et-la-diffusion.html
+EXOS;en_exo_media_the-press_fiche-le-travail-de-rdaction-et-de-rvision.html
+EXOS;en_exo_media_the-press_fiche-rles-et-acteurs-des-mdias.html
