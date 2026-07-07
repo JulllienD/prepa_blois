@@ -217,7 +217,7 @@ body {
 
 /* Éloignement horizontal entre le dossier parent et son bloc d'enfants */
 .tree-root li > ul {
-    padding-left: 100px; 
+    padding-left: 50px;
 }
 
 /* Règle magique : Un élément "li" se structure horizontalement 
@@ -227,19 +227,19 @@ body {
     flex-direction: row; 
     align-items: center;
     position: relative;
-    padding: 10px 0;
+    padding: 2px 0;
 }
 
 /* --- BOUTONS --- */
 .tree-link {
     display: inline-block;
-    padding: 10px 18px;
+    padding: 3px 5px;
     text-decoration: none;
     color: #2d3748;
     background: #ffffff;
     border: 1px solid #cbd5e0;
     border-radius: 6px;
-    font-size: 0.95rem;
+    font-size: 0.6rem;
     white-space: nowrap;
     box-shadow: 0 2px 4px rgba(0,0,0,0.04);
     z-index: 2;
@@ -605,95 +605,237 @@ body {
 }
 
 
-/* Conteneur du bouton d'exercices en bas de fiche */
-.exos-btn-container {
-    text-align: center;
-    margin-top: 40px;
-    margin-bottom: 20px;
+
+/* --- AMÉLIORATION DES BOUTONS D'EXERCICES (CORRIGÉ) --- */
+.liens-exo-inline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;           /* Espace régulier entre les boutons */
+    margin-top: 1.5rem;
+    justify-content: flex-start;
 }
 
-/* Le bouton d'exercice vert lui-même */
-.exos-btn-link {
-    padding: 15px 30px;
-    font-size: 1.1rem;
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    background-color: #28a745;
-    color: white;
-    text-decoration: none;
-    border-radius: 8px;
-    font-weight: bold;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: background-color 0.2s ease, transform 0.1s ease;
-}
-
-/* Effet au survol (optionnel mais recommandé pour le web) */
-.exos-btn-link:hover {
-    background-color: #218838;
-    color: white; /* Évite que le lien change de couleur au survol selon tes autres règles */
-    text-decoration: none;
-    transform: translateY(-1px);
-}
-
-
-
-
-
-
-/* FICHES EXOS */
-
-/* Champs de saisie (inputs) créés par le mode révision */
-.input-revision {
-    width: 90%;
-    padding: 6px;
-    border: 2px solid #ced4da;
-    border-radius: 4px;
+/* On cible très précisément pour écraser l'ancien .action-button-link */
+.action-button-link.exo-btn {
+    background-color: #2e7d32 !important; /* Vert profond */
+    color: #ffffff !important;            /* Texte blanc */
+    border: 1px solid #1b5e20 !important; /* Bordure verte foncée */
+    height: auto !important;              /* Annule la hauteur fixe de 40px */
+    padding: 10px 20px !important;        /* Redonne un bel espace interne */
+    font-weight: 600;
     font-size: 0.95rem;
-    box-sizing: border-box;
-    transition: all 0.2s ease;
+    text-decoration: none;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease-in-out;
 }
 
-/* Conteneur pour espacer le bouton de validation */
-.validation-btn-container {
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
+/* Effet au survol */
+.action-button-link.exo-btn:hover {
+    background-color: #1b5e20 !important; /* Vert plus foncé */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-/* Bouton de validation (hérite de ton bouton vert existant) */
-.validation-btn-container button {
-    cursor: pointer;
+/* --- LE SÉPARATEUR ÉLÉGANT VISIBLE (CORRIGÉ) --- */
+.section-divider {
     border: none;
+    height: 2px;
+    /* Un dégradé bleu plus prononcé pour trancher avec les petits carreaux */
+    background: linear-gradient(to right, transparent, #2749a5, transparent); 
+    margin: 3rem 0; 
+    width: 100%;
 }
 
-/* Styles d'états lors de la correction (Bonne / Mauvaise réponse) */
-.input-revision.is-valid {
+
+
+
+
+
+
+
+/* --- COMPOSANTS DES FICHES EXERCICES --- */
+.exos-container {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 20px;
+}
+
+.exo-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.02);
+    position: relative;
+}
+
+.exo-header {
+    display: flex;
+    justify-content: space-between; /* Repousse le numéro d'exercice tout à gauche et le bloc de badges tout à droite */
+    align-items: center;
+    margin-bottom: 15px;
+    border-bottom: 1px dashed #e2e8f0;
+    padding-bottom: 10px;
+}
+
+.exo-number {
+    font-weight: bold;
+    color: #1e3a8a;
+}
+
+.exo-enonce-text {
+    font-size: 1.1rem;
+    color: #334155;
+    line-height: 1.8;
+}
+
+/* Éléments de saisie de texte */
+.input-exo-trou {
+    padding: 4px 8px;
+    border: 2px solid #cbd5e0;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-family: inherit;
+    
+    /* MODIFICATIONS CRITIQUES ICI : */
+    width: auto;                  /* Désactive la largeur fixe forcée à 160px */
+    display: inline-block;        /* Permet à l'input de s'intégrer parfaitement au milieu du texte */
+    margin: 0 4px;
+    transition: all 0.2s;
+}
+
+.select-exo-qcm {
+    padding: 4px 8px;
+    border: 2px solid #cbd5e0;
+    border-radius: 4px;
+    font-size: 1rem;
+    background-color: #fff;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.input-exo-long {
+    width: 100%;
+    min-height: 80px;
+    margin-top: 15px;
+    padding: 10px;
+    border: 2px solid #cbd5e0;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-family: inherit;
+    resize: vertical;
+}
+
+/* États de correction */
+.juste {
     border-color: #28a745 !important;
     background-color: #e8f5e9 !important;
     color: #155724 !important;
 }
 
-.input-revision.is-invalid {
+.faux {
     border-color: #dc3545 !important;
     background-color: #ffebee !important;
     color: #721c24 !important;
 }
 
-/* Texte affichant la solution attendue sous l'input */
-.correction-texte {
-    color: #dc3545;
-    font-size: 0.85rem;
-    font-weight: bold;
-    margin-top: 4px;
-    text-align: left;
+/* Boutons d'action */
+.exo-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
 }
 
+.btn-exo {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background 0.2s;
+}
 
+.btn-indication {
+    background-color: #edf2f7;
+    color: #4a5568;
+}
+.btn-indication:hover { background-color: #e2e8f0; }
 
+.btn-valider {
+    background-color: #1e3a8a;
+    color: #ffffff;
+}
+.btn-valider:hover { background-color: #1d4ed8; }
 
+/* Panneaux d'information et Feedback */
+.exo-feedback-box {
+    margin-top: 15px;
+    padding: 12px;
+    border-radius: 6px;
+    font-weight: 500;
+    display: none; /* Apparaît au clic */
+}
+.feedback-juste { display: block; background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+.feedback-faux { display: block; background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
 
+.exo-indication-panel {
+    margin-top: 12px;
+    padding: 12px;
+    background-color: #fefcbf;
+    border-left: 4px solid #ecc94b;
+    color: #744210;
+    border-radius: 0 4px 4px 0;
+    font-size: 0.95rem;
+}
 
+.exo-explication-panel {
+    margin-top: 12px;
+    padding: 12px;
+    background-color: #ebf8ff;
+    border-left: 4px solid #4299e1;
+    color: #2b6cb0;
+    border-radius: 0 4px 4px 0;
+    font-size: 0.95rem;
+}
+
+/* Helper Class globale */
+.hidden {
+    display: none !important;
+}
+
+/* Bloc contenant tous les badges collés ensemble à droite */
+.exo-badges-right {
+    display: flex;
+    gap: 6px; /* Espace minimal uniforme entre les badges */
+    align-items: center;
+}
+
+/* Habillage visuel pour le badge de provenance */
+.badge-provenance {
+    background-color: #f3e8ff; /* Teinte mauve très douce */
+    color: #6b21a8;            /* Texte violet foncé */
+    border: 1px solid #d8b4fe;
+    font-weight: 600;
+}
+
+/* Habillage visuel pour le badge de niveau */
+.badge-niveau {
+    background-color: #fff5b4; /* Teinte mauve très douce */
+    color: #6e5107;            /* Texte violet foncé */
+    border: 1px solid #ffe600;
+    font-weight: 600;
+}
+
+/* Habillage visuel pour le badge de type d'exo */
+.badge-type-exo {
+    background-color: #e8f5ff; /* Teinte mauve très douce */
+    color: #215ba8;            /* Texte violet foncé */
+    border: 1px solid #b4cffe;
+    font-weight: 600;
+}
 
 
 
@@ -910,10 +1052,6 @@ article code {
     .tree-link::before {
         font-size: 0.9rem;
     }
-
-
-
-
 
 
 

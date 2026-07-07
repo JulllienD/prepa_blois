@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercices : Exos sur le journalisme - Prépa Blois</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header class="main-header">
+        <h1><a href="../index.html">Prépa Blois</a></h1>
+    </header>
+
+    <main class="container">
+        <h2 class="page-title">ANGLAIS > Exercices</h2>
+        <h4 class="breadcrumbs">
+            <a href="../index.html">Accueil</a> > 
+            <a href="./en_vocab.html">Vocabulaire</a> > 
+            <span>Exercices</span>
+        </h4>
+        <div class="fiche-header-container">
+            <div class="fiche-titles">
+                <p class="intro-text">Fiche d'exercices</p>
+                <h3 class="fiche-title">Exos sur le journalisme</h3>
+            </div>
+        </div>
+        <div class="exos-container">
+            
+                <div class="exo-card" data-type="Traduction" data-reponses-clean="Il apparaît clairement que la couverture médiatique n'est pas objective." data-reponses-brutes="Il apparaît clairement que la couverture médiatique n'est pas objective." data-index="1">
+                    <div class="exo-header">
+                        <span class="exo-number">Exercice 1</span>
+                        <div class="exo-badges-right">
+                            <span class="badge badge-provenance">📚 IA</span>
+                            <span class="badge badge-niveau">B2</span>
+                            <span class="badge badge-type-exo">Traduction</span>
+                        </div>
+                    </div>
+                    <div class="exo-body">
+                        <p class="exo-enonce-text"><strong>Traduire :</strong> There are clear indications that there is a biased media coverage.</p><p class="exo-enonce-text"><input type="text" class="input-exo-trou" size="75" placeholder="Complétez..."></p>
+                    </div>
+                    <div class="exo-actions">
+                        <button class="btn-exo btn-indication" onclick="basculerIndication(1)">💡 Indication</button>
+                        <button class="btn-exo btn-valider" onclick="verifierExercice(1)">✔ Valider</button>
+                    </div>
+                    <div class="exo-feedback-box" id="feedback-1"></div>
+
+                    <div class="exo-indication-panel hidden" id="indication-1">
+                        <strong>Indication :</strong> pas d'indication
+                    </div>
+                    <div class="exo-explication-panel hidden" id="explication-1">
+                        <strong>Explication :</strong> biased peut se traduire littéralement par biaisé donc "pas objective" est cohérent
+                    </div>
+                </div>
+                
+                <div class="exo-card" data-type="Texte à trous" data-reponses-clean="journalist/reporter" data-reponses-brutes="The local paper sent a journalist/reporter to cover the story." data-index="2">
+                    <div class="exo-header">
+                        <span class="exo-number">Exercice 2</span>
+                        <div class="exo-badges-right">
+                            <span class="badge badge-provenance">📚 WordReference</span>
+                            <span class="badge badge-niveau">A2</span>
+                            <span class="badge badge-type-exo">Texte à trous</span>
+                        </div>
+                    </div>
+                    <div class="exo-body">
+                        <p class="exo-enonce-text"><strong>Enoncé :</strong> Le journal local a envoyé un journaliste pour couvrir l'evenement.</p><p class="exo-enonce-text">The local paper sent a <input type="text" class="input-exo-trou" size="13" placeholder="Complétez..."> to cover the story.</p>
+                    </div>
+                    <div class="exo-actions">
+                        <button class="btn-exo btn-indication" onclick="basculerIndication(2)">💡 Indication</button>
+                        <button class="btn-exo btn-valider" onclick="verifierExercice(2)">✔ Valider</button>
+                    </div>
+                    <div class="exo-feedback-box" id="feedback-2"></div>
+
+                    <div class="exo-indication-panel hidden" id="indication-2">
+                        <strong>Indication :</strong> cover the story = couvrir l'evenement
+                    </div>
+                    <div class="exo-explication-panel hidden" id="explication-2">
+                        <strong>Explication :</strong> Le journal local a envoyé un journaliste pour couvrir l'évènement.
+                    </div>
+                </div>
+                
+                <div class="exo-card" data-type="Traduction" data-reponses-clean="Je ne sais pas comment lui faire prendre conscience à quel point il l'a blessée." data-reponses-brutes="Je ne sais pas comment lui faire prendre conscience à quel point il l'a blessée." data-index="3">
+                    <div class="exo-header">
+                        <span class="exo-number">Exercice 3</span>
+                        <div class="exo-badges-right">
+                            <span class="badge badge-provenance">📚 Linguee</span>
+                            <span class="badge badge-niveau">B2</span>
+                            <span class="badge badge-type-exo">Traduction</span>
+                        </div>
+                    </div>
+                    <div class="exo-body">
+                        <p class="exo-enonce-text"><strong>Traduire :</strong> I don't know how to make him aware of how much he is hurting her feelings.</p><p class="exo-enonce-text"><input type="text" class="input-exo-trou" size="83" placeholder="Complétez..."></p>
+                    </div>
+                    <div class="exo-actions">
+                        <button class="btn-exo btn-indication" onclick="basculerIndication(3)">💡 Indication</button>
+                        <button class="btn-exo btn-valider" onclick="verifierExercice(3)">✔ Valider</button>
+                    </div>
+                    <div class="exo-feedback-box" id="feedback-3"></div>
+
+                    <div class="exo-indication-panel hidden" id="indication-3">
+                        <strong>Indication :</strong> ...
+                    </div>
+                    <div class="exo-explication-panel hidden" id="explication-3">
+                        <strong>Explication :</strong> ...
+                    </div>
+                </div>
+                
+        </div>
+    </main>
+    <footer class="main-footer">
+        <p>Mis à jour le 07/07/2026 à 18h17</p>
+    </footer>
+    <script src="../script_exos.js"></script>
+</body>
+</html>
