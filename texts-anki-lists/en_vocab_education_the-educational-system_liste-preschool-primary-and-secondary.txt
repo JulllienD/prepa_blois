@@ -1,5 +1,5 @@
 a daycare centre (UK), a day-care center (US);une crèche, une garderie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
-a child-minder, a nanny;une nourrice;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a child-minder, a nanny;une nourrice<br><br>Note :<br>comme super nanny;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a nursery school (UK), kindergarten (US/DE);une école maternelle;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a preschool child;un élève de maternelle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a workplace nursery;une crèche sur le lieu de travail;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
@@ -9,17 +9,17 @@ schooling;l’instruction scolaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLA
 compulsory schooling;la scolarité obligatoire;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 school age;l’âge scolaire;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 teaching;l’enseignement;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
-a school;une école (putain on le savait pas);ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a school;une école<br><br>Note :<br>putain on le savait pas;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a public school (US);une école publique;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a private/independant school;une école privée;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
-a “public” school;en anglais britannique c’est une école privée (historiquement ouverte au public par opposition aux précepteurs privés);ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a “public” school;en anglais britannique c’est une école privée<br><br>Note :<br>historiquement ouverte au public par opposition aux précepteurs privés;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a boys’ school;une école de garçons;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a girls’ school;une école de filles;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a vocational school (US);un lycée professionnel;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
-a boarding-school;un internat;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+a boarding-school<br><br>Exemple :<br>Alexandre se prépare à quitter sa maison pour une nouvelle semaine à l'internat. = Alexander is preparing to leave home for another week at boarding school.;un internat<br><br>Note :<br>def : a school where students live and study<br>d'après la définition c'est plus un pensionnat qu'un internat, mais ce terme englobe les deux;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 a boarder;un interne;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
-compulsory, mandatory;obligatoire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
-denominational;confessionnel, religieux;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+compulsory, mandatory<br><br>Exemple :<br>Foreign language classes are compulsory in this school. = L'apprentissage d'une langue étrangère est obligatoire dans cette école.;obligatoire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
+denominational<br><br>Exemple :<br>She goes to a denominational school, so they have religious studies every morning and go to chapel on Fridays. = Elle va dans une école confessionnelle, donc ils ont des cours de religion tous les matins et vont à la chapelle le vendredi.;confessionnel, religieux;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 non-denominational;laïque;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 mixed, co-educational “co-ed”;mixte;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary
 state-run;géré par l’Etat;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::The-Educational-System::Preschool-Primary-and-Secondary

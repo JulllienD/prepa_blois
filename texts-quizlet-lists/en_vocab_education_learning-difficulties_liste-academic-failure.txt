@@ -37,5 +37,9 @@ immature||immature
 dull||terne, médiocre
 ----------
 dim-witted / slow-witted||lent d’esprit
+
+Note : slow veut dire lent et wit c'est l'esprit
 ----------
-slow on the uptake||qui ne comprend pas vite
+slow on the uptake
+
+Exemple : He's a little slow on the uptake, so you may have to repeat the instructions a few times.||qui ne comprend pas vite

@@ -15,5 +15,5 @@ to drop out of school;abandonner ses études;ANGLAIS::niveau::B2 ANGLAIS::type::
 illogical;illogique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
 immature;immature;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
 dull;terne, médiocre;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
-dim-witted / slow-witted;lent d’esprit;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
-slow on the uptake;qui ne comprend pas vite;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
+dim-witted / slow-witted;lent d’esprit<br><br>Note :<br>slow veut dire lent et wit c'est l'esprit;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure
+slow on the uptake<br><br>Exemple :<br>He's a little slow on the uptake, so you may have to repeat the instructions a few times.;qui ne comprend pas vite;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Learning-difficulties::Academic-Failure

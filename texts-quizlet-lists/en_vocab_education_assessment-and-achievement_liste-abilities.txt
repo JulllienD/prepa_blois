@@ -29,12 +29,12 @@ reasoning||le raisonnement
 interpretation||l’interprétation
 ----------
 analysis||l’analyse
-----------
-several analyses||plusieurs analyses
+
+Note : several analyses = plusieurs analyses
 ----------
 a demonstration||une démonstration
 ----------
-to concentrate on, focus on||se concentrer sur
+to concentrate on, to focus on||se concentrer sur
 ----------
 to decipher||déchiffrer
 ----------
@@ -50,7 +50,14 @@ to understand||comprendre
 
 Note : understand, understood, understood
 ----------
-to grasp||saisir, comprendre
+to grasp
+
+Exemple : - dans le sens comprendre :
+Gerald couldn't grasp the complicated concept that his teacher was trying to explain.
+- dans le sens aggriper :
+Mike grasped his bag tightly on the subway||saisir, comprendre
+
+Note : veut aussi dire saisir quelque chose fermement avec sa main, aggriper
 ----------
 to reason||raisonner
 ----------
@@ -69,6 +76,10 @@ to demonstrate||démontrer
 to count||compter
 ----------
 to calculate, compute, reckon||calculer
+
+Note : - calculate c'est vraiment faire calcul
+- compute c'est plus faire un calcul avec une machine, d'où le radical "compute" comme "computer"
+- to reckon est plutot rare et utilisé majoritairement au RU. to reckon ça veut aussi dire "penser" ou "croire"
 ----------
 to compute with a computer||calculer avec un ordinateur
 ----------
@@ -80,13 +91,17 @@ numerate||qui sait compter
 ----------
 logical||logique
 ----------
-good at||bon en
+good at
+
+Exemple : She's good at tennis||bon en
 ----------
 proficient at||très bon en, fort en
 ----------
 excellent at||excellent en
 ----------
 gifted (for)||doué (pour)
+
+Note : "gift" veut dire cadeau, donc gifted c'est plutôt avoir un don
 ----------
 clever, bright, intelligent||intelligent
 ----------

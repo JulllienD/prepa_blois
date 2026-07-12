@@ -6,20 +6,19 @@ an undergraduate;un étudiant (pas encore diplômé);ANGLAIS::niveau::B2 ANGLAIS
 a post-graduate student;un étudiant de troisième cycle;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
 a scholar;un érudit, un spécialiste;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
 a Shakespeare scholar;un spécialiste de Shakespeare;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
-a high achiever;quelqu’un qui réussit, un gagnant;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
+a high achiever;quelqu’un qui réussit, un gagneur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
 an academic achiever;un élève brillant;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
 a whizz-kid;un enfant surdoué, un phénomène;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
-a bookworm;un rat de bibliothèque;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
-a worm;un ver;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
+a bookworm;un rat de bibliothèque<br><br>Note :<br>a worm = un ver;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to pass an exam;réussir un examen;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to graduate;obtenir son diplôme;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to get / obtain a degree;obtenir un diplôme<br><br>Note :<br>get, got, got;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
-to achieve (a result);obtenir, arriver à (un résultat);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
+- to achieve (a result)<br>- to achieve (an objective);- obtenir, arriver à (un résultat)<br>- atteindre (un objectif);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to do well;bien réussir<br><br>Note :<br>do, did, done;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to manage (in doing something);arriver / réussir (à faire quelque chose);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
-to succeed (in doing something);réussir (à faire quelque chose);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
+to succeed (in doing something)<br><br>Exemple :<br>He succeeded in graduating from Harvard;réussir (à faire quelque chose);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to succeed at (a test);réussir (un test);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
-to sail through;réussir avec aisance / haut la main;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
+to sail through;réussir avec aisance / haut la main<br><br>Note :<br>to sail ca veut dire voyager sur l'eau;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to be a credit to;faire honneur à<br><br>Note :<br>be, was/were, been;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to shine at;briller en, être brillant en<br><br>Note :<br>shine, shone, shone;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Achievement
 to shine through;éclater au grand jour<br><br>Note :<br>shine, shone, shone;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Achievement

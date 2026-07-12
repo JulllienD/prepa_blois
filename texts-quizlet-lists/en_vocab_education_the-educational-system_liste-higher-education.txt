@@ -1,8 +1,12 @@
 further education||la formation continue
+
+Note : def : Further Education (FE) includes any study after secondary education (GCSEs) that is not part of an undergraduate or graduate degree
 ----------
 a college of further education||un centre de formation continue
 ----------
 a college||un établissement d’enseignement supérieur
+
+Note : l'université, la fac en gros
 ----------
 college sport||le sport universitaire
 ----------
@@ -24,6 +28,8 @@ a graduate school (US)||≈ une université de 3ᵉ cycle
 ----------
 a lecture room/theatre||un amphithéâtre
 ----------
+a lecture||un cours magistral
+----------
 a laboratory||un laboratoire
 ----------
 facilities||les équipements, l’infrastructure
@@ -38,11 +44,13 @@ registration, enrolment (UK), enrollment (US)||l’inscription
 ----------
 the intake||les admissions
 ----------
-tuition||les cours / l'enseignement
+tuition
+
+Exemple : Most university students only have a few hours of tuition every week. = La plupart des étudiants à l'université n'ont que quelques heures de cours par semaine.||les cours / l'enseignement
 ----------
-a lecture||un cours magistral
-----------
-the (tuition) fees||les frais de scolarité
+the (tuition) fees
+
+Exemple : Many students struggle to pay the tuition fees. = Plusieurs étudiants ont du mal à payer les frais de scolarité.||les frais de scolarité
 ----------
 a grant||une bourse d’études (selon revenus)
 ----------
@@ -50,9 +58,17 @@ to grant||accorder
 ----------
 a scholarship||une bourse (selon résultats scolaires)
 ----------
-a fellowship||une bourse de recherche
+a fellowship
+
+Exemple : PhDs can be expensive, unless you get a fellowship.||une bourse de recherche
+
+Note : def : an amount of money that is given to someone, especially a postgraduate
 ----------
-to register, enrol (UK), enroll (US)||s’inscrire
+to register, enrol (UK), enroll (US)
+
+Exemple : Gina enrolled in a course in French history.
+
+She didn't enroll in college till the age of twenty-two. = Elle ne s'est pas inscrite à l'université avant l'âge de vingt-deux ans.||s’inscrire
 ----------
 to go to college||aller à l’université
 
@@ -64,9 +80,13 @@ to go to graduate school||faire des études spécialisées
 
 Note : go, went, gone
 ----------
-to read (History)||étudier, faire des études (d’histoire)
+to read (History)
+
+Exemple : My son is reading Classics at Cambridge University. = Mon fils étudie les lettres classiques à l'Université de Cambridge.||étudier, faire des études (d’histoire)
 
 Note : read, read, read
+
+Cette formulation est utilisé qu'au RU et reste assez rare
 ----------
 to major in (US)||se spécialiser en
 ----------

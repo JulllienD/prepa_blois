@@ -3,10 +3,10 @@ academic standards;le niveau scolaire;ANGLAIS::niveau::B2 ANGLAIS::type::noun AN
 a requirement;un niveau requis;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 entrance requirements;le niveau d’entrée;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 the IQ (intellectual quotient);le Q.I. (quotient intellectuel);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
-a paper;un devoir;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
-an examination paper;une copie, un sujet d’examen;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a paper<br><br>Exemple :<br>I have a paper on the French Revolution due on Friday.;un devoir;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+an examination paper;une copie, un sujet d’examen<br><br>Note :<br>désigne la feuille sur laquelle les questions sont imprimées et non la feuille sur laquelle on rédige les réponses;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 a test;un contrôle, un test;ANGLAIS::niveau::A1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
-a mock exam (UK), a practice (US);un examen blanc;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+a mock exam (UK), a practice test (US);un examen blanc;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 an oral/written test;un examen oral/écrit;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 an assessment;un bilan, une évaluation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 an examination, an exam;un examen;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
@@ -21,6 +21,7 @@ an average student;un élève moyen;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGL
 a school report, a report card;un bulletin scolaire;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 a diploma, a degree;un diplôme;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 a pass degree;un diplôme sans mention;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
+due;à rendre;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Assessment
 to select;sélectionner;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
 a career adviser;un conseiller d’orientation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Assessment
 to guide;orienter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
@@ -30,7 +31,7 @@ to examine;interroger;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education
 to mark (UK), to grade (US);noter, attribuer une note;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
 to award (a diploma);décerner (un diplôme);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
 to prepare for an exam;se préparer à un examen;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
-to cram;bachoter;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
+to cram<br><br>Exemple :<br>She's cramming for her history exam.;bachoter<br><br>Note :<br>to cram normalement ça veut dire forcer a mettre des trucs dans un tout petit espace, ici c'est l'expression qui veur dire apprendre en dernière minute;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
 to take an exam;passer un examen<br><br>Note :<br>take, took, taken;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
 to stand for/sit for an exam;se présenter à un examen<br><br>Note :<br>stand, stood, stood / sit, sat, sat;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Assessment
 to hand in a paper;rendre/remettre un devoir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Assessment

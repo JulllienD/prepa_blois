@@ -1,4 +1,4 @@
-learning;l’apprentissage, l’érudition;...;...;N;LIVRE;B1
+learning;l’apprentissage, l’érudition;L'apprentissage : L'acquisition du savoir<br>L'érudition : La maîtrise absolue et approfondie;...;N;LIVRE;B1
 general knowledge;la culture générale;...;...;N;LIVRE;B1
 know-how;le savoir-faire;...;...;N;LIVRE;B2
 literacy;l’alphabétisation;...;...;N;LIVRE;B2
@@ -6,20 +6,19 @@ a smattering (of);des notions, des rudiments (de);...;...;N;LIVRE;C1
 
 to learn;apprendre;learn, learnt/learned, learnt/learned;...;VI;LIVRE;A1
 to know;savoir, connaître;know, knew, known;...;VI;LIVRE;A1
-to know how to do something;savoir faire quelque chose;know, knew, known;...;VI;LIVRE;A2
+to know how to do something;savoir faire quelque chose;know, knew, known;He knows how to cook;VI;LIVREM;A2
 to acquire;acquérir;...;...;V;LIVRE;B2
 to be familiar with;bien connaître;be, was/were, been;...;VI;LIVRE;B1
-familiar;familier, connu, intime;...;...;ADJ;LIVRE;A2
+familiar;familier, connu;...;He spoke to the director in a very familiar tone. (Il a parlé au directeur sur un ton très familier)<br><br>His face looks familiar, but I can't remember his name. (Son visage me dit quelque chose / m'est connu, mais je ne me souviens plus de son nom).;ADJ;LIVREM;A2
 to master (a subject);maîtriser (un sujet);...;...;V;LIVRE;B2
 to be conversant with;s’y connaître en;...;...;V;LIVRE;C1
 to be able to read and write;savoir lire et écrire;be, was/were, been;He can read : Il sait lire;VI;LIVRE;A2
 
 to reach (a level);atteindre (un niveau);...;...;V;LIVRE;B1
-to achieve (an objective);atteindre (un objectif);...;...;V;LIVRE;B2
 
-knowledgeable;savant;...;...;ADJ;LIVRE;B2
+knowledgeable;savant, bien informé;...;...;ADJ;LIVRE;B2
 learned;instruit, savant;...;...;ADJ;LIVRE;C1
-educated, well-read;cultivé;...;...;ADJ;LIVRE;B2
+educated, well-read;cultivé;def : Someone who is well read has learned a lot of information on different subjects by reading.;...;ADJ;LIVRE;B2
 skilled, qualified;qualifié;...;...;ADJ;LIVRE;B1
 competent;compétent;...;...;ADJ;LIVRE;B2
-well-rounded;qui a reçu une éducation complète;...;...;ADJ;LIVRE;C1
+well-rounded;qui a reçu une éducation complète;def : having experience in a wide range of ideas or activities;...;ADJ;LIVRE;C1

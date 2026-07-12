@@ -2,7 +2,7 @@ vocational training;la formation professionnelle;ANGLAIS::niveau::B2 ANGLAIS::ty
 a training course (UK), internship (US);un stage de formation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 a trainee (UK), an intern (US);un stagiaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 a training scheme (UK), programme (US);un programme de formation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
-on-the-job training;la formation sur le tas;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
+on-the-job training;la formation sur le tas<br><br>Note :<br>on dit sur le tas car on apprend en faisant le métier;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 off-the-job training;la formation hors entreprise;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 in-house training;la formation en interne;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 job-specific training;la formation à un emploi;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
@@ -10,8 +10,8 @@ work experience;l’expérience professionnelle;ANGLAIS::niveau::B1 ANGLAIS::typ
 a placement;un (lieu de) stage;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 a customized course;des cours sur mesure;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 an intensive course;des cours intensifs/accélérés;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
-a refresher course;des cours de recyclage;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
-a sandwich course;une formation en alternance;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
+a refresher course<br><br>Exemple :<br>All the cabin attendants are required to go on a customer service refresher course. = Tout le personnel navigant doit suivre une séance de révisions sur le service clients.;des cours de recyclage<br><br>Note :<br>recylage dans le sens de révisions;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
+a sandwich course;une formation en alternance<br><br>Note :<br>the term "sandwich" was used in a 1950 National Advisory Council on Education for Industry and Commerce report on possible developments within the further education sector. (Wiki);ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 night school;les cours du soir;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Training
 to train;former, se former;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Training
 to train for a job;suivre une formation pour un poste;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Training

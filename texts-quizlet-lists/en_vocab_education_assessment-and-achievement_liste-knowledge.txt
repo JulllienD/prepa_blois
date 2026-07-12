@@ -1,4 +1,7 @@
 learning||l’apprentissage, l’érudition
+
+Note : L'apprentissage : L'acquisition du savoir
+L'érudition : La maîtrise absolue et approfondie
 ----------
 general knowledge||la culture générale
 ----------
@@ -16,7 +19,9 @@ to know||savoir, connaître
 
 Note : know, knew, known
 ----------
-to know how to do something||savoir faire quelque chose
+to know how to do something
+
+Exemple : He knows how to cook||savoir faire quelque chose
 
 Note : know, knew, known
 ----------
@@ -26,7 +31,11 @@ to be familiar with||bien connaître
 
 Note : be, was/were, been
 ----------
-familiar||familier, connu, intime
+familiar
+
+Exemple : He spoke to the director in a very familiar tone. (Il a parlé au directeur sur un ton très familier)
+
+His face looks familiar, but I can't remember his name. (Son visage me dit quelque chose / m'est connu, mais je ne me souviens plus de son nom).||familier, connu
 ----------
 to master (a subject)||maîtriser (un sujet)
 ----------
@@ -40,16 +49,18 @@ Note : be, was/were, been
 ----------
 to reach (a level)||atteindre (un niveau)
 ----------
-to achieve (an objective)||atteindre (un objectif)
-----------
-knowledgeable||savant
+knowledgeable||savant, bien informé
 ----------
 learned||instruit, savant
 ----------
 educated, well-read||cultivé
+
+Note : def : Someone who is well read has learned a lot of information on different subjects by reading.
 ----------
 skilled, qualified||qualifié
 ----------
 competent||compétent
 ----------
 well-rounded||qui a reçu une éducation complète
+
+Note : def : having experience in a wide range of ideas or activities

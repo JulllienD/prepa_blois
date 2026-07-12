@@ -15,7 +15,7 @@ a bookworm;un rat de bibliothèque;a worm = un ver;...;N;LIVRE;C1
 to pass an exam;réussir un examen;...;...;V;LIVRE;A2
 to graduate;obtenir son diplôme;...;...;V;LIVRE;B2
 to get / obtain a degree;obtenir un diplôme;get, got, got;...;VI;LIVRE;B1
-to achieve (a result);obtenir, arriver à (un résultat);...;...;V;LIVRE;B2
+- to achieve (a result)<br>- to achieve (an objective);- obtenir, arriver à (un résultat)<br>- atteindre (un objectif);...;...;V;LIVRE;B2
 to do well;bien réussir;do, did, done;...;VI;LIVRE;A2
 to manage (in doing something);arriver / réussir (à faire quelque chose);...;...;V;LIVRE;B1
 to succeed (in doing something);réussir (à faire quelque chose);...;He succeeded in graduating from Harvard;V;LIVRE;B1

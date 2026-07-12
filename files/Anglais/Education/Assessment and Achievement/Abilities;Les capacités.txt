@@ -21,7 +21,7 @@ to decipher;déchiffrer;...;...;V;LIVRE;C1
 to read;lire;read, read, read;...;VI;LIVRE;A1
 to write;écrire, rédiger;write, wrote, written;...;VI;LIVRE;A1
 to understand;comprendre;understand, understood, understood;...;VI;LIVRE;A1
-to grasp;saisir, comprendre;veut aussi dire saisir quelque chose fermement avec sa main, aggriper;dans le sens comprendre :<br>Gerald couldn't grasp the complicated concept that his teacher was trying to explain.<br>dans le sens aggriper :<br>Mike grasped his bag tightly on the subway;V;LIVRE;B2
+to grasp;saisir, comprendre;veut aussi dire saisir quelque chose fermement avec sa main, aggriper;- dans le sens comprendre :<br>Gerald couldn't grasp the complicated concept that his teacher was trying to explain.<br>- dans le sens aggriper :<br>Mike grasped his bag tightly on the subway;V;LIVRE;B2
 to reason;raisonner;...;...;V;LIVRE;B2
 to interpret;interpréter;...;...;V;LIVRE;B2
 to analyse (UK), analyze (US);analyser;...;...;V;LIVRE;B1

@@ -1,6 +1,8 @@
 a daycare centre (UK), a day-care center (US)||une crèche, une garderie
 ----------
 a child-minder, a nanny||une nourrice
+
+Note : comme super nanny
 ----------
 a nursery school (UK), kindergarten (US/DE)||une école maternelle
 ----------
@@ -24,13 +26,17 @@ school age||l’âge scolaire
 ----------
 teaching||l’enseignement
 ----------
-a school||une école (putain on le savait pas)
+a school||une école
+
+Note : putain on le savait pas
 ----------
 a public school (US)||une école publique
 ----------
 a private/independant school||une école privée
 ----------
-a “public” school||en anglais britannique c’est une école privée (historiquement ouverte au public par opposition aux précepteurs privés)
+a “public” school||en anglais britannique c’est une école privée
+
+Note : historiquement ouverte au public par opposition aux précepteurs privés
 ----------
 a boys’ school||une école de garçons
 ----------
@@ -38,13 +44,22 @@ a girls’ school||une école de filles
 ----------
 a vocational school (US)||un lycée professionnel
 ----------
-a boarding-school||un internat
+a boarding-school
+
+Exemple : Alexandre se prépare à quitter sa maison pour une nouvelle semaine à l'internat. = Alexander is preparing to leave home for another week at boarding school.||un internat
+
+Note : def : a school where students live and study
+d'après la définition c'est plus un pensionnat qu'un internat, mais ce terme englobe les deux
 ----------
 a boarder||un interne
 ----------
-compulsory, mandatory||obligatoire
+compulsory, mandatory
+
+Exemple : Foreign language classes are compulsory in this school. = L'apprentissage d'une langue étrangère est obligatoire dans cette école.||obligatoire
 ----------
-denominational||confessionnel, religieux
+denominational
+
+Exemple : She goes to a denominational school, so they have religious studies every morning and go to chapel on Fridays. = Elle va dans une école confessionnelle, donc ils ont des cours de religion tous les matins et vont à la chapelle le vendredi.||confessionnel, religieux
 ----------
 non-denominational||laïque
 ----------

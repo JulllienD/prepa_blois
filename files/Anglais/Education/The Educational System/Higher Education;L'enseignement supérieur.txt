@@ -1,34 +1,34 @@
-further education;la formation continue;...;...;N;LIVRE;B2
+further education;la formation continue;def : Further Education (FE) includes any study after secondary education (GCSEs) that is not part of an undergraduate or graduate degree;...;N;LIVRE;B2
 a college of further education;un centre de formation continue;...;...;N;LIVRE;B2
-a college;un établissement d’enseignement supérieur;...;...;N;LIVRE;A2
+a college;un établissement d’enseignement supérieur;l'université, la fac en gros;...;N;LIVREM;A2
 college sport;le sport universitaire;...;...;N;LIVRE;B1
 a state/private university;une université d’État/privée;...;...;N;LIVRE;B1
 a polytechnic;un I.U.T.;...;...;N;LIVRE;B2
 an engineering school;une école d’ingénieur;...;...;N;LIVRE;B1
 a business school;une école de commerce;...;...;N;LIVRE;B1
 a medical school;une faculté de médecine;...;...;N;LIVRE;B1
-a medic;un étudiant en médecine;...;...;N;LIVRE;C1
+a medic;un étudiant en médecine;...;...;N;LIVREM;C1
 a law school;une faculté de droit;...;...;N;LIVRE;B1
 a graduate school (US);≈ une université de 3ᵉ cycle;...;...;N;LIVRE;C1
 a lecture room/theatre;un amphithéâtre;...;...;N;LIVRE;B2
+a lecture;un cours magistral;...;...;N;LIVRE;B1
 a laboratory;un laboratoire;...;...;N;LIVRE;B1
-facilities;les équipements, l’infrastructure;...;...;N;LIVRE;B2
+facilities;les équipements, l’infrastructure;...;...;N;LIVREM;B2
 research facilities;les équipements de recherche;...;...;N;LIVRE;B2
 a university library;une bibliothèque universitaire;...;...;N;LIVRE;A2
-a bookshop;une librairie;...;...;N;LIVRE;A2
+a bookshop;une librairie;...;...;N;LIVREM;A2
 registration, enrolment (UK), enrollment (US);l’inscription;...;...;N;LIVRE;B2
 the intake;les admissions;...;...;N;LIVRE;C1
-tuition;les cours / l'enseignement;...;...;N;LIVRE;B2
-a lecture;un cours magistral;...;...;N;LIVRE;B1
-the (tuition) fees;les frais de scolarité;...;...;N;LIVRE;B1
+tuition;les cours / l'enseignement;...;Most university students only have a few hours of tuition every week. = La plupart des étudiants à l'université n'ont que quelques heures de cours par semaine.;N;LIVRE;B2
+the (tuition) fees;les frais de scolarité;...;Many students struggle to pay the tuition fees. = Plusieurs étudiants ont du mal à payer les frais de scolarité.;N;LIVRE;B1
 a grant;une bourse d’études (selon revenus);...;...;N;LIVRE;B1
-to grant;accorder;...;...;V;LIVRE;B2
+to grant;accorder;...;...;V;LIVREM;B2
 a scholarship;une bourse (selon résultats scolaires);...;...;N;LIVRE;B1
-a fellowship;une bourse de recherche;...;...;N;LIVRE;C1
-to register, enrol (UK), enroll (US);s’inscrire;...;...;V;LIVRE;B1
+a fellowship;une bourse de recherche;def : an amount of money that is given to someone, especially a postgraduate;PhDs can be expensive, unless you get a fellowship.;N;LIVRE;C1
+to register, enrol (UK), enroll (US);s’inscrire;...;Gina enrolled in a course in French history.<br><br>She didn't enroll in college till the age of twenty-two. = Elle ne s'est pas inscrite à l'université avant l'âge de vingt-deux ans.;V;LIVRE;B1
 to go to college;aller à l’université;go, went, gone;...;VI;LIVRE;A2
 to attend a lecture;aller à une conférence;...;...;V;LIVRE;B1
 to go to graduate school;faire des études spécialisées;go, went, gone;...;VI;LIVRE;C1
-to read (History);étudier, faire des études (d’histoire);read, read, read;...;VI;LIVRE;C1
+to read (History);étudier, faire des études (d’histoire);read, read, read<br><br>Cette formulation est utilisé qu'au RU et reste assez rare;My son is reading Classics at Cambridge University. = Mon fils étudie les lettres classiques à l'Université de Cambridge.;VI;LIVRE;C1
 to major in (US);se spécialiser en;...;...;V;LIVRE;B2
 to have a college education;avoir fait des études supérieures;have, had, had;...;VI;LIVRE;B1

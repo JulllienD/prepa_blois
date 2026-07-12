@@ -1,6 +1,6 @@
 an obstacle, a barrier;un obstacle;...;...;N;LIVRE;B1
 a handicap, a disability;un handicap;...;...;N;LIVRE;B1
-impairment;des troubles, des difficultés;...;...;N;LIVRE;B2
+impairment;des troubles, déficience;...;...;N;LIVRE;B2
 hearing impairment;la déficience auditive;...;...;N;LIVRE;C1
 visual impairment;la déficience visuelle;...;...;N;LIVRE;C1
 physical impairments;des troubles moteurs;...;...;N;LIVRE;C1
@@ -10,10 +10,10 @@ lack of concentration / focus;le manque de concentration;...;...;N;LIVRE;B1
 behavioural difficulties;les troubles du comportement;...;...;N;LIVRE;B2
 school phobia;la phobie scolaire;...;...;N;LIVRE;C1
 monitoring;l’aide, le suivi;...;...;N;LIVRE;B2
+to monitor (a student);suivre (un élève);...;...;V;LIVRE;B2
 a special needs student;un élève en difficulté;...;...;N;LIVRE;C1
 to impair;affecter, diminuer, affaiblir;...;...;V;LIVRE;C1
 to weaken;amoindrir, affaiblir;...;...;V;LIVRE;B2
 to diminish;diminuer;...;...;V;LIVRE;B2
-to require;nécessiter;...;...;V;LIVRE;B1
-to adapt, tailor;adapter;...;...;V;LIVRE;B2
-to monitor (a student);suivre (un élève);...;...;V;LIVRE;B2
+to require;nécessiter;désigne une nécessité plus importante qu'un simple besoin;- “This job requires five years of experience.” (Ce poste requiert/exige cinq ans d'expérience.)<br>- “I need your advice on this.” (J'ai besoin de ton conseil là-dessus.);V;LIVRE;B1
+to adapt, tailor;adapter;...;The advantage of one-to-one lessons is that your teacher can tailor the course to you. <br>= L'avantage des cours particuliers, c'est que le professeur peut personnaliser le cours pour son élève.;V;LIVRE;B2

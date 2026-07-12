@@ -8,13 +8,17 @@ entrance requirements||le niveau d’entrée
 ----------
 the IQ (intellectual quotient)||le Q.I. (quotient intellectuel)
 ----------
-a paper||un devoir
+a paper
+
+Exemple : I have a paper on the French Revolution due on Friday.||un devoir
 ----------
 an examination paper||une copie, un sujet d’examen
+
+Note : désigne la feuille sur laquelle les questions sont imprimées et non la feuille sur laquelle on rédige les réponses
 ----------
 a test||un contrôle, un test
 ----------
-a mock exam (UK), a practice (US)||un examen blanc
+a mock exam (UK), a practice test (US)||un examen blanc
 ----------
 an oral/written test||un examen oral/écrit
 ----------
@@ -44,6 +48,8 @@ a diploma, a degree||un diplôme
 ----------
 a pass degree||un diplôme sans mention
 ----------
+due||à rendre
+----------
 to select||sélectionner
 ----------
 a career adviser||un conseiller d’orientation
@@ -62,7 +68,11 @@ to award (a diploma)||décerner (un diplôme)
 ----------
 to prepare for an exam||se préparer à un examen
 ----------
-to cram||bachoter
+to cram
+
+Exemple : She's cramming for her history exam.||bachoter
+
+Note : to cram normalement ça veut dire forcer a mettre des trucs dans un tout petit espace, ici c'est l'expression qui veur dire apprendre en dernière minute
 ----------
 to take an exam||passer un examen
 

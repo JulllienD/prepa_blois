@@ -1,6 +1,6 @@
-further education;la formation continue;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+further education;la formation continue<br><br>Note :<br>def : Further Education (FE) includes any study after secondary education (GCSEs) that is not part of an undergraduate or graduate degree;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 a college of further education;un centre de formation continue;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
-a college;un établissement d’enseignement supérieur;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a college;un établissement d’enseignement supérieur<br><br>Note :<br>l'université, la fac en gros;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 college sport;le sport universitaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 a state/private university;une université d’État/privée;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 a polytechnic;un I.U.T.;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
@@ -11,6 +11,7 @@ a medic;un étudiant en médecine;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAI
 a law school;une faculté de droit;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 a graduate school (US);≈ une université de 3ᵉ cycle;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 a lecture room/theatre;un amphithéâtre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+a lecture;un cours magistral;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 a laboratory;un laboratoire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 facilities;les équipements, l’infrastructure;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 research facilities;les équipements de recherche;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
@@ -18,17 +19,16 @@ a university library;une bibliothèque universitaire;ANGLAIS::niveau::A2 ANGLAIS
 a bookshop;une librairie;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 registration, enrolment (UK), enrollment (US);l’inscription;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 the intake;les admissions;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
-tuition;les cours / l'enseignement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
-a lecture;un cours magistral;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
-the (tuition) fees;les frais de scolarité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+tuition<br><br>Exemple :<br>Most university students only have a few hours of tuition every week. = La plupart des étudiants à l'université n'ont que quelques heures de cours par semaine.;les cours / l'enseignement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+the (tuition) fees<br><br>Exemple :<br>Many students struggle to pay the tuition fees. = Plusieurs étudiants ont du mal à payer les frais de scolarité.;les frais de scolarité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 a grant;une bourse d’études (selon revenus);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
 to grant;accorder;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
 a scholarship;une bourse (selon résultats scolaires);ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
-a fellowship;une bourse de recherche;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
-to register, enrol (UK), enroll (US);s’inscrire;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
+a fellowship<br><br>Exemple :<br>PhDs can be expensive, unless you get a fellowship.;une bourse de recherche<br><br>Note :<br>def : an amount of money that is given to someone, especially a postgraduate;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::The-Educational-System::Higher-Education
+to register, enrol (UK), enroll (US)<br><br>Exemple :<br>Gina enrolled in a course in French history.<br><br>She didn't enroll in college till the age of twenty-two. = Elle ne s'est pas inscrite à l'université avant l'âge de vingt-deux ans.;s’inscrire;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
 to go to college;aller à l’université<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::A2 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education
 to attend a lecture;aller à une conférence;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
 to go to graduate school;faire des études spécialisées<br><br>Note :<br>go, went, gone;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education
-to read (History);étudier, faire des études (d’histoire)<br><br>Note :<br>read, read, read;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education
+to read (History)<br><br>Exemple :<br>My son is reading Classics at Cambridge University. = Mon fils étudie les lettres classiques à l'Université de Cambridge.;étudier, faire des études (d’histoire)<br><br>Note :<br>read, read, read<br><br>Cette formulation est utilisé qu'au RU et reste assez rare;ANGLAIS::niveau::C1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education
 to major in (US);se spécialiser en;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::The-Educational-System::Higher-Education
 to have a college education;avoir fait des études supérieures<br><br>Note :<br>have, had, had;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Education::The-Educational-System::Higher-Education

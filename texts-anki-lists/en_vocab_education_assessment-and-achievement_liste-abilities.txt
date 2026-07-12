@@ -13,15 +13,14 @@ illiteracy;l’analphabétisme, l’illettrisme;ANGLAIS::niveau::B2 ANGLAIS::typ
 understanding;la compréhension;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Abilities
 reasoning;le raisonnement;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Abilities
 interpretation;l’interprétation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Abilities
-analysis;l’analyse;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Abilities
-several analyses;plusieurs analyses;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Abilities
+analysis;l’analyse<br><br>Note :<br>several analyses = plusieurs analyses;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Abilities
 a demonstration;une démonstration;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Education::Assessment-and-Achievement::Abilities
-to concentrate on, focus on;se concentrer sur;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
+to concentrate on, to focus on;se concentrer sur;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to decipher;déchiffrer;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to read;lire<br><br>Note :<br>read, read, read;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to write;écrire, rédiger<br><br>Note :<br>write, wrote, written;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to understand;comprendre<br><br>Note :<br>understand, understood, understood;ANGLAIS::niveau::A1 ANGLAIS::type::irr-verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
-to grasp;saisir, comprendre;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
+to grasp<br><br>Exemple :<br>- dans le sens comprendre :<br>Gerald couldn't grasp the complicated concept that his teacher was trying to explain.<br>- dans le sens aggriper :<br>Mike grasped his bag tightly on the subway;saisir, comprendre<br><br>Note :<br>veut aussi dire saisir quelque chose fermement avec sa main, aggriper;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to reason;raisonner;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to interpret;interpréter;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to analyse (UK), analyze (US);analyser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
@@ -30,16 +29,16 @@ to induce, infer;induire;ANGLAIS::niveau::C1 ANGLAIS::type::verb ANGLAIS::Educat
 to deduce;déduire;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to demonstrate;démontrer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to count;compter;ANGLAIS::niveau::A1 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
-to calculate, compute, reckon;calculer;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
+to calculate, compute, reckon;calculer<br><br>Note :<br>- calculate c'est vraiment faire calcul<br>- compute c'est plus faire un calcul avec une machine, d'où le radical "compute" comme "computer"<br>- to reckon est plutot rare et utilisé majoritairement au RU. to reckon ça veut aussi dire "penser" ou "croire";ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to compute with a computer;calculer avec un ordinateur;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 to carry out (an experiment);exécuter, réaliser (une expérience);ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Education::Assessment-and-Achievement::Abilities
 literate;qui sait lire et écrire;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
 numerate;qui sait compter;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
 logical;logique;ANGLAIS::niveau::B1 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
-good at;bon en;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
+good at<br><br>Exemple :<br>She's good at tennis;bon en;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
 proficient at;très bon en, fort en;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
 excellent at;excellent en;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
-gifted (for);doué (pour);ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
+gifted (for);doué (pour)<br><br>Note :<br>"gift" veut dire cadeau, donc gifted c'est plutôt avoir un don;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
 clever, bright, intelligent;intelligent;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
 sharp;vif;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities
 able;capable;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Education::Assessment-and-Achievement::Abilities

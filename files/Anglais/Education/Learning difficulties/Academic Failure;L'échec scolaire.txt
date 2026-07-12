@@ -1,9 +1,9 @@
 a low achiever;un élève en difficulté;...;...;N;LIVRE;C1
 a repeater;un redoublant;...;...;N;LIVRE;B2
 a dunce;un cancre;...;...;N;LIVRE;C1
-a dunce’s cap;un bonnet d’âne;...;...;N;LIVRE;C2
+a dunce’s cap;un bonnet d’âne;...;...;N;LIVREM;C2
 a dropout;un élève qui arrête ses études;...;...;N;LIVRE;B2
-to drop;laisser tomber;...;...;V;LIVRE;A2
+to drop;laisser tomber;...;...;V;LIVREM;A2
 a problem child;un enfant caractériel;...;...;N;LIVRE;B2
 to have learning difficulties;avoir du retard;have, had, had;...;VI;LIVRE;B1
 to repeat (a year);redoubler;...;...;V;LIVRE;B1
@@ -15,5 +15,5 @@ to drop out of school;abandonner ses études;...;...;V;LIVRE;B2
 illogical;illogique;...;...;ADJ;LIVRE;B2
 immature;immature;...;...;ADJ;LIVRE;B2
 dull;terne, médiocre;...;...;ADJ;LIVRE;B1
-dim-witted / slow-witted;lent d’esprit;...;...;ADJ;LIVRE;C1
-slow on the uptake;qui ne comprend pas vite;...;...;ADJ;LIVRE;C1
+dim-witted / slow-witted;lent d’esprit;slow veut dire lent et wit c'est l'esprit;...;ADJ;LIVRE;C1
+slow on the uptake;qui ne comprend pas vite;...;He's a little slow on the uptake, so you may have to repeat the instructions a few times.;ADJ;LIVRE;C1

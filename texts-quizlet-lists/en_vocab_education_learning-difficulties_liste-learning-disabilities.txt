@@ -2,7 +2,7 @@ an obstacle, a barrier||un obstacle
 ----------
 a handicap, a disability||un handicap
 ----------
-impairment||des troubles, des difficultés
+impairment||des troubles, déficience
 ----------
 hearing impairment||la déficience auditive
 ----------
@@ -22,6 +22,8 @@ school phobia||la phobie scolaire
 ----------
 monitoring||l’aide, le suivi
 ----------
+to monitor (a student)||suivre (un élève)
+----------
 a special needs student||un élève en difficulté
 ----------
 to impair||affecter, diminuer, affaiblir
@@ -30,8 +32,14 @@ to weaken||amoindrir, affaiblir
 ----------
 to diminish||diminuer
 ----------
-to require||nécessiter
+to require
+
+Exemple : - “This job requires five years of experience.” (Ce poste requiert/exige cinq ans d'expérience.)
+- “I need your advice on this.” (J'ai besoin de ton conseil là-dessus.)||nécessiter
+
+Note : désigne une nécessité plus importante qu'un simple besoin
 ----------
-to adapt, tailor||adapter
-----------
-to monitor (a student)||suivre (un élève)
+to adapt, tailor
+
+Exemple : The advantage of one-to-one lessons is that your teacher can tailor the course to you. 
+= L'avantage des cours particuliers, c'est que le professeur peut personnaliser le cours pour son élève.||adapter
