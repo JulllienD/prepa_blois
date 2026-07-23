@@ -1,7 +1,7 @@
 poverty;la pauvreté;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 dire poverty;la misère<br><br>Note :<br>'Dire' signifie extrême ou désastreux dans ce contexte.;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
-dire;# extrême<br><br>Note :<br>'Dire' signifie extrême ou désastreux dans ce contexte.;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
-misery;# détresse<br><br>Note :<br>Attention faux-ami : 'misery' signifie détresse/malheur, pas misère financière.;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
+dire;extrême<br><br>Note :<br>'Dire' signifie extrême ou désastreux dans ce contexte.;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
+misery;détresse<br><br>Note :<br>Attention faux-ami : 'misery' signifie détresse/malheur, pas misère financière.;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 persecution;la persécution;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 oppression;l’oppression;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 repression;la répression;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
@@ -9,20 +9,20 @@ tyranny;la tyrannie;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration
 conflict;le conflit;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 hardship;les épreuves, la souffrance;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 war;la guerre;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
-civil war;la guerre civile;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
-a dissident, a dissenter;un dissident, un contestataire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
+civil war;la guerre civile;ANGLAIS::niveau::A2 ANGLAIS::type::other ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
+a dissident<br><br>Exemple :<br>A large group of dissidents stood outside the government building with signs protesting the new law.<br>= Un grand groupe de dissidents se tenait devant le bâtiment du gouvernement avec des pancartes contre le nouvelle loi.;un dissident;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
+a dissenter;un contestataire<br><br>Note :<br>similaire à dissident;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 emigration;l’émigration;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 an emigrant;un émigrant, un émigré;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 an exodus;un exode;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 exile;l’exil;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 an exile;un exilé;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 to escape (from);échapper (à), s’échapper (de);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
-to flee, to run away (from);fuir;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
-flee, fled, fled;# fuir (verbe irrégulier)<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
+to flee, to run away (from);fuir<br><br>Note :<br>flee, fled, fled;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 to migrate;migrer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 to emigrate;émigrer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 to go into exile;s’exiler;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
-to drive away;chasser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
+to drive away<br><br>Exemple :<br>She drove him away with her constant nagging.<br>= Son mauvais caractère l'a repoussé / fait partir.;chasser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 to persecute;persécuter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 to oppress;opprimer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape
 poor;pauvre;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Immigration::Dreams-of-a-Better-Life::Reasons-to-Escape

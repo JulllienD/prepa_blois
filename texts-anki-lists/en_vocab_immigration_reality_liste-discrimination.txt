@@ -5,11 +5,9 @@ resentment;l’animosité, le ressentiment;ANGLAIS::niveau::B2 ANGLAIS::type::no
 intolerance;l’intolérance;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
 racism [ˈreɪsɪzəm];le racisme;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Discrimination
 segregation;la ségrégation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
-a ghetto;un ghetto;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
-several ghettos;# plusieurs ghettos<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Discrimination
+a ghetto;un ghetto<br><br>Note :<br>several ghettos = plusieurs ghettos;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
 an accusation;une accusation;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
-a scapegoat;un bouc-émissaire;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
-a goat;# une chèvre<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
+a scapegoat;un bouc-émissaire<br><br>Note :<br>a goat = une chèvre;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
 a social burden;un fardeau social;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
 a clash of civilizations;un choc de civilisations;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Discrimination
 to discriminate;pratiquer la discrimination;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Discrimination

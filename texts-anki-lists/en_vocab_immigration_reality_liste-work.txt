@@ -6,28 +6,27 @@ a seasonal worker;un ouvrier saisonnier;ANGLAIS::niveau::B1 ANGLAIS::type::noun 
 a farm labourer / worker;un ouvrier agricole;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 a workshop;un atelier;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 a sweatshop;un atelier où le personnel est exploité<br><br>Note :<br>Mot composé évoquant la sueur (sweat) du travail exploité.;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
-sweat;# la sueur<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Work
+sweat;la sueur;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 a manufacture;une fabrique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 a factory;une usine;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
-piece work;le travail payé à la pièce;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Work
+piece work;le travail payé à la pièce;ANGLAIS::niveau::B2 ANGLAIS::type::notion ANGLAIS::Immigration::Reality::Work
 a low-paid job;un emploi mal payé;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 a thankless / unrewarding job;un travail ingrat;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 a menial job;un emploi subalterne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
-moonlighting;le travail au noir;ANGLAIS::niveau::C1 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Work
+moonlighting;le travail au noir;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 labour;la main-d’œuvre;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 to work hard, toil [tɔɪl];travailler dur;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Work
 to slave away;trimer, travailler comme un forçat;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Work
-a slave;# un esclave<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
-to peddle;colporter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Work
+a slave;un esclave;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
+to peddle<br><br>Exemple :<br>A man came around peddling garlic and onions.;colporter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Work
 to pick (fruit…);ramasser (des fruits…);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Work
-to sew [səʊ];coudre;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Reality::Work
-sew, sewed, sewn;# coudre (verbe irrégulier)<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Reality::Work
+to sew [səʊ];coudre<br><br>Note :<br>sew, sewed, sewn;ANGLAIS::niveau::B1 ANGLAIS::type::irr-verb ANGLAIS::Immigration::Reality::Work
 to exploit;exploiter;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Work
 to take advantage of;tirer profit de;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Work
 cheap;bon marché;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Work
 unskilled;non qualifié;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Work
-a skill;# une compétence<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
+a skill;une compétence;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Work
 flexible;flexible;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Work
 hard-working;travailleur, laborieux;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Work
 underpaid;sous-payé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Work
-overpaid;# sur-payé<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Work
+overpaid;sur-payé;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Work

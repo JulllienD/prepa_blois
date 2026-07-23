@@ -12,7 +12,7 @@ a foreigner||un étranger
 ----------
 an alien||un ressortissant étranger
 ----------
-a stranger||# un inconnu
+a stranger||un inconnu
 
 Note : Faux-ami : 'stranger' signifie un inconnu, pas un étranger (alien/foreigner).
 ----------
@@ -32,7 +32,10 @@ to let in||laisser entrer
 ----------
 to allow (somebody) in||autoriser l’entrée (de qqn)
 ----------
-to entice||attirer
+to entice
+
+Exemple : Daisy tried to entice the stray dog with food, but it was too nervous to come near her.
+= Daisy a essayé d'attirer le chien errant avec de la nourriture, mais il était trop peureux pour s'approcher.||attirer
 ----------
 to encourage||encourager
 ----------
@@ -42,6 +45,6 @@ to welcome||accueillir favorablement
 ----------
 to provide shelter / a haven||offrir un refuge
 ----------
-a tax haven||# un paradis fiscal
+a tax haven||un paradis fiscal
 
 Note : Ne pas confondre 'haven' (refuge) et 'heaven' (paradis).

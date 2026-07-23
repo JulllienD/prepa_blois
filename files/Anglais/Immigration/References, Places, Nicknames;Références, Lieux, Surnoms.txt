@@ -6,7 +6,7 @@ the Brain Drain;(la fuite des cerveaux) l'émigration d'une main-d'oeuvre hautem
 the Rio Grande;le fleuve, d'une longueur de 3 117 km, qui sépare les États-Unis du Mexique.;Frontière naturelle hautement surveillée.;...;N;LIVRE;B1
 Ellis Island;L'île du port de New York où les futurs immigrants étaient filtrés avant d'être - pour la plupart - admis à entrer dans le pays.;Principal point d'entrée des immigrants européens (1892-1954).;...;N;LIVRE;B1
 LAX;Los Angeles Airport, l'aéroport par lequel la plupart des immigrants accèdent aujourd'hui au territoire américain.;Code international de l'aéroport de Los Angeles.;...;ABREV;LIVRE;B1
-the land of milk and honey;le pays de lait et de miel, promis par Dieu à Moïse (Exode 3-17), ou les États-Unis en tant que terre promise (milk: le lait ; honey: le miel);Référence biblique appliquée au territoire américain.;...;DEF;LIVRE;B2
+the land of milk and honey;le pays de lait et de miel, promis par Dieu à Moïse (Exode 3-17), ou les États-Unis en tant que terre promise (milk: le lait , honey: le miel);Référence biblique appliquée au territoire américain.;...;DEF;LIVRE;B2
 Yuccas (Young Urban Cuban Americans);jeunes cadres dynamiques cubains.;Acronyme calqué sur le modèle de 'yuppie'.;...;ABREV;LIVRE;C1
 Chuppies (mot valise formé de Chinese + Yuppies);jeunes cadres dynamiques chinois (yuppie: abbréviation de young urban professional).;Mot-valise récent (Chinese + Yuppies).;...;ABREV;LIVRE;C1
 Latinos;les immigrants en provenance d'Amérique latine.;Terme démographique et culturel très courant aux États-Unis.;...;N;LIVRE;A2

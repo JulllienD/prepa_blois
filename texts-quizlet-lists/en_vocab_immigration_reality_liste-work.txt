@@ -16,9 +16,7 @@ a sweatshop||un atelier où le personnel est exploité
 
 Note : Mot composé évoquant la sueur (sweat) du travail exploité.
 ----------
-sweat||# la sueur
-
-Note : Note additionnelle ou faux-ami
+sweat||la sueur
 ----------
 a manufacture||une fabrique
 ----------
@@ -40,19 +38,17 @@ to work hard, toil [tɔɪl]||travailler dur
 ----------
 to slave away||trimer, travailler comme un forçat
 ----------
-a slave||# un esclave
-
-Note : Note additionnelle ou faux-ami
+a slave||un esclave
 ----------
-to peddle||colporter
+to peddle
+
+Exemple : A man came around peddling garlic and onions.||colporter
 ----------
 to pick (fruit…)||ramasser (des fruits…)
 ----------
 to sew [səʊ]||coudre
-----------
-sew, sewed, sewn||# coudre (verbe irrégulier)
 
-Note : Note additionnelle ou faux-ami
+Note : sew, sewed, sewn
 ----------
 to exploit||exploiter
 ----------
@@ -62,9 +58,7 @@ cheap||bon marché
 ----------
 unskilled||non qualifié
 ----------
-a skill||# une compétence
-
-Note : Note additionnelle ou faux-ami
+a skill||une compétence
 ----------
 flexible||flexible
 ----------
@@ -72,6 +66,4 @@ hard-working||travailleur, laborieux
 ----------
 underpaid||sous-payé
 ----------
-overpaid||# sur-payé
-
-Note : Note additionnelle ou faux-ami
+overpaid||sur-payé

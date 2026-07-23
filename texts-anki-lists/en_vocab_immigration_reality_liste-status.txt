@@ -10,10 +10,10 @@ an undocumented worker (US);un travailleur sans papiers;ANGLAIS::niveau::B1 ANGL
 an illegal crossing;une entrée clandestine;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
 a smuggler;un passeur;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
 an identity card;une carte d’identité;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
-abbreviation ID-card;# abréviation de carte d’indentité en anglais<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Status
+ID-card;abréviation de carte d’indentité en anglais;ANGLAIS::niveau::B2 ANGLAIS::type::abrev ANGLAIS::Immigration::Reality::Status
 a residence permit;un permis de résidence;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
 a work permit;un permis de travail;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
-a Green Card (US);un permis de séjour;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
+a Green Card (US);un permis de séjour;ANGLAIS::niveau::B1 ANGLAIS::type::notion ANGLAIS::Immigration::Reality::Status
 legalization;la légalisation;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Status
 to cross;traverser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
 to enter (a country) illegally;entrer clandestinement (dans un pays);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
@@ -22,7 +22,7 @@ to seek asylum [əˈsaɪləm];demander asile;ANGLAIS::niveau::B1 ANGLAIS::type::
 to overstay;excéder une durée fixée;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
 to legalize;légaliser;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
 to smuggle (into);faire entrer clandestinement;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Status
-(il)legal;(il)légal;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Status
-undesirable, unwanted;indésirable;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Status
+(il)legal;(il)légal;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Status
+undesirable, unwanted;indésirable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Status
 uprooted;déraciné;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Status
-rootless;sans racines;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Status
+rootless<br><br>Exemple :<br>When her family was killed in a sudden accident, Amy became rootless.<br>= Quand sa famille a été tuée dans un accident, Amy s'est retrouvée déracinée / sans racines.;sans racines;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Status

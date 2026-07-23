@@ -1,4 +1,4 @@
-difference;la différence;...;...;V;LIVRE;A2
+difference;la différence;...;...;N;LIVRE;A2
 otherness;l’altérité;...;...;N;LIVRE;C1
 variety;la variété;...;...;N;LIVRE;B2
 a medley, a mix;un mélange;...;...;N;LIVRE;C1
@@ -13,7 +13,7 @@ a half-blood;un/une métisse;Terme parfois jugé vieilli ou très littéraire/p�
 borrowing;un emprunt (style, coutume);...;...;N;LIVRE;B2
 an ethnic restaurant;un restaurant exotique;...;...;N;LIVRE;B1
 
-ethnic food;la nourriture exotique;...;...;A;LIVRE;B2
+ethnic food;la nourriture exotique;...;...;N;LIVRE;B2
 exoticism;l’exotisme;...;...;N;LIVRE;B2
 a cultural background;un arrière-plan culturel;...;...;N;LIVRE;B1
 origin;l’origine;...;...;N;LIVRE;B2
@@ -35,7 +35,7 @@ reconcile;concilier;...;...;V;LIVRE;B1
 be enriched;s’enrichir;...;...;V;LIVRE;B1
 
 different;différent;...;...;ADJ;LIVRE;B2
-other;autre;...;...;ADJ;LIVRE;A2
+other;autre;...;...;ADJ;LIVRE;A1
 diverse, varied;divers, varié;...;...;ADJ;LIVRE;B2
 multifarious;d’une grande variété;...;...;ADJ;LIVRE;C1
 ethnic;ethnique;...;...;ADJ;LIVRE;B2

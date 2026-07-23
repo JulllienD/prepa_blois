@@ -1,7 +1,7 @@
 poverty;la pauvreté;...;...;N;LIVRE;A2
 dire poverty;la misère;'Dire' signifie extrême ou désastreux dans ce contexte.;...;A;LIVRE;C1
-dire;# extrême;'Dire' signifie extrême ou désastreux dans ce contexte.;...;A;LIVRE;B2
-misery;# détresse;Attention faux-ami : 'misery' signifie détresse/malheur, pas misère financière.;...;A;LIVRE;B2
+dire;extrême;'Dire' signifie extrême ou désastreux dans ce contexte.;...;A;LIVRE;B2
+misery;détresse;Attention faux-ami : 'misery' signifie détresse/malheur, pas misère financière.;...;A;LIVRE;B2
 persecution;la persécution;...;...;N;LIVRE;B2
 oppression;l’oppression;...;...;N;LIVRE;B2
 repression;la répression;...;...;N;LIVRE;B2
@@ -9,20 +9,20 @@ tyranny;la tyrannie;...;...;N;LIVRE;B2
 conflict;le conflit;...;...;N;LIVRE;B2
 hardship;les épreuves, la souffrance;...;...;N;LIVRE;B2
 war;la guerre;...;...;N;LIVRE;A2
-civil war;la guerre civile;...;...;A;LIVRE;B2
-a dissident, a dissenter;un dissident, un contestataire;...;...;N;LIVRE;B1
+civil war;la guerre civile;...;...;A;LIVRE;A2
+a dissident;un dissident;...;A large group of dissidents stood outside the government building with signs protesting the new law.<br>= Un grand groupe de dissidents se tenait devant le bâtiment du gouvernement avec des pancartes contre le nouvelle loi.;N;LIVRE;B1
+a dissenter;un contestataire;similaire à dissident;...;N;LIVRE;B1
 emigration;l’émigration;...;...;N;LIVRE;B2
 an emigrant;un émigrant, un émigré;...;...;N;LIVRE;B1
 an exodus;un exode;...;...;N;LIVRE;B1
 exile;l’exil;...;...;N;LIVRE;B2
 an exile;un exilé;...;...;N;LIVRE;B1
 to escape (from);échapper (à), s’échapper (de);...;...;V;LIVRE;B1
-to flee, to run away (from);fuir;...;...;VI;LIVRE;B1
-flee, fled, fled;# fuir (verbe irrégulier);Note additionnelle ou faux-ami;...;VI;LIVRE;B2
+to flee, to run away (from);fuir;flee, fled, fled;...;VI;LIVRE;B1
 to migrate;migrer;...;...;V;LIVRE;B1
 to emigrate;émigrer;...;...;V;LIVRE;B1
 to go into exile;s’exiler;...;...;V;LIVRE;B1
-to drive away;chasser;...;...;V;LIVRE;B1
+to drive away;chasser;...;	She drove him away with her constant nagging.<br>= Son mauvais caractère l'a repoussé / fait partir.;V;LIVRE;B1
 to persecute;persécuter;...;...;V;LIVRE;B1
 to oppress;opprimer;...;...;V;LIVRE;B1
 poor;pauvre;...;...;ADJ;LIVRE;A2

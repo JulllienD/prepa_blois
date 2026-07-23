@@ -4,11 +4,11 @@ dire poverty||la misère
 
 Note : 'Dire' signifie extrême ou désastreux dans ce contexte.
 ----------
-dire||# extrême
+dire||extrême
 
 Note : 'Dire' signifie extrême ou désastreux dans ce contexte.
 ----------
-misery||# détresse
+misery||détresse
 
 Note : Attention faux-ami : 'misery' signifie détresse/malheur, pas misère financière.
 ----------
@@ -28,7 +28,14 @@ war||la guerre
 ----------
 civil war||la guerre civile
 ----------
-a dissident, a dissenter||un dissident, un contestataire
+a dissident
+
+Exemple : A large group of dissidents stood outside the government building with signs protesting the new law.
+= Un grand groupe de dissidents se tenait devant le bâtiment du gouvernement avec des pancartes contre le nouvelle loi.||un dissident
+----------
+a dissenter||un contestataire
+
+Note : similaire à dissident
 ----------
 emigration||l’émigration
 ----------
@@ -43,10 +50,8 @@ an exile||un exilé
 to escape (from)||échapper (à), s’échapper (de)
 ----------
 to flee, to run away (from)||fuir
-----------
-flee, fled, fled||# fuir (verbe irrégulier)
 
-Note : Note additionnelle ou faux-ami
+Note : flee, fled, fled
 ----------
 to migrate||migrer
 ----------
@@ -54,7 +59,10 @@ to emigrate||émigrer
 ----------
 to go into exile||s’exiler
 ----------
-to drive away||chasser
+to drive away
+
+Exemple : She drove him away with her constant nagging.
+= Son mauvais caractère l'a repoussé / fait partir.||chasser
 ----------
 to persecute||persécuter
 ----------

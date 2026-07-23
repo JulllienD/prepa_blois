@@ -14,7 +14,11 @@ yearning ['jɜːnɪŋ]||le désir ardent, l’aspiration
 
 Note : Terme littéraire et soutenu pour un désir très fort.
 ----------
-longing||l’envie, l’aspiration
+longing
+
+Exemple : He was filled with a sudden longing for home.
+= Il avait soudain très envie de rentrer chez lui.
+= Il fut pris d'un désir soudain de rentrer chez lui.||l’envie, l’aspiration
 ----------
 the search (for)||la recherche (de)
 ----------
@@ -27,6 +31,8 @@ a magnet ['mæɡnɪt]||un aimant, un pôle d’attraction
 freedom||la liberté
 ----------
 an opportunity||une occasion
+
+Note : attention faux ami
 ----------
 an occasion||# une grande occasion
 
@@ -38,13 +44,18 @@ a shelter||un abri, un refuge
 ----------
 living conditions||les conditions de vie
 ----------
-a prospect||une perspective
+a prospect
+
+Exemple : Elsa left her husband when she realized that spending the rest of her life with him was a grim prospect.
+= Elsa a quitté son mari quand elle a réalisé que passer le reste de sa vie avec lui était une sombre perspective.||une perspective
 ----------
 education||l’éducation, la scolarisation
 ----------
 schooling||la scolarisation
 ----------
-affluence||la richesse, l’abondance
+affluence
+
+Exemple : The businessman lives a life of affluence thanks to his inheritance.||la richesse, l’abondance
 ----------
 wealth||la fortune, la richesse
 ----------
@@ -58,9 +69,7 @@ a rags-to-riches story||une réussite spectaculaire
 
 Note : Expression idiomatique signifiant passer des haillons à la richesse.
 ----------
-rags||# des haillons
-
-Note : Note additionnelle ou faux-ami
+rags||des haillons
 ----------
 to dream||rêver
 ----------
@@ -74,11 +83,17 @@ to hope||espérer
 ----------
 to wish for something||souhaiter avoir quelque chose
 ----------
-to aspire (to) [ə'spaɪə]||aspirer (à)
+to aspire (to) [ə'spaɪə]
+
+Exemple : Any writer who aspires to greatness should study the classics.
+= Tout écrivain aspirant au prix Goncourt se doit de connaître ses classiques.||aspirer (à)
 ----------
 to yearn for||désirer
 ----------
-to long for||désirer, aspirer à
+to long for
+
+Exemple : Snow White longed for the day that her prince would come.
+= Blanche-Neige avait hâte que le jour où son prince viendrait arrive.||désirer, aspirer à
 ----------
 to be attracted (to)||être attiré (par)
 ----------
@@ -89,10 +104,8 @@ to earn a living||gagner sa vie
 to provide for one’s family||satisfaire les besoins de sa famille
 ----------
 to seek refuge||chercher refuge
-----------
-seek, sought, sought||# chercher (verbe irrégulier)
 
-Note : Note additionnelle ou faux-ami
+Note : seek, sought, sought
 ----------
 to find shelter||trouver refuge
 ----------
@@ -109,12 +122,12 @@ to rise||s’élever
 to work one’s way up||s’élever socialement
 ----------
 to dig for gold||chercher de l’or (en creusant)
-----------
-dig, dug, dug||# creuser (verbe irrégulier)
 
-Note : Note additionnelle ou faux-ami
+Note : dig, dug, dug
 ----------
 to discover / to strike gold||découvrir de l’or
+
+Note : déf : to make large profits or to become rich
 ----------
 to make a fortune||faire fortune
 ----------
@@ -142,8 +155,14 @@ impatient, eager||impatient
 ----------
 greedy||avide, cupide
 ----------
-well-off||aisé
+well-off
+
+Exemple : They must be well off if they can afford to buy a house there!
+= Ils doivent être riches s'ils peuvent se payer une maison de ce quartier !||aisé
 ----------
-affluent||riche
+affluent
+
+Exemple : Christina is from an affluent family and has never had to work.
+= Christina vient d'une famille aisée et n'a jamais eu besoin de travailler.||riche
 ----------
 wealthy||riche, fortuné

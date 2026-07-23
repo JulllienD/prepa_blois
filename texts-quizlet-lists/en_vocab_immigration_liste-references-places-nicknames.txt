@@ -30,11 +30,9 @@ LAX||Los Angeles Airport, l'aéroport par lequel la plupart des immigrants accè
 
 Note : Code international de l'aéroport de Los Angeles.
 ----------
-the land of milk and honey
+the land of milk and honey||le pays de lait et de miel, promis par Dieu à Moïse (Exode 3-17), ou les États-Unis en tant que terre promise (milk: le lait , honey: le miel)
 
-Exemple : Référence biblique appliquée au territoire américain.||le pays de lait et de miel, promis par Dieu à Moïse (Exode 3-17), ou les États-Unis en tant que terre promise (milk: le lait
-
-Note : honey: le miel)
+Note : Référence biblique appliquée au territoire américain.
 ----------
 Yuccas (Young Urban Cuban Americans)||jeunes cadres dynamiques cubains.
 

@@ -1,4 +1,4 @@
-difference;la différence;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+difference;la différence;ANGLAIS::niveau::A2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 otherness;l’altérité;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 variety;la variété;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 a medley, a mix;un mélange;ANGLAIS::niveau::C1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
@@ -12,7 +12,7 @@ a mixed marriage;un mariage mixte;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAI
 a half-blood;un/une métisse<br><br>Note :<br>Terme parfois jugé vieilli ou très littéraire/péjoratif selon le contexte.;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 borrowing;un emprunt (style, coutume);ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 an ethnic restaurant;un restaurant exotique;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
-ethnic food;la nourriture exotique;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+ethnic food;la nourriture exotique;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 exoticism;l’exotisme;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 a cultural background;un arrière-plan culturel;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 origin;l’origine;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
@@ -32,7 +32,7 @@ value;apprécier;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::T
 reconcile;concilier;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 be enriched;s’enrichir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 different;différent;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
-other;autre;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
+other;autre;ANGLAIS::niveau::A1 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 diverse, varied;divers, varié;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 multifarious;d’une grande variété;ANGLAIS::niveau::C1 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth
 ethnic;ethnique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::The-Ethnic-Mix::Ethnic-Wealth

@@ -24,3 +24,5 @@ to make people aware of;rendre les gens conscients de;make, made, made;...;VI;LI
 to have news value;présenter un intérêt;have, had, had;...;VI;LIVRE;B2
 QUIZLET;https://quizlet.com/fr-fr/fiches-de-memorisation/prepa-en-media-the-press-journalism-1192974694
 EXOS;en_exo_media_the-press_fiche-exos-journalisme-1.html
+EXOS;en_exo_media_the-press_fiche-exos-journalisme-2.html
+EXOS;en_exo_media_the-press_fiche-exos-journalisme-3.html

@@ -1,6 +1,6 @@
 the language barrier;# la barrière linguistique;Note additionnelle ou faux-ami;...;N;LIVRE;B2
 an obstacle;un obstacle;...;...;N;LIVRE;B1
-a hindrance;une entrave, une gêne;...;...;N;LIVRE;B1
+a hindrance;une entrave, une gêne;...;Stacy's mom thought that her daughter's boyfriend would be a hindrance to her success.<br>= La mère de Stacy croyait que le copain de sa fille serait une entrave à son succès.;N;LIVRE;B1
 a difficulty;une difficulté;...;...;N;LIVRE;B1
 a restriction;une restriction;...;...;N;LIVRE;B1
 quotas [ˈkwəʊtə];des quotas;...;...;A;LIVRE;B2
@@ -14,14 +14,12 @@ to staunch [stɔːntʃ];contenir;...;...;V;LIVRE;B1
 to restrict;restreindre;...;...;V;LIVRE;B1
 to tighten [ˈtaɪtn];resserrer, renforcer;...;...;V;LIVRE;B1
 to select;choisir, faire une sélection;...;...;V;LIVRE;B1
-to ban;interdire;...;...;V;LIVRE;B1
-ban prend 2 n au prétérit (banned);# ban prend 2 n au prétérit (banned);Note additionnelle ou faux-ami;...;A;LIVRE;B2
+to ban;interdire;ban prend 2 n au prétérit (banned;...;V;LIVRE;B1
 to keep out;empêcher d’entrer;...;...;V;LIVRE;B1
 to catch;attraper;...;...;V;LIVRE;B1
-to round up;faire une rafle;...;...;V;LIVRE;B1
+to round up;faire une rafle;Le roundup, comme le désherbant;The police's roundup of suspects didn't result in an arrest.<br>= La rafle des suspects par la police n'a pas abouti à une arrestation.;V;LIVRE;B1
 to send back;renvoyer;...;...;V;LIVRE;B1
-to ship out;renvoyer par bateau;...;...;V;LIVRE;B1
-ship prend 2 p au prétérit (shipped);# ship prend 2 p au prétérit (shipped);Note additionnelle ou faux-ami;...;A;LIVRE;B2
+to ship out;renvoyer par bateau;ship prend 2 p au prétérit (shipped);;...;V;LIVRE;B1
 to escort back (to the border);reconduire (à la frontière);...;...;V;LIVRE;B1
 to kick out;jeter dehors;...;...;V;LIVRE;B1
 linguistic;linguistique;...;...;ADJ;LIVRE;B2
@@ -29,7 +27,7 @@ social;social;...;...;ADJ;LIVRE;A2
 cultural;culturel;...;...;ADJ;LIVRE;B2
 legislative;législatif;...;...;ADJ;LIVRE;B2
 unsurpassable;insurmontable;...;...;ADJ;LIVRE;B2
-to pass;# passer;Note additionnelle ou faux-ami;...;V;LIVRE;B2
+to pass;passer;...;...;V;LIVRE;A2
 restrictive;restrictif;...;...;ADJ;LIVRE;B2
 tight [taɪt];serré, strict;...;...;A;LIVRE;B2
 harsh;sévère;...;...;ADJ;LIVRE;B2

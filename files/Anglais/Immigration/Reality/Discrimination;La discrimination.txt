@@ -5,11 +5,9 @@ resentment;l’animosité, le ressentiment;...;...;N;LIVRE;B2
 intolerance;l’intolérance;...;...;N;LIVRE;B2
 racism [ˈreɪsɪzəm];le racisme;...;...;A;LIVRE;B2
 segregation;la ségrégation;...;...;N;LIVRE;B2
-a ghetto;un ghetto;...;...;N;LIVRE;B1
-several ghettos;# plusieurs ghettos;Note additionnelle ou faux-ami;...;A;LIVRE;B2
+a ghetto;un ghetto;several ghettos = plusieurs ghettos;...;N;LIVRE;B1
 an accusation;une accusation;...;...;N;LIVRE;B1
-a scapegoat;un bouc-émissaire;...;...;N;LIVRE;B1
-a goat;# une chèvre;Note additionnelle ou faux-ami;...;N;LIVRE;B2
+a scapegoat;un bouc-émissaire;a goat = une chèvre;...;N;LIVRE;B1
 a social burden;un fardeau social;...;...;N;LIVRE;B1
 a clash of civilizations;un choc de civilisations;...;...;N;LIVRE;B1
 to discriminate;pratiquer la discrimination;...;...;V;LIVRE;B1

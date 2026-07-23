@@ -1,6 +1,6 @@
 the language barrier;# la barrière linguistique<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Barriers
 an obstacle;un obstacle;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Barriers
-a hindrance;une entrave, une gêne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Barriers
+a hindrance<br><br>Exemple :<br>Stacy's mom thought that her daughter's boyfriend would be a hindrance to her success.<br>= La mère de Stacy croyait que le copain de sa fille serait une entrave à son succès.;une entrave, une gêne;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Barriers
 a difficulty;une difficulté;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Barriers
 a restriction;une restriction;ANGLAIS::niveau::B1 ANGLAIS::type::noun ANGLAIS::Immigration::Reality::Barriers
 quotas [ˈkwəʊtə];des quotas;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Barriers
@@ -14,14 +14,12 @@ to staunch [stɔːntʃ];contenir;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS
 to restrict;restreindre;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
 to tighten [ˈtaɪtn];resserrer, renforcer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
 to select;choisir, faire une sélection;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
-to ban;interdire;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
-ban prend 2 n au prétérit (banned);# ban prend 2 n au prétérit (banned)<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Barriers
+to ban;interdire<br><br>Note :<br>ban prend 2 n au prétérit (banned;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
 to keep out;empêcher d’entrer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
 to catch;attraper;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
-to round up;faire une rafle;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
+to round up<br><br>Exemple :<br>The police's roundup of suspects didn't result in an arrest.<br>= La rafle des suspects par la police n'a pas abouti à une arrestation.;faire une rafle<br><br>Note :<br>Le roundup, comme le désherbant;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
 to send back;renvoyer;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
-to ship out;renvoyer par bateau;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
-ship prend 2 p au prétérit (shipped);# ship prend 2 p au prétérit (shipped)<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Barriers
+to ship out<br><br>Exemple :<br>;renvoyer par bateau<br><br>Note :<br>ship prend 2 p au prétérit (shipped);ANGLAIS::niveau::LIVRE ANGLAIS::Immigration::Reality::Barriers
 to escort back (to the border);reconduire (à la frontière);ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
 to kick out;jeter dehors;ANGLAIS::niveau::B1 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
 linguistic;linguistique;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Barriers
@@ -29,7 +27,7 @@ social;social;ANGLAIS::niveau::A2 ANGLAIS::type::adj ANGLAIS::Immigration::Reali
 cultural;culturel;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Barriers
 legislative;législatif;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Barriers
 unsurpassable;insurmontable;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Barriers
-to pass;# passer<br><br>Note :<br>Note additionnelle ou faux-ami;ANGLAIS::niveau::B2 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
+to pass;passer;ANGLAIS::niveau::A2 ANGLAIS::type::verb ANGLAIS::Immigration::Reality::Barriers
 restrictive;restrictif;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Barriers
 tight [taɪt];serré, strict;ANGLAIS::niveau::B2 ANGLAIS::type::other ANGLAIS::Immigration::Reality::Barriers
 harsh;sévère;ANGLAIS::niveau::B2 ANGLAIS::type::adj ANGLAIS::Immigration::Reality::Barriers

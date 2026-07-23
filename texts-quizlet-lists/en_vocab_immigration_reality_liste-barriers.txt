@@ -4,7 +4,10 @@ Note : Note additionnelle ou faux-ami
 ----------
 an obstacle||un obstacle
 ----------
-a hindrance||une entrave, une gêne
+a hindrance
+
+Exemple : Stacy's mom thought that her daughter's boyfriend would be a hindrance to her success.
+= La mère de Stacy croyait que le copain de sa fille serait une entrave à son succès.||une entrave, une gêne
 ----------
 a difficulty||une difficulté
 ----------
@@ -35,24 +38,27 @@ to tighten [ˈtaɪtn]||resserrer, renforcer
 to select||choisir, faire une sélection
 ----------
 to ban||interdire
-----------
-ban prend 2 n au prétérit (banned)||# ban prend 2 n au prétérit (banned)
 
-Note : Note additionnelle ou faux-ami
+Note : ban prend 2 n au prétérit (banned
 ----------
 to keep out||empêcher d’entrer
 ----------
 to catch||attraper
 ----------
-to round up||faire une rafle
+to round up
+
+Exemple : The police's roundup of suspects didn't result in an arrest.
+= La rafle des suspects par la police n'a pas abouti à une arrestation.||faire une rafle
+
+Note : Le roundup, comme le désherbant
 ----------
 to send back||renvoyer
 ----------
-to ship out||renvoyer par bateau
-----------
-ship prend 2 p au prétérit (shipped)||# ship prend 2 p au prétérit (shipped)
+to ship out
 
-Note : Note additionnelle ou faux-ami
+Exemple :||renvoyer par bateau
+
+Note : ship prend 2 p au prétérit (shipped)
 ----------
 to escort back (to the border)||reconduire (à la frontière)
 ----------
@@ -68,9 +74,7 @@ legislative||législatif
 ----------
 unsurpassable||insurmontable
 ----------
-to pass||# passer
-
-Note : Note additionnelle ou faux-ami
+to pass||passer
 ----------
 restrictive||restrictif
 ----------

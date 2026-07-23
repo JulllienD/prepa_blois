@@ -10,10 +10,10 @@ an undocumented worker (US);un travailleur sans papiers;...;...;N;LIVRE;B1
 an illegal crossing;une entrée clandestine;...;...;N;LIVRE;B1
 a smuggler;un passeur;...;...;N;LIVRE;B1
 an identity card;une carte d’identité;...;...;N;LIVRE;B1
-abbreviation ID-card;# abréviation de carte d’indentité en anglais;Note additionnelle ou faux-ami;...;A;LIVRE;B2
+ID-card;abréviation de carte d’indentité en anglais;...;...;ABREV;LIVRE;B2
 a residence permit;un permis de résidence;...;...;N;LIVRE;B1
 a work permit;un permis de travail;...;...;N;LIVRE;B1
-a Green Card (US);un permis de séjour;...;...;N;LIVRE;B1
+a Green Card (US);un permis de séjour;...;...;NOTION;LIVRE;B1
 legalization;la légalisation;...;...;N;LIVRE;B2
 to cross;traverser;...;...;V;LIVRE;B1
 to enter (a country) illegally;entrer clandestinement (dans un pays);...;...;V;LIVRE;B1
@@ -22,7 +22,7 @@ to seek asylum [əˈsaɪləm];demander asile;...;...;VI;LIVRE;B1
 to overstay;excéder une durée fixée;...;...;V;LIVRE;B1
 to legalize;légaliser;...;...;V;LIVRE;B1
 to smuggle (into);faire entrer clandestinement;...;...;V;LIVRE;B1
-(il)legal;(il)légal;...;...;A;LIVRE;B2
-undesirable, unwanted;indésirable;...;...;A;LIVRE;B2
+(il)legal;(il)légal;...;...;ADJ;LIVRE;B2
+undesirable, unwanted;indésirable;...;...;ADJ;LIVRE;B2
 uprooted;déraciné;...;...;ADJ;LIVRE;B2
-rootless;sans racines;...;...;ADJ;LIVRE;B2
+rootless;sans racines;...;When her family was killed in a sudden accident, Amy became rootless.<br>= Quand sa famille a été tuée dans un accident, Amy s'est retrouvée déracinée / sans racines.;ADJ;LIVRE;B2

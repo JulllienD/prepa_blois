@@ -5,7 +5,7 @@ an immigrant;un immigrant, un immigré;...;...;N;LIVRE;A2
 a new arrival;un arrivant;...;...;N;LIVRE;B1
 a foreigner;un étranger;...;...;N;LIVRE;B1
 an alien;un ressortissant étranger;...;...;N;LIVRE;B1
-a stranger;# un inconnu;Faux-ami : 'stranger' signifie un inconnu, pas un étranger (alien/foreigner).;...;N;LIVRE;B2
+a stranger;un inconnu;Faux-ami : 'stranger' signifie un inconnu, pas un étranger (alien/foreigner).;...;N;LIVRE;B2
 a resident alien;un résident étranger;...;...;N;LIVRE;B1
 a newcomer;un nouveau venu;...;...;N;LIVRE;B1
 a stream;un flot, un torrent;...;...;N;LIVRE;B1
@@ -14,9 +14,9 @@ a wave;une vague;...;...;N;LIVRE;B1
 to settle;s’installer, s’établir;...;...;V;LIVRE;B1
 to let in;laisser entrer;...;...;V;LIVRE;B1
 to allow (somebody) in;autoriser l’entrée (de qqn);...;...;V;LIVRE;B1
-to entice;attirer;...;...;V;LIVRE;B1
+to entice;attirer;...;Daisy tried to entice the stray dog with food, but it was too nervous to come near her.<br>= Daisy a essayé d'attirer le chien errant avec de la nourriture, mais il était trop peureux pour s'approcher.;V;LIVRE;B1
 to encourage;encourager;...;...;V;LIVRE;B1
 to open one’s borders;ouvrir ses frontières;...;...;V;LIVRE;B1
 to welcome;accueillir favorablement;...;...;V;LIVRE;B1
 to provide shelter / a haven;offrir un refuge;...;...;V;LIVRE;B1
-a tax haven;# un paradis fiscal;Ne pas confondre 'haven' (refuge) et 'heaven' (paradis).;...;N;LIVRE;B2
+a tax haven;un paradis fiscal;Ne pas confondre 'haven' (refuge) et 'heaven' (paradis).;...;N;LIVRE;B2

@@ -8,7 +8,7 @@ mutual respect;le respect mutuel;...;...;N;LIVRE;B2
 understanding;la compréhension;...;...;N;LIVRE;B2
 
 adapt, adjust;(s’) adapter;...;...;V;LIVRE;B1
-assimilate;(s’) intégrer;...;...;V;LIVRE;B1
+assimilate;(s’) intégrer;c'est pour ça que les livres de langue "ASSIMIL" s'appelle comme ça sûrement;...;V;LIVRE;B1
 integrate;(s’) intégrer;...;...;V;LIVRE;B1
 blend/merge into;se fondre dans;...;...;V;LIVRE;B1
 conform (to, with);se conformer (à);...;...;V;LIVRE;B1

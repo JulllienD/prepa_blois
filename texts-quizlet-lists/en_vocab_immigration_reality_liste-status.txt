@@ -22,9 +22,7 @@ a smuggler||un passeur
 ----------
 an identity card||une carte d’identité
 ----------
-abbreviation ID-card||# abréviation de carte d’indentité en anglais
-
-Note : Note additionnelle ou faux-ami
+ID-card||abréviation de carte d’indentité en anglais
 ----------
 a residence permit||un permis de résidence
 ----------
@@ -54,4 +52,7 @@ undesirable, unwanted||indésirable
 ----------
 uprooted||déraciné
 ----------
-rootless||sans racines
+rootless
+
+Exemple : When her family was killed in a sudden accident, Amy became rootless.
+= Quand sa famille a été tuée dans un accident, Amy s'est retrouvée déracinée / sans racines.||sans racines
