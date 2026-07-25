@@ -1,69 +1,69 @@
-the ruling party||le parti au pouvoir, la majorité
+🇬🇧 the ruling party||🇫🇷 le parti au pouvoir, la majorité
 ----------
-an alliance||une alliance
+🇬🇧 an alliance||🇫🇷 une alliance
 ----------
-an opposition party||un parti d’opposition
+🇬🇧 an opposition party||🇫🇷 un parti d’opposition
 ----------
-a splinter party||un parti dissident
+🇬🇧 a splinter party||🇫🇷 un parti dissident
 
 Note : "a splinter" désigne un éclat ou une écharde
 ----------
-political dissidence||la dissidence
+🇬🇧 political dissidence||🇫🇷 la dissidence
 ----------
-a political dissenter||un dissident
+🇬🇧 a political dissenter||🇫🇷 un dissident
 ----------
-a cleavage||une division / un clivage
+🇬🇧 a cleavage||🇫🇷 une division / un clivage
 ----------
-a split, a rift||une scission
+🇬🇧 a split, a rift||🇫🇷 une scission
 ----------
-a manifesto||un manifeste
+🇬🇧 a manifesto||🇫🇷 un manifeste
 ----------
-a platform||un programme
+🇬🇧 a platform||🇫🇷 un programme
 
 Note : Dans un contexte politique (programme électoral)
 ----------
-ideology||l’idéologie
+🇬🇧 ideology||🇫🇷 l’idéologie
 ----------
-an ideologist||un idéologue
+🇬🇧 an ideologist||🇫🇷 un idéologue
 ----------
-financing||le financement
+🇬🇧 financing||🇫🇷 le financement
 ----------
-a slush fund||une caisse noire
+🇬🇧 a slush fund||🇫🇷 une caisse noire
 ----------
-the party members||les membres du parti
+🇬🇧 the party members||🇫🇷 les membres du parti
 ----------
-party membership||l’adhésion à un parti / les effectifs
+🇬🇧 party membership||🇫🇷 l’adhésion à un parti / les effectifs
 ----------
-the leadership||la direction / les dirigeants
+🇬🇧 the leadership||🇫🇷 la direction / les dirigeants
 ----------
-a party leader||un chef de file
+🇬🇧 a party leader||🇫🇷 un chef de file
 ----------
-a party official
+🇬🇧 a party official
 
-Exemple : Parfois qualifié d'apparatchik||un responsable du parti
+Exemple : Parfois qualifié d'apparatchik||🇫🇷 un responsable du parti
 ----------
-a reformist||un réformateur
+🇬🇧 a reformist||🇫🇷 un réformateur
 ----------
-the rank-and-file||la base
+🇬🇧 the rank-and-file||🇫🇷 la base
 
 Note : Les militants et membres de base (sans responsabilités)
 ----------
-activism||le militantisme
+🇬🇧 activism||🇫🇷 le militantisme
 ----------
-an activist||un militant
+🇬🇧 an activist||🇫🇷 un militant
 ----------
-a party cell||une cellule du parti
+🇬🇧 a party cell||🇫🇷 une cellule du parti
 ----------
-a party congress/conference||un congrès du parti
+🇬🇧 a party congress/conference||🇫🇷 un congrès du parti
 ----------
-to found (a party)||fonder (un parti)
+🇬🇧 to found (a party)||🇫🇷 fonder (un parti)
 ----------
-to finance||financer
+🇬🇧 to finance||🇫🇷 financer
 ----------
-to join (a party)||adhérer (à un parti)
+🇬🇧 to join (a party)||🇫🇷 adhérer (à un parti)
 ----------
-to claim a membership of||revendiquer un effectif de
+🇬🇧 to claim a membership of||🇫🇷 revendiquer un effectif de
 ----------
-to reform||réformer
+🇬🇧 to reform||🇫🇷 réformer
 ----------
-to hand out (pamphlets, tracts)||distribuer (des tracts)
+🇬🇧 to hand out (pamphlets, tracts)||🇫🇷 distribuer (des tracts)

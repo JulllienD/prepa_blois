@@ -1,67 +1,67 @@
-a polluter||un pollueur
+🇬🇧 a polluter||🇫🇷 un pollueur
 ----------
-an emission||une émission (de gaz, etc.)
+🇬🇧 an emission||🇫🇷 une émission (de gaz, etc.)
 ----------
-carbon dioxide||le dioxyde de carbone
+🇬🇧 carbon dioxide||🇫🇷 le dioxyde de carbone
 ----------
-exhaust fumes||les gaz d’échappement
+🇬🇧 exhaust fumes||🇫🇷 les gaz d’échappement
 ----------
-road traffic||la circulation automobile
+🇬🇧 road traffic||🇫🇷 la circulation automobile
 ----------
-an exhaust pipe||un pot d’échappement
+🇬🇧 an exhaust pipe||🇫🇷 un pot d’échappement
 ----------
-industrial smoke/fumes||les fumées industrielles
+🇬🇧 industrial smoke/fumes||🇫🇷 les fumées industrielles
 ----------
-industrial facilities||des installations industrielles
+🇬🇧 industrial facilities||🇫🇷 des installations industrielles
 ----------
-CFCs (chlorofluorocarbon)||les CFC (chlorofluorocarbure)
+🇬🇧 CFCs (chlorofluorocarbon)||🇫🇷 les CFC (chlorofluorocarbure)
 ----------
-an aerosol||une bombe aérosol
+🇬🇧 an aerosol||🇫🇷 une bombe aérosol
 ----------
-smoke||la fumée
+🇬🇧 smoke||🇫🇷 la fumée
 ----------
-fog||le brouillard
+🇬🇧 fog||🇫🇷 le brouillard
 ----------
-smog (smoke + fog)||le brouillard polluant
+🇬🇧 smog (smoke + fog)||🇫🇷 le brouillard polluant
 ----------
-asbestos||l’amiante
+🇬🇧 asbestos||🇫🇷 l’amiante
 ----------
-lead||le plomb
+🇬🇧 lead||🇫🇷 le plomb
 ----------
-lead-poisoning||le saturnisme
+🇬🇧 lead-poisoning||🇫🇷 le saturnisme
 ----------
-an allergy||une allergie
+🇬🇧 an allergy||🇫🇷 une allergie
 ----------
-poisoning||une intoxication
+🇬🇧 poisoning||🇫🇷 une intoxication
 ----------
-breathing difficulties||des difficultés respiratoires
+🇬🇧 breathing difficulties||🇫🇷 des difficultés respiratoires
 ----------
-asthma||l’asthme
+🇬🇧 asthma||🇫🇷 l’asthme
 ----------
-to release, to let out smoke||dégager de la fumée
+🇬🇧 to release, to let out smoke||🇫🇷 dégager de la fumée
 ----------
-to pollute||polluer
+🇬🇧 to pollute||🇫🇷 polluer
 ----------
-to breathe in, to inhale||inspirer, inhaler
+🇬🇧 to breathe in, to inhale||🇫🇷 inspirer, inhaler
 ----------
-to choke||(s’)asphyxier / s'étouffer
+🇬🇧 to choke||🇫🇷 (s’)asphyxier / s'étouffer
 ----------
-to fight for breath, to gasp for breath||avoir du mal à respirer
+🇬🇧 to fight for breath, to gasp for breath||🇫🇷 avoir du mal à respirer
 
 Note : fight, fought, fought
 ----------
-breath||la respiration
+🇬🇧 breath||🇫🇷 la respiration
 ----------
-dusty||poussiéreux
+🇬🇧 dusty||🇫🇷 poussiéreux
 ----------
-toxic||toxique
+🇬🇧 toxic||🇫🇷 toxique
 ----------
-noxious||nocif
+🇬🇧 noxious||🇫🇷 nocif
 ----------
-stifling||étouffant, suffocant
+🇬🇧 stifling||🇫🇷 étouffant, suffocant
 ----------
-unbreathable||irrespirable
+🇬🇧 unbreathable||🇫🇷 irrespirable
 ----------
-carcinogenic, cancer-causing||cancérigène
+🇬🇧 carcinogenic, cancer-causing||🇫🇷 cancérigène
 ----------
-unwholesome||malsain
+🇬🇧 unwholesome||🇫🇷 malsain

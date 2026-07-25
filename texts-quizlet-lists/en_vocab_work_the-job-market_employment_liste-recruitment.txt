@@ -1,115 +1,115 @@
-a job hunt||une recherche d’emploi
+🇬🇧 a job hunt||🇫🇷 une recherche d’emploi
 ----------
-a job hunter/seeker||un demandeur d’emploi
+🇬🇧 a job hunter/seeker||🇫🇷 un demandeur d’emploi
 ----------
-the classified ads, the classifieds||les annonces classées
+🇬🇧 the classified ads, the classifieds||🇫🇷 les annonces classées
 ----------
-job definition/description||le profil d’un poste
+🇬🇧 job definition/description||🇫🇷 le profil d’un poste
 ----------
-a job title||un intitulé de poste
+🇬🇧 a job title||🇫🇷 un intitulé de poste
 ----------
-a vacancy, a vacant post||un poste vacant
+🇬🇧 a vacancy, a vacant post||🇫🇷 un poste vacant
 ----------
-an opportunity||une opportunité d’emploi
+🇬🇧 an opportunity||🇫🇷 une opportunité d’emploi
 ----------
-an application||une candidature
+🇬🇧 an application||🇫🇷 une candidature
 ----------
-an applicant||un postulant, un candidat
+🇬🇧 an applicant||🇫🇷 un postulant, un candidat
 ----------
-a letter of application||une lettre de candidature
+🇬🇧 a letter of application||🇫🇷 une lettre de candidature
 ----------
-an application form||un formulaire de candidature
+🇬🇧 an application form||🇫🇷 un formulaire de candidature
 ----------
-a résumé (US), a CV (Brit.)||un CV (Curriculum Vitae)
+🇬🇧 a résumé (US), a CV (Brit.)||🇫🇷 un CV (Curriculum Vitae)
 ----------
-a letter of recommendation||une lettre de recommandation
+🇬🇧 a letter of recommendation||🇫🇷 une lettre de recommandation
 ----------
-credentials
+🇬🇧 credentials
 
-Exemple : Titres, diplômes ou références professionnelles||des références
+Exemple : Titres, diplômes ou références professionnelles||🇫🇷 des références
 ----------
-skills||les compétences, les qualifications
+🇬🇧 skills||🇫🇷 les compétences, les qualifications
 ----------
-a(n un)skilled worker||un travailleur (non) qualifié
+🇬🇧 a(n un)skilled worker||🇫🇷 un travailleur (non) qualifié
 ----------
-work experience||l’expérience professionnelle
+🇬🇧 work experience||🇫🇷 l’expérience professionnelle
 ----------
-a job centre
+🇬🇧 a job centre
 
-Exemple : Équivalent historique de l'ANPE au Royaume-Uni||une agence pour l'emploi
+Exemple : Équivalent historique de l'ANPE au Royaume-Uni||🇫🇷 une agence pour l'emploi
 ----------
-placement services||les agences pour l’emploi
+🇬🇧 placement services||🇫🇷 les agences pour l’emploi
 ----------
-a placement office||un bureau de placement
+🇬🇧 a placement office||🇫🇷 un bureau de placement
 ----------
-an employment agency||une agence de placement
+🇬🇧 an employment agency||🇫🇷 une agence de placement
 ----------
-a recruiter||un recruteur
+🇬🇧 a recruiter||🇫🇷 un recruteur
 ----------
-a human resources department
+🇬🇧 a human resources department
 
-Exemple : Souvent abrégé "HR department"||un service de ressources humaines
+Exemple : Souvent abrégé "HR department"||🇫🇷 un service de ressources humaines
 ----------
-a head-hunting firm
+🇬🇧 a head-hunting firm
 
-Exemple : Spécialisé dans les cadres||un cabinet de recrutement
+Exemple : Spécialisé dans les cadres||🇫🇷 un cabinet de recrutement
 ----------
-a head hunter||un chasseur de têtes
+🇬🇧 a head hunter||🇫🇷 un chasseur de têtes
 ----------
-a (job) interview||un entretien (d’embauche)
+🇬🇧 a (job) interview||🇫🇷 un entretien (d’embauche)
 ----------
-an appointment
+🇬🇧 an appointment
 
-Exemple : Professionnel ou médical||un rendez-vous
+Exemple : Professionnel ou médical||🇫🇷 un rendez-vous
 ----------
-a test||un test
+🇬🇧 a test||🇫🇷 un test
 ----------
-psychology||la psychologie
+🇬🇧 psychology||🇫🇷 la psychologie
 ----------
-(positive) discrimination||la discrimination (positive)
+🇬🇧 (positive) discrimination||🇫🇷 la discrimination (positive)
 ----------
-restrictive practices||les pratiques de restriction
+🇬🇧 restrictive practices||🇫🇷 les pratiques de restriction
 ----------
-sexism||le sexisme
+🇬🇧 sexism||🇫🇷 le sexisme
 ----------
-ageism||la discrimination par l’âge
+🇬🇧 ageism||🇫🇷 la discrimination par l’âge
 ----------
-racism||le racisme
+🇬🇧 racism||🇫🇷 le racisme
 ----------
-to look/hunt for a job||rechercher un emploi
+🇬🇧 to look/hunt for a job||🇫🇷 rechercher un emploi
 ----------
-to change jobs||changer d’emploi
+🇬🇧 to change jobs||🇫🇷 changer d’emploi
 ----------
-to apply for a job||postuler
+🇬🇧 to apply for a job||🇫🇷 postuler
 ----------
-to fill in a form||remplir un formulaire
+🇬🇧 to fill in a form||🇫🇷 remplir un formulaire
 ----------
-to interview someone||faire passer un entretien à qqn
+🇬🇧 to interview someone||🇫🇷 faire passer un entretien à qqn
 ----------
-to sit a test||passer un test
+🇬🇧 to sit a test||🇫🇷 passer un test
 
 Note : sit, sat, sat
 ----------
-to select||sélectionner
+🇬🇧 to select||🇫🇷 sélectionner
 ----------
-to choose||choisir
+🇬🇧 to choose||🇫🇷 choisir
 
 Note : choose, chose, chosen
 ----------
-to offer a job||proposer un emploi
+🇬🇧 to offer a job||🇫🇷 proposer un emploi
 ----------
-to take on, hire||embaucher
+🇬🇧 to take on, hire||🇫🇷 embaucher
 
 Note : take, took, taken
 ----------
-to recruit||recruter
+🇬🇧 to recruit||🇫🇷 recruter
 ----------
-to fill a post||pourvoir un poste
+🇬🇧 to fill a post||🇫🇷 pourvoir un poste
 ----------
-to appoint sb to a post||nommer quelqu’un à un poste
+🇬🇧 to appoint sb to a post||🇫🇷 nommer quelqu’un à un poste
 ----------
-to employ sb as…||employer quelqu’un comme…
+🇬🇧 to employ sb as…||🇫🇷 employer quelqu’un comme…
 ----------
-to sign a contract||signer un contrat
+🇬🇧 to sign a contract||🇫🇷 signer un contrat
 ----------
-to turn down (an applicant)||refuser (un candidat) à l’embauche
+🇬🇧 to turn down (an applicant)||🇫🇷 refuser (un candidat) à l’embauche

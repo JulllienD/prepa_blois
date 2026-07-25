@@ -1,65 +1,65 @@
-medical examination||un examen médical
+🇬🇧 medical examination||🇫🇷 un examen médical
 ----------
-prescription||une ordonnance
+🇬🇧 prescription||🇫🇷 une ordonnance
 ----------
-shot, an injection||une piqûre, une injection
+🇬🇧 shot, an injection||🇫🇷 une piqûre, une injection
 ----------
-drip||une perfusion, goutte à goutte
+🇬🇧 drip||🇫🇷 une perfusion, goutte à goutte
 ----------
-transfusion||une transfusion
+🇬🇧 transfusion||🇫🇷 une transfusion
 ----------
-abortion||un avortement
+🇬🇧 abortion||🇫🇷 un avortement
 ----------
-X-ray||une radiologie
+🇬🇧 X-ray||🇫🇷 une radiologie
 ----------
-scanner||un scanner
+🇬🇧 scanner||🇫🇷 un scanner
 ----------
-ultrasound scan||une échographie
+🇬🇧 ultrasound scan||🇫🇷 une échographie
 ----------
-(blood) test||une analyse
+🇬🇧 (blood) test||🇫🇷 une analyse
 ----------
-stethoscope||un stéthoscope
+🇬🇧 stethoscope||🇫🇷 un stéthoscope
 ----------
-lancet||un bistouri
+🇬🇧 lancet||🇫🇷 un bistouri
 ----------
-stitch||un point de suture
+🇬🇧 stitch||🇫🇷 un point de suture
 ----------
-to visit||rendre visite à
+🇬🇧 to visit||🇫🇷 rendre visite à
 ----------
-to check||examine, vérifier
+🇬🇧 to check||🇫🇷 examine, vérifier
 ----------
-to take the pulse||prendre le pouls
+🇬🇧 to take the pulse||🇫🇷 prendre le pouls
 
 Note : take, took, taken
 ----------
-to sound the chest, auscultate||ausculter
+🇬🇧 to sound the chest, auscultate||🇫🇷 ausculter
 ----------
-to detect||détecter
+🇬🇧 to detect||🇫🇷 détecter
 ----------
-to be under observation||être en observation
+🇬🇧 to be under observation||🇫🇷 être en observation
 
 Note : be, was/were, been
 ----------
-to give a shot/ an injection||faire une injection
+🇬🇧 to give a shot/ an injection||🇫🇷 faire une injection
 
 Note : give, gave, given
 ----------
-to prescribe||prescrire
+🇬🇧 to prescribe||🇫🇷 prescrire
 ----------
-to carry out an abortion||pratiquer un avortement
+🇬🇧 to carry out an abortion||🇫🇷 pratiquer un avortement
 ----------
-to dress a wound||panser une plaie
+🇬🇧 to dress a wound||🇫🇷 panser une plaie
 ----------
-to nurse||soigner, s'occuper de
+🇬🇧 to nurse||🇫🇷 soigner, s'occuper de
 ----------
-to be on duty||être de garde
+🇬🇧 to be on duty||🇫🇷 être de garde
 
 Note : be, was/were, been
 ----------
-clinical||clinique
+🇬🇧 clinical||🇫🇷 clinique
 ----------
-thorough||complet, consciencieux
+🇬🇧 thorough||🇫🇷 complet, consciencieux
 ----------
-faulty||erroné
+🇬🇧 faulty||🇫🇷 erroné
 ----------
-sterile||stérile
+🇬🇧 sterile||🇫🇷 stérile

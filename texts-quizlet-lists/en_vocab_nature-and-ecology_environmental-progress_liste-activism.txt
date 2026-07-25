@@ -1,81 +1,81 @@
-ecology||l’écologie
+🇬🇧 ecology||🇫🇷 l’écologie
 ----------
-an ecologist||un écologiste
+🇬🇧 an ecologist||🇫🇷 un écologiste
 ----------
-environmentalism||l’écologie
+🇬🇧 environmentalism||🇫🇷 l’écologie
 ----------
-an environmentalist, a conservationist||un écologiste / défenseur de la nature
+🇬🇧 an environmentalist, a conservationist||🇫🇷 un écologiste / défenseur de la nature
 ----------
-an environmental lawyer||un avocat spécialiste de l’écologie
+🇬🇧 an environmental lawyer||🇫🇷 un avocat spécialiste de l’écologie
 ----------
-an activist||un militant
+🇬🇧 an activist||🇫🇷 un militant
 ----------
-a whistle blower||un lanceur d’alerte
+🇬🇧 a whistle blower||🇫🇷 un lanceur d’alerte
 ----------
-the Greens||les Verts
+🇬🇧 the Greens||🇫🇷 les Verts
 ----------
-a Green party||un parti écologiste
+🇬🇧 a Green party||🇫🇷 un parti écologiste
 ----------
-a Green lobby||un groupe de pression écologiste
+🇬🇧 a Green lobby||🇫🇷 un groupe de pression écologiste
 ----------
-commitment||l’engagement
+🇬🇧 commitment||🇫🇷 l’engagement
 ----------
-involvement||la participation / l'implication
+🇬🇧 involvement||🇫🇷 la participation / l'implication
 ----------
-a campaign||une campagne
+🇬🇧 a campaign||🇫🇷 une campagne
 ----------
-an awareness campaign||une campagne de sensibilisation
+🇬🇧 an awareness campaign||🇫🇷 une campagne de sensibilisation
 ----------
-awareness||la conscience / sensibilisation
+🇬🇧 awareness||🇫🇷 la conscience / sensibilisation
 ----------
-boycott||le boycott
+🇬🇧 boycott||🇫🇷 le boycott
 ----------
-Charles Boycott: an Irishman who was the victim of the first boycott||Charles Boycott: an Irishman who was the victim of the first boycott
+🇬🇧 Charles Boycott: an Irishman who was the victim of the first boycott||🇫🇷 Charles Boycott: an Irishman who was the victim of the first boycott
 ----------
-lobbying||l’activité des groupes de pression
+🇬🇧 lobbying||🇫🇷 l’activité des groupes de pression
 ----------
-a suit, a lawsuit||un procès
+🇬🇧 a suit, a lawsuit||🇫🇷 un procès
 ----------
-to commit oneself||s’engager
+🇬🇧 to commit oneself||🇫🇷 s’engager
 ----------
-to be involved in||participer à, être impliqué dans
+🇬🇧 to be involved in||🇫🇷 participer à, être impliqué dans
 
 Note : be, was/were, been
 ----------
-to make the public aware, sensitize||sensibiliser (le public)
+🇬🇧 to make the public aware, sensitize||🇫🇷 sensibiliser (le public)
 
 Note : make, made, made
 ----------
-to campaign (against)||faire campagne (contre)
+🇬🇧 to campaign (against)||🇫🇷 faire campagne (contre)
 ----------
-to denounce||dénoncer
+🇬🇧 to denounce||🇫🇷 dénoncer
 ----------
-to reveal, to expose||réveler, dénoncer
+🇬🇧 to reveal, to expose||🇫🇷 réveler, dénoncer
 ----------
-to exhibit||exposer
+🇬🇧 to exhibit||🇫🇷 exposer
 ----------
-to fight (against something)||lutter (contre quelque chose)
+🇬🇧 to fight (against something)||🇫🇷 lutter (contre quelque chose)
 
 Note : fight, fought, fought
 ----------
-to oppose (something)||s’opposer (à quelque chose)
+🇬🇧 to oppose (something)||🇫🇷 s’opposer (à quelque chose)
 ----------
-to boycott||boycotter
+🇬🇧 to boycott||🇫🇷 boycotter
 ----------
-to complain||se plaindre
+🇬🇧 to complain||🇫🇷 se plaindre
 ----------
-to lodge a complaint||porter plainte
+🇬🇧 to lodge a complaint||🇫🇷 porter plainte
 ----------
-to sue||attaquer en justice
+🇬🇧 to sue||🇫🇷 attaquer en justice
 ----------
-to bring a lawsuit against||intenter un procès à
+🇬🇧 to bring a lawsuit against||🇫🇷 intenter un procès à
 
 Note : bring, brought, brought
 ----------
-militant||militant
+🇬🇧 militant||🇫🇷 militant
 ----------
-environmental||écologique
+🇬🇧 environmental||🇫🇷 écologique
 ----------
-provocative||provocateur
+🇬🇧 provocative||🇫🇷 provocateur
 ----------
-committed||engagé
+🇬🇧 committed||🇫🇷 engagé

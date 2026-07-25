@@ -1,5 +1,5 @@
-best-known quality papers (US);The Washington Post,<br> The New York Times,<br> The Wall Street Journal,<br> The Los Angeles Times,<br> The Herald Tribune...;...;...;DEF;LIVRE;B1
-magazines (US);Time,<br> Newsweek,<br> Business Week,<br> U.S. News and World Report...;...;...;DEF;LIVRE;A2
+best-known quality papers (US);- The Washington Post,<br>- The New York Times,<br>- The Wall Street Journal,<br>- The Los Angeles Times,<br>- The Herald Tribune...;...;...;DEF;LIVRE;B1
+magazines (US);- Time<br>- Newsweek<br>- Business Week<br>- U.S. News and World Report...;...;...;DEF;LIVRE;A2
 ABC (US channel);American Broadcasting Corporation;chaîne généraliste;...;DEF;LIVRE;B1
 NBC (US channel);National Broadcasting Company;chaîne généraliste;...;DEF;LIVRE;B1
 CBS (US channel);Columbia Broadcasting Corporation;chaîne généraliste;...;DEF;LIVRE;B1

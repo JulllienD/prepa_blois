@@ -1,81 +1,81 @@
-Law commission||la commission des Lois
+🇬🇧 Law commission||🇫🇷 la commission des Lois
 ----------
-a lawgiver, a legislator (UK) a lawmaker (US)||un législateur
+🇬🇧 a lawgiver, a legislator (UK) a lawmaker (US)||🇫🇷 un législateur
 ----------
-a draft||un avant-projet de loi
+🇬🇧 a draft||🇫🇷 un avant-projet de loi
 ----------
-a bill||un projet de loi
+🇬🇧 a bill||🇫🇷 un projet de loi
 ----------
-a reform||une réforme
+🇬🇧 a reform||🇫🇷 une réforme
 ----------
-a law||une loi
+🇬🇧 a law||🇫🇷 une loi
 ----------
-a law against (smoking)||une loi interdisant (de fumer)
+🇬🇧 a law against (smoking)||🇫🇷 une loi interdisant (de fumer)
 ----------
-a law on (crime)||une loi sur (la délinquance)
+🇬🇧 a law on (crime)||🇫🇷 une loi sur (la délinquance)
 ----------
-an Act of Parliament
+🇬🇧 an Act of Parliament
 
-Exemple : Devient un "Act" une fois voté et signé||une loi (adoptée par le Parlement)
+Exemple : Devient un "Act" une fois voté et signé||🇫🇷 une loi (adoptée par le Parlement)
 ----------
-a motion||une motion, une proposition
+🇬🇧 a motion||🇫🇷 une motion, une proposition
 ----------
-a motion of censure||une motion de censure
+🇬🇧 a motion of censure||🇫🇷 une motion de censure
 ----------
-an article
+🇬🇧 an article
 
-Exemple : D'une loi ou d'un traité||un article
+Exemple : D'une loi ou d'un traité||🇫🇷 un article
 ----------
-a provision
+🇬🇧 a provision
 
-Exemple : Clause ou mesure d'une loi||une disposition
+Exemple : Clause ou mesure d'une loi||🇫🇷 une disposition
 ----------
-an amendment||un amendement
+🇬🇧 an amendment||🇫🇷 un amendement
 ----------
-a decree||un décret
+🇬🇧 a decree||🇫🇷 un décret
 ----------
-an ordinance, an order||une ordonnance, un arrêté
+🇬🇧 an ordinance, an order||🇫🇷 une ordonnance, un arrêté
 ----------
-a lobby / a pressure group||un lobby, un groupe de pression
+🇬🇧 a lobby / a pressure group||🇫🇷 un lobby, un groupe de pression
 ----------
-lobbying||le lobbying
+🇬🇧 lobbying||🇫🇷 le lobbying
 ----------
-a lobby
+🇬🇧 a lobby
 
-Exemple : Sens architectural d'origine où l'on abordait les élus||un couloir
+Exemple : Sens architectural d'origine où l'on abordait les élus||🇫🇷 un couloir
 ----------
-a petition||une requête, une pétition
+🇬🇧 a petition||🇫🇷 une requête, une pétition
 ----------
-the repeal of a law||l’abrogation d’une loi
+🇬🇧 the repeal of a law||🇫🇷 l’abrogation d’une loi
 ----------
-to draft a law / bill||rédiger un avant-projet de loi
+🇬🇧 to draft a law / bill||🇫🇷 rédiger un avant-projet de loi
 ----------
-to sponsor a bill
+🇬🇧 to sponsor a bill
 
-Exemple : Présenter officiellement un texte au vote||introduire un projet de loi
+Exemple : Présenter officiellement un texte au vote||🇫🇷 introduire un projet de loi
 ----------
-to take a vote||procéder à un vote
+🇬🇧 to take a vote||🇫🇷 procéder à un vote
 
 Note : take, took, taken
 ----------
-to pass a bill / law||adopter un projet de loi / une loi
+🇬🇧 to pass a bill / law||🇫🇷 adopter un projet de loi / une loi
 ----------
-to amend||amender / modifier
+🇬🇧 to amend||🇫🇷 amender / modifier
 ----------
-to present a petition (to)||soumettre une demande / pétition (à)
+🇬🇧 to present a petition (to)||🇫🇷 soumettre une demande / pétition (à)
 ----------
-to oppose a bill||s’opposer à un projet de loi
+🇬🇧 to oppose a bill||🇫🇷 s’opposer à un projet de loi
 ----------
-to filibuster
+🇬🇧 to filibuster
 
-Exemple : Technique de blocage par des discours interminables||faire de l’obstruction parlementaire
+Exemple : Technique de blocage par des discours interminables||🇫🇷 faire de l’obstruction parlementaire
 ----------
-to defeat a bill||rejeter un projet de loi
+🇬🇧 to defeat a bill||🇫🇷 rejeter un projet de loi
 ----------
-to withdraw a bill||retirer un projet de loi
+🇬🇧 to withdraw a bill||🇫🇷 retirer un projet de loi
 
 Note : withdraw, withdrew, withdrawn
 ----------
-to lobby||faire pression
+🇬🇧 to lobby||🇫🇷 faire pression
 ----------
-to repeal a law||abroger une loi
+🇬🇧 to repeal a law||🇫🇷 abroger une loi

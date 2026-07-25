@@ -5,7 +5,6 @@ the freedom of the press, press freedom;la liberté de la presse;...;...;N;LIVRE
 freedom of expression/speech;la liberté d'expression;...;...;N;LIVRE;B2
 the right to know;le droit à l'information;...;...;N;LIVRE;C1
 investigative journalism;le journalisme d'investigation;...;...;N;LIVRE;C1
-(media) coverage;la couverture (médiatique);...;...;N;LIVRE;B2
 a newsmaker;un sujet vedette;...;...;N;LIVRE;C1
 the right to privacy;le droit à la vie privée;...;...;N;LIVRE;C1
 a breach of ethics;une faute éthique;...;...;N;LIVRE;C1
@@ -14,13 +13,12 @@ a muckraker;un dénicheur de scandales;...;...;N;LIVRE;C1
 a rake;un râteau;...;...;N;LIVRE;C1
 a rumour (UK) / a rumor (US);une rumeur;...;...;N;LIVRE;B1
 a scandal;un scandale;...;...;N;LIVRE;B1
-libel;la diffamation (écrite);...;...;N;LIVRE;C1
+libel;la diffamation (écrite);déf : a piece of writing that contains bad and false things about a person;...;N;LIVRE;C1
 slander;une calomnie, une diffamation (orale);...;...;N;LIVRE;C1
 voyeurism;le voyeurisme;...;...;N;LIVRE;C1
 to check; vérifier;...;...;V;LIVRE;B1
 fact-checking;la vérification des faits;...;...;N;LIVREM;B1
 to investigate (a case);enquêter (sur une affaire);...;...;V;LIVRE;B2
-to cover;assurer la couverture médiatique;...;...;V;LIVRE;B2
 to spy (on somebody);espionner (quelqu'un);...;...;V;LIVRE;B1
 a spy;un espion;...;...;N;LIVREM;B1
 to pester, harass;embêter, harceler;...;...;V;LIVRE;C1

@@ -1,51 +1,51 @@
-segregation||la ségrégation
+🇬🇧 segregation||🇫🇷 la ségrégation
 ----------
-oppression||l’oppression
+🇬🇧 oppression||🇫🇷 l’oppression
 ----------
-disrespect||l’irrespect
+🇬🇧 disrespect||🇫🇷 l’irrespect
 ----------
-inequality||l’inégalité
+🇬🇧 inequality||🇫🇷 l’inégalité
 ----------
-social injustice||l’injustice sociale
+🇬🇧 social injustice||🇫🇷 l’injustice sociale
 ----------
-a minority||une minorité
+🇬🇧 a minority||🇫🇷 une minorité
 ----------
-a scapegoat||un bouc-émissaire
+🇬🇧 a scapegoat||🇫🇷 un bouc-émissaire
 ----------
-a bias||un préjugé, un parti-pris
+🇬🇧 a bias||🇫🇷 un préjugé, un parti-pris
 ----------
-a prejudice||un préjugé
+🇬🇧 a prejudice||🇫🇷 un préjugé
 ----------
-intolerance||l’intolérance
+🇬🇧 intolerance||🇫🇷 l’intolérance
 ----------
-the glass ceiling||le plafond de verre
+🇬🇧 the glass ceiling||🇫🇷 le plafond de verre
 ----------
-to discriminate against||établir une discrimination envers
+🇬🇧 to discriminate against||🇫🇷 établir une discrimination envers
 ----------
-to be discriminated against||être victime de discrimination
+🇬🇧 to be discriminated against||🇫🇷 être victime de discrimination
 ----------
-to practise discrimination||pratiquer la discrimination
+🇬🇧 to practise discrimination||🇫🇷 pratiquer la discrimination
 ----------
-to endure discrimination||être l’objet de discrimination
+🇬🇧 to endure discrimination||🇫🇷 être l’objet de discrimination
 ----------
-to wrong someone||léser quelqu’un
+🇬🇧 to wrong someone||🇫🇷 léser quelqu’un
 ----------
-to victimize||persécuter
+🇬🇧 to victimize||🇫🇷 persécuter
 ----------
-to segregate||séparer
+🇬🇧 to segregate||🇫🇷 séparer
 ----------
-to expel, ban||rejeter, exclure
+🇬🇧 to expel, ban||🇫🇷 rejeter, exclure
 ----------
-narrow-minded||à l’esprit étroit, borné
+🇬🇧 narrow-minded||🇫🇷 à l’esprit étroit, borné
 ----------
-sectarian||sectaire
+🇬🇧 sectarian||🇫🇷 sectaire
 ----------
-discriminatory||discriminatoire
+🇬🇧 discriminatory||🇫🇷 discriminatoire
 ----------
-bias(s)ed, prejudiced||partial, tendancieux
+🇬🇧 bias(s)ed, prejudiced||🇫🇷 partial, tendancieux
 ----------
-unfair||injuste, déloyal
+🇬🇧 unfair||🇫🇷 injuste, déloyal
 ----------
-unequal||inégal
+🇬🇧 unequal||🇫🇷 inégal
 ----------
-intolerant||intolérant
+🇬🇧 intolerant||🇫🇷 intolérant

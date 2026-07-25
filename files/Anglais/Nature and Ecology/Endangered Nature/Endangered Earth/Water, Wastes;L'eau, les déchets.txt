@@ -9,7 +9,7 @@ oil;le pétrole / l'huile;...;...;N;LIVRE;A2
 
 to get rid (of);se débarrasser (de);get, got, got;...;VI;LIVRE;A2
 to dump, to discharge;déverser / rejeter;...;...;V;LIVRE;B2
-No dumping;Décharge interdite;...;...;EXPR;LIVRE;B2
+No dumping !;Décharge interdite !;...;...;EXPR;LIVRE;B2
 to spill;déverser, se répandre;spilt/spilled, spilt/spilled;...;V;LIVRE;B1
 
 Waste;Les déchets;...;...;DEF;LIVRE;B1
@@ -50,4 +50,4 @@ dirty;sale;...;...;ADJ;LIVRE;A1
 hazardous;dangereux, risqué;...;...;ADJ;LIVRE;B2
 smelly, foul-smelling;malodorant;...;...;ADJ;LIVRE;B1
 poisonous;toxique;...;...;ADJ;LIVRE;B2
-cumbersome, bulky;encombrant;...;...;ADJ;LIVRE;C1
+cumbersome, bulky;encombrant;...;Rachel dragged the cumbersome suitcase across the room.<br>= Rachel a traversé la pièce en traînant l'encombrante valise.;ADJ;LIVRE;C1

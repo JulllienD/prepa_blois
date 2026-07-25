@@ -1,41 +1,41 @@
-shortage, scarcity||la pénurie
+🇬🇧 shortage, scarcity||🇫🇷 la pénurie
 ----------
-lack||le manque
+🇬🇧 lack||🇫🇷 le manque
 ----------
-want, need||le besoin
+🇬🇧 want, need||🇫🇷 le besoin
 ----------
-for want of||à défaut de
+🇬🇧 for want of||🇫🇷 à défaut de
 ----------
-famine, starvation||la famine
+🇬🇧 famine, starvation||🇫🇷 la famine
 ----------
-plenty, abundance||l’abondance
+🇬🇧 plenty, abundance||🇫🇷 l’abondance
 ----------
-glut||l’excès / le trop-plein
+🇬🇧 glut||🇫🇷 l’excès / le trop-plein
 ----------
-misuse||le mauvais usage
+🇬🇧 misuse||🇫🇷 le mauvais usage
 ----------
-mismanagement||la mauvaise gestion
+🇬🇧 mismanagement||🇫🇷 la mauvaise gestion
 ----------
-to be short (of)||être à court (de)
+🇬🇧 to be short (of)||🇫🇷 être à court (de)
 
 Note : be, was/were, been
 ----------
-to run short of||commencer à manquer de
+🇬🇧 to run short of||🇫🇷 commencer à manquer de
 
 Note : run, ran, run
 ----------
-to lack (something), to want (for something)||manquer (de quelque chose)
+🇬🇧 to lack (something), to want (for something)||🇫🇷 manquer (de quelque chose)
 ----------
-to need||avoir besoin de
+🇬🇧 to need||🇫🇷 avoir besoin de
 ----------
-to starve, to die of hunger||courir à la famine, mourir de faim
+🇬🇧 to starve, to die of hunger||🇫🇷 courir à la famine, mourir de faim
+
+Note : starve vient de l’allemand sterben qui signifie mourir
 ----------
-starve vient de l’allemand sterben qui signifie mourir||starve vient de l’allemand sterben qui signifie mourir
-----------
-to be packed with, to overflow with||regorger de, déborder de
+🇬🇧 to be packed with, to overflow with||🇫🇷 regorger de, déborder de
 
 Note : be, was/were, been
 ----------
-to misuse||faire mauvais usage de
+🇬🇧 to misuse||🇫🇷 faire mauvais usage de
 ----------
-to mismanage||mal gérer
+🇬🇧 to mismanage||🇫🇷 mal gérer

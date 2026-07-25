@@ -1,95 +1,95 @@
-further education||la formation continue
+🇬🇧 further education||🇫🇷 la formation continue
 
 Note : def : Further Education (FE) includes any study after secondary education (GCSEs) that is not part of an undergraduate or graduate degree
 ----------
-a college of further education||un centre de formation continue
+🇬🇧 a college of further education||🇫🇷 un centre de formation continue
 ----------
-a college||un établissement d’enseignement supérieur
+🇬🇧 a college||🇫🇷 un établissement d’enseignement supérieur
 
 Note : l'université, la fac en gros
 ----------
-college sport||le sport universitaire
+🇬🇧 college sport||🇫🇷 le sport universitaire
 ----------
-a state/private university||une université d’État/privée
+🇬🇧 a state/private university||🇫🇷 une université d’État/privée
 ----------
-a polytechnic||un I.U.T.
+🇬🇧 a polytechnic||🇫🇷 un I.U.T.
 ----------
-an engineering school||une école d’ingénieur
+🇬🇧 an engineering school||🇫🇷 une école d’ingénieur
 ----------
-a business school||une école de commerce
+🇬🇧 a business school||🇫🇷 une école de commerce
 ----------
-a medical school||une faculté de médecine
+🇬🇧 a medical school||🇫🇷 une faculté de médecine
 ----------
-a medic||un étudiant en médecine
+🇬🇧 a medic||🇫🇷 un étudiant en médecine
 ----------
-a law school||une faculté de droit
+🇬🇧 a law school||🇫🇷 une faculté de droit
 ----------
-a graduate school (US)||≈ une université de 3ᵉ cycle
+🇬🇧 a graduate school (US)||🇫🇷 ≈ une université de 3ᵉ cycle
 ----------
-a lecture room/theatre||un amphithéâtre
+🇬🇧 a lecture room/theatre||🇫🇷 un amphithéâtre
 ----------
-a lecture||un cours magistral
+🇬🇧 a lecture||🇫🇷 un cours magistral
 ----------
-a laboratory||un laboratoire
+🇬🇧 a laboratory||🇫🇷 un laboratoire
 ----------
-facilities||les équipements, l’infrastructure
+🇬🇧 facilities||🇫🇷 les équipements, l’infrastructure
 ----------
-research facilities||les équipements de recherche
+🇬🇧 research facilities||🇫🇷 les équipements de recherche
 ----------
-a university library||une bibliothèque universitaire
+🇬🇧 a university library||🇫🇷 une bibliothèque universitaire
 ----------
-a bookshop||une librairie
+🇬🇧 a bookshop||🇫🇷 une librairie
 ----------
-registration, enrolment (UK), enrollment (US)||l’inscription
+🇬🇧 registration, enrolment (UK), enrollment (US)||🇫🇷 l’inscription
 ----------
-the intake||les admissions
+🇬🇧 the intake||🇫🇷 les admissions
 ----------
-tuition
+🇬🇧 tuition
 
-Exemple : Most university students only have a few hours of tuition every week. = La plupart des étudiants à l'université n'ont que quelques heures de cours par semaine.||les cours / l'enseignement
+Exemple : Most university students only have a few hours of tuition every week. = La plupart des étudiants à l'université n'ont que quelques heures de cours par semaine.||🇫🇷 les cours / l'enseignement
 ----------
-the (tuition) fees
+🇬🇧 the (tuition) fees
 
-Exemple : Many students struggle to pay the tuition fees. = Plusieurs étudiants ont du mal à payer les frais de scolarité.||les frais de scolarité
+Exemple : Many students struggle to pay the tuition fees. = Plusieurs étudiants ont du mal à payer les frais de scolarité.||🇫🇷 les frais de scolarité
 ----------
-a grant||une bourse d’études (selon revenus)
+🇬🇧 a grant||🇫🇷 une bourse d’études (selon revenus)
 ----------
-to grant||accorder
+🇬🇧 to grant||🇫🇷 accorder
 ----------
-a scholarship||une bourse (selon résultats scolaires)
+🇬🇧 a scholarship||🇫🇷 une bourse (selon résultats scolaires)
 ----------
-a fellowship
+🇬🇧 a fellowship
 
-Exemple : PhDs can be expensive, unless you get a fellowship.||une bourse de recherche
+Exemple : PhDs can be expensive, unless you get a fellowship.||🇫🇷 une bourse de recherche
 
 Note : def : an amount of money that is given to someone, especially a postgraduate
 ----------
-to register, enrol (UK), enroll (US)
+🇬🇧 to register, enrol (UK), enroll (US)
 
 Exemple : Gina enrolled in a course in French history.
 
-She didn't enroll in college till the age of twenty-two. = Elle ne s'est pas inscrite à l'université avant l'âge de vingt-deux ans.||s’inscrire
+She didn't enroll in college till the age of twenty-two. = Elle ne s'est pas inscrite à l'université avant l'âge de vingt-deux ans.||🇫🇷 s’inscrire
 ----------
-to go to college||aller à l’université
+🇬🇧 to go to college||🇫🇷 aller à l’université
 
 Note : go, went, gone
 ----------
-to attend a lecture||aller à une conférence
+🇬🇧 to attend a lecture||🇫🇷 aller à une conférence
 ----------
-to go to graduate school||faire des études spécialisées
+🇬🇧 to go to graduate school||🇫🇷 faire des études spécialisées
 
 Note : go, went, gone
 ----------
-to read (History)
+🇬🇧 to read (History)
 
-Exemple : My son is reading Classics at Cambridge University. = Mon fils étudie les lettres classiques à l'Université de Cambridge.||étudier, faire des études (d’histoire)
+Exemple : My son is reading Classics at Cambridge University. = Mon fils étudie les lettres classiques à l'Université de Cambridge.||🇫🇷 étudier, faire des études (d’histoire)
 
 Note : read, read, read
 
 Cette formulation est utilisé qu'au RU et reste assez rare
 ----------
-to major in (US)||se spécialiser en
+🇬🇧 to major in (US)||🇫🇷 se spécialiser en
 ----------
-to have a college education||avoir fait des études supérieures
+🇬🇧 to have a college education||🇫🇷 avoir fait des études supérieures
 
 Note : have, had, had

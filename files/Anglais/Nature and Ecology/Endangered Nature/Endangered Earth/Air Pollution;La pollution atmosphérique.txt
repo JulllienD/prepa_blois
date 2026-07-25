@@ -30,6 +30,6 @@ dusty;poussiéreux;...;...;ADJ;LIVRE;B1
 toxic;toxique;...;...;ADJ;LIVRE;B2
 noxious;nocif;...;...;ADJ;LIVRE;C1
 stifling;étouffant, suffocant;...;...;ADJ;LIVRE;C1
-unbreathable;irrespirable;...;...;ADJ;LIVRE;C2
+unbreathable;irrespirable;...;...;ADJ;LIVRE;B2
 carcinogenic, cancer-causing;cancérigène;...;...;ADJ;LIVRE;C1
 unwholesome;malsain;...;...;ADJ;LIVRE;C1

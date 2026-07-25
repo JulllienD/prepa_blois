@@ -1,39 +1,39 @@
-a physician||un médecin
+🇬🇧 a physician||🇫🇷 un médecin
 ----------
-a doctor||un docteur
+🇬🇧 a doctor||🇫🇷 un docteur
 ----------
-a general practitioner||un généraliste
+🇬🇧 a general practitioner||🇫🇷 un généraliste
 ----------
-a volunteer doctor||un médecin bénévole
+🇬🇧 a volunteer doctor||🇫🇷 un médecin bénévole
 ----------
-a specialist||un spécialiste
+🇬🇧 a specialist||🇫🇷 un spécialiste
 ----------
-a heart specialist||un cardiologue
+🇬🇧 a heart specialist||🇫🇷 un cardiologue
 ----------
-a surgeon||un chirurgien
+🇬🇧 a surgeon||🇫🇷 un chirurgien
 ----------
-an anaesthetist||un anesthésiste
+🇬🇧 an anaesthetist||🇫🇷 un anesthésiste
 ----------
-a radiologist||un radiologue
+🇬🇧 a radiologist||🇫🇷 un radiologue
 ----------
-a paediatrician||un pédiatre
+🇬🇧 a paediatrician||🇫🇷 un pédiatre
 ----------
-a psychiatrist||un psychiatre
+🇬🇧 a psychiatrist||🇫🇷 un psychiatre
 ----------
-a dentist||un dentiste
+🇬🇧 a dentist||🇫🇷 un dentiste
 ----------
-a midwife||une sage femme
+🇬🇧 a midwife||🇫🇷 une sage femme
 ----------
-a nurse||une infirmière
+🇬🇧 a nurse||🇫🇷 une infirmière
 ----------
-a male nurse||un infirmier
+🇬🇧 a male nurse||🇫🇷 un infirmier
 ----------
-an ambulance man||un ambulancier
+🇬🇧 an ambulance man||🇫🇷 un ambulancier
 ----------
-a first aid worker||un secouriste
+🇬🇧 a first aid worker||🇫🇷 un secouriste
 ----------
-a chemist||un pharmacien
+🇬🇧 a chemist||🇫🇷 un pharmacien
 ----------
-aid worker||un secouriste
+🇬🇧 aid worker||🇫🇷 un secouriste
 ----------
-a chemist||un pharmacien
+🇬🇧 a chemist||🇫🇷 un pharmacien

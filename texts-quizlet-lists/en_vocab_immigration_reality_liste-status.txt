@@ -1,58 +1,58 @@
-a legal immigrant||un immigré en règle
+🇬🇧 a legal immigrant||🇫🇷 un immigré en règle
 ----------
-an asylum-seeker [əˈsaɪləm]||un demandeur d’asile
+🇬🇧 an asylum-seeker [əˈsaɪləm]||🇫🇷 un demandeur d’asile
 ----------
-political asylum||l’asile politique
+🇬🇧 political asylum||🇫🇷 l’asile politique
 ----------
-a foreigner [ˈfɒrənə]||un étranger
+🇬🇧 a foreigner [ˈfɒrənə]||🇫🇷 un étranger
 ----------
-a fugitive||un fugitif
+🇬🇧 a fugitive||🇫🇷 un fugitif
 ----------
-a political / climate refugee||un réfugié politique / climatique
+🇬🇧 a political / climate refugee||🇫🇷 un réfugié politique / climatique
 ----------
-a second-class citizen||un citoyen de seconde zone
+🇬🇧 a second-class citizen||🇫🇷 un citoyen de seconde zone
 ----------
-an illegal immigrant / alien||un immigré clandestin
+🇬🇧 an illegal immigrant / alien||🇫🇷 un immigré clandestin
 ----------
-an undocumented worker (US)||un travailleur sans papiers
+🇬🇧 an undocumented worker (US)||🇫🇷 un travailleur sans papiers
 ----------
-an illegal crossing||une entrée clandestine
+🇬🇧 an illegal crossing||🇫🇷 une entrée clandestine
 ----------
-a smuggler||un passeur
+🇬🇧 a smuggler||🇫🇷 un passeur
 ----------
-an identity card||une carte d’identité
+🇬🇧 an identity card||🇫🇷 une carte d’identité
 ----------
-ID-card||abréviation de carte d’indentité en anglais
+🇬🇧 ID-card||🇫🇷 abréviation de carte d’indentité en anglais
 ----------
-a residence permit||un permis de résidence
+🇬🇧 a residence permit||🇫🇷 un permis de résidence
 ----------
-a work permit||un permis de travail
+🇬🇧 a work permit||🇫🇷 un permis de travail
 ----------
-a Green Card (US)||un permis de séjour
+🇬🇧 a Green Card (US)||🇫🇷 un permis de séjour
 ----------
-legalization||la légalisation
+🇬🇧 legalization||🇫🇷 la légalisation
 ----------
-to cross||traverser
+🇬🇧 to cross||🇫🇷 traverser
 ----------
-to enter (a country) illegally||entrer clandestinement (dans un pays)
+🇬🇧 to enter (a country) illegally||🇫🇷 entrer clandestinement (dans un pays)
 ----------
-to sneak into||se faufiler, entrer clandestinement
+🇬🇧 to sneak into||🇫🇷 se faufiler, entrer clandestinement
 ----------
-to seek asylum [əˈsaɪləm]||demander asile
+🇬🇧 to seek asylum [əˈsaɪləm]||🇫🇷 demander asile
 ----------
-to overstay||excéder une durée fixée
+🇬🇧 to overstay||🇫🇷 excéder une durée fixée
 ----------
-to legalize||légaliser
+🇬🇧 to legalize||🇫🇷 légaliser
 ----------
-to smuggle (into)||faire entrer clandestinement
+🇬🇧 to smuggle (into)||🇫🇷 faire entrer clandestinement
 ----------
-(il)legal||(il)légal
+🇬🇧 (il)legal||🇫🇷 (il)légal
 ----------
-undesirable, unwanted||indésirable
+🇬🇧 undesirable, unwanted||🇫🇷 indésirable
 ----------
-uprooted||déraciné
+🇬🇧 uprooted||🇫🇷 déraciné
 ----------
-rootless
+🇬🇧 rootless
 
 Exemple : When her family was killed in a sudden accident, Amy became rootless.
-= Quand sa famille a été tuée dans un accident, Amy s'est retrouvée déracinée / sans racines.||sans racines
+= Quand sa famille a été tuée dans un accident, Amy s'est retrouvée déracinée / sans racines.||🇫🇷 sans racines

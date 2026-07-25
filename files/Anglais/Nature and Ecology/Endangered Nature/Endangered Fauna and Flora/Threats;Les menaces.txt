@@ -30,15 +30,14 @@ to drive away, to frighten away;chasser (faire fuir);drive, drove, driven;...;VI
 to go hunting;aller à la chasse;go, went, gone;...;VI;LIVRE;B1
 to catch;capturer;catch, caught, caught;...;VI;LIVRE;A2
 to collect;collectionner;...;...;V;LIVRE;A2
-to traffic;trafiquer, faire du trafic;...;...;V;LIVRE;B2
-la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked, avec un K;la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked, avec un K;...;...;A;LIVRE;C1
+to traffic;trafiquer, faire du trafic;la forme ING et le prétérit de traffic s’écrivent trafficking et trafficked;...;V;LIVRE;B2
 to smuggle;faire de la contrebande;...;...;V;LIVRE;C1
 to poach;braconner;...;...;V;LIVRE;C1
 to massacre, to slaughter;massacrer;...;...;V;LIVRE;C1
 to threaten, to endanger;menacer;...;...;V;LIVRE;B2
 to shoot (at);tirer (sur);shoot, shot, shot;...;VI;LIVRE;B1
 to harm;faire du mal (à), nuire (à);...;...;V;LIVRE;B2
-to dwindle;diminuer (en nombre);...;...;V;LIVRE;C1
+to dwindle;diminuer (en nombre);...;The community has dwindled to a tenth of its former size in the last two years.;V;LIVRE;C1
 to disappear, become extinct;disparaître;...;...;V;LIVRE;B2
 
 harmful;nocif, nuisible;...;...;ADJ;LIVRE;B2

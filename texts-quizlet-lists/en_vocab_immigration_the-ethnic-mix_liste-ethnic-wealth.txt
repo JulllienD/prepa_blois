@@ -1,103 +1,103 @@
-difference||la différence
+🇬🇧 difference||🇫🇷 la différence
 ----------
-otherness||l’altérité
+🇬🇧 otherness||🇫🇷 l’altérité
 ----------
-variety||la variété
+🇬🇧 variety||🇫🇷 la variété
 ----------
-a medley, a mix||un mélange
+🇬🇧 a medley, a mix||🇫🇷 un mélange
 ----------
-a mosaic||une mosaïque
+🇬🇧 a mosaic||🇫🇷 une mosaïque
 ----------
-a melting-pot||un creuset
+🇬🇧 a melting-pot||🇫🇷 un creuset
 ----------
-a multi-cultural society||une société multi-culturelle
+🇬🇧 a multi-cultural society||🇫🇷 une société multi-culturelle
 ----------
-the heritage of immigration||l’héritage de l’immigration
+🇬🇧 the heritage of immigration||🇫🇷 l’héritage de l’immigration
 ----------
-an asset||un atout
+🇬🇧 an asset||🇫🇷 un atout
 ----------
-openness||l’ouverture d’esprit
+🇬🇧 openness||🇫🇷 l’ouverture d’esprit
 ----------
-a mixed marriage||un mariage mixte
+🇬🇧 a mixed marriage||🇫🇷 un mariage mixte
 ----------
-a half-blood||un/une métisse
+🇬🇧 a half-blood||🇫🇷 un/une métisse
 
 Note : Terme parfois jugé vieilli ou très littéraire/péjoratif selon le contexte.
 ----------
-borrowing||un emprunt (style, coutume)
+🇬🇧 borrowing||🇫🇷 un emprunt (style, coutume)
 ----------
-an ethnic restaurant||un restaurant exotique
+🇬🇧 an ethnic restaurant||🇫🇷 un restaurant exotique
 ----------
-ethnic food||la nourriture exotique
+🇬🇧 ethnic food||🇫🇷 la nourriture exotique
 ----------
-exoticism||l’exotisme
+🇬🇧 exoticism||🇫🇷 l’exotisme
 ----------
-a cultural background||un arrière-plan culturel
+🇬🇧 a cultural background||🇫🇷 un arrière-plan culturel
 ----------
-origin||l’origine
+🇬🇧 origin||🇫🇷 l’origine
 ----------
-an ancestor||un ancêtre
+🇬🇧 an ancestor||🇫🇷 un ancêtre
 ----------
-ancestry||les ancêtres, les aïeux
+🇬🇧 ancestry||🇫🇷 les ancêtres, les aïeux
 ----------
-a foreign-born person||une personne d’origine étrangère
+🇬🇧 a foreign-born person||🇫🇷 une personne d’origine étrangère
 ----------
-a native||un natif, qqn né dans le pays
+🇬🇧 a native||🇫🇷 un natif, qqn né dans le pays
 ----------
-differ (from)||différer, être différent (de)
+🇬🇧 differ (from)||🇫🇷 différer, être différent (de)
 ----------
-stand out||se distinguer, ne pas passer inaperçu
+🇬🇧 stand out||🇫🇷 se distinguer, ne pas passer inaperçu
 
 Note : stand, stood, stood
 ----------
-look different||paraître différent
+🇬🇧 look different||🇫🇷 paraître différent
 ----------
-be of foreign origin||être d’origine étrangère
+🇬🇧 be of foreign origin||🇫🇷 être d’origine étrangère
 ----------
-be torn between two cultures||être partagé entre deux cultures
+🇬🇧 be torn between two cultures||🇫🇷 être partagé entre deux cultures
 ----------
-tear||déchirer
+🇬🇧 tear||🇫🇷 déchirer
 
 Note : tear, tore, torn
 ----------
-stick to one’s ways||s’accrocher à ses coutumes
+🇬🇧 stick to one’s ways||🇫🇷 s’accrocher à ses coutumes
 ----------
-ways||les coutumes
+🇬🇧 ways||🇫🇷 les coutumes
 ----------
-value||apprécier
+🇬🇧 value||🇫🇷 apprécier
 ----------
-reconcile||concilier
+🇬🇧 reconcile||🇫🇷 concilier
 ----------
-be enriched||s’enrichir
+🇬🇧 be enriched||🇫🇷 s’enrichir
 ----------
-different||différent
+🇬🇧 different||🇫🇷 différent
 ----------
-other||autre
+🇬🇧 other||🇫🇷 autre
 ----------
-diverse, varied||divers, varié
+🇬🇧 diverse, varied||🇫🇷 divers, varié
 ----------
-multifarious||d’une grande variété
+🇬🇧 multifarious||🇫🇷 d’une grande variété
 ----------
-ethnic||ethnique
+🇬🇧 ethnic||🇫🇷 ethnique
 ----------
-multi-cultural||multi-culturel
+🇬🇧 multi-cultural||🇫🇷 multi-culturel
 ----------
-exotic||exotic
+🇬🇧 exotic||🇫🇷 exotic
 ----------
-outlandish||bizarre, peu habituel
+🇬🇧 outlandish||🇫🇷 bizarre, peu habituel
 ----------
-unusual||inhabituel
+🇬🇧 unusual||🇫🇷 inhabituel
 ----------
-respectful||respectueux
+🇬🇧 respectful||🇫🇷 respectueux
 ----------
-understanding||compréhensif
+🇬🇧 understanding||🇫🇷 compréhensif
 ----------
-open-minded||à l’esprit ouvert, sans préjugés
+🇬🇧 open-minded||🇫🇷 à l’esprit ouvert, sans préjugés
 ----------
-native||natal
+🇬🇧 native||🇫🇷 natal
 ----------
-foreign-born||d’origine étrangère
+🇬🇧 foreign-born||🇫🇷 d’origine étrangère
 ----------
-first-generation||de la première génération
+🇬🇧 first-generation||🇫🇷 de la première génération
 ----------
-second-generation||de la seconde génération
+🇬🇧 second-generation||🇫🇷 de la seconde génération

@@ -1,50 +1,50 @@
-a settler||un colon
+🇬🇧 a settler||🇫🇷 un colon
 ----------
-a settlement||un village, une colonie
+🇬🇧 a settlement||🇫🇷 un village, une colonie
 ----------
-a pioneer||un pionnier
+🇬🇧 a pioneer||🇫🇷 un pionnier
 ----------
-an immigrant||un immigrant, un immigré
+🇬🇧 an immigrant||🇫🇷 un immigrant, un immigré
 ----------
-a new arrival||un arrivant
+🇬🇧 a new arrival||🇫🇷 un arrivant
 ----------
-a foreigner||un étranger
+🇬🇧 a foreigner||🇫🇷 un étranger
 ----------
-an alien||un ressortissant étranger
+🇬🇧 an alien||🇫🇷 un ressortissant étranger
 ----------
-a stranger||un inconnu
+🇬🇧 a stranger||🇫🇷 un inconnu
 
 Note : Faux-ami : 'stranger' signifie un inconnu, pas un étranger (alien/foreigner).
 ----------
-a resident alien||un résident étranger
+🇬🇧 a resident alien||🇫🇷 un résident étranger
 ----------
-a newcomer||un nouveau venu
+🇬🇧 a newcomer||🇫🇷 un nouveau venu
 ----------
-a stream||un flot, un torrent
+🇬🇧 a stream||🇫🇷 un flot, un torrent
 ----------
-a flow||un afflux
+🇬🇧 a flow||🇫🇷 un afflux
 ----------
-a wave||une vague
+🇬🇧 a wave||🇫🇷 une vague
 ----------
-to settle||s’installer, s’établir
+🇬🇧 to settle||🇫🇷 s’installer, s’établir
 ----------
-to let in||laisser entrer
+🇬🇧 to let in||🇫🇷 laisser entrer
 ----------
-to allow (somebody) in||autoriser l’entrée (de qqn)
+🇬🇧 to allow (somebody) in||🇫🇷 autoriser l’entrée (de qqn)
 ----------
-to entice
+🇬🇧 to entice
 
 Exemple : Daisy tried to entice the stray dog with food, but it was too nervous to come near her.
-= Daisy a essayé d'attirer le chien errant avec de la nourriture, mais il était trop peureux pour s'approcher.||attirer
+= Daisy a essayé d'attirer le chien errant avec de la nourriture, mais il était trop peureux pour s'approcher.||🇫🇷 attirer
 ----------
-to encourage||encourager
+🇬🇧 to encourage||🇫🇷 encourager
 ----------
-to open one’s borders||ouvrir ses frontières
+🇬🇧 to open one’s borders||🇫🇷 ouvrir ses frontières
 ----------
-to welcome||accueillir favorablement
+🇬🇧 to welcome||🇫🇷 accueillir favorablement
 ----------
-to provide shelter / a haven||offrir un refuge
+🇬🇧 to provide shelter / a haven||🇫🇷 offrir un refuge
 ----------
-a tax haven||un paradis fiscal
+🇬🇧 a tax haven||🇫🇷 un paradis fiscal
 
 Note : Ne pas confondre 'haven' (refuge) et 'heaven' (paradis).

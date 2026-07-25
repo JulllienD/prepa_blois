@@ -2,7 +2,7 @@ the ecosystem;l’écosystème;...;...;N;LIVRE;B2
 the environment;le milieu / l'environnement;...;...;N;LIVRE;B1
 ecological imbalance;le déséquilibre écologique;...;...;N;LIVRE;B2
 ecological balance;l’équilibre écologique;...;...;N;LIVRE;B2
-scales;une balance, pour se peser soi ou des objets;...;...;N;LIVRE;B1
+scales;une balance, pour se peser soi ou des objets;toujours au pluriel par ailleurs;...;N;LIVREM;B1
 the forest;la forêt;...;...;N;LIVRE;A1
 the Amazonian forest;la forêt amazonienne;...;...;N;LIVRE;B1
 the Amazon;l’Amazonie;...;...;N;LIVRE;B1
@@ -29,9 +29,8 @@ to log;débiter (un arbre);...;...;V;LIVRE;C1
 a log;un rondin, une bûche;...;...;N;LIVRE;B2
 to deforest;déboiser;...;...;V;LIVRE;B2
 to burn;brûler;burn, burnt/burned, burnt/burned;...;VI;LIVRE;A2
-to build (roads);percer (des routes);build, broke, broken;...;VI;LIVRE;A2
 to pick;cueillir;...;...;V;LIVRE;A2
-to wither;se dessécher, se flétrir;...;...;V;LIVRE;C1
+to wither;se dessécher, se flétrir;...;Grass had withered in the fields.;V;LIVRE;C1
 to jeopardize;mettre en peril;...;...;V;LIVRE;C1
 jeopardy: from the old French “jeu parti”: à l’issue incertaine;jeopardy: from the old French “jeu parti”: à l’issue incertaine;...;...;A;LIVRE;C1
 to be in jeopardy;être en péril;be, was/were, been;...;VI;LIVRE;C1
@@ -39,6 +38,7 @@ to become/get scarce;se raréfier;become, became, become / get, got, got;...;VI;
 
 woody;boisé;...;...;ADJ;LIVRE;B2
 wooden;en bois;...;...;ADJ;LIVRE;A2
-scattered;clairsemé;...;...;ADJ;LIVRE;B2
+scattered;clairsemé;se traduit plutôt par dispersé ou éparpillé;Les rares spectateurs étaient clairsemés dans la salle. = The few spectators were scattered around the room.;ADJ;LIVRE;B2
 scarce;rare;...;...;ADJ;LIVRE;B2
+sparse;clairsemé;c'est plus approprié pour dire clairsemé car c'est vraiment de la végétation qui est éparpillée;La récolte ne sera pas bonne, le blé est clairsemé. = The harvest won't be a good one, the wheat is sparse.;ADJ;LIVRE;B2
 to make oneself scarce;s’éclipser;make, made, made;...;VI;LIVRE;C1

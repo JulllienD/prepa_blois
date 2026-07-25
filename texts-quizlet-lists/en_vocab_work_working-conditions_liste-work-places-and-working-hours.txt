@@ -1,77 +1,77 @@
-Work Places||Les lieux de travail
+🇬🇧 Work Places||🇫🇷 Les lieux de travail
 ----------
-a factory||une usine
+🇬🇧 a factory||🇫🇷 une usine
 ----------
-a shop
+🇬🇧 a shop
 
-Exemple : Dans le contexte industriel (et non un magasin)||un atelier
+Exemple : Dans le contexte industriel (et non un magasin)||🇫🇷 un atelier
 ----------
-a sweatshop||un atelier de misère / clandestin
+🇬🇧 a sweatshop||🇫🇷 un atelier de misère / clandestin
 
 Note : Prononciation : [ˈswetʃɒp]
 ----------
-a company, a firm||une entreprise
+🇬🇧 a company, a firm||🇫🇷 une entreprise
 
 Note : Prononciation : [fɜːm] pour "firm"
 ----------
-the headquarters / a branch
+🇬🇧 the headquarters / a branch
 
-Exemple : "Headquarters" s'emploie souvent au pluriel||le siège / une succursale
+Exemple : "Headquarters" s'emploie souvent au pluriel||🇫🇷 le siège / une succursale
 ----------
-a shop
+🇬🇧 a shop
 
-Exemple : Dans le contexte du commerce||un magasin, une boutique
+Exemple : Dans le contexte du commerce||🇫🇷 un magasin, une boutique
 ----------
-an office
+🇬🇧 an office
 
-Exemple : Le lieu / la pièce de travail||un bureau
+Exemple : Le lieu / la pièce de travail||🇫🇷 un bureau
 ----------
-the premises
+🇬🇧 the premises
 
-Exemple : Toujours au pluriel||les locaux
+Exemple : Toujours au pluriel||🇫🇷 les locaux
 ----------
-Working Hours||Le temps de travail
+🇬🇧 Working Hours||🇫🇷 Le temps de travail
 ----------
-a working day||un jour ouvrable / de travail
+🇬🇧 a working day||🇫🇷 un jour ouvrable / de travail
 ----------
-the working week||la semaine de travail
+🇬🇧 the working week||🇫🇷 la semaine de travail
 ----------
-a 39-/35-hour working week||une semaine de 39/35 heures
+🇬🇧 a 39-/35-hour working week||🇫🇷 une semaine de 39/35 heures
 ----------
-office hours||les heures de bureau
+🇬🇧 office hours||🇫🇷 les heures de bureau
 
 Note : Prononciation : [ˈaʊəz]
 ----------
-flexitime||les horaires flexibles
+🇬🇧 flexitime||🇫🇷 les horaires flexibles
 ----------
-part-time work||le travail à temps partiel
+🇬🇧 part-time work||🇫🇷 le travail à temps partiel
 ----------
-a part-time worker, a part-timer||un travailleur à temps partiel
+🇬🇧 a part-time worker, a part-timer||🇫🇷 un travailleur à temps partiel
 ----------
-temporary work, temping||le travail temporaire, l’intérim
+🇬🇧 temporary work, temping||🇫🇷 le travail temporaire, l’intérim
 ----------
-shiftwork||le travail par roulement / en équipes
+🇬🇧 shiftwork||🇫🇷 le travail par roulement / en équipes
 ----------
-the day/night shift||l’équipe de jour/de nuit
+🇬🇧 the day/night shift||🇫🇷 l’équipe de jour/de nuit
 ----------
-overtime||les heures supplémentaires
+🇬🇧 overtime||🇫🇷 les heures supplémentaires
 ----------
-work sharing||le partage du travail
+🇬🇧 work sharing||🇫🇷 le partage du travail
 ----------
-to work full-time||travailler à temps plein
+🇬🇧 to work full-time||🇫🇷 travailler à temps plein
 ----------
-to work shifts||travailler par roulement
+🇬🇧 to work shifts||🇫🇷 travailler par roulement
 ----------
-to work overtime||faire des heures supplémentaires
+🇬🇧 to work overtime||🇫🇷 faire des heures supplémentaires
 ----------
-to do job sharing||partager le travail
+🇬🇧 to do job sharing||🇫🇷 partager le travail
 
 Note : do, did, done
 ----------
-full-time||à temps plein
+🇬🇧 full-time||🇫🇷 à temps plein
 ----------
-part-time||à temps partiel
+🇬🇧 part-time||🇫🇷 à temps partiel
 ----------
-half-time||à mi-temps
+🇬🇧 half-time||🇫🇷 à mi-temps
 
 Note : Prononciation : [hɑːf]

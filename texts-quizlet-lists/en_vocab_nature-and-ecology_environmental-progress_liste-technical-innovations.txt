@@ -1,65 +1,65 @@
-energy efficiency||les économies d’énergie / efficacité énergétique
+🇬🇧 energy efficiency||🇫🇷 les économies d’énergie / efficacité énergétique
 ----------
-clean energy||l’énergie propre/non-polluante
+🇬🇧 clean energy||🇫🇷 l’énergie propre/non-polluante
 ----------
-wind power||l’énergie éolienne
+🇬🇧 wind power||🇫🇷 l’énergie éolienne
 ----------
-solar energy||l’énergie solaire
+🇬🇧 solar energy||🇫🇷 l’énergie solaire
 ----------
-tidal energy||l’énergie marémotrice
+🇬🇧 tidal energy||🇫🇷 l’énergie marémotrice
 ----------
-a sewage treatment plant||une station d’épuration
+🇬🇧 a sewage treatment plant||🇫🇷 une station d’épuration
 ----------
-waste disposal||le traitement des déchets
+🇬🇧 waste disposal||🇫🇷 le traitement des déchets
 ----------
-a catalytic converter||un pot catalytique
+🇬🇧 a catalytic converter||🇫🇷 un pot catalytique
 ----------
-lead-free/unleaded petrol||l’essence sans plomb
+🇬🇧 lead-free/unleaded petrol||🇫🇷 l’essence sans plomb
 ----------
-an electric car||une voiture électrique
+🇬🇧 an electric car||🇫🇷 une voiture électrique
 ----------
-thermal insulation||l’isolation thermique
+🇬🇧 thermal insulation||🇫🇷 l’isolation thermique
 ----------
-to protect||protéger
+🇬🇧 to protect||🇫🇷 protéger
 ----------
-to renew||renouveler
+🇬🇧 to renew||🇫🇷 renouveler
 ----------
-to save||économiser / sauver
+🇬🇧 to save||🇫🇷 économiser / sauver
 ----------
-to convert||convertir
+🇬🇧 to convert||🇫🇷 convertir
 ----------
-to clean up||assainir / nettoyer
+🇬🇧 to clean up||🇫🇷 assainir / nettoyer
 ----------
-to decontaminate||décontaminer
+🇬🇧 to decontaminate||🇫🇷 décontaminer
 ----------
-to process (sewage)||traiter (eaux usées)
+🇬🇧 to process (sewage)||🇫🇷 traiter (eaux usées)
 ----------
-to manage (waste)||traiter (déchets)
+🇬🇧 to manage (waste)||🇫🇷 traiter (déchets)
 ----------
-to insulate||isoler
+🇬🇧 to insulate||🇫🇷 isoler
 ----------
-biological||biologique
+🇬🇧 biological||🇫🇷 biologique
 ----------
-natural, organic||naturel, bio(logique)
+🇬🇧 natural, organic||🇫🇷 naturel, bio(logique)
 ----------
-clean||propre, non-polluant
+🇬🇧 clean||🇫🇷 propre, non-polluant
 ----------
-ecological||écologique
+🇬🇧 ecological||🇫🇷 écologique
 ----------
-innovative||innovant, novateur
+🇬🇧 innovative||🇫🇷 innovant, novateur
 ----------
-solar-powered||qui fonctionne à l’énergie solaire
+🇬🇧 solar-powered||🇫🇷 qui fonctionne à l’énergie solaire
 ----------
-wind-powered||qui fonctionne à l’énergie éolienne
+🇬🇧 wind-powered||🇫🇷 qui fonctionne à l’énergie éolienne
 ----------
-renewable||renouvelable
+🇬🇧 renewable||🇫🇷 renouvelable
 ----------
-energy-efficient||économique en énergie
+🇬🇧 energy-efficient||🇫🇷 économique en énergie
 ----------
-fuel-efficient||économique en carburant
+🇬🇧 fuel-efficient||🇫🇷 économique en carburant
 ----------
-pollutant-free||sans agent polluant
+🇬🇧 pollutant-free||🇫🇷 sans agent polluant
 ----------
-phosphate-free||sans phosphates
+🇬🇧 phosphate-free||🇫🇷 sans phosphates
 ----------
-lead-free, unleaded||sans plomb
+🇬🇧 lead-free, unleaded||🇫🇷 sans plomb

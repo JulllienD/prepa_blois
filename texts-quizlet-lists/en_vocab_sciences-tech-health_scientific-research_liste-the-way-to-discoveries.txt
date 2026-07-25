@@ -1,97 +1,97 @@
-The Way to Discoveries||La voie des découvertes
+🇬🇧 The Way to Discoveries||🇫🇷 La voie des découvertes
 ----------
-a phenomenon||un phénomène
+🇬🇧 a phenomenon||🇫🇷 un phénomène
 ----------
-several phenomena||plusieurs phénomènes
+🇬🇧 several phenomena||🇫🇷 plusieurs phénomènes
 ----------
-observation||l’observation
+🇬🇧 observation||🇫🇷 l’observation
 ----------
-description||la description
+🇬🇧 description||🇫🇷 la description
 ----------
-an intuition||une intuition
+🇬🇧 an intuition||🇫🇷 une intuition
 ----------
-methodology||la méthodologie
+🇬🇧 methodology||🇫🇷 la méthodologie
 ----------
-a proof / piece of evidence||une preuve
+🇬🇧 a proof / piece of evidence||🇫🇷 une preuve
 ----------
-evidence||des preuves
+🇬🇧 evidence||🇫🇷 des preuves
 ----------
-a stroke of genius||un trait de génie
+🇬🇧 a stroke of genius||🇫🇷 un trait de génie
 ----------
-a stroke of inspiration||une trouvaille
+🇬🇧 a stroke of inspiration||🇫🇷 une trouvaille
 ----------
-a stroke of luck||un coup de chance
+🇬🇧 a stroke of luck||🇫🇷 un coup de chance
 ----------
-a hypothesis||une hypothèse
+🇬🇧 a hypothesis||🇫🇷 une hypothèse
 ----------
-several hypotheses||plusieurs hypothèses
+🇬🇧 several hypotheses||🇫🇷 plusieurs hypothèses
 ----------
-a theory||une théorie
+🇬🇧 a theory||🇫🇷 une théorie
 ----------
-experimentation||l’experimentation
+🇬🇧 experimentation||🇫🇷 l’experimentation
 ----------
-a test||un test, un essai
+🇬🇧 a test||🇫🇷 un test, un essai
 ----------
-a procedure||un protocole
+🇬🇧 a procedure||🇫🇷 un protocole
 ----------
-a check||un contrôle, une vérification
+🇬🇧 a check||🇫🇷 un contrôle, une vérification
 ----------
-an improvement||amélioration
+🇬🇧 an improvement||🇫🇷 amélioration
 ----------
-a discovery / a find(ing)||une découverte
+🇬🇧 a discovery / a find(ing)||🇫🇷 une découverte
 ----------
-a breakthrough||une découverte capitale, une percée
+🇬🇧 a breakthrough||🇫🇷 une découverte capitale, une percée
 ----------
-a patent||un brevet
+🇬🇧 a patent||🇫🇷 un brevet
 ----------
-to experiment||expérimenter
+🇬🇧 to experiment||🇫🇷 expérimenter
 ----------
-to carry out an experiment||procéder à une expérience
+🇬🇧 to carry out an experiment||🇫🇷 procéder à une expérience
 ----------
-to proceed by trial and error||tâtonner
+🇬🇧 to proceed by trial and error||🇫🇷 tâtonner
 ----------
-to progress, make headway||progresser
+🇬🇧 to progress, make headway||🇫🇷 progresser
 ----------
-to prove||prouver
+🇬🇧 to prove||🇫🇷 prouver
 ----------
-to disprove||réfuter
+🇬🇧 to disprove||🇫🇷 réfuter
 ----------
-to confirm||confirmer
+🇬🇧 to confirm||🇫🇷 confirmer
 ----------
-to invalidate||infirmer
+🇬🇧 to invalidate||🇫🇷 infirmer
 ----------
-to analyse||analyser
+🇬🇧 to analyse||🇫🇷 analyser
 ----------
-to synthesise||synthétiser
+🇬🇧 to synthesise||🇫🇷 synthétiser
 ----------
-to build / contrive a theory||élaborer une théorie
+🇬🇧 to build / contrive a theory||🇫🇷 élaborer une théorie
 ----------
-to discover||découvrir
+🇬🇧 to discover||🇫🇷 découvrir
 ----------
-to devise, design||inventer, imaginer, concevoir
+🇬🇧 to devise, design||🇫🇷 inventer, imaginer, concevoir
 ----------
-to test, put to test||tester, mettre à l'essai
+🇬🇧 to test, put to test||🇫🇷 tester, mettre à l'essai
 ----------
-to put to the acid test||faire subir l'épreuve de vérité
+🇬🇧 to put to the acid test||🇫🇷 faire subir l'épreuve de vérité
 ----------
-to check||vérifier
+🇬🇧 to check||🇫🇷 vérifier
 ----------
-to develop||mettre au point
+🇬🇧 to develop||🇫🇷 mettre au point
 ----------
-to improve, upgrade||améliorer
+🇬🇧 to improve, upgrade||🇫🇷 améliorer
 ----------
-random||aléatoire
+🇬🇧 random||🇫🇷 aléatoire
 ----------
-at random||au hasard
+🇬🇧 at random||🇫🇷 au hasard
 ----------
-empirical||empirique
+🇬🇧 empirical||🇫🇷 empirique
 ----------
-confirmed||avéré, confirmé
+🇬🇧 confirmed||🇫🇷 avéré, confirmé
 ----------
-major||crucial, majeur
+🇬🇧 major||🇫🇷 crucial, majeur
 ----------
-spectacular||spectaculaire
+🇬🇧 spectacular||🇫🇷 spectaculaire
 ----------
-ground-breaking||révolutionnaire
+🇬🇧 ground-breaking||🇫🇷 révolutionnaire
 ----------
-controversial, debatable||contestable, controversé
+🇬🇧 controversial, debatable||🇫🇷 contestable, controversé

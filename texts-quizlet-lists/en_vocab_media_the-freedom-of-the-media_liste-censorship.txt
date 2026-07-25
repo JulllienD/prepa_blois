@@ -1,37 +1,49 @@
-censorship||la censure
+🇬🇧 censorship||🇫🇷 la censure
 ----------
-self-censorship||l'autocensure
+🇬🇧 self-censorship
+
+Exemple : These writers knew that unless they practised a form of self-censorship, the authorities would persecute them.||🇫🇷 l'autocensure
+
+Note : déf : control of what you say or do in order to avoid annoying or offending others, but without being told officially that such control is necessary
 ----------
-right of search||le droit de perquisition
+🇬🇧 right of search||🇫🇷 le droit de perquisition
 ----------
-seizure||une saisie
+🇬🇧 seizure||🇫🇷 une saisie
 ----------
-a ban (on)||une interdiction (de)
+🇬🇧 a ban (on)||🇫🇷 une interdiction (de)
 ----------
-news blackout||le black-out de l'information
+🇬🇧 news blackout||🇫🇷 le black-out de l'information
 ----------
-to censor||censurer
+🇬🇧 to censor||🇫🇷 censurer
 ----------
-to censure||critiquer
+🇬🇧 to censure
+
+Exemple : His dishonest behaviour came under severe censure.||🇫🇷 critiquer
+
+Note : déf : strong criticism or disapproval
 ----------
-to suppress press freedom||supprimer la liberté de la presse
+🇬🇧 to suppress press freedom||🇫🇷 supprimer la liberté de la presse
 ----------
-to be subject to censorship||être soumis à la censure
+🇬🇧 to be subject to censorship||🇫🇷 être soumis à la censure
 ----------
-to subject||assujettir, soumettre
+🇬🇧 to subject||🇫🇷 assujettir, soumettre
 ----------
-to blue-pencil||"caviarder", corriger
+🇬🇧 to blue-pencil||🇫🇷 "caviarder", corriger
+
+Note : déf : If a person goes over a piece of writing with a blue pencil, they remove or change some of the words to improve it or make it acceptable.
+
+Caviarder c'est plutôt masquer une partie d'un texte, censurer en noir, d'où le nom caviar car le caviar est noir
 ----------
-a pencil||un crayon
+🇬🇧 a pencil||🇫🇷 un crayon
 ----------
-to silence||réduire au silence
+🇬🇧 to silence||🇫🇷 réduire au silence
 ----------
-to gag||bâillonner, museler
+🇬🇧 to gag||🇫🇷 bâillonner, museler
 ----------
-a gag||un bâillon
+🇬🇧 a gag||🇫🇷 un bâillon
 ----------
-to curtail access||limiter l'accès
+🇬🇧 to curtail access||🇫🇷 limiter l'accès
 ----------
-to confiscate, to seize||saisir, confisquer
+🇬🇧 to confiscate, to seize||🇫🇷 saisir, confisquer
 ----------
-to ban, to suppress||interdire
+🇬🇧 to ban, to suppress||🇫🇷 interdire

@@ -1,23 +1,23 @@
-a challenge||un défi
+🇬🇧 a challenge||🇫🇷 un défi
 ----------
-a success||une réussite
+🇬🇧 a success||🇫🇷 une réussite
 ----------
-a feat||un exploit
+🇬🇧 a feat||🇫🇷 un exploit
 ----------
-a breakthrough||une percée
+🇬🇧 a breakthrough||🇫🇷 une percée
 ----------
-a discovery||une découverte
+🇬🇧 a discovery||🇫🇷 une découverte
 ----------
-to achieve something||mener à bien, réussir quelque chose
+🇬🇧 to achieve something||🇫🇷 mener à bien, réussir quelque chose
 ----------
-to succeed||réussir
+🇬🇧 to succeed||🇫🇷 réussir
 ----------
-to discover||découvrir
+🇬🇧 to discover||🇫🇷 découvrir
 ----------
-to devise||mettre au point
+🇬🇧 to devise||🇫🇷 mettre au point
 ----------
-major||d'une grande importance
+🇬🇧 major||🇫🇷 d'une grande importance
 ----------
-successful||réussi
+🇬🇧 successful||🇫🇷 réussi
 ----------
-revolutionary||révolutionnaire
+🇬🇧 revolutionary||🇫🇷 révolutionnaire

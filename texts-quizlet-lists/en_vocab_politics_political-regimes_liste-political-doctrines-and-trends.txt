@@ -1,55 +1,55 @@
-anarchy||l’anarchie
+🇬🇧 anarchy||🇫🇷 l’anarchie
 ----------
-an anarchist||un anarchiste
+🇬🇧 an anarchist||🇫🇷 un anarchiste
 ----------
-conservatism||le conservatisme
+🇬🇧 conservatism||🇫🇷 le conservatisme
 ----------
-the Conservative Party
+🇬🇧 the Conservative Party
 
-Exemple : Au Royaume-Uni notamment||le Parti conservateur
+Exemple : Au Royaume-Uni notamment||🇫🇷 le Parti conservateur
 ----------
-communism||le communisme
+🇬🇧 communism||🇫🇷 le communisme
 ----------
-class struggle||la lutte des classes
+🇬🇧 class struggle||🇫🇷 la lutte des classes
 ----------
-fascism||le fascisme
+🇬🇧 fascism||🇫🇷 le fascisme
 ----------
-the Labour doctrine||le travaillisme
+🇬🇧 the Labour doctrine||🇫🇷 le travaillisme
 ----------
-the Labour Party
+🇬🇧 the Labour Party
 
-Exemple : Parti britannique de centre-gauche||le Parti travailliste
+Exemple : Parti britannique de centre-gauche||🇫🇷 le Parti travailliste
 ----------
-monarchism||le monarchisme
+🇬🇧 monarchism||🇫🇷 le monarchisme
 ----------
-national socialism||le national-socialisme
+🇬🇧 national socialism||🇫🇷 le national-socialisme
 ----------
-Nazism||le nazisme
+🇬🇧 Nazism||🇫🇷 le nazisme
 ----------
-radicalism||le radicalisme
+🇬🇧 radicalism||🇫🇷 le radicalisme
 ----------
-royalism||le royalisme
+🇬🇧 royalism||🇫🇷 le royalisme
 ----------
-socialism||le socialisme
+🇬🇧 socialism||🇫🇷 le socialisme
 ----------
-alter-globalization||l’altermondialisme
+🇬🇧 alter-globalization||🇫🇷 l’altermondialisme
 ----------
-conservative||conservateur
+🇬🇧 conservative||🇫🇷 conservateur
 ----------
-Labour
+🇬🇧 Labour
 
-Exemple : Relatif au parti ou à la doctrine||travailliste
+Exemple : Relatif au parti ou à la doctrine||🇫🇷 travailliste
 ----------
-fascist||fasciste
+🇬🇧 fascist||🇫🇷 fasciste
 ----------
-left-wing, right-wing||de gauche, de droite
+🇬🇧 left-wing, right-wing||🇫🇷 de gauche, de droite
 ----------
-reactionary||réactionnaire
+🇬🇧 reactionary||🇫🇷 réactionnaire
 ----------
-progressive||progressiste
+🇬🇧 progressive||🇫🇷 progressiste
 ----------
-revolutionary||révolutionnaire
+🇬🇧 revolutionary||🇫🇷 révolutionnaire
 ----------
-moderate||modéré
+🇬🇧 moderate||🇫🇷 modéré
 ----------
-extremist||extrémiste
+🇬🇧 extremist||🇫🇷 extrémiste

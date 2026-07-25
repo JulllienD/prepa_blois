@@ -2,7 +2,7 @@ media coverage;la couverture médiatique;...;...;N;LIVRE;B2
 a journalist, a newsman;un journaliste;...;...;N;LIVRE;A2
 a reporter;un reporter;...;...;N;LIVRE;B1
 a columnist;un chroniqueur, un échotier;...;...;N;LIVRE;B2
-a freelance;un pigiste, un indépendant;...;...;N;LIVRE;B2
+a freelance;un pigiste, un indépendant;Personne payée à la pige / à la tâche;...;N;LIVRE;B2
 a (foreign) correspondent;un correspondant (à l'étranger);...;...;N;LIVRE;B2
 an editor;un rédacteur en chef;...;...;N;LIVRE;B2
 a newspaper editor;un directeur de publication;...;...;N;LIVRE;B2

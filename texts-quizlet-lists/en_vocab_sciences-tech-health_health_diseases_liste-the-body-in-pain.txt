@@ -1,47 +1,47 @@
-discomfort||la gêne, le malaise
+🇬🇧 discomfort||🇫🇷 la gêne, le malaise
 ----------
-an ache
+🇬🇧 an ache
 
 Exemple : My head aches
 My tooth aches
-My heart aches||une douleur
+My heart aches||🇫🇷 une douleur
 ----------
-a twinge||un élancement
+🇬🇧 a twinge||🇫🇷 un élancement
 ----------
-suffering||la souffrance
+🇬🇧 suffering||🇫🇷 la souffrance
 ----------
-agony||la souffrance atroce
+🇬🇧 agony||🇫🇷 la souffrance atroce
 ----------
-to itch||démanger
+🇬🇧 to itch||🇫🇷 démanger
 ----------
-to sting||piquer
+🇬🇧 to sting||🇫🇷 piquer
 
 Note : sting, stung, stung
 ----------
-to be in pain||souffrir
+🇬🇧 to be in pain||🇫🇷 souffrir
 
 Note : be, was/were, been
 ----------
-to hurt
+🇬🇧 to hurt
 
-Exemple : It hurts : ça fait mal||faire mal
+Exemple : It hurts : ça fait mal||🇫🇷 faire mal
 
 Note : hurt, hurt, hurt
 ----------
-to suffer agonies||souffrir le martyre
+🇬🇧 to suffer agonies||🇫🇷 souffrir le martyre
 ----------
-persistent||tenace
+🇬🇧 persistent||🇫🇷 tenace
 ----------
-recurrent||récurent
+🇬🇧 recurrent||🇫🇷 récurent
 ----------
-painful sore||douloureux
+🇬🇧 painful sore||🇫🇷 douloureux
 ----------
-bedsores||escarres
+🇬🇧 bedsores||🇫🇷 escarres
 
 Note : lésion cutanée d'origine ischémique liée à une compression des tissus mous entre un plan dur et les saillies osseuses (source : HAS)
 ----------
-shooting (pain)||(douleur) lancinante, aiguë
+🇬🇧 shooting (pain)||🇫🇷 (douleur) lancinante, aiguë
 ----------
-agonizing, excruciating (pain)||(douleur) effroyable, atroce
+🇬🇧 agonizing, excruciating (pain)||🇫🇷 (douleur) effroyable, atroce
 ----------
-unbearable||insupportable
+🇬🇧 unbearable||🇫🇷 insupportable

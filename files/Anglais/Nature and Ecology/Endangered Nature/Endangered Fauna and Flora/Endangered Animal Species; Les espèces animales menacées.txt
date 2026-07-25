@@ -7,8 +7,7 @@ a tiger, a tigress;un tigre, une tigresse;...;...;N;LIVRE;A2
 a monkey, a she-monkey;un singe, un guénon;...;...;N;LIVRE;A2
 an ape;un grand singe;...;...;N;LIVRE;B1
 a gorilla;un gorille;...;...;N;LIVRE;A2
-a rhinoceros, a rhino;un rhinocéros;...;...;N;LIVRE;B1
-several rhinoceros/rhinoceroses;des rhinocéros;...;...;N;LIVRE;B2
+a rhinoceros, a rhino;un rhinocéros;several rhinoceros/rhinoceroses = des rhinocéros;...;N;LIVRE;B1
 a horn;une corne;...;...;N;LIVRE;B1
 an elephant;un éléphant;...;...;N;LIVRE;A2
 the tusks;les défenses;...;...;N;LIVRE;B2

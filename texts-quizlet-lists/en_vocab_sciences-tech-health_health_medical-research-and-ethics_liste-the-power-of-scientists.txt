@@ -1,55 +1,55 @@
-Euthanasia||L’euthanasie
+🇬🇧 Euthanasia||🇫🇷 L’euthanasie
 ----------
-active/passive euthanasia||l'euthanasie active/passive
+🇬🇧 active/passive euthanasia||🇫🇷 l'euthanasie active/passive
 ----------
-mercy killing||euthanasie
+🇬🇧 mercy killing||🇫🇷 euthanasie
 ----------
-therapeutic obstinacy||l'acharnement thérapeutique
+🇬🇧 therapeutic obstinacy||🇫🇷 l'acharnement thérapeutique
 ----------
-right to live/die||le droit à la vie/mort
+🇬🇧 right to live/die||🇫🇷 le droit à la vie/mort
 ----------
-to long for death||aspirer à mourir
+🇬🇧 to long for death||🇫🇷 aspirer à mourir
 ----------
-to carry out euthanasia||pratiquer l'euthanasie
+🇬🇧 to carry out euthanasia||🇫🇷 pratiquer l'euthanasie
 ----------
-to keep alive||maintenir en vie
+🇬🇧 to keep alive||🇫🇷 maintenir en vie
 
 Note : keep, kept, kept
 ----------
-to drift off to sleep||s'endormir
+🇬🇧 to drift off to sleep||🇫🇷 s'endormir
 ----------
-to switch off a machine||débrancher un appareil
+🇬🇧 to switch off a machine||🇫🇷 débrancher un appareil
 ----------
-to put an end to someone's suffering||abréger les souffrances de qqn
+🇬🇧 to put an end to someone's suffering||🇫🇷 abréger les souffrances de qqn
 
 Note : put, put, put
 ----------
-artificial||artificiel
+🇬🇧 artificial||🇫🇷 artificiel
 ----------
-vegetative||végétatif
+🇬🇧 vegetative||🇫🇷 végétatif
 ----------
-clinically dead||cliniquement mort
+🇬🇧 clinically dead||🇫🇷 cliniquement mort
 ----------
-brain dead||à l'état de mort cérébrale
+🇬🇧 brain dead||🇫🇷 à l'état de mort cérébrale
 ----------
-irreversible||irréversible
+🇬🇧 irreversible||🇫🇷 irréversible
 ----------
-(in)humane||(in)humain, sans qualité humaine
+🇬🇧 (in)humane||🇫🇷 (in)humain, sans qualité humaine
 ----------
-Assisted Reproductive Technology||Technologies de procréation assistée
+🇬🇧 Assisted Reproductive Technology||🇫🇷 Technologies de procréation assistée
 ----------
-surrogacy||maternité de substitution
+🇬🇧 surrogacy||🇫🇷 maternité de substitution
 ----------
-surrogate mother||une mère porteuse
+🇬🇧 surrogate mother||🇫🇷 une mère porteuse
 ----------
-egg donation||le don d'ovocytes
+🇬🇧 egg donation||🇫🇷 le don d'ovocytes
 ----------
-embryo||un embryon
+🇬🇧 embryo||🇫🇷 un embryon
 ----------
-reproductive techniques||les techniques de fécondation
+🇬🇧 reproductive techniques||🇫🇷 les techniques de fécondation
 ----------
-artificial insemination||l'insémination artificielle
+🇬🇧 artificial insemination||🇫🇷 l'insémination artificielle
 ----------
-in-vitro fertilization||la fécondation in vitro
+🇬🇧 in-vitro fertilization||🇫🇷 la fécondation in vitro
 ----------
-test-tube baby||un bébé-éprouvette
+🇬🇧 test-tube baby||🇫🇷 un bébé-éprouvette

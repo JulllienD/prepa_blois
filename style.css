@@ -309,6 +309,7 @@ body {
 .topic-image {
     width: 100%; /* L'image s'adapte à la largeur du carré */
     max-width: 150px; /* Limite la taille maximale pour éviter qu'elle soit géante */
+    border-radius:15px;
     height: auto; /* Garde les proportions de l'image */
     object-fit: contain; /* Évite que l'image soit déformée */
 }

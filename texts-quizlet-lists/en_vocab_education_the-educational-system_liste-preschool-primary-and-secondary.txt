@@ -1,72 +1,72 @@
-a daycare centre (UK), a day-care center (US)||une crèche, une garderie
+🇬🇧 a daycare centre (UK), a day-care center (US)||🇫🇷 une crèche, une garderie
 ----------
-a child-minder, a nanny||une nourrice
+🇬🇧 a child-minder, a nanny||🇫🇷 une nourrice
 
 Note : comme super nanny
 ----------
-a nursery school (UK), kindergarten (US/DE)||une école maternelle
+🇬🇧 a nursery school (UK), kindergarten (US/DE)||🇫🇷 une école maternelle
 ----------
-a preschool child||un élève de maternelle
+🇬🇧 a preschool child||🇫🇷 un élève de maternelle
 ----------
-a workplace nursery||une crèche sur le lieu de travail
+🇬🇧 a workplace nursery||🇫🇷 une crèche sur le lieu de travail
 ----------
-to put a child into daycare||mettre un enfant à la crèche
+🇬🇧 to put a child into daycare||🇫🇷 mettre un enfant à la crèche
 
 Note : put, put, put
 ----------
-to go to nursery school||aller à la maternelle
+🇬🇧 to go to nursery school||🇫🇷 aller à la maternelle
 
 Note : go, went, gone
 ----------
-schooling||l’instruction scolaire
+🇬🇧 schooling||🇫🇷 l’instruction scolaire
 ----------
-compulsory schooling||la scolarité obligatoire
+🇬🇧 compulsory schooling||🇫🇷 la scolarité obligatoire
 ----------
-school age||l’âge scolaire
+🇬🇧 school age||🇫🇷 l’âge scolaire
 ----------
-teaching||l’enseignement
+🇬🇧 teaching||🇫🇷 l’enseignement
 ----------
-a school||une école
+🇬🇧 a school||🇫🇷 une école
 
 Note : putain on le savait pas
 ----------
-a public school (US)||une école publique
+🇬🇧 a public school (US)||🇫🇷 une école publique
 ----------
-a private/independant school||une école privée
+🇬🇧 a private/independant school||🇫🇷 une école privée
 ----------
-a “public” school||en anglais britannique c’est une école privée
+🇬🇧 a “public” school||🇫🇷 en anglais britannique c’est une école privée
 
 Note : historiquement ouverte au public par opposition aux précepteurs privés
 ----------
-a boys’ school||une école de garçons
+🇬🇧 a boys’ school||🇫🇷 une école de garçons
 ----------
-a girls’ school||une école de filles
+🇬🇧 a girls’ school||🇫🇷 une école de filles
 ----------
-a vocational school (US)||un lycée professionnel
+🇬🇧 a vocational school (US)||🇫🇷 un lycée professionnel
 ----------
-a boarding-school
+🇬🇧 a boarding-school
 
-Exemple : Alexandre se prépare à quitter sa maison pour une nouvelle semaine à l'internat. = Alexander is preparing to leave home for another week at boarding school.||un internat
+Exemple : Alexandre se prépare à quitter sa maison pour une nouvelle semaine à l'internat. = Alexander is preparing to leave home for another week at boarding school.||🇫🇷 un internat
 
 Note : def : a school where students live and study
 d'après la définition c'est plus un pensionnat qu'un internat, mais ce terme englobe les deux
 ----------
-a boarder||un interne
+🇬🇧 a boarder||🇫🇷 un interne
 ----------
-compulsory, mandatory
+🇬🇧 compulsory, mandatory
 
-Exemple : Foreign language classes are compulsory in this school. = L'apprentissage d'une langue étrangère est obligatoire dans cette école.||obligatoire
+Exemple : Foreign language classes are compulsory in this school. = L'apprentissage d'une langue étrangère est obligatoire dans cette école.||🇫🇷 obligatoire
 ----------
-denominational
+🇬🇧 denominational
 
-Exemple : She goes to a denominational school, so they have religious studies every morning and go to chapel on Fridays. = Elle va dans une école confessionnelle, donc ils ont des cours de religion tous les matins et vont à la chapelle le vendredi.||confessionnel, religieux
+Exemple : She goes to a denominational school, so they have religious studies every morning and go to chapel on Fridays. = Elle va dans une école confessionnelle, donc ils ont des cours de religion tous les matins et vont à la chapelle le vendredi.||🇫🇷 confessionnel, religieux
 ----------
-non-denominational||laïque
+🇬🇧 non-denominational||🇫🇷 laïque
 ----------
-mixed, co-educational “co-ed”||mixte
+🇬🇧 mixed, co-educational “co-ed”||🇫🇷 mixte
 ----------
-state-run||géré par l’Etat
+🇬🇧 state-run||🇫🇷 géré par l’Etat
 ----------
-fee-paying||payant
+🇬🇧 fee-paying||🇫🇷 payant
 ----------
-fees||les honoraires / frais
+🇬🇧 fees||🇫🇷 les honoraires / frais

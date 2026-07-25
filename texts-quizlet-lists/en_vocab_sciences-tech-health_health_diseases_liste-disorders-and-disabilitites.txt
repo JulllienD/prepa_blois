@@ -1,119 +1,119 @@
-autism||l'autisme
+🇬🇧 autism||🇫🇷 l'autisme
 ----------
-anxiety||l'angoisse, l'anxiété
+🇬🇧 anxiety||🇫🇷 l'angoisse, l'anxiété
 ----------
-a phobia||une phobie
+🇬🇧 a phobia||🇫🇷 une phobie
 ----------
-have a phobia about something||avoir la phobie de quelque chose
+🇬🇧 have a phobia about something||🇫🇷 avoir la phobie de quelque chose
 
 Note : have, had, had
 ----------
-neurosis||la névrose
+🇬🇧 neurosis||🇫🇷 la névrose
 ----------
-psychosis||la psychose
+🇬🇧 psychosis||🇫🇷 la psychose
 ----------
-schizophrenia||la schizophrénie
+🇬🇧 schizophrenia||🇫🇷 la schizophrénie
 ----------
-paranoia||paranoïa
+🇬🇧 paranoia||🇫🇷 paranoïa
 ----------
-hysteria||l'hystérie
+🇬🇧 hysteria||🇫🇷 l'hystérie
 ----------
-a depression||une dépression
+🇬🇧 a depression||🇫🇷 une dépression
 ----------
-a nervous breakdown||une dépression nerveuse
+🇬🇧 a nervous breakdown||🇫🇷 une dépression nerveuse
 ----------
-senility||la sénilité
+🇬🇧 senility||🇫🇷 la sénilité
 ----------
-dementia||la démence
+🇬🇧 dementia||🇫🇷 la démence
 ----------
-a mad person, a lunatic||un fou, un aliéné
+🇬🇧 a mad person, a lunatic||🇫🇷 un fou, un aliéné
 ----------
-whimsical||lunatique
+🇬🇧 whimsical||🇫🇷 lunatique
 ----------
-a (sex) manic||un obsédé (sexuel)
+🇬🇧 a (sex) manic||🇫🇷 un obsédé (sexuel)
 ----------
-a neurotic||un névrosé
+🇬🇧 a neurotic||🇫🇷 un névrosé
 ----------
-a paranoid||un paranoïaque
+🇬🇧 a paranoid||🇫🇷 un paranoïaque
 ----------
-a psychotic||un psychotique
+🇬🇧 a psychotic||🇫🇷 un psychotique
 ----------
-a schizophrenic||un schizophrène
+🇬🇧 a schizophrenic||🇫🇷 un schizophrène
 ----------
-a megalomaniac||un mégalomane
+🇬🇧 a megalomaniac||🇫🇷 un mégalomane
 ----------
-a malformation||une malformation
+🇬🇧 a malformation||🇫🇷 une malformation
 ----------
-a disability||un handicap
+🇬🇧 a disability||🇫🇷 un handicap
 ----------
-dwarfism||le nanisme
+🇬🇧 dwarfism||🇫🇷 le nanisme
 ----------
-a cripple, an invalid||un invalide
+🇬🇧 a cripple, an invalid||🇫🇷 un invalide
 ----------
-lameness||la claudication
+🇬🇧 lameness||🇫🇷 la claudication
 ----------
-lisping||le zozotement
+🇬🇧 lisping||🇫🇷 le zozotement
 ----------
-stuttering||le bégaiement
+🇬🇧 stuttering||🇫🇷 le bégaiement
 ----------
-blindness||la cécité
+🇬🇧 blindness||🇫🇷 la cécité
 ----------
-colour blindness||le daltonisme
+🇬🇧 colour blindness||🇫🇷 le daltonisme
 ----------
-a blind person||une personne aveugle
+🇬🇧 a blind person||🇫🇷 une personne aveugle
 ----------
-the blind||les aveugles
+🇬🇧 the blind||🇫🇷 les aveugles
 ----------
-long sightedness||l'hypermétrie, presbytie
+🇬🇧 long sightedness||🇫🇷 l'hypermétrie, presbytie
 ----------
-short sightedness||la myopie
+🇬🇧 short sightedness||🇫🇷 la myopie
 ----------
-deafness||la surdité
+🇬🇧 deafness||🇫🇷 la surdité
 ----------
-a deaf person||un sourd
+🇬🇧 a deaf person||🇫🇷 un sourd
 ----------
-the deaf||les sourds
+🇬🇧 the deaf||🇫🇷 les sourds
 ----------
-mutism||le mutisme
+🇬🇧 mutism||🇫🇷 le mutisme
 ----------
-speech and language difficulties||troubles de la parole et du langage
+🇬🇧 speech and language difficulties||🇫🇷 troubles de la parole et du langage
 ----------
-autistic||autiste
+🇬🇧 autistic||🇫🇷 autiste
 ----------
-phobic||phobique
+🇬🇧 phobic||🇫🇷 phobique
 ----------
-hysterical||hystérique
+🇬🇧 hysterical||🇫🇷 hystérique
 ----------
-(a fit of) hysterics||une crise de nerfs
+🇬🇧 (a fit of) hysterics||🇫🇷 une crise de nerfs
 ----------
-depressive||dépressif
+🇬🇧 depressive||🇫🇷 dépressif
 ----------
-depressed||déprimé
+🇬🇧 depressed||🇫🇷 déprimé
 ----------
-anxious||anxieux
+🇬🇧 anxious||🇫🇷 anxieux
 ----------
-psychologically deficient||qui souffre d'une déficience psychologique
+🇬🇧 psychologically deficient||🇫🇷 qui souffre d'une déficience psychologique
 ----------
-neurotic||névrosé
+🇬🇧 neurotic||🇫🇷 névrosé
 ----------
-senile||sénile
+🇬🇧 senile||🇫🇷 sénile
 ----------
-(mentally) unbalanced||déséquilibré
+🇬🇧 (mentally) unbalanced||🇫🇷 déséquilibré
 ----------
-insane||dément, aliéné
+🇬🇧 insane||🇫🇷 dément, aliéné
 ----------
-handicapped||handicapé, infirme
+🇬🇧 handicapped||🇫🇷 handicapé, infirme
 ----------
-disabled||handicapé physique
+🇬🇧 disabled||🇫🇷 handicapé physique
 ----------
-crippled||estropié
+🇬🇧 crippled||🇫🇷 estropié
 ----------
-lame||boiteux, écoplé
+🇬🇧 lame||🇫🇷 boiteux, écoplé
 ----------
-a lame duck||un canard boiteux
+🇬🇧 a lame duck||🇫🇷 un canard boiteux
 ----------
-long sighted||hypermétrope, presbyte
+🇬🇧 long sighted||🇫🇷 hypermétrope, presbyte
 ----------
-short sighted||myope
+🇬🇧 short sighted||🇫🇷 myope
 ----------
-colour blind||daltonien
+🇬🇧 colour blind||🇫🇷 daltonien

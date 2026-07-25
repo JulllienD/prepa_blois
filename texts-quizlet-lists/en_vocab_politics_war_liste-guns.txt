@@ -1,239 +1,239 @@
-a weapon||une arme
+🇬🇧 a weapon||🇫🇷 une arme
 ----------
-a firearm / gun||une arme à feu
+🇬🇧 a firearm / gun||🇫🇷 une arme à feu
 ----------
-a handgun||une arme de poing
+🇬🇧 a handgun||🇫🇷 une arme de poing
 ----------
-a shotgun||un fusil
+🇬🇧 a shotgun||🇫🇷 un fusil
 ----------
-a rifle||une carabine
+🇬🇧 a rifle||🇫🇷 une carabine
 ----------
-an assault rifle||un fusil d'assaut
+🇬🇧 an assault rifle||🇫🇷 un fusil d'assaut
 ----------
-ammunition||des munitions
+🇬🇧 ammunition||🇫🇷 des munitions
 ----------
-a bullet||une balle
+🇬🇧 a bullet||🇫🇷 une balle
 ----------
-a cartridge||une cartouche
+🇬🇧 a cartridge||🇫🇷 une cartouche
 ----------
-a clip / magazine||un chargeur
+🇬🇧 a clip / magazine||🇫🇷 un chargeur
 ----------
-a [shooting / firing] range||un stand de tir
+🇬🇧 a [shooting / firing] range||🇫🇷 un stand de tir
 ----------
-a target||une cible
+🇬🇧 a target||🇫🇷 une cible
 ----------
-a gun show||une foire aux armes à feu
+🇬🇧 a gun show||🇫🇷 une foire aux armes à feu
 ----------
-a rally||un rassemblement
+🇬🇧 a rally||🇫🇷 un rassemblement
 ----------
-a licensed dealer||un armurier patenté
+🇬🇧 a licensed dealer||🇫🇷 un armurier patenté
 ----------
-the gun lobby||le lobby des vendeurs d'armes
+🇬🇧 the gun lobby||🇫🇷 le lobby des vendeurs d'armes
 ----------
-the National Rifle Association (NRA)||l'Association nationale des détenteurs d'armes à feu
+🇬🇧 the National Rifle Association (NRA)||🇫🇷 l'Association nationale des détenteurs d'armes à feu
 ----------
-an advocate of||un partisan de
+🇬🇧 an advocate of||🇫🇷 un partisan de
 ----------
-an activist||un militant
+🇬🇧 an activist||🇫🇷 un militant
 ----------
-an opponent||un opposant
+🇬🇧 an opponent||🇫🇷 un opposant
 ----------
-a radical||un extrémiste
+🇬🇧 a radical||🇫🇷 un extrémiste
 ----------
-ownership||la possession
+🇬🇧 ownership||🇫🇷 la possession
 ----------
-a gun licence||un permis de port d'armes
+🇬🇧 a gun licence||🇫🇷 un permis de port d'armes
 ----------
-registration||l'enregistrement
+🇬🇧 registration||🇫🇷 l'enregistrement
 ----------
-concealed carry (weapon)||le port d'arme caché
+🇬🇧 concealed carry (weapon)||🇫🇷 le port d'arme caché
 ----------
-open carry||le port d'arme visible
+🇬🇧 open carry||🇫🇷 le port d'arme visible
 ----------
-safety||la sécurité
+🇬🇧 safety||🇫🇷 la sécurité
 ----------
-a policy||une politique
+🇬🇧 a policy||🇫🇷 une politique
 ----------
-gun control||la réglementation des armes à feu
+🇬🇧 gun control||🇫🇷 la réglementation des armes à feu
 ----------
-the county sheriff||le sheriff du comté
+🇬🇧 the county sheriff||🇫🇷 le sheriff du comté
 ----------
-a background check||une vérification des antécédents judiciaires
+🇬🇧 a background check||🇫🇷 une vérification des antécédents judiciaires
 ----------
-a thorough check||une vérification complète
+🇬🇧 a thorough check||🇫🇷 une vérification complète
 ----------
-restrictions on||des limitations à
+🇬🇧 restrictions on||🇫🇷 des limitations à
 ----------
-an infringement||une restriction
+🇬🇧 an infringement||🇫🇷 une restriction
 ----------
-drastic measures||des mesures radicales
+🇬🇧 drastic measures||🇫🇷 des mesures radicales
 ----------
-a ban||une interdiction
+🇬🇧 a ban||🇫🇷 une interdiction
 ----------
-the criminal record||le casier judiciaire
+🇬🇧 the criminal record||🇫🇷 le casier judiciaire
 ----------
-frontier justice||la justice expéditive
+🇬🇧 frontier justice||🇫🇷 la justice expéditive
 ----------
-good||le bien
+🇬🇧 good||🇫🇷 le bien
 ----------
-evil||le mal
+🇬🇧 evil||🇫🇷 le mal
 ----------
-the good||les bons
+🇬🇧 the good||🇫🇷 les bons
 ----------
-the villains||les méchants
+🇬🇧 the villains||🇫🇷 les méchants
 ----------
-a serial killer||un meurtrier en série
+🇬🇧 a serial killer||🇫🇷 un meurtrier en série
 ----------
-a shooting||une fusillade, un meurtre
+🇬🇧 a shooting||🇫🇷 une fusillade, un meurtre
 ----------
-a mass killing||une tuerie, une hécatombe
+🇬🇧 a mass killing||🇫🇷 une tuerie, une hécatombe
 ----------
-a bloodshed||un bain de sang
+🇬🇧 a bloodshed||🇫🇷 un bain de sang
 ----------
-a slaughter||un massacre, un carnage
+🇬🇧 a slaughter||🇫🇷 un massacre, un carnage
 ----------
-a killing spree||un accès de folie meurtrière
+🇬🇧 a killing spree||🇫🇷 un accès de folie meurtrière
 ----------
-a rampage||un déchaînement de violence
+🇬🇧 a rampage||🇫🇷 un déchaînement de violence
 ----------
-gang warfare||la guerre des gangs
+🇬🇧 gang warfare||🇫🇷 la guerre des gangs
 ----------
-stray bullets||des balles perdues
+🇬🇧 stray bullets||🇫🇷 des balles perdues
 ----------
-within shooting distance||à portée de tir
+🇬🇧 within shooting distance||🇫🇷 à portée de tir
 ----------
-the paramedics||le SAMU
+🇬🇧 the paramedics||🇫🇷 le SAMU
 ----------
-999/911||numéro d'urgence (GB / US)
+🇬🇧 999/911||🇫🇷 numéro d'urgence (GB / US)
 ----------
-the injured||les blessés
+🇬🇧 the injured||🇫🇷 les blessés
 ----------
-injuries||des blessures
+🇬🇧 injuries||🇫🇷 des blessures
 ----------
-the casualties||les victimes
+🇬🇧 the casualties||🇫🇷 les victimes
 ----------
-the murder toll||la liste des victimes
+🇬🇧 the murder toll||🇫🇷 la liste des victimes
 ----------
-a corpse||un cadavre
+🇬🇧 a corpse||🇫🇷 un cadavre
 ----------
-an undertaker||un entrepreneur de pompes funèbres
+🇬🇧 an undertaker||🇫🇷 un entrepreneur de pompes funèbres
 ----------
-the coroner||le médecin légiste
+🇬🇧 the coroner||🇫🇷 le médecin légiste
 ----------
-a funeral [home/parlo(u)r]||un salon funéraire
+🇬🇧 a funeral [home/parlo(u)r]||🇫🇷 un salon funéraire
 ----------
-a coffin (GB) / casket (US)||un cercueil
+🇬🇧 a coffin (GB) / casket (US)||🇫🇷 un cercueil
 ----------
-to own||posséder
+🇬🇧 to own||🇫🇷 posséder
 ----------
-to [bear/carry] a gun||porter une arme
+🇬🇧 to [bear/carry] a gun||🇫🇷 porter une arme
 ----------
-to abide by the law||respecter la loi
+🇬🇧 to abide by the law||🇫🇷 respecter la loi
 ----------
-to enforce the law||faire appliquer la loi
+🇬🇧 to enforce the law||🇫🇷 faire appliquer la loi
 ----------
-to administer justice||rendre la justice
+🇬🇧 to administer justice||🇫🇷 rendre la justice
 ----------
-to undergo a check||subir une vérification
+🇬🇧 to undergo a check||🇫🇷 subir une vérification
 
 Note : undergo, underwent, undergone
 ----------
-to restrict access to||limiter l'accès à
+🇬🇧 to restrict access to||🇫🇷 limiter l'accès à
 ----------
-to deter||dissuader
+🇬🇧 to deter||🇫🇷 dissuader
 ----------
-to ban / prohibit||interdire
+🇬🇧 to ban / prohibit||🇫🇷 interdire
 ----------
-to bolster security||renforcer la sécurité
+🇬🇧 to bolster security||🇫🇷 renforcer la sécurité
 ----------
-to protect oneself||se protéger
+🇬🇧 to protect oneself||🇫🇷 se protéger
 ----------
-to take the law into one's hands||se faire justice soi-même
+🇬🇧 to take the law into one's hands||🇫🇷 se faire justice soi-même
 ----------
-to pin the blame on||imputer la faute à
+🇬🇧 to pin the blame on||🇫🇷 imputer la faute à
 ----------
-to refrain from||s'interdire de
+🇬🇧 to refrain from||🇫🇷 s'interdire de
 ----------
-to cherish||chérir
+🇬🇧 to cherish||🇫🇷 chérir
 ----------
-to resort to||recourir à
+🇬🇧 to resort to||🇫🇷 recourir à
 ----------
-to trigger||déclencher
+🇬🇧 to trigger||🇫🇷 déclencher
 ----------
-to uphold||soutenir, confirmer
+🇬🇧 to uphold||🇫🇷 soutenir, confirmer
 
 Note : uphold, upheld, upheld
 ----------
-to claim / maintain||prétendre, soutenir que
+🇬🇧 to claim / maintain||🇫🇷 prétendre, soutenir que
 ----------
-to shoot||tirer
+🇬🇧 to shoot||🇫🇷 tirer
 
 Note : shoot, shot, shot
 ----------
-to press the trigger||presser la gâchette
+🇬🇧 to press the trigger||🇫🇷 presser la gâchette
 ----------
-to assault||attaquer
+🇬🇧 to assault||🇫🇷 attaquer
 ----------
-to injure||blesser
+🇬🇧 to injure||🇫🇷 blesser
 ----------
-to kill||tuer
+🇬🇧 to kill||🇫🇷 tuer
 ----------
-to die, died, died||mourir
+🇬🇧 to die, died, died||🇫🇷 mourir
 ----------
-to be dead||être mort
+🇬🇧 to be dead||🇫🇷 être mort
 ----------
-to pop off||clamser, claquer
+🇬🇧 to pop off||🇫🇷 clamser, claquer
 
 Note : argotique
 ----------
-to bite the bullet / kick the bucket||passer l'arme à gauche
+🇬🇧 to bite the bullet / kick the bucket||🇫🇷 passer l'arme à gauche
 
 Note : idiome
 ----------
-to push the daisies||manger les pissenlits par la racine
+🇬🇧 to push the daisies||🇫🇷 manger les pissenlits par la racine
 
 Note : idiome
 ----------
-to commit suicide / kill oneself||se suicider
+🇬🇧 to commit suicide / kill oneself||🇫🇷 se suicider
 ----------
-available||disponible
+🇬🇧 available||🇫🇷 disponible
 ----------
-tough||rude, dur
+🇬🇧 tough||🇫🇷 rude, dur
 ----------
-rigid||rigide
+🇬🇧 rigid||🇫🇷 rigide
 ----------
-stringent||strict
+🇬🇧 stringent||🇫🇷 strict
 ----------
-mandatory||obligatoire
+🇬🇧 mandatory||🇫🇷 obligatoire
 ----------
-law-abiding||respectueux de la loi
+🇬🇧 law-abiding||🇫🇷 respectueux de la loi
 ----------
-unlawful||illégal
+🇬🇧 unlawful||🇫🇷 illégal
 ----------
-trigger-happy||à la gâchette facile
+🇬🇧 trigger-happy||🇫🇷 à la gâchette facile
 ----------
-unreasonable||déraisonnable
+🇬🇧 unreasonable||🇫🇷 déraisonnable
 ----------
-disquieting||inquiétant
+🇬🇧 disquieting||🇫🇷 inquiétant
 ----------
-threatening||menaçant
+🇬🇧 threatening||🇫🇷 menaçant
 ----------
-destructive||destructeur
+🇬🇧 destructive||🇫🇷 destructeur
 ----------
-foolhardy||téméraire
+🇬🇧 foolhardy||🇫🇷 téméraire
 ----------
-ruthless||impitoyable
+🇬🇧 ruthless||🇫🇷 impitoyable
 ----------
-insane||dément
+🇬🇧 insane||🇫🇷 dément
 ----------
-crazy||dingue
+🇬🇧 crazy||🇫🇷 dingue
 ----------
-bloody||sanglant
+🇬🇧 bloody||🇫🇷 sanglant
 ----------
-deadly / lethal||mortel
+🇬🇧 deadly / lethal||🇫🇷 mortel
 ----------
-horrific||atroce, abominable
+🇬🇧 horrific||🇫🇷 atroce, abominable
 ----------
-tragic||dramatique
+🇬🇧 tragic||🇫🇷 dramatique
 ----------
-outrageous||scandaleux
+🇬🇧 outrageous||🇫🇷 scandaleux

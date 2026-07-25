@@ -1,15 +1,15 @@
 censorship;la censure;...;...;N;LIVRE;B2
-self-censorship;l'autocensure;...;...;N;LIVRE;B2
+self-censorship;l'autocensure;déf : control of what you say or do in order to avoid annoying or offending others, but without being told officially that such control is necessary;These writers knew that unless they practised a form of self-censorship, the authorities would persecute them.;N;LIVRE;B2
 right of search;le droit de perquisition;...;...;N;LIVRE;C1
 seizure;une saisie;...;...;N;LIVRE;C1
 a ban (on);une interdiction (de);...;...;N;LIVRE;B2
 news blackout;le black-out de l'information;...;...;N;LIVRE;C1
 to censor;censurer;...;...;V;LIVRE;B2
-to censure;critiquer;...;...;V;LIVREM;C1
+to censure;critiquer;déf : strong criticism or disapproval;His dishonest behaviour came under severe censure.;V;LIVREM;C1
 to suppress press freedom;supprimer la liberté de la presse;...;...;V;LIVRE;B2
 to be subject to censorship;être soumis à la censure;...;...;V;LIVRE;B2
 to subject;assujettir, soumettre;...;...;V;LIVREM;C1
-to blue-pencil;"caviarder", corriger;...;...;V;LIVRE;C1
+to blue-pencil;"caviarder", corriger;déf : If a person goes over a piece of writing with a blue pencil, they remove or change some of the words to improve it or make it acceptable.<br><br>Caviarder c'est plutôt masquer une partie d'un texte, censurer en noir, d'où le nom caviar car le caviar est noir;...;V;LIVRE;C1
 a pencil;un crayon;...;...;N;LIVREM;A1
 to silence;réduire au silence;...;...;V;LIVRE;C1
 to gag;bâillonner, museler;...;...;V;LIVRE;C1
@@ -17,4 +17,4 @@ a gag;un bâillon;...;...;N;LIVREM;C1
 to curtail access;limiter l'accès;...;...;V;LIVRE;C1
 to confiscate, to seize;saisir, confisquer;...;...;V;LIVRE;B2
 to ban, to suppress;interdire;...;...;V;LIVRE;B2
-https://quizlet.com/fr/1192999433/prepa-en-media-the-freedom-of-the-media-censorship-flash-cards/
+QUIZLET;https://quizlet.com/fr/1192999433/prepa-en-media-the-freedom-of-the-media-censorship-flash-cards/

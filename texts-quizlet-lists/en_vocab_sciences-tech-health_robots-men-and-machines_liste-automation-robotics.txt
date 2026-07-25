@@ -1,87 +1,87 @@
-Assembly line||chaîne de montage
+🇬🇧 Assembly line||🇫🇷 chaîne de montage
 ----------
-Automation||automatisation
+🇬🇧 Automation||🇫🇷 automatisation
 ----------
-to Automate||robotiser / automatiser
+🇬🇧 to Automate||🇫🇷 robotiser / automatiser
 ----------
-Computer-aided Design (CAD)||conception assistée par ordinateur (CAO)
+🇬🇧 Computer-aided Design (CAD)||🇫🇷 conception assistée par ordinateur (CAO)
 ----------
-Digital computer||ordinateur numérique
+🇬🇧 Digital computer||🇫🇷 ordinateur numérique
 ----------
-Digital switchover||passage au numérique
+🇬🇧 Digital switchover||🇫🇷 passage au numérique
 ----------
-digitally-controlled||à commande numérique
+🇬🇧 digitally-controlled||🇫🇷 à commande numérique
 ----------
-Hazard||danger / risque
+🇬🇧 Hazard||🇫🇷 danger / risque
 ----------
-joint limit||limite d'articulation
+🇬🇧 joint limit||🇫🇷 limite d'articulation
 ----------
-maintenance||entretien / maintenance
+🇬🇧 maintenance||🇫🇷 entretien / maintenance
 ----------
-mechanization||mécanisation
+🇬🇧 mechanization||🇫🇷 mécanisation
 ----------
-miniaturization||miniaturisation
+🇬🇧 miniaturization||🇫🇷 miniaturisation
 ----------
-nanotechnology||nanotechnologie
+🇬🇧 nanotechnology||🇫🇷 nanotechnologie
 ----------
-off-line processing||traitement hors ligne
+🇬🇧 off-line processing||🇫🇷 traitement hors ligne
 ----------
-online programming||programmation en ligne
+🇬🇧 online programming||🇫🇷 programmation en ligne
 ----------
-palletizing||palettisation
+🇬🇧 palletizing||🇫🇷 palettisation
 ----------
-reliability||fiabilité
+🇬🇧 reliability||🇫🇷 fiabilité
 ----------
-repeatability||répétabilité
+🇬🇧 repeatability||🇫🇷 répétabilité
 ----------
-robot arm||bras robotique
+🇬🇧 robot arm||🇫🇷 bras robotique
 ----------
-robot reach||portée du robot
+🇬🇧 robot reach||🇫🇷 portée du robot
 ----------
-robot-supported||robotisé
+🇬🇧 robot-supported||🇫🇷 robotisé
 ----------
-robotic surgery||robotique chirurgicale
+🇬🇧 robotic surgery||🇫🇷 robotique chirurgicale
 ----------
-sensor||capteur
+🇬🇧 sensor||🇫🇷 capteur
 ----------
-safeguard||précaution / dispositif de protection
+🇬🇧 safeguard||🇫🇷 précaution / dispositif de protection
 ----------
-safety factor||coefficient de sécurité
+🇬🇧 safety factor||🇫🇷 coefficient de sécurité
 ----------
-safety procedure||dispositif de sécurité / procédure de sécurité
+🇬🇧 safety procedure||🇫🇷 dispositif de sécurité / procédure de sécurité
 ----------
-software||logiciel
+🇬🇧 software||🇫🇷 logiciel
 ----------
-unmanned operation||fonctionnement sans opérateur
+🇬🇧 unmanned operation||🇫🇷 fonctionnement sans opérateur
 ----------
-work cell||cellule de travail
+🇬🇧 work cell||🇫🇷 cellule de travail
 ----------
-work envelope||enveloppe de travail
+🇬🇧 work envelope||🇫🇷 enveloppe de travail
 ----------
-XYZ Coordinates||coordonnées XYZ ou cartésiennes
+🇬🇧 XYZ Coordinates||🇫🇷 coordonnées XYZ ou cartésiennes
 ----------
-Yaw mechanism
+🇬🇧 Yaw mechanism
 
-Exemple : En aéronautique ou robotique (lacet)||mécanisme d'orientation
+Exemple : En aéronautique ou robotique (lacet)||🇫🇷 mécanisme d'orientation
 ----------
-R&D||Recherche et Développement
+🇬🇧 R&D||🇫🇷 Recherche et Développement
 
 Note : Research and Development
 ----------
-Robotics||la robotique
+🇬🇧 Robotics||🇫🇷 la robotique
 ----------
-A robotics graduate||un diplômé en robotique
+🇬🇧 A robotics graduate||🇫🇷 un diplômé en robotique
 ----------
-A robotics scientist/engineer||roboticien
+🇬🇧 A robotics scientist/engineer||🇫🇷 roboticien
 ----------
-Robotic
+🇬🇧 Robotic
 
-Exemple : Adjectif||robotique
+Exemple : Adjectif||🇫🇷 robotique
 ----------
-Industrial robot||un robot industriel
+🇬🇧 Industrial robot||🇫🇷 un robot industriel
 
 Note : Pour le domaine de l’industrie
 ----------
-Computer-controlled machines||des machines contrôlées par ordinateur
+🇬🇧 Computer-controlled machines||🇫🇷 des machines contrôlées par ordinateur
 ----------
-Remote-controlled machines||des machines contrôlées à distance
+🇬🇧 Remote-controlled machines||🇫🇷 des machines contrôlées à distance

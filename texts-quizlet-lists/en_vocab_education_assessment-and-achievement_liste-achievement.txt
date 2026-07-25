@@ -1,69 +1,69 @@
-graduation||l’obtention d’un diplôme
+🇬🇧 graduation||🇫🇷 l’obtention d’un diplôme
 ----------
-graduation-day||le jour de remise des diplômes
+🇬🇧 graduation-day||🇫🇷 le jour de remise des diplômes
 ----------
-a graduate||un diplômé
+🇬🇧 a graduate||🇫🇷 un diplômé
 ----------
-a high-school graduate||un bachelier
+🇬🇧 a high-school graduate||🇫🇷 un bachelier
 ----------
-an undergraduate||un étudiant (pas encore diplômé)
+🇬🇧 an undergraduate||🇫🇷 un étudiant (pas encore diplômé)
 ----------
-a post-graduate student||un étudiant de troisième cycle
+🇬🇧 a post-graduate student||🇫🇷 un étudiant de troisième cycle
 ----------
-a scholar||un érudit, un spécialiste
+🇬🇧 a scholar||🇫🇷 un érudit, un spécialiste
 ----------
-a Shakespeare scholar||un spécialiste de Shakespeare
+🇬🇧 a Shakespeare scholar||🇫🇷 un spécialiste de Shakespeare
 ----------
-a high achiever||quelqu’un qui réussit, un gagneur
+🇬🇧 a high achiever||🇫🇷 quelqu’un qui réussit, un gagneur
 ----------
-an academic achiever||un élève brillant
+🇬🇧 an academic achiever||🇫🇷 un élève brillant
 ----------
-a whizz-kid||un enfant surdoué, un phénomène
+🇬🇧 a whizz-kid||🇫🇷 un enfant surdoué, un phénomène
 ----------
-a bookworm||un rat de bibliothèque
+🇬🇧 a bookworm||🇫🇷 un rat de bibliothèque
 
 Note : a worm = un ver
 ----------
-to pass an exam||réussir un examen
+🇬🇧 to pass an exam||🇫🇷 réussir un examen
 ----------
-to graduate||obtenir son diplôme
+🇬🇧 to graduate||🇫🇷 obtenir son diplôme
 ----------
-to get / obtain a degree||obtenir un diplôme
+🇬🇧 to get / obtain a degree||🇫🇷 obtenir un diplôme
 
 Note : get, got, got
 ----------
-- to achieve (a result)
-- to achieve (an objective)||- obtenir, arriver à (un résultat)
+🇬🇧 - to achieve (a result)
+- to achieve (an objective)||🇫🇷 - obtenir, arriver à (un résultat)
 - atteindre (un objectif)
 ----------
-to do well||bien réussir
+🇬🇧 to do well||🇫🇷 bien réussir
 
 Note : do, did, done
 ----------
-to manage (in doing something)||arriver / réussir (à faire quelque chose)
+🇬🇧 to manage (in doing something)||🇫🇷 arriver / réussir (à faire quelque chose)
 ----------
-to succeed (in doing something)
+🇬🇧 to succeed (in doing something)
 
-Exemple : He succeeded in graduating from Harvard||réussir (à faire quelque chose)
+Exemple : He succeeded in graduating from Harvard||🇫🇷 réussir (à faire quelque chose)
 ----------
-to succeed at (a test)||réussir (un test)
+🇬🇧 to succeed at (a test)||🇫🇷 réussir (un test)
 ----------
-to sail through||réussir avec aisance / haut la main
+🇬🇧 to sail through||🇫🇷 réussir avec aisance / haut la main
 
 Note : to sail ca veut dire voyager sur l'eau
 ----------
-to be a credit to||faire honneur à
+🇬🇧 to be a credit to||🇫🇷 faire honneur à
 
 Note : be, was/were, been
 ----------
-to shine at||briller en, être brillant en
+🇬🇧 to shine at||🇫🇷 briller en, être brillant en
 
 Note : shine, shone, shone
 ----------
-to shine through||éclater au grand jour
+🇬🇧 to shine through||🇫🇷 éclater au grand jour
 
 Note : shine, shone, shone
 ----------
-to win a scholarship||obtenir une bourse
+🇬🇧 to win a scholarship||🇫🇷 obtenir une bourse
 
 Note : win, won, won

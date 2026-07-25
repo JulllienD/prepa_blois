@@ -1,131 +1,131 @@
-citizenship||la citoyenneté
+🇬🇧 citizenship||🇫🇷 la citoyenneté
 ----------
-a citizen||un citoyen
+🇬🇧 a citizen||🇫🇷 un citoyen
 ----------
-respect||le respect
+🇬🇧 respect||🇫🇷 le respect
 ----------
-concern||la sollicitude
+🇬🇧 concern||🇫🇷 la sollicitude
 ----------
-consideration, regard||la considération, l’estime
+🇬🇧 consideration, regard||🇫🇷 la considération, l’estime
 ----------
-decency||la retenue, la politesse, la décence
+🇬🇧 decency||🇫🇷 la retenue, la politesse, la décence
 ----------
-politeness||la politesse
+🇬🇧 politeness||🇫🇷 la politesse
 ----------
-tactfulness||le tact
+🇬🇧 tactfulness||🇫🇷 le tact
 ----------
-faithfulness||la fidélité
+🇬🇧 faithfulness||🇫🇷 la fidélité
 ----------
-mutual understanding||la complicité
+🇬🇧 mutual understanding||🇫🇷 la complicité
 ----------
-indulgence||l’indulgence
+🇬🇧 indulgence||🇫🇷 l’indulgence
 ----------
-tolerance||la tolérance
+🇬🇧 tolerance||🇫🇷 la tolérance
 ----------
-open-mindedness, openness||l’ouverture d’esprit
+🇬🇧 open-mindedness, openness||🇫🇷 l’ouverture d’esprit
 ----------
-solidarity, fellow-feeling||la solidarité
+🇬🇧 solidarity, fellow-feeling||🇫🇷 la solidarité
 ----------
-generosity||la générosité
+🇬🇧 generosity||🇫🇷 la générosité
 ----------
-hospitality||l’hospitalité
+🇬🇧 hospitality||🇫🇷 l’hospitalité
 ----------
-benevolence||la bienveillance
+🇬🇧 benevolence||🇫🇷 la bienveillance
 ----------
-a benevolent society||une société de bienfaisance
+🇬🇧 a benevolent society||🇫🇷 une société de bienfaisance
 ----------
-a friendly society||une mutuelle
+🇬🇧 a friendly society||🇫🇷 une mutuelle
 ----------
-a charity||une organisation caritative
+🇬🇧 a charity||🇫🇷 une organisation caritative
 ----------
-altruism, selflessness||l’altruisme
+🇬🇧 altruism, selflessness||🇫🇷 l’altruisme
 ----------
-self-denial||l’abnégation
+🇬🇧 self-denial||🇫🇷 l’abnégation
 ----------
-education||l’éducation
+🇬🇧 education||🇫🇷 l’éducation
 ----------
-good manners, good breeding||le savoir-vivre, les bonnes manières
+🇬🇧 good manners, good breeding||🇫🇷 le savoir-vivre, les bonnes manières
 ----------
-manners||manières, mœurs
+🇬🇧 manners||🇫🇷 manières, mœurs
 ----------
-socializing||la vie sociale
+🇬🇧 socializing||🇫🇷 la vie sociale
 ----------
-a socialite||un mondain
+🇬🇧 a socialite||🇫🇷 un mondain
 ----------
-banter, small talk||le badinage
+🇬🇧 banter, small talk||🇫🇷 le badinage
 ----------
-propriety||la bienséance
+🇬🇧 propriety||🇫🇷 la bienséance
 ----------
-decorum||l’étiquette, les convenances
+🇬🇧 decorum||🇫🇷 l’étiquette, les convenances
 ----------
-protocol, etiquette||le protocole
+🇬🇧 protocol, etiquette||🇫🇷 le protocole
 ----------
-gallantry||la galanterie
+🇬🇧 gallantry||🇫🇷 la galanterie
 ----------
-to break the ice||rompre la glace
+🇬🇧 to break the ice||🇫🇷 rompre la glace
 
 Note : break, broke, broken
 ----------
-to behave well||bien se comporter
+🇬🇧 to behave well||🇫🇷 bien se comporter
 ----------
-to understand||comprendre
+🇬🇧 to understand||🇫🇷 comprendre
 
 Note : understand, understood, understood
 ----------
-to win the confidence of||gagner la confiance de
+🇬🇧 to win the confidence of||🇫🇷 gagner la confiance de
 
 Note : win, won, won
 ----------
-a confidence / confidence||une confidence / la confiance
+🇬🇧 a confidence / confidence||🇫🇷 une confidence / la confiance
 
 Note : Attention à la distinction : "a confidence" (une révélation) vs "confidence" (la confiance).
 ----------
-to satisfy/to meet demands||satisfaire des requêtes
+🇬🇧 to satisfy/to meet demands||🇫🇷 satisfaire des requêtes
 
 Note : meet, met, met
 ----------
-to mix||être sociable
+🇬🇧 to mix||🇫🇷 être sociable
 ----------
-to socialize||fréquenter des gens
+🇬🇧 to socialize||🇫🇷 fréquenter des gens
 ----------
-to entertain people||recevoir/distraire des gens
+🇬🇧 to entertain people||🇫🇷 recevoir/distraire des gens
 ----------
-to banter||badiner
+🇬🇧 to banter||🇫🇷 badiner
 ----------
-to pay compliments||complimenter
+🇬🇧 to pay compliments||🇫🇷 complimenter
 
 Note : pay, paid, paid
 ----------
-pleasant, lik(e)able||agréable, aimable
+🇬🇧 pleasant, lik(e)able||🇫🇷 agréable, aimable
 ----------
-respectful||respecteux
+🇬🇧 respectful||🇫🇷 respecteux
 ----------
-respectable||respectable
+🇬🇧 respectable||🇫🇷 respectable
 ----------
-well-behaved, well-mannered||poli, bien élevé
+🇬🇧 well-behaved, well-mannered||🇫🇷 poli, bien élevé
 ----------
-generous||généreux
+🇬🇧 generous||🇫🇷 généreux
 ----------
-benevolent||bienveillant
+🇬🇧 benevolent||🇫🇷 bienveillant
 ----------
-considerate||attentionné
+🇬🇧 considerate||🇫🇷 attentionné
 ----------
-tactful||délicat, plein de tact
+🇬🇧 tactful||🇫🇷 délicat, plein de tact
 ----------
-well-meaning||bien intentionné
+🇬🇧 well-meaning||🇫🇷 bien intentionné
 ----------
-lov(e)able||très sympathique, adorable
+🇬🇧 lov(e)able||🇫🇷 très sympathique, adorable
 ----------
-decent||convenable, respectable
+🇬🇧 decent||🇫🇷 convenable, respectable
 ----------
-indulgent||indulgent
+🇬🇧 indulgent||🇫🇷 indulgent
 ----------
-tolerant||tolérant
+🇬🇧 tolerant||🇫🇷 tolérant
 ----------
-open-minded||large d’esprit
+🇬🇧 open-minded||🇫🇷 large d’esprit
 ----------
-selfless||altruiste
+🇬🇧 selfless||🇫🇷 altruiste
 ----------
-gallant, gentlemanly||galant, courtois
+🇬🇧 gallant, gentlemanly||🇫🇷 galant, courtois
 
 Note : Peut aussi signifier courageux en anglais littéraire.
