@@ -1,8 +1,16 @@
-🇬🇧 ecology||🇫🇷 l’écologie
+🇬🇧 ecology / environmentalism||🇫🇷 l’écologie
+
+Note : il y a quand même une subtilité entre "ecology" et "environmentalism".
+
+Ecology désigne la science
+
+Environmentalism désigne le mouvement politique
 ----------
 🇬🇧 an ecologist||🇫🇷 un écologiste
-----------
-🇬🇧 environmentalism||🇫🇷 l’écologie
+
+Note : déf : a person who studies the natural relationships between the air, land, water, animals, plants, etc.
+
+On voit que c'est donc différent de écologiste en français qui désignerait une personne écologique
 ----------
 🇬🇧 an environmentalist, a conservationist||🇫🇷 un écologiste / défenseur de la nature
 ----------
@@ -30,13 +38,15 @@
 ----------
 🇬🇧 boycott||🇫🇷 le boycott
 ----------
-🇬🇧 Charles Boycott: an Irishman who was the victim of the first boycott||🇫🇷 Charles Boycott: an Irishman who was the victim of the first boycott
+🇬🇧 Charles Boycott||🇫🇷 an Irishman who was the victim of the first boycott
 ----------
 🇬🇧 lobbying||🇫🇷 l’activité des groupes de pression
 ----------
 🇬🇧 a suit, a lawsuit||🇫🇷 un procès
 ----------
-🇬🇧 to commit oneself||🇫🇷 s’engager
+🇬🇧 to commit oneself
+
+Exemple : Paine committed himself to the cause of American independence.||🇫🇷 s’engager
 ----------
 🇬🇧 to be involved in||🇫🇷 participer à, être impliqué dans
 
@@ -48,9 +58,9 @@ Note : make, made, made
 ----------
 🇬🇧 to campaign (against)||🇫🇷 faire campagne (contre)
 ----------
-🇬🇧 to denounce||🇫🇷 dénoncer
+🇬🇧 to denounce, to expose||🇫🇷 dénoncer
 ----------
-🇬🇧 to reveal, to expose||🇫🇷 réveler, dénoncer
+🇬🇧 to reveal||🇫🇷 réveler
 ----------
 🇬🇧 to exhibit||🇫🇷 exposer
 ----------
@@ -58,7 +68,12 @@ Note : make, made, made
 
 Note : fight, fought, fought
 ----------
-🇬🇧 to oppose (something)||🇫🇷 s’opposer (à quelque chose)
+🇬🇧 to oppose (something)
+
+Exemple : He opposed his parents' idea of an arranged marriage.
+= Il s'opposait à l'avis de ses parents au sujet d'un mariage arrangé.||🇫🇷 s’opposer (à quelque chose)
+
+Note : /!\ en anglais le verbe n'a pas de pronom réfléchi "oneself", contrairement au français qui en a un "s'"
 ----------
 🇬🇧 to boycott||🇫🇷 boycotter
 ----------

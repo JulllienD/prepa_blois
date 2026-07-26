@@ -13,12 +13,12 @@ rubbish-collecting, garbage-collecting (UK), garbage-collection (US);le ramassag
 public transport;les transports en commun;...;...;N;LIVRE;A2
 car-pooling;le co-voiturage;...;...;N;LIVRE;B1
 alternate traffic;la circulation alternée;...;...;N;LIVRE;B2
-a tax, a duty;une taxe;...;...;N;LIVRE;B1
+a tax, a duty;une taxe;c'est pour ça qu'on dit "duty-free" pour les articles à l'aéroport, même si ça coute plus cher des fois...;...;N;LIVRE;B1
 a fine;une amende;...;...;N;LIVRE;B1
 a sanction, a penalty;une sanction;...;...;N;LIVRE;B2
 
 to pass a law;voter une loi;...;...;V;LIVRE;B1
-to enact;promulguer;...;...;V;LIVRE;C1
+to enact;promulguer;...;The government has enacted a new tax law.<br>= Le gouvernement a promulgué une nouvelle taxe.;V;LIVRE;C1
 to implement;mettre en application;...;...;V;LIVRE;B2
 to enforce;faire respecter;...;...;V;LIVRE;B2
 to promote;promouvoir, encourager;...;...;V;LIVRE;B1
@@ -26,4 +26,4 @@ to regulate;réglementer;...;...;V;LIVRE;B2
 to control, to check;contrôler;...;...;V;LIVRE;A2
 to guarantee;garantir;...;...;V;LIVRE;B2
 to fine;condamner à une amende;...;...;V;LIVRE;B1
-to abide by the law;respecter la loi;abode/abided, abode/abided;...;VI;LIVRE;B2
+to abide by the law;respecter la loi;abide, abode/abided, abode/abided;...;VI;LIVRE;B2

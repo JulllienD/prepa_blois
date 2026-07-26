@@ -4,19 +4,15 @@
 ----------
 🇬🇧 a parliamentary sitting||🇫🇷 une séance parlementaire
 ----------
-🇬🇧 the agenda
+🇬🇧 the agenda||🇫🇷 l’ordre du jour
 
-Exemple : Ne pas confondre avec un journal intime ("diary")||🇫🇷 l’ordre du jour
-----------
-🇬🇧 "my dear diary"
-
-Exemple : Rien à voir avec l'ordre du jour, note humoristique||🇫🇷 "mon cher journal"
+Note : Ne pas confondre avec un "agenda" en français qui se traduit par "diary"
 ----------
 🇬🇧 the Constitution||🇫🇷 la Constitution
 ----------
-🇬🇧 a Member of Parliament (an MP)
+🇬🇧 a Member of Parliament (an MP)||🇫🇷 un parlementaire
 
-Exemple : Député à la Chambre des Communes au Royaume-Uni||🇫🇷 un parlementaire
+Note : Député à la Chambre des Communes au Royaume-Uni
 ----------
 🇬🇧 parliamentary privilege||🇫🇷 l’immunité parlementaire
 ----------
@@ -26,9 +22,9 @@ Exemple : Député à la Chambre des Communes au Royaume-Uni||🇫🇷 un parlem
 ----------
 🇬🇧 a statement||🇫🇷 une déclaration
 ----------
-🇬🇧 the proceedings
+🇬🇧 the proceedings||🇫🇷 les délibérations
 
-Exemple : Compte-rendu officiel des séances||🇫🇷 les délibérations
+Note : Compte-rendu officiel des séances
 ----------
 🇬🇧 parliamentary debates||🇫🇷 les débats parlementaires
 ----------

@@ -1,47 +1,93 @@
 🇬🇧 The British Parliament||🇫🇷 Le parlement britannique
 ----------
-🇬🇧 the House of Commons||🇫🇷 la Chambre des communes
+🇬🇧 the House of Commons
 
-Note : Chambre basse du Parlement britannique
-----------
-🇬🇧 the House of Lords||🇫🇷 la Chambre des Lords
+Exemple : UK||🇫🇷 la Chambre des communes
 
-Note : Chambre haute du Parlement britannique
+Note : UK
+
+Chambre basse du Parlement britannique
 ----------
-🇬🇧 a Lord, a Peer||🇫🇷 un Lord, un Pair
+🇬🇧 the House of Lords
+
+Exemple : UK||🇫🇷 la Chambre des Lords
+
+Note : UK
+
+Chambre haute du Parlement britannique
+----------
+🇬🇧 a Lord, a Peer
+
+Exemple : UK||🇫🇷 un Lord, un Pair
+
+Note : UK
 ----------
 🇬🇧 The American Parliament||🇫🇷 Le parlement américain
 ----------
 🇬🇧 Congress
 
-Exemple : Pouvoir législatif américain (Sénat + Chambre)||🇫🇷 le Congrès
-----------
-🇬🇧 a Congressman / Congresswoman||🇫🇷 un membre du Congrès
+Exemple : US||🇫🇷 le Congrès
 
-Note : Généralement membre de la Chambre des Représentants
-----------
-🇬🇧 the House of Representatives||🇫🇷 la Chambre des députés / représentants
+Note : US
 
-Note : Chambre basse du Congrès américain
+Pouvoir législatif américain (Sénat + Chambre)
+----------
+🇬🇧 a Congressman / Congresswoman
+
+Exemple : US||🇫🇷 un membre du Congrès
+
+Note : US
+
+Généralement membre de la Chambre des Représentants
+----------
+🇬🇧 the House of Representatives
+
+Exemple : US||🇫🇷 la Chambre des députés / représentants
+
+Note : US
+
+Chambre basse du Congrès américain
 ----------
 🇬🇧 a Representative||🇫🇷 un représentant
 
-Note : Député américain
-----------
-🇬🇧 the Senate||🇫🇷 le Sénat
+Note : US
 
-Note : Chambre haute aux États-Unis et en France
+Député américain
 ----------
-🇬🇧 a Senator||🇫🇷 un sénateur
+🇬🇧 the Senate
+
+Exemple : US||🇫🇷 le Sénat
+
+Note : US
+
+Chambre haute aux États-Unis et en France
+----------
+🇬🇧 a Senator
+
+Exemple : US||🇫🇷 un sénateur
+
+Note : US
 ----------
 🇬🇧 The French Parliament||🇫🇷 Le parlement français
 ----------
-🇬🇧 the Chamber of Deputies||🇫🇷 la Chambre des députés
+🇬🇧 the Chamber of Deputies
 
-Note : Nom historique ou générique
-----------
-🇬🇧 a deputy||🇫🇷 un député
-----------
-🇬🇧 the National Assembly||🇫🇷 l’Assemblée nationale
+Exemple : FR||🇫🇷 la Chambre des députés
 
-Note : Chambre basse du Parlement français
+Note : FR
+
+Nom historique ou générique
+----------
+🇬🇧 a deputy
+
+Exemple : FR||🇫🇷 un député
+
+Note : FR
+----------
+🇬🇧 the National Assembly
+
+Exemple : FR||🇫🇷 l’Assemblée nationale
+
+Note : FR
+
+Chambre basse du Parlement français

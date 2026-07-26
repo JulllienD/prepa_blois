@@ -29,6 +29,8 @@
 🇬🇧 alternate traffic||🇫🇷 la circulation alternée
 ----------
 🇬🇧 a tax, a duty||🇫🇷 une taxe
+
+Note : c'est pour ça qu'on dit "duty-free" pour les articles à l'aéroport, même si ça coute plus cher des fois...
 ----------
 🇬🇧 a fine||🇫🇷 une amende
 ----------
@@ -36,7 +38,10 @@
 ----------
 🇬🇧 to pass a law||🇫🇷 voter une loi
 ----------
-🇬🇧 to enact||🇫🇷 promulguer
+🇬🇧 to enact
+
+Exemple : The government has enacted a new tax law.
+= Le gouvernement a promulgué une nouvelle taxe.||🇫🇷 promulguer
 ----------
 🇬🇧 to implement||🇫🇷 mettre en application
 ----------
@@ -54,4 +59,4 @@
 ----------
 🇬🇧 to abide by the law||🇫🇷 respecter la loi
 
-Note : abode/abided, abode/abided
+Note : abide, abode/abided, abode/abided

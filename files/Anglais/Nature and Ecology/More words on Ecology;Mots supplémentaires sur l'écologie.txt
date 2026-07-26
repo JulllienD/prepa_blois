@@ -6,7 +6,7 @@ RSPB (Royal Society for the Protection of Birds);association britannique de prot
 Deep ecology;écologie profonde;Théorie radicale : l’homme n’est pas prioritaire par rapport à la nature;...;N;LIVRE;C2
 Shallow ecology;écologie traditionnelle;Littéralement "peu profond";...;N;LIVRE;C2
 Ecologically PC (Politically Correct);écologiquement correct / respectueux de l’environnement;...;...;ADJ;LIVRE;C1
-Nimby;riverain s'opposant à un projet local;Acronyme de "Not In My Backyard" (pas dans mon arrière-cour);...;N;LIVRE;C1
+Nimby;riverain s'opposant à un projet local;Acronyme de "Not In My Backyard" (pas dans mon arrière-cour)<br><br>prononciation : /ˈnɪm.bi/;...;N;LIVRE;C1
 countrycide;destructeur de la nature;Jeu de mots sur "countryside" (la campagne);...;N;LIVRE;C2
 rivercide;dangereux pour les rivières;Jeu de mots sur "riverside" (la rive d’un fleuve);...;N;LIVRE;C2
 seacide;dangereux pour la mer;Jeu de mots sur "seaside" (le littoral);...;N;LIVRE;C2

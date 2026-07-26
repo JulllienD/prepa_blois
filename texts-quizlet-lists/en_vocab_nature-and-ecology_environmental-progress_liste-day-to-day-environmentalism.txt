@@ -4,7 +4,10 @@
 ----------
 🇬🇧 recycling||🇫🇷 le recyclage
 ----------
-🇬🇧 sorting out||🇫🇷 le tri
+🇬🇧 sorting out
+
+Exemple : Precautions by (denial of) the acceptance of waste and exact sorting out will enhance the quality of the waste.
+= La prise de précautions par (le refus) l'acceptance des déchets et un tri exact auront pour effet d'améliorer la qualité des déchets.||🇫🇷 le tri
 ----------
 🇬🇧 a bottle bank||🇫🇷 un collecteur de verre usagé
 ----------
@@ -38,7 +41,10 @@ Note : become, became, become
 ----------
 🇬🇧 harmless||🇫🇷 inoffensif
 ----------
-🇬🇧 wholesome||🇫🇷 sain
+🇬🇧 wholesome
+
+Exemple : Your health's bound to improve in this wholesome environment.
+= Ta santé est forcée de s’améliorer dans cet environnement sain.||🇫🇷 sain
 ----------
 🇬🇧 ozone-friendly||🇫🇷 sans danger pour l’ozone
 ----------

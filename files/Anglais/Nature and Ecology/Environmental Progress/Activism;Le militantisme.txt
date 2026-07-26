@@ -1,6 +1,5 @@
-ecology;l’écologie;...;...;N;LIVRE;B1
-an ecologist;un écologiste;...;...;N;LIVRE;B1
-environmentalism;l’écologie;...;...;N;LIVRE;B2
+ecology / environmentalism;l’écologie;il y a quand même une subtilité entre "ecology" et "environmentalism".<br><br>Ecology désigne la science<br><br>Environmentalism désigne le mouvement politique;...;N;LIVRE;B1
+an ecologist;un écologiste;déf : a person who studies the natural relationships between the air, land, water, animals, plants, etc.<br><br>On voit que c'est donc différent de écologiste en français qui désignerait une personne écologique;...;N;LIVRE;B1
 an environmentalist, a conservationist;un écologiste / défenseur de la nature;...;...;N;LIVRE;B2
 
 an environmental lawyer;un avocat spécialiste de l’écologie;...;...;N;LIVRE;C1
@@ -15,19 +14,19 @@ a campaign;une campagne;...;...;N;LIVRE;B1
 an awareness campaign;une campagne de sensibilisation;...;...;N;LIVRE;B2
 awareness;la conscience / sensibilisation;...;...;N;LIVRE;B2
 boycott;le boycott;...;...;N;LIVRE;B2
-Charles Boycott: an Irishman who was the victim of the first boycott;Charles Boycott: an Irishman who was the victim of the first boycott;...;...;A;LIVRE;C1
+Charles Boycott;an Irishman who was the victim of the first boycott;...;...;A;LIVRE;C1
 lobbying;l’activité des groupes de pression;...;...;N;LIVRE;B2
 a suit, a lawsuit;un procès;...;...;N;LIVRE;B2
 
-to commit oneself;s’engager;...;...;V;LIVRE;B2
+to commit oneself;s’engager;...;Paine committed himself to the cause of American independence.;V;LIVRE;B2
 to be involved in;participer à, être impliqué dans;be, was/were, been;...;VI;LIVRE;B1
 to make the public aware, sensitize;sensibiliser (le public);make, made, made;...;VI;LIVRE;B2
 to campaign (against);faire campagne (contre);...;...;V;LIVRE;B1
-to denounce;dénoncer;...;...;V;LIVRE;B2
-to reveal, to expose;réveler, dénoncer;...;...;V;LIVRE;B2
+to denounce, to expose;dénoncer;...;...;V;LIVRE;B2
+to reveal;réveler;...;...;V;LIVRE;B2
 to exhibit;exposer;...;...;V;LIVRE;B1
 to fight (against something);lutter (contre quelque chose);fight, fought, fought;...;VI;LIVRE;B1
-to oppose (something);s’opposer (à quelque chose);...;...;V;LIVRE;B2
+to oppose (something);s’opposer (à quelque chose);/!\ en anglais le verbe n'a pas de pronom réfléchi "oneself", contrairement au français qui en a un "s'";He opposed his parents' idea of an arranged marriage.<br>= Il s'opposait à l'avis de ses parents au sujet d'un mariage arrangé.;V;LIVRE;B2
 to boycott;boycotter;...;...;V;LIVRE;B2
 to complain;se plaindre;...;...;V;LIVRE;A2
 to lodge a complaint;porter plainte;...;...;V;LIVRE;B2

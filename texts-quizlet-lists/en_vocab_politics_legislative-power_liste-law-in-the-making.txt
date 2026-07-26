@@ -14,21 +14,21 @@
 ----------
 🇬🇧 a law on (crime)||🇫🇷 une loi sur (la délinquance)
 ----------
-🇬🇧 an Act of Parliament
+🇬🇧 an Act of Parliament||🇫🇷 une loi (adoptée par le Parlement)
 
-Exemple : Devient un "Act" une fois voté et signé||🇫🇷 une loi (adoptée par le Parlement)
+Note : Devient un "Act" une fois voté et signé
 ----------
 🇬🇧 a motion||🇫🇷 une motion, une proposition
 ----------
-🇬🇧 a motion of censure||🇫🇷 une motion de censure
+🇬🇧 a motion of no confidence||🇫🇷 une motion de censure
 ----------
-🇬🇧 an article
+🇬🇧 an article||🇫🇷 un article
 
-Exemple : D'une loi ou d'un traité||🇫🇷 un article
+Note : D'une loi ou d'un traité
 ----------
-🇬🇧 a provision
+🇬🇧 a provision||🇫🇷 une disposition
 
-Exemple : Clause ou mesure d'une loi||🇫🇷 une disposition
+Note : Clause ou mesure d'une loi
 ----------
 🇬🇧 an amendment||🇫🇷 un amendement
 ----------
@@ -40,9 +40,9 @@ Exemple : Clause ou mesure d'une loi||🇫🇷 une disposition
 ----------
 🇬🇧 lobbying||🇫🇷 le lobbying
 ----------
-🇬🇧 a lobby
+🇬🇧 a lobby||🇫🇷 un couloir
 
-Exemple : Sens architectural d'origine où l'on abordait les élus||🇫🇷 un couloir
+Note : Sens architectural d'origine où l'on abordait les élus
 ----------
 🇬🇧 a petition||🇫🇷 une requête, une pétition
 ----------
@@ -50,9 +50,9 @@ Exemple : Sens architectural d'origine où l'on abordait les élus||🇫🇷 un 
 ----------
 🇬🇧 to draft a law / bill||🇫🇷 rédiger un avant-projet de loi
 ----------
-🇬🇧 to sponsor a bill
+🇬🇧 to sponsor a bill||🇫🇷 introduire un projet de loi
 
-Exemple : Présenter officiellement un texte au vote||🇫🇷 introduire un projet de loi
+Note : Présenter officiellement un texte au vote
 ----------
 🇬🇧 to take a vote||🇫🇷 procéder à un vote
 
@@ -66,9 +66,9 @@ Note : take, took, taken
 ----------
 🇬🇧 to oppose a bill||🇫🇷 s’opposer à un projet de loi
 ----------
-🇬🇧 to filibuster
+🇬🇧 to filibuster||🇫🇷 faire de l’obstruction parlementaire
 
-Exemple : Technique de blocage par des discours interminables||🇫🇷 faire de l’obstruction parlementaire
+Note : Technique de blocage par des discours interminables
 ----------
 🇬🇧 to defeat a bill||🇫🇷 rejeter un projet de loi
 ----------

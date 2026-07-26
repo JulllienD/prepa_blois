@@ -1,16 +1,15 @@
 the parliamentary season;la saison parlementaire;...;...;N;LIVRE;C1
 a parliamentary session;une session parlementaire;...;...;N;LIVRE;B2
 a parliamentary sitting;une séance parlementaire;...;...;N;LIVRE;C1
-the agenda;l’ordre du jour;...;Ne pas confondre avec un journal intime ("diary");N;LIVRE;B1
-"my dear diary";"mon cher journal";...;Rien à voir avec l'ordre du jour, note humoristique;EXPR;LIVRE;A1
+the agenda;l’ordre du jour;Ne pas confondre avec un "agenda" en français qui se traduit par "diary";...;N;LIVRE;B1
 
 the Constitution;la Constitution;...;...;N;LIVRE;B2
-a Member of Parliament (an MP);un parlementaire;...;Député à la Chambre des Communes au Royaume-Uni;N;LIVRE;B1
+a Member of Parliament (an MP);un parlementaire;Député à la Chambre des Communes au Royaume-Uni;...;N;LIVRE;B1
 parliamentary privilege;l’immunité parlementaire;...;...;N;LIVRE;C1
 a speech;un discours;...;...;N;LIVRE;A2
 a spokesman, a spokeswoman;un(e) porte-parole;...;...;N;LIVRE;B2
 a statement;une déclaration;...;...;N;LIVRE;B1
-the proceedings;les délibérations;...;Compte-rendu officiel des séances;N;LIVRE;C1
+the proceedings;les délibérations;Compte-rendu officiel des séances;...;N;LIVRE;C1
 parliamentary debates;les débats parlementaires;...;...;N;LIVRE;B2
 a discussion;une discussion;...;...;N;LIVRE;A2
 a controversy;une controverse;...;...;N;LIVRE;B2

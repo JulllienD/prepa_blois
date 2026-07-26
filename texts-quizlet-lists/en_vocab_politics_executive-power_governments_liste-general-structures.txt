@@ -26,7 +26,7 @@ Note : Dirigeant d'un État fédéré américain
 ----------
 🇬🇧 regionalization||🇫🇷 la régionalisation
 ----------
-🇬🇧 a county / regional council||🇫🇷 un conseil régional
+🇬🇧 a county council / regional council||🇫🇷 un conseil régional
 ----------
 🇬🇧 the local authorities||🇫🇷 les autorités locales
 ----------
@@ -74,7 +74,10 @@ Note : Ligne d'action / programme (ne pas confondre avec "politics")
 
 Note : run, ran, run
 ----------
-🇬🇧 to appoint||🇫🇷 nommer
+🇬🇧 to appoint
+
+Exemple : The board of directors appointed Mark as head of the party-planning committee.
+= La direction a nommé Mark responsable du comité en charge de l'événementiel.||🇫🇷 nommer
 ----------
 🇬🇧 to enter / to join the government||🇫🇷 entre au gouvernement
 ----------
