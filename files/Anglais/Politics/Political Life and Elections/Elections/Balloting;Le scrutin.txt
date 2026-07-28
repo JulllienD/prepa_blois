@@ -9,12 +9,17 @@ a proxy vote;un vote par procuration;...;...;N;LIVRE;B2
 a useful vote;un vote utile;...;...;N;LIVRE;B2
 a protest vote;un vote de protestation;"protest" signifie la contestation;...;N;LIVRE;B2
 a blank vote;un vote blanc;...;...;N;LIVRE;B2
-the first / second ballot;le 1er / 2nd tour (de scrutin);...;...;N;LIVRE;B2
-a round of voting / balloting;un tour de scrutin;...;...;N;LIVRE;B2
-the first round (of elections) / ballot;le premier tour (de scrutin);...;...;N;LIVRE;B2
-the run-off / the second round;le second tour;"the run-off" désigne la finale / le tour décisif;...;N;LIVRE;B2
+
+
+- the first ballot<br>- the first round of voting (à privilégier)<br>- the first round of balloting<br>- the first round of elections;le premier tour de scrutin;...;...;N;LIVRE;B2
+
+- the run-off<br>- the second ballot<br>- the second round of voting (à privilégier)<br>- the second round of balloting<br>- the second round of elections;le deuxième tour de scrutin;...;...;N;LIVRE;B2
+
+- a ballot<br>- a round of voting (à privilégier)<br>- a round of balloting<br>- a round of elections;un tour de scrutin;...;...;N;LIVRE;B2
+
+
 a ballot (paper);un bulletin de vote;...;...;N;LIVRE;B1
-a voting booth / polling booth (Brit.);un isoloir;...;...;N;LIVRE;B2
+a voting booth / polling booth (UK);un isoloir;...;...;N;LIVRE;B2
 a ballot box;une urne (électorale);...;...;N;LIVRE;B1
 the counting (of the votes);le dépouillement;...;...;N;LIVRE;B1
 the turnout;la participation / le taux de participation;...;...;N;LIVRE;B2
@@ -36,7 +41,7 @@ to turn out;participer / se déplacer pour voter;...;...;V;LIVRE;B2
 to choose;choisir;choose, chose, chosen;...;VI;LIVRE;A1
 to elect;élire;...;...;V;LIVRE;B1
 to abstain;être abstentionniste / s'abstenir;...;...;V;LIVRE;B2
-to rig;truquer;...;Double la consonne : rigging, rigged;V;LIVRE;C1
+to rig;truquer;Double la consonne : rigging, rigged;...;V;LIVRE;C1
 to bribe;soudoyer, suborner;...;...;V;LIVRE;B2
 to stuff ballot boxes;bourrer les urnes;"to stuff" signifie remplir, garnir;...;V;LIVRE;C1
 to gag the opposition;bâillonner l’opposition;"a gag" signifie un bâillon;...;V;LIVRE;C1

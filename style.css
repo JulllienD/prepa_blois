@@ -421,6 +421,7 @@ body {
 .vocab-table th {
     background-color: #2749a5;
     color: #ffffff;
+    word-wrap: normal;
     font-weight: 600;
     text-transform: uppercase;
     font-size: 0.8rem;
@@ -448,11 +449,11 @@ body {
 
 /* 2. Colonne ANGLAIS : Large, Alignement à DROITE */
 .vocab-table th:nth-child(2), 
-.vocab-table td:nth-child(2) { width: 18%; text-align: right; }
+.vocab-table td:nth-child(2) { width: 20%; text-align: right; }
 
 /* 3. Colonne FRANÇAIS : Large, Alignement à GAUCHE */
 .vocab-table th:nth-child(3), 
-.vocab-table td:nth-child(3) { width: 18%; text-align: left; }
+.vocab-table td:nth-child(3) { width: 20%; text-align: left; }
 
 /* 4. Colonne NIVEAU : Fine, Texte centré */
 .vocab-table th:nth-child(4), 
@@ -460,11 +461,11 @@ body {
 
 /* 5. Colonne NOTE : Large, Alignement à GAUCHE */
 .vocab-table th:nth-child(5), 
-.vocab-table td:nth-child(5) { width: 20%; text-align: left; }
+.vocab-table td:nth-child(5) { width: 18%; text-align: left; }
 
 /* 6. Colonne EXEMPLE : Large, Alignement à GAUCHE */
 .vocab-table th:nth-child(6), 
-.vocab-table td:nth-child(6) { width: 20%; text-align: left; }
+.vocab-table td:nth-child(6) { width: 18%; text-align: left; }
 
 /* 7. Colonne PROVENANCE : Un peu fine, Texte centré */
 .vocab-table th:nth-child(7), 

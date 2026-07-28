@@ -9,6 +9,8 @@
 Note : "a splinter" désigne un éclat ou une écharde
 ----------
 🇬🇧 political dissidence||🇫🇷 la dissidence
+
+Note : déf : the act of publicly disagreeing with and criticizing the government or a powerful person or group
 ----------
 🇬🇧 a political dissenter||🇫🇷 un dissident
 ----------
@@ -17,6 +19,8 @@ Note : "a splinter" désigne un éclat ou une écharde
 🇬🇧 a split, a rift||🇫🇷 une scission
 ----------
 🇬🇧 a manifesto||🇫🇷 un manifeste
+
+Note : déf : a written statement of the beliefs, aims, and policies of an organization, especially a political party
 ----------
 🇬🇧 a platform||🇫🇷 un programme
 
@@ -29,6 +33,8 @@ Note : Dans un contexte politique (programme électoral)
 🇬🇧 financing||🇫🇷 le financement
 ----------
 🇬🇧 a slush fund||🇫🇷 une caisse noire
+
+Note : déf : an amount of money that is kept for dishonest or illegal activities in politics or business
 ----------
 🇬🇧 the party members||🇫🇷 les membres du parti
 ----------
@@ -38,9 +44,9 @@ Note : Dans un contexte politique (programme électoral)
 ----------
 🇬🇧 a party leader||🇫🇷 un chef de file
 ----------
-🇬🇧 a party official
+🇬🇧 a party official||🇫🇷 un responsable du parti
 
-Exemple : Parfois qualifié d'apparatchik||🇫🇷 un responsable du parti
+Note : Parfois qualifié d'apparatchik
 ----------
 🇬🇧 a reformist||🇫🇷 un réformateur
 ----------

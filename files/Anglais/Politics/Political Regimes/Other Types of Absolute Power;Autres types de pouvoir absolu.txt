@@ -8,17 +8,17 @@ a sultan;un sultan;...;...;N;LIVRE;B2
 an emir;un émir;...;...;N;LIVRE;B2
 a sheikh;un cheik;...;...;N;LIVRE;B2
 a warlord;un seigneur de guerre;...;...;N;LIVRE;C1
-despotism;le despotisme;...;...;N;LIVRE;C1
-a despot;un despote;...;...;N;LIVRE;C1
+despotism;le despotisme;the rule of a despot (= a ruler with unlimited power, often one who is unfair and cruel);...;N;LIVRE;C1
+a despot;un despote;a ruler with unlimited power, often one who is unfair and cruel;...;N;LIVRE;C1
 tyranny;la tyrannie;...;...;N;LIVRE;B2
 a tyrant;un tyran;...;...;N;LIVRE;B2
 a dictatorship;une dictature;...;...;N;LIVRE;B2
 a dictator;un dictateur;...;...;N;LIVRE;B2
 a military junta;une junte militaire;...;...;N;LIVRE;C1
-a coup;un coup d’État;...;...;N;LIVRE;B2
+a coup;un coup d’État;coup d'état est aussi un "francisisme" en anglais;...;N;LIVRE;B2
 to foment/attempt a coup;fomenter/faire une tentative de coup d’État;...;...;V;LIVRE;C1
 a coupster;un participant à un coup d’État;...;...;N;LIVRE;C2
-a putsch;un putsch;...;...;N;LIVRE;C1
+a putsch;un putsch;an attempt to remove a government by force;...;N;LIVRE;C1
 a putschist;un putschiste;...;...;N;LIVRE;C2
 a police state;un État policier;...;...;N;LIVRE;C1
 the state police;la police d’État;...;...;N;LIVRE;B2

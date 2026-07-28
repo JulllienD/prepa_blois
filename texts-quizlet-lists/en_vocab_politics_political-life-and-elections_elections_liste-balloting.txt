@@ -22,19 +22,25 @@ Note : "protest" signifie la contestation
 ----------
 🇬🇧 a blank vote||🇫🇷 un vote blanc
 ----------
-🇬🇧 the first / second ballot||🇫🇷 le 1er / 2nd tour (de scrutin)
+🇬🇧 - the first ballot
+- the first round of voting (à privilégier)
+- the first round of balloting
+- the first round of elections||🇫🇷 le premier tour de scrutin
 ----------
-🇬🇧 a round of voting / balloting||🇫🇷 un tour de scrutin
+🇬🇧 - the run-off
+- the second ballot
+- the second round of voting (à privilégier)
+- the second round of balloting
+- the second round of elections||🇫🇷 le deuxième tour de scrutin
 ----------
-🇬🇧 the first round (of elections) / ballot||🇫🇷 le premier tour (de scrutin)
-----------
-🇬🇧 the run-off / the second round||🇫🇷 le second tour
-
-Note : "the run-off" désigne la finale / le tour décisif
+🇬🇧 - a ballot
+- a round of voting (à privilégier)
+- a round of balloting
+- a round of elections||🇫🇷 un tour de scrutin
 ----------
 🇬🇧 a ballot (paper)||🇫🇷 un bulletin de vote
 ----------
-🇬🇧 a voting booth / polling booth (Brit.)||🇫🇷 un isoloir
+🇬🇧 a voting booth / polling booth (UK)||🇫🇷 un isoloir
 ----------
 🇬🇧 a ballot box||🇫🇷 une urne (électorale)
 ----------
@@ -90,9 +96,9 @@ Note : choose, chose, chosen
 ----------
 🇬🇧 to abstain||🇫🇷 être abstentionniste / s'abstenir
 ----------
-🇬🇧 to rig
+🇬🇧 to rig||🇫🇷 truquer
 
-Exemple : Double la consonne : rigging, rigged||🇫🇷 truquer
+Note : Double la consonne : rigging, rigged
 ----------
 🇬🇧 to bribe||🇫🇷 soudoyer, suborner
 ----------

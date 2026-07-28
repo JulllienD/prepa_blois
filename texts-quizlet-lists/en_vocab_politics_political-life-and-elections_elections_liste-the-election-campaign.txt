@@ -2,15 +2,17 @@
 ----------
 🇬🇧 a candidacy||🇫🇷 une candidature
 ----------
-🇬🇧 a candidate
+🇬🇧 a candidate||🇫🇷 un candidat
 
-Exemple : Un candidat sans étiquette se dit "an out-party candidate"||🇫🇷 un candidat
+Note : Un candidat sans étiquette se dit "an out-party candidate"
 ----------
 🇬🇧 a spin doctor||🇫🇷 un conseiller en communication / image
 ----------
 🇬🇧 a rabble rouser||🇫🇷 un harangueur (de foules)
 
 Note : "the rabble" signifie la populace
+
+harangueur : Personne qui harangue, qui discourt interminablement.
 ----------
 🇬🇧 a debater||🇫🇷 un spécialiste du débat
 ----------
@@ -62,8 +64,8 @@ Note : make, made, made
 
 Note : Dans une assemblée
 ----------
-🇬🇧 sitting
+🇬🇧 sitting||🇫🇷 sortant (susceptible d’être réélu)
 
-Exemple : Se dit d'un élu en exercice||🇫🇷 sortant (susceptible d’être réélu)
+Note : Se dit d'un élu en exercice
 ----------
 🇬🇧 outgoing||🇫🇷 sortant (non réélu ou qui s'en va)

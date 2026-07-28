@@ -8,9 +8,7 @@
 ----------
 🇬🇧 a kingdom||🇫🇷 un royaume
 ----------
-🇬🇧 a realm
-
-Exemple : Souvent au sens figuré||🇫🇷 un royaume
+🇬🇧 a realm||🇫🇷 un royaume (sens figuré)
 ----------
 🇬🇧 royalty||🇫🇷 la royauté
 ----------
@@ -25,18 +23,22 @@ Exemple : Souvent au sens figuré||🇫🇷 un royaume
 🇬🇧 the reign||🇫🇷 le règne
 ----------
 🇬🇧 abdication||🇫🇷 l’abdication
-----------
-🇬🇧 deposition
 
-Exemple : Ne pas confondre avec "destitution" en français (dénuement)||🇫🇷 la destitution
+Note : the fact of no longer controlling or managing something that you are in charge of
 ----------
-🇬🇧 destitution
+🇬🇧 deposition||🇫🇷 la destitution
 
-Exemple : En anglais, signifie la pauvreté extrême||🇫🇷 le dénuement
+Note : Ne pas confondre avec "destitution" en français (dénuement)
+----------
+🇬🇧 destitution||🇫🇷 le dénuement
+
+Note : En anglais, signifie la pauvreté extrême
 ----------
 🇬🇧 a prince, a princess||🇫🇷 un prince, une princesse
 ----------
 🇬🇧 the heir apparent||🇫🇷 l’héritier présomptif
+
+Note : déf : the person with the automatic right to legally receive all or most of the money, property, titles, etc. from another person when they die
 ----------
 🇬🇧 the heiress||🇫🇷 l’héritière
 ----------
@@ -44,13 +46,15 @@ Exemple : En anglais, signifie la pauvreté extrême||🇫🇷 le dénuement
 ----------
 🇬🇧 a count/an earl, a countess
 
-Exemple : "Earl" s'utilise pour la noblesse britannique||🇫🇷 un comte, une comtesse
+Exemple :||🇫🇷 un comte, une comtesse
+
+Note : "Earl" s'utilise pour la noblesse britannique
 ----------
 🇬🇧 a baron, a baroness||🇫🇷 un baron, une baronne
 ----------
-🇬🇧 a peer
+🇬🇧 a peer||🇫🇷 un pair
 
-Exemple : Membre de la haute noblesse||🇫🇷 un pair
+Note : Membre de la haute noblesse
 ----------
 🇬🇧 peerage||🇫🇷 la pairie
 ----------
@@ -76,13 +80,15 @@ Exemple : Membre de la haute noblesse||🇫🇷 un pair
 ----------
 🇬🇧 a squire||🇫🇷 un châtelain
 ----------
-🇬🇧 a subject
+🇬🇧 a subject||🇫🇷 un sujet
 
-Exemple : Ressortissant d'une monarchie||🇫🇷 un sujet
+Note : Ressortissant d'une monarchie
 ----------
 🇬🇧 to reign (over)||🇫🇷 régner (sur)
 ----------
 🇬🇧 to abdicate||🇫🇷 abdiquer
+
+Note : Renoncer à
 ----------
 🇬🇧 to usurp||🇫🇷 usurper
 ----------

@@ -1,8 +1,8 @@
 a constituency, a district;une circonscription;...;...;N;LIVRE;B2
 a candidacy;une candidature;...;...;N;LIVRE;B2
-a candidate;un candidat;...;Un candidat sans étiquette se dit "an out-party candidate";N;LIVRE;A2
+a candidate;un candidat;Un candidat sans étiquette se dit "an out-party candidate";...;N;LIVRE;A2
 a spin doctor;un conseiller en communication / image;...;...;N;LIVRE;C1
-a rabble rouser;un harangueur (de foules);"the rabble" signifie la populace;...;N;LIVRE;C2
+a rabble rouser;un harangueur (de foules);"the rabble" signifie la populace<br><br>harangueur : Personne qui harangue, qui discourt interminablement.;...;N;LIVRE;C2
 a debater;un spécialiste du débat;...;...;N;LIVRE;B2
 a (TV) debate;un débat (télévisé);...;...;N;LIVRE;B1
 a rival, an opponent;un rival / opposant;...;...;N;LIVRE;B1
@@ -23,5 +23,5 @@ to woo voters;flatter, courtiser les électeurs;...;...;V;LIVRE;C1
 to compete with sb for power;rivaliser avec qqn pour le pouvoir;...;...;V;LIVRE;B2
 to challenge somebody;défier quelqu’un;...;...;V;LIVRE;B2
 to contest a seat;(se) disputer un siège;Dans une assemblée;...;V;LIVRE;C1
-sitting;sortant (susceptible d’être réélu);...;Se dit d'un élu en exercice;ADJ;LIVRE;B2
+sitting;sortant (susceptible d’être réélu);Se dit d'un élu en exercice;...;ADJ;LIVRE;B2
 outgoing;sortant (non réélu ou qui s'en va);...;...;ADJ;LIVRE;B2

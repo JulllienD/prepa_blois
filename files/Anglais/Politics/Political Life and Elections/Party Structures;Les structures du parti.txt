@@ -2,21 +2,21 @@ the ruling party;le parti au pouvoir, la majorité;...;...;N;LIVRE;B2
 an alliance;une alliance;...;...;N;LIVRE;B1
 an opposition party;un parti d’opposition;...;...;N;LIVRE;B2
 a splinter party;un parti dissident;"a splinter" désigne un éclat ou une écharde;...;N;LIVRE;C1
-political dissidence;la dissidence;...;...;N;LIVRE;C1
+political dissidence;la dissidence;déf : the act of publicly disagreeing with and criticizing the government or a powerful person or group;...;N;LIVRE;C1
 a political dissenter;un dissident;...;...;N;LIVRE;C1
 a cleavage;une division / un clivage;...;...;N;LIVRE;C1
 a split, a rift;une scission;...;...;N;LIVRE;B2
-a manifesto;un manifeste;...;...;N;LIVRE;B2
+a manifesto;un manifeste;déf : a written statement of the beliefs, aims, and policies of an organization, especially a political party;...;N;LIVRE;B2
 a platform;un programme;Dans un contexte politique (programme électoral);...;N;LIVRE;B2
 ideology;l’idéologie;...;...;N;LIVRE;B2
 an ideologist;un idéologue;...;...;N;LIVRE;C1
 financing;le financement;...;...;N;LIVRE;B2
-a slush fund;une caisse noire;...;...;N;LIVRE;C1
+a slush fund;une caisse noire;déf : an amount of money that is kept for dishonest or illegal activities in politics or business;...;N;LIVRE;C1
 the party members;les membres du parti;...;...;N;LIVRE;A2
 party membership;l’adhésion à un parti / les effectifs;...;...;N;LIVRE;B2
 the leadership;la direction / les dirigeants;...;...;N;LIVRE;B1
 a party leader;un chef de file;...;...;N;LIVRE;B1
-a party official;un responsable du parti;...;Parfois qualifié d'apparatchik;N;LIVRE;B2
+a party official;un responsable du parti;Parfois qualifié d'apparatchik;...;N;LIVRE;B2
 a reformist;un réformateur;...;...;N;LIVRE;B2
 the rank-and-file;la base;Les militants et membres de base (sans responsabilités);...;N;LIVRE;C1
 activism;le militantisme;...;...;N;LIVRE;B2

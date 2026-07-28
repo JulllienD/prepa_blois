@@ -15,7 +15,7 @@ multi-party elections;les élections multipartites;...;...;N;LIVRE;B2
 a direct election;une élection au suffrage direct;...;...;N;LIVRE;B2
 a two-stage / a two-tier election;une élection à deux tours;...;...;N;LIVRE;C1
 an election on a majority basis;une élection au scrutin majoritaire;Pluriel de basis : bases;...;N;LIVRE;C1
-a by-election;une élection partielle;...;Organisée pour remplacer un élu démissionnaire ou décédé;N;LIVRE;C1
+a by-election;une élection partielle;Organisée pour remplacer un élu démissionnaire ou décédé;...;N;LIVRE;C1
 a cross-party / a coalition majority;une majorité de coalition;...;...;N;LIVRE;C1
 an election reform;une réforme électorale;...;...;N;LIVRE;B2
 to call an election;appeler aux urnes / organiser des élections;...;...;V;LIVRE;B2

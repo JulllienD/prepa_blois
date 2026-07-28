@@ -36,9 +36,9 @@ Note : Aux États-Unis, précédé par les "Primaries" (les élections primaires
 
 Note : Pluriel de basis : bases
 ----------
-🇬🇧 a by-election
+🇬🇧 a by-election||🇫🇷 une élection partielle
 
-Exemple : Organisée pour remplacer un élu démissionnaire ou décédé||🇫🇷 une élection partielle
+Note : Organisée pour remplacer un élu démissionnaire ou décédé
 ----------
 🇬🇧 a cross-party / a coalition majority||🇫🇷 une majorité de coalition
 ----------

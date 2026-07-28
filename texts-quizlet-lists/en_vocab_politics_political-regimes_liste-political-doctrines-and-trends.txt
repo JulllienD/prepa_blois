@@ -4,9 +4,9 @@
 ----------
 🇬🇧 conservatism||🇫🇷 le conservatisme
 ----------
-🇬🇧 the Conservative Party
+🇬🇧 the Conservative Party||🇫🇷 le Parti conservateur
 
-Exemple : Au Royaume-Uni notamment||🇫🇷 le Parti conservateur
+Note : Au Royaume-Uni notamment
 ----------
 🇬🇧 communism||🇫🇷 le communisme
 ----------
@@ -16,9 +16,9 @@ Exemple : Au Royaume-Uni notamment||🇫🇷 le Parti conservateur
 ----------
 🇬🇧 the Labour doctrine||🇫🇷 le travaillisme
 ----------
-🇬🇧 the Labour Party
+🇬🇧 the Labour Party||🇫🇷 le Parti travailliste
 
-Exemple : Parti britannique de centre-gauche||🇫🇷 le Parti travailliste
+Note : Parti britannique de centre-gauche
 ----------
 🇬🇧 monarchism||🇫🇷 le monarchisme
 ----------
@@ -36,9 +36,9 @@ Exemple : Parti britannique de centre-gauche||🇫🇷 le Parti travailliste
 ----------
 🇬🇧 conservative||🇫🇷 conservateur
 ----------
-🇬🇧 Labour
+🇬🇧 Labour||🇫🇷 travailliste
 
-Exemple : Relatif au parti ou à la doctrine||🇫🇷 travailliste
+Note : Relatif au parti ou à la doctrine
 ----------
 🇬🇧 fascist||🇫🇷 fasciste
 ----------
