@@ -12,6 +12,8 @@
 ----------
 🇬🇧 ammunition||🇫🇷 des munitions
 ----------
+🇬🇧 ammo||🇫🇷 abbréviation de ammunition qui veut dire minutions
+----------
 🇬🇧 a bullet||🇫🇷 une balle
 ----------
 🇬🇧 a cartridge||🇫🇷 une cartouche
@@ -61,6 +63,8 @@
 🇬🇧 a background check||🇫🇷 une vérification des antécédents judiciaires
 ----------
 🇬🇧 a thorough check||🇫🇷 une vérification complète
+----------
+🇬🇧 thorough||🇫🇷 minutieux, rigoureux, complet
 ----------
 🇬🇧 restrictions on||🇫🇷 des limitations à
 ----------
@@ -178,7 +182,9 @@ Note : shoot, shot, shot
 ----------
 🇬🇧 to kill||🇫🇷 tuer
 ----------
-🇬🇧 to die, died, died||🇫🇷 mourir
+🇬🇧 to die||🇫🇷 mourir
+
+Note : die, died, died
 ----------
 🇬🇧 to be dead||🇫🇷 être mort
 ----------
@@ -189,10 +195,12 @@ Note : argotique
 🇬🇧 to bite the bullet / kick the bucket||🇫🇷 passer l'arme à gauche
 
 Note : idiome
+"mourir"
 ----------
 🇬🇧 to push the daisies||🇫🇷 manger les pissenlits par la racine
 
 Note : idiome
+être mort
 ----------
 🇬🇧 to commit suicide / kill oneself||🇫🇷 se suicider
 ----------
@@ -221,6 +229,8 @@ Note : idiome
 🇬🇧 destructive||🇫🇷 destructeur
 ----------
 🇬🇧 foolhardy||🇫🇷 téméraire
+
+Note : déf : brave in a silly way, taking unnecessary risks
 ----------
 🇬🇧 ruthless||🇫🇷 impitoyable
 ----------

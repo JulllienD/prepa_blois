@@ -5,6 +5,7 @@ a shotgun;un fusil;...;...;N;COURS;B2
 a rifle;une carabine;...;...;N;COURS;B2
 an assault rifle;un fusil d'assaut;...;...;N;COURS;B2
 ammunition;des munitions;...;...;N;COURS;B2
+ammo;abbréviation de ammunition qui veut dire minutions;...;...;ABREV;COURS;B2
 a bullet;une balle;...;...;N;COURS;B1
 a cartridge;une cartouche;...;...;N;COURS;B2
 a clip / magazine;un chargeur;...;...;N;COURS;B2
@@ -30,6 +31,7 @@ gun control;la réglementation des armes à feu;...;...;N;COURS;B2
 the county sheriff;le sheriff du comté;...;...;N;COURS;B1
 a background check;une vérification des antécédents judiciaires;...;...;N;COURS;B2
 a thorough check;une vérification complète;...;...;N;COURS;B2
+thorough;minutieux, rigoureux, complet;...;...;ADJ;COURS;B2
 restrictions on;des limitations à;...;...;N;COURS;B2
 an infringement;une restriction;...;...;N;COURS;C1
 drastic measures;des mesures radicales;...;...;N;COURS;B2
@@ -85,11 +87,11 @@ to press the trigger;presser la gâchette;...;...;V;COURS;B2
 to assault;attaquer;...;...;V;COURS;B2
 to injure;blesser;...;...;V;COURS;B2
 to kill;tuer;...;...;V;COURS;A2
-to die, died, died;mourir;...;...;V;COURS;A2
+to die;mourir;die, died, died;...;V;COURS;A2
 to be dead;être mort;...;...;V;COURS;A2
 to pop off;clamser, claquer;argotique;...;A;COURS;C1
-to bite the bullet / kick the bucket;passer l'arme à gauche;idiome;...;A;COURS;C1
-to push the daisies;manger les pissenlits par la racine;idiome;...;A;COURS;C1
+to bite the bullet / kick the bucket;passer l'arme à gauche;idiome<br>"mourir";...;A;COURS;C1
+to push the daisies;manger les pissenlits par la racine;idiome<br>être mort;...;A;COURS;C1
 to commit suicide / kill oneself;se suicider;...;...;V;COURS;B2
 available;disponible;...;...;ADJ;COURS;B1
 tough;rude, dur;...;...;ADJ;COURS;B1
@@ -103,7 +105,7 @@ unreasonable;déraisonnable;...;...;ADJ;COURS;B2
 disquieting;inquiétant;...;...;ADJ;COURS;C1
 threatening;menaçant;...;...;ADJ;COURS;B2
 destructive;destructeur;...;...;ADJ;COURS;B2
-foolhardy;téméraire;...;...;ADJ;COURS;C1
+foolhardy;téméraire;déf : brave in a silly way, taking unnecessary risks;...;ADJ;COURS;C1
 ruthless;impitoyable;...;...;ADJ;COURS;C1
 insane;dément;...;...;ADJ;COURS;B2
 crazy;dingue;...;...;ADJ;COURS;A2
