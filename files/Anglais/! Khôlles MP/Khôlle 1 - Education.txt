@@ -1,0 +1,299 @@
+INTRO;Coucou<br>Oui 229 mots...<br>Vous avez le lien quizlet juste en haut à droite de la page, tout en bas vous avez chaque liste individuelle qui ont été utilisées pour faire la grande liste.<br>Il n'y a aucun nouveau mot par rapport à l'année dernière, juste des révisions.<br><br>Type de khôlle : Article de presse<br>Dates : Lundi 14 septembre au Vendredi 25 septembre<br>Parties du livre : Education Chapter 2, Part 1 ('The Educational System', p22-p23) + Part 4 ('Assessment and Achievement, p28-p31)
+
+
+
+
+
+
+
+
+
+the school year;l’année scolaire;...;...;N;LIVRE;A1
+a term;un trimestre;...;...;N;LIVRE;B1
+a school day;une journée de cours;...;...;N;LIVRE;A1
+schooldays;les années d’école;...;...;N;LIVRE;B1
+a timetable / a schedule;un emploi du temps;...;...;N;LIVRE;A2
+a period, a class;une séance (de cours);...;...;N;LIVRE;B1
+a free period;une heure de permanence;...;...;N;LIVRE;B1
+a break (UK), a recess (US);une pause, une récréation;...;...;N;LIVRE;A1
+the lunch break;la pause déjeuner;...;...;N;LIVRE;A1
+a school holiday (UK), a school vacation (US);les vacances scolaires;...;...;N;LIVRE;A1
+half-term holiday;des petites vacances;...;...;N;LIVRE;B1
+the winter break;les vacances d’hiver;...;...;N;LIVRE;A1
+the spring break;les vacances de printemps;...;...;N;LIVRE;A1
+to attend school;fréquenter l’école;...;...;V;LIVRE;B1
+to go to school;aller à l’école;go, went, gone;...;VI;LIVRE;A1
+to have a (History) class;avoir cours (d’histoire);have, had, had;...;VI;LIVRE;A1
+to take a break;faire une pause;take, took, taken;...;VI;LIVRE;A1
+to be on holiday (UK), on vacation (US);être en vacances;be, was/were, been;...;VI;LIVRE;A1
+
+
+
+
+
+a daycare centre (UK), a day-care center (US);une crèche, une garderie;...;...;N;LIVRE;B2
+a child-minder, a nanny;une nourrice;comme super nanny;...;N;LIVRE;B1
+a nursery school (UK), kindergarten (US/DE);une école maternelle;...;...;N;LIVRE;A2
+a preschool child;un élève de maternelle;...;...;N;LIVRE;B1
+a workplace nursery;une crèche sur le lieu de travail;...;...;N;LIVRE;B2
+to put a child into daycare;mettre un enfant à la crèche;put, put, put;...;VI;LIVRE;B2
+to go to nursery school;aller à la maternelle;go, went, gone;...;VI;LIVRE;A2
+
+schooling;l’instruction scolaire;...;...;N;LIVRE;B1
+compulsory schooling;la scolarité obligatoire;...;...;N;LIVRE;B2
+school age;l’âge scolaire;...;...;N;LIVRE;A2
+teaching;l’enseignement;...;...;N;LIVRE;B1
+a school;une école;putain on le savait pas;...;N;LIVRE;A1
+a public school (US);une école publique;...;...;N;LIVRE;A2
+a private/independant school;une école privée;...;...;N;LIVRE;B1
+a “public” school;en anglais britannique c’est une école privée;historiquement ouverte au public par opposition aux précepteurs privés;...;DEF;LIVRE;B2
+
+a boys’ school;une école de garçons;...;...;N;LIVRE;A2
+a girls’ school;une école de filles;...;...;N;LIVRE;A2
+a vocational school (US);un lycée professionnel;...;...;N;LIVRE;B2
+a boarding-school;un internat;def : a school where students live and study<br>d'après la définition c'est plus un pensionnat qu'un internat, mais ce terme englobe les deux;Alexandre se prépare à quitter sa maison pour une nouvelle semaine à l'internat. = Alexander is preparing to leave home for another week at boarding school.;N;LIVRE;B2
+a boarder;un interne;...;...;N;LIVRE;B2
+compulsory, mandatory;obligatoire;...;Foreign language classes are compulsory in this school. = L'apprentissage d'une langue étrangère est obligatoire dans cette école.;ADJ;LIVRE;B2
+denominational;confessionnel, religieux;...;She goes to a denominational school, so they have religious studies every morning and go to chapel on Fridays. = Elle va dans une école confessionnelle, donc ils ont des cours de religion tous les matins et vont à la chapelle le vendredi.;ADJ;LIVRE;C1
+non-denominational;laïque;...;...;ADJ;LIVRE;C1
+mixed, co-educational “co-ed”;mixte;...;...;ADJ;LIVRE;B1
+state-run;géré par l’Etat;...;...;ADJ;LIVRE;B2
+fee-paying;payant;...;...;ADJ;LIVRE;B2
+fees;les honoraires / frais;...;...;N;LIVREM;B1
+
+
+
+
+
+further education;la formation continue;def : Further Education (FE) includes any study after secondary education (GCSEs) that is not part of an undergraduate or graduate degree;...;N;LIVRE;B2
+a college of further education;un centre de formation continue;...;...;N;LIVRE;B2
+a college;un établissement d’enseignement supérieur;l'université, la fac en gros;...;N;LIVREM;A2
+college sport;le sport universitaire;...;...;N;LIVRE;B1
+a state/private university;une université d’État/privée;...;...;N;LIVRE;B1
+a polytechnic;un I.U.T.;...;...;N;LIVRE;B2
+an engineering school;une école d’ingénieur;...;...;N;LIVRE;B1
+a business school;une école de commerce;...;...;N;LIVRE;B1
+a medical school;une faculté de médecine;...;...;N;LIVRE;B1
+a medic;un étudiant en médecine;...;...;N;LIVREM;C1
+a law school;une faculté de droit;...;...;N;LIVRE;B1
+a graduate school (US);≈ une université de 3ᵉ cycle;...;...;N;LIVRE;C1
+a lecture room/theatre;un amphithéâtre;...;...;N;LIVRE;B2
+a lecture;un cours magistral;...;...;N;LIVRE;B1
+a laboratory;un laboratoire;...;...;N;LIVRE;B1
+facilities;les équipements, l’infrastructure;...;...;N;LIVREM;B2
+research facilities;les équipements de recherche;...;...;N;LIVRE;B2
+a university library;une bibliothèque universitaire;...;...;N;LIVRE;A2
+a bookshop;une librairie;...;...;N;LIVREM;A2
+registration, enrolment (UK), enrollment (US);l’inscription;...;...;N;LIVRE;B2
+the intake;les admissions;...;...;N;LIVRE;C1
+tuition;les cours / l'enseignement;...;Most university students only have a few hours of tuition every week. = La plupart des étudiants à l'université n'ont que quelques heures de cours par semaine.;N;LIVRE;B2
+the (tuition) fees;les frais de scolarité;...;Many students struggle to pay the tuition fees. = Plusieurs étudiants ont du mal à payer les frais de scolarité.;N;LIVRE;B1
+a grant;une bourse d’études (selon revenus);...;...;N;LIVRE;B1
+to grant;accorder;...;...;V;LIVREM;B2
+a scholarship;une bourse (selon résultats scolaires);...;...;N;LIVRE;B1
+a fellowship;une bourse de recherche;def : an amount of money that is given to someone, especially a postgraduate;PhDs can be expensive, unless you get a fellowship.;N;LIVRE;C1
+to register, enrol (UK), enroll (US);s’inscrire;...;Gina enrolled in a course in French history.<br><br>She didn't enroll in college till the age of twenty-two. = Elle ne s'est pas inscrite à l'université avant l'âge de vingt-deux ans.;V;LIVRE;B1
+to go to college;aller à l’université;go, went, gone;...;VI;LIVRE;A2
+to attend a lecture;aller à une conférence;...;...;V;LIVRE;B1
+to go to graduate school;faire des études spécialisées;go, went, gone;...;VI;LIVRE;C1
+to read (History);étudier, faire des études (d’histoire);read, read, read<br><br>Cette formulation est utilisé qu'au RU et reste assez rare;My son is reading Classics at Cambridge University. = Mon fils étudie les lettres classiques à l'Université de Cambridge.;VI;LIVRE;C1
+to major in (US);se spécialiser en;...;...;V;LIVRE;B2
+to have a college education;avoir fait des études supérieures;have, had, had;...;VI;LIVRE;B1
+
+
+
+
+
+vocational training;la formation professionnelle;...;...;N;LIVRE;B2
+a training course (UK), internship (US);un stage de formation;...;...;N;LIVRE;B1
+a trainee (UK), an intern (US);un stagiaire;...;...;N;LIVRE;B1
+
+a training scheme (UK), programme (US);un programme de formation;...;...;N;LIVRE;B2
+on-the-job training;la formation sur le tas;on dit sur le tas car on apprend en faisant le métier;...;N;LIVRE;B2
+off-the-job training;la formation hors entreprise;...;...;N;LIVRE;C1
+in-house training;la formation en interne;...;...;N;LIVRE;B2
+job-specific training;la formation à un emploi;...;...;N;LIVRE;B2
+work experience;l’expérience professionnelle;...;...;N;LIVRE;B1
+a placement;un (lieu de) stage;...;...;N;LIVRE;B2
+a customized course;des cours sur mesure;...;...;N;LIVRE;C1
+an intensive course;des cours intensifs/accélérés;...;...;N;LIVRE;B1
+a refresher course;des cours de recyclage;recylage dans le sens de révisions;All the cabin attendants are required to go on a customer service refresher course. = Tout le personnel navigant doit suivre une séance de révisions sur le service clients.;N;LIVRE;C1
+a sandwich course;une formation en alternance;the term "sandwich" was used in a 1950 National Advisory Council on Education for Industry and Commerce report on possible developments within the further education sector. (Wiki);...;N;LIVRE;C1
+night school;les cours du soir;...;...;N;LIVRE;A2
+to train;former, se former;...;...;V;LIVRE;A2
+to train for a job;suivre une formation pour un poste;...;...;V;LIVRE;B1
+to retrain;former à nouveau, recycler;...;...;V;LIVRE;B2
+to improve, enhance;améliorer;...;...;V;LIVRE;B2
+to go into training;aller en stage;go, went, gone;...;VI;LIVRE;B1
+to coach;entraîner, donner des leçons (à);...;...;V;LIVRE;B1
+
+
+
+
+
+learning;l’apprentissage, l’érudition;L'apprentissage : L'acquisition du savoir<br>L'érudition : La maîtrise absolue et approfondie;...;N;LIVRE;B1
+general knowledge;la culture générale;...;...;N;LIVRE;B1
+know-how;le savoir-faire;...;...;N;LIVRE;B2
+literacy;l’alphabétisation;...;...;N;LIVRE;B2
+a smattering (of);des notions, des rudiments (de);...;...;N;LIVRE;C1
+
+to learn;apprendre;learn, learnt/learned, learnt/learned;...;VI;LIVRE;A1
+to know;savoir, connaître;know, knew, known;...;VI;LIVRE;A1
+to know how to do something;savoir faire quelque chose;know, knew, known;He knows how to cook;VI;LIVREM;A2
+to acquire;acquérir;...;...;V;LIVRE;B2
+to be familiar with;bien connaître;be, was/were, been;...;VI;LIVRE;B1
+familiar;familier, connu;...;He spoke to the director in a very familiar tone. (Il a parlé au directeur sur un ton très familier)<br><br>His face looks familiar, but I can't remember his name. (Son visage me dit quelque chose / m'est connu, mais je ne me souviens plus de son nom).;ADJ;LIVREM;A2
+to master (a subject);maîtriser (un sujet);...;...;V;LIVRE;B2
+to be conversant with;s’y connaître en;...;...;V;LIVRE;C1
+to be able to read and write;savoir lire et écrire;be, was/were, been;He can read : Il sait lire;VI;LIVRE;A2
+
+to reach (a level);atteindre (un niveau);...;...;V;LIVRE;B1
+
+knowledgeable;savant, bien informé;...;...;ADJ;LIVRE;B2
+learned;instruit, savant;...;...;ADJ;LIVRE;C1
+educated, well-read;cultivé;def : Someone who is well read has learned a lot of information on different subjects by reading.;...;ADJ;LIVRE;B2
+skilled, qualified;qualifié;...;...;ADJ;LIVRE;B1
+competent;compétent;...;...;ADJ;LIVRE;B2
+well-rounded;qui a reçu une éducation complète;def : having experience in a wide range of ideas or activities;...;ADJ;LIVRE;C1
+
+
+
+
+
+concentration;la concentration;...;...;N;LIVRE;B1
+hard work;le travail sérieux;...;...;N;LIVRE;A2
+memory;la mémoire;...;...;N;LIVRE;A2
+a memory;un souvenir;...;...;N;LIVREM;A2
+memorization;la mémorisation;...;...;N;LIVRE;B2
+autonomy;l’autonomie;...;...;N;LIVRE;B2
+a skill, a competence;une compétence;...;...;N;LIVRE;B1
+reading skills;l’aptitude à la lecture;...;...;N;LIVRE;B1
+writing skills;l’aptitude à écrire;...;...;N;LIVRE;B1
+reasoning skills;l’aptitude au raisonnement;...;...;N;LIVRE;B2
+literacy;l’alphabétisation;...;...;N;LIVRE;B2
+illiteracy;l’analphabétisme, l’illettrisme;...;...;N;LIVRE;B2
+understanding;la compréhension;...;...;N;LIVRE;B1
+reasoning;le raisonnement;...;...;N;LIVRE;B2
+interpretation;l’interprétation;...;...;N;LIVRE;B2
+analysis;l’analyse;several analyses = plusieurs analyses;...;N;LIVRE;B2
+a demonstration;une démonstration;...;...;N;LIVRE;B2
+
+to concentrate on, to focus on;se concentrer sur;...;...;V;LIVRE;B1
+to decipher;déchiffrer;...;...;V;LIVRE;C1
+to read;lire;read, read, read;...;VI;LIVRE;A1
+to write;écrire, rédiger;write, wrote, written;...;VI;LIVRE;A1
+to understand;comprendre;understand, understood, understood;...;VI;LIVRE;A1
+to grasp;saisir, comprendre;veut aussi dire saisir quelque chose fermement avec sa main, aggriper;- dans le sens comprendre :<br>Gerald couldn't grasp the complicated concept that his teacher was trying to explain.<br>- dans le sens aggriper :<br>Mike grasped his bag tightly on the subway;V;LIVRE;B2
+to reason;raisonner;...;...;V;LIVRE;B2
+to interpret;interpréter;...;...;V;LIVRE;B2
+to analyse (UK), analyze (US);analyser;...;...;V;LIVRE;B1
+to anticipate;anticiper;...;...;V;LIVRE;B2
+to induce, infer;induire;...;...;V;LIVRE;C1
+to deduce;déduire;...;...;V;LIVRE;B2
+to demonstrate;démontrer;...;...;V;LIVRE;B2
+to count;compter;...;...;V;LIVRE;A1
+to calculate, compute, reckon;calculer;- calculate c'est vraiment faire calcul<br>- compute c'est plus faire un calcul avec une machine, d'où le radical "compute" comme "computer"<br>- to reckon est plutot rare et utilisé majoritairement au RU. to reckon ça veut aussi dire "penser" ou "croire";...;V;LIVRE;B2
+to compute with a computer;calculer avec un ordinateur;...;...;V;LIVREM;B2
+to carry out (an experiment);exécuter, réaliser (une expérience);...;...;V;LIVRE;B2
+
+literate;qui sait lire et écrire;...;...;ADJ;LIVRE;B2
+numerate;qui sait compter;...;...;ADJ;LIVRE;C1
+logical;logique;...;...;ADJ;LIVRE;B1
+good at;bon en;...;She's good at tennis;ADJ;LIVRE;A2
+proficient at;très bon en, fort en;...;...;ADJ;LIVRE;B2
+excellent at;excellent en;...;...;ADJ;LIVRE;A2
+gifted (for);doué (pour);"gift" veut dire cadeau, donc gifted c'est plutôt avoir un don;...;ADJ;LIVRE;B2
+
+clever, bright, intelligent;intelligent;...;...;ADJ;LIVRE;A2
+sharp;vif;...;...;ADJ;LIVRE;B2
+able;capable;...;...;ADJ;LIVRE;A2
+
+
+
+
+
+a level, a standard;un niveau;...;...;N;LIVRE;A2
+academic standards;le niveau scolaire;...;...;N;LIVREM;B2
+a requirement;un niveau requis;...;...;N;LIVRE;B2
+entrance requirements;le niveau d’entrée;...;...;N;LIVREM;B2
+the IQ (intellectual quotient);le Q.I. (quotient intellectuel);...;...;N;LIVRE;B1
+a paper;un devoir;...;I have a paper on the French Revolution due on Friday.;N;LIVRE;A2
+an examination paper;une copie, un sujet d’examen;désigne la feuille sur laquelle les questions sont imprimées et non la feuille sur laquelle on rédige les réponses;...;N;LIVRE;B1
+a test;un contrôle, un test;...;...;N;LIVRE;A1
+a mock exam (UK), a practice test (US);un examen blanc;...;...;N;LIVRE;B1
+an oral/written test;un examen oral/écrit;...;...;N;LIVRE;A2
+an assessment;un bilan, une évaluation;...;...;N;LIVRE;B2
+an examination, an exam;un examen;...;...;N;LIVRE;A2
+a competitive exam;un concours;...;...;N;LIVREM;B2
+a candidate;un candidat;...;...;N;LIVRE;B1
+a performance;un résultat;...;...;N;LIVRE;B1
+academic results;les résultats scolaires;...;...;N;LIVREM;B1
+a score;une note, un résultat;...;...;N;LIVRE;A2
+a (good/bad) mark (UK), grade (US);une (bonne/mauvaise) note;...;...;N;LIVRE;A2
+the average mark;la moyenne;...;...;N;LIVRE;B1
+an average student;un élève moyen;...;...;N;LIVREM;B1
+a school report, a report card;un bulletin scolaire;...;...;N;LIVRE;A2
+a diploma, a degree;un diplôme;...;...;N;LIVRE;B1
+a pass degree;un diplôme sans mention;...;...;N;LIVRE;C1
+due; à rendre;...;...;ADJ;SUPP;B2
+
+to select;sélectionner;...;...;V;LIVRE;B1
+a career adviser;un conseiller d’orientation;...;...;N;LIVREM;B2
+to guide;orienter;...;...;V;LIVRE;B1
+to assess, rate;évaluer;...;...;V;LIVRE;B2
+to test;tester;...;...;V;LIVRE;A1
+to examine;interroger;...;...;V;LIVRE;B1
+to mark (UK), to grade (US);noter, attribuer une note;...;...;V;LIVRE;A2
+to award (a diploma);décerner (un diplôme);...;...;V;LIVRE;B2
+to prepare for an exam;se préparer à un examen;...;...;V;LIVRE;A2
+to cram;bachoter;to cram normalement ça veut dire forcer a mettre des trucs dans un tout petit espace, ici c'est l'expression qui veur dire apprendre en dernière minute;She's cramming for her history exam.;V;LIVRE;C1
+to take an exam;passer un examen;take, took, taken;...;VI;LIVRE;A2
+to stand for/sit for an exam;se présenter à un examen;stand, stood, stood / sit, sat, sat;...;VI;LIVRE;B1
+to hand in a paper;rendre/remettre un devoir;...;...;V;LIVRE;B1
+to defend a Ph.D.;soutenir une thèse;...;...;V;LIVRE;C1
+Ph.D.;Philosophiae Doctor (doctorat d’Etat);...;...;ABREV;LIVREM;B2
+
+
+
+
+
+graduation;l’obtention d’un diplôme;...;...;N;LIVRE;B2
+graduation-day;le jour de remise des diplômes;...;...;N;LIVREM;B2
+a graduate;un diplômé;...;...;N;LIVRE;B2
+a high-school graduate;un bachelier;...;...;N;LIVRE;B2
+an undergraduate;un étudiant (pas encore diplômé);...;...;N;LIVRE;B2
+a post-graduate student;un étudiant de troisième cycle;...;...;N;LIVRE;C1
+a scholar;un érudit, un spécialiste;...;...;N;LIVRE;C1
+a Shakespeare scholar;un spécialiste de Shakespeare;...;...;N;LIVREM;C1
+a high achiever;quelqu’un qui réussit, un gagneur;...;...;N;LIVRE;B2
+an academic achiever;un élève brillant;...;...;N;LIVRE;C1
+a whizz-kid;un enfant surdoué, un phénomène;...;...;N;LIVRE;C1
+a bookworm;un rat de bibliothèque;a worm = un ver;...;N;LIVRE;C1
+
+
+to pass an exam;réussir un examen;...;...;V;LIVRE;A2
+to graduate;obtenir son diplôme;...;...;V;LIVRE;B2
+to get / obtain a degree;obtenir un diplôme;get, got, got;...;VI;LIVRE;B1
+- to achieve (a result)<br>- to achieve (an objective);- obtenir, arriver à (un résultat)<br>- atteindre (un objectif);...;...;V;LIVRE;B2
+to do well;bien réussir;do, did, done;...;VI;LIVRE;A2
+to manage (in doing something);arriver / réussir (à faire quelque chose);...;...;V;LIVRE;B1
+to succeed (in doing something);réussir (à faire quelque chose);...;He succeeded in graduating from Harvard;V;LIVRE;B1
+to succeed at (a test);réussir (un test);...;...;V;LIVRE;B1
+to sail through;réussir avec aisance / haut la main;to sail ca veut dire voyager sur l'eau;...;V;LIVRE;C1
+to be a credit to;faire honneur à;be, was/were, been;...;VI;LIVRE;C1
+to shine at;briller en, être brillant en;shine, shone, shone;...;VI;LIVRE;B2
+to shine through;éclater au grand jour;shine, shone, shone;...;VI;LIVRE;C1
+to win a scholarship;obtenir une bourse;win, won, won;...;VI;LIVRE;B2
+
+
+
+
+QUIZLET;https://quizlet.com/fr/1204860504/prepa-en-kholle-1-mp-education-flash-cards/?i=4o2swj&x=1jqt
+LIEN;Fiche utilisée : School Life;en_vocab_education_the-educational-system_fiche-school-life.html
+LIEN;Fiche utilisée : Preschool Primary and Secondary;en_vocab_education_the-educational-system_fiche-preschool-primary-and-secondary.html
+LIEN;Fiche utilisée : Higher Education;en_vocab_education_the-educational-system_fiche-higher-education.html
+LIEN;Fiche utilisée : Training;en_vocab_education_the-educational-system_fiche-training.html
+LIEN;Fiche utilisée : Knowledge;en_vocab_education_assessment-and-achievement_fiche-knowledge.html
+LIEN;Fiche utilisée : Abilities;en_vocab_education_assessment-and-achievement_fiche-abilities.html
+LIEN;Fiche utilisée : Assessment;en_vocab_education_assessment-and-achievement_fiche-assessment.html
+LIEN;Fiche utilisée : Achievement;en_vocab_education_assessment-and-achievement_fiche-achievement.html

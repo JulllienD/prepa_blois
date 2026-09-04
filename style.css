@@ -99,6 +99,10 @@ body {
     text-align: justify;
 }
 
+.fiche-intro {
+    color: #475263;
+}
+
 .intro-text-2 {
     font-size: 1.5rem;
     font-weight: 600;
@@ -352,13 +356,26 @@ body {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    height: 40px;
+    height: 30px;
     padding: 0 12px; /* Donne la forme rectangulaire */
     border-radius: 6px; /* Coins arrondis du rectangle */
     border: 1px solid #dee2e6;
     background-color: #b0b4b8;
     transition: all 0.2s ease;
     text-decoration: none;
+}
+.action-button-link-quizlet {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 55px;
+    width: 75px;
+    padding: 0 12px; /* Donne la forme rectangulaire */
+    border-radius: 6px; /* Coins arrondis du rectangle */
+    transition: all 0.2s ease;
+    text-decoration: none;
+    background-color: #3342cf; /* Fond sombre Quizlet */
+    border: none;
 }
 
 .action-button-link:hover {
@@ -367,19 +384,21 @@ body {
     transform: translateY(-1px); /* Léger effet de survol */
 }
 
-/* Style spécifique au bouton Quizlet */
-.action-button-link.quizlet-btn {
-    background-color: #3342cf; /* Fond sombre Quizlet */
-    border: none;
-}
-.action-button-link.quizlet-btn:hover {
-    background-color: #4454e4;
+.action-button-link-quizlet:hover {
+    background-color: #828ef6;
+    border-color: #c2c8ff;
+    transform: translateY(-1px); /* Léger effet de survol */
 }
 
 /* Taille des images/icônes à l'intérieur des boutons */
 .action-button-link img {
-    width: 35px;
-    height: 35px;
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+}
+.action-button-link-quizlet img {
+    width: 50px;
+    height: 50px;
     object-fit: contain;
 }
 
@@ -449,11 +468,11 @@ body {
 
 /* 2. Colonne ANGLAIS : Large, Alignement à DROITE */
 .vocab-table th:nth-child(2), 
-.vocab-table td:nth-child(2) { width: 20%; text-align: right; }
+.vocab-table td:nth-child(2) { width: 22%; text-align: right; }
 
 /* 3. Colonne FRANÇAIS : Large, Alignement à GAUCHE */
 .vocab-table th:nth-child(3), 
-.vocab-table td:nth-child(3) { width: 20%; text-align: left; }
+.vocab-table td:nth-child(3) { width: 22%; text-align: left; }
 
 /* 4. Colonne NIVEAU : Fine, Texte centré */
 .vocab-table th:nth-child(4), 
@@ -461,15 +480,12 @@ body {
 
 /* 5. Colonne NOTE : Large, Alignement à GAUCHE */
 .vocab-table th:nth-child(5), 
-.vocab-table td:nth-child(5) { width: 18%; text-align: left; }
+.vocab-table td:nth-child(5) { width: 20%; text-align: left; }
 
 /* 6. Colonne EXEMPLE : Large, Alignement à GAUCHE */
 .vocab-table th:nth-child(6), 
-.vocab-table td:nth-child(6) { width: 18%; text-align: left; }
+.vocab-table td:nth-child(6) { width: 20%; text-align: left; }
 
-/* 7. Colonne PROVENANCE : Un peu fine, Texte centré */
-.vocab-table th:nth-child(7), 
-.vocab-table td:nth-child(7) { width: 10%; text-align: center; }
 
 
 /* --- Styles spécifiques des textes de chaque colonne --- */
@@ -609,7 +625,7 @@ body {
 
 
 /* --- AMÉLIORATION DES BOUTONS D'EXERCICES (CORRIGÉ) --- */
-.liens-exo-inline {
+.liens-fiche {
     display: flex;
     flex-wrap: wrap;
     gap: 12px;           /* Espace régulier entre les boutons */
