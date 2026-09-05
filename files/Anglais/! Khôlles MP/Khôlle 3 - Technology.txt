@@ -1,0 +1,268 @@
+INTRO;Type de khôlle : Document audio<br>Dates : Lundi 12 octobre au Vendredi 6 novembre<br>Parties du livre : Work Chapter 20, Part 2 ('Working conditions', p261-p264) + Part 3 ('Industrial relations', p264-p266)
+
+
+
+
+
+
+
+Work Places;Les lieux de travail;...;...;DEF;LIVRE;A2
+a factory;une usine;...;...;N;LIVRE;A2
+a shop;un atelier;...;Dans le contexte industriel (et non un magasin);N;LIVRE;B1
+a sweatshop;un atelier de misère / clandestin;Prononciation : [ˈswetʃɒp];...;N;LIVRE;C1
+a company, a firm;une entreprise;Prononciation : [fɜːm] pour "firm";...;N;LIVRE;A2
+the headquarters / a branch;le siège / une succursale;...;"Headquarters" s'emploie souvent au pluriel;N;LIVRE;B2
+a shop;un magasin, une boutique;...;Dans le contexte du commerce;N;LIVRE;A1
+an office;un bureau;...;Le lieu / la pièce de travail;N;LIVRE;A1
+the premises;les locaux;...;Toujours au pluriel;N;LIVRE;B2
+
+Working Hours;Le temps de travail;...;...;DEF;LIVRE;B1
+a working day;un jour ouvrable / de travail;...;...;N;LIVRE;A2
+the working week;la semaine de travail;...;...;N;LIVRE;B1
+a 39-/35-hour working week;une semaine de 39/35 heures;...;...;N;LIVRE;B1
+office hours;les heures de bureau;Prononciation : [ˈaʊəz];...;N;LIVRE;A2
+flexitime;les horaires flexibles;...;...;N;LIVRE;B2
+part-time work;le travail à temps partiel;...;...;N;LIVRE;B1
+a part-time worker, a part-timer;un travailleur à temps partiel;...;...;N;LIVRE;B1
+temporary work, temping;le travail temporaire, l’intérim;...;...;N;LIVRE;B1
+shiftwork;le travail par roulement / en équipes;...;...;N;LIVRE;B2
+the day/night shift;l’équipe de jour/de nuit;...;...;N;LIVRE;B2
+overtime;les heures supplémentaires;...;...;N;LIVRE;B2
+work sharing;le partage du travail;...;...;N;LIVRE;C1
+to work full-time;travailler à temps plein;...;...;V;LIVRE;A2
+to work shifts;travailler par roulement;...;...;V;LIVRE;B2
+to work overtime;faire des heures supplémentaires;...;...;V;LIVRE;B2
+to do job sharing;partager le travail;do, did, done;...;VI;LIVRE;C1
+full-time;à temps plein;...;...;ADJ;LIVRE;A2
+part-time;à temps partiel;...;...;ADJ;LIVRE;A2
+half-time;à mi-temps;Prononciation : [hɑːf];...;ADJ;LIVRE;B1
+
+
+
+
+
+pay, salary;la paie, le salaire;...;...;N;LIVRE;A2
+a payslip, a paysheet;un bulletin de salaire;...;...;N;LIVRE;B2
+payday;le jour de paie;...;...;N;LIVRE;B1
+backpay;un rappel de salaire;...;...;N;LIVRE;C1
+holiday with pay, paid vacation (US);les congés payés;Prononciation : [ˈhɒlədeɪ];...;N;LIVRE;B1
+a leave on full pay;un congé rémunéré;...;...;N;LIVRE;C1
+a leave without pay;un congé sans solde;...;...;N;LIVRE;C1
+a salary scale;une grille/échelle de salaires;...;...;N;LIVRE;B2
+a fee / fees;des honoraires;S'utilise pour les professions libérales (avocats, médecins);...;N;LIVRE;B2
+a commission;une commission;...;...;N;LIVRE;B2
+wages;le salaire, la paie;Souvent utilisé pour les salaires payés à la semaine ou à l'heure (ouvriers);...;N;LIVRE;B1
+a wage earner;un salarié;...;...;N;LIVRE;B2
+a (pay) rise, (pay) hike;une augmentation (de salaire);...;...;N;LIVRE;B1
+a wage increase (UK), a raise (US);une hausse de salaire;...;...;N;LIVRE;B1
+a wage / a pay freeze;un gel de salaire;...;...;N;LIVRE;C1
+the minimum wage;le salaire minimum;...;...;N;LIVRE;B1
+the income;le(s) revenu(s);...;...;N;LIVRE;B1
+gross income;le revenu brut;...;...;N;LIVRE;B2
+net income;le revenu net (imposable);...;...;N;LIVRE;B2
+disposable income;le revenu disponible;...;...;N;LIVRE;C1
+purchasing power;le pouvoir d’achat;Prononciation : [ˈpaʊə];...;N;LIVRE;B2
+
+a bonus;une prime, une gratification;Pluriel : several bonuses;...;N;LIVRE;B1
+profit-sharing;l’intéressement;...;...;N;LIVRE;C1
+fringe benefits;les avantages sociaux;...;...;N;LIVRE;C1
+a perk;un avantage en nature;Abréviation de "perquisite";...;N;LIVRE;B2
+an expense account;les frais de représentation;...;...;N;LIVRE;C1
+a company car;une voiture de fonction;...;...;N;LIVRE;B1
+a lunch voucher;un ticket-restaurant;...;...;N;LIVRE;B2
+
+to earn money;gagner de l’argent en travaillant;Ne pas confondre avec "to win money" (gagner au jeu);...;V;LIVRE;A2
+to earn one’s living (as…);gagner sa vie (comme…);...;...;V;LIVRE;B1
+to eke out a living;gagner un maigre salaire;...;...;V;LIVRE;C2
+to be/to get paid;gagner, être payé;...;...;V;LIVRE;A2
+to be paid in kind;être payé en nature;...;...;V;LIVRE;C1
+to be paid in cash;être payé en espèces;...;...;V;LIVRE;B1
+to draw/to earn a salary;toucher un salaire;...;...;V;LIVRE;B2
+to get a rise;obtenir une augmentation;...;...;V;LIVRE;B1
+to increase, to raise;augmenter;...;...;V;LIVRE;B1
+to freeze (wages);geler (les salaires);freeze, froze, frozen;...;VI;LIVRE;B2
+to keep one’s head above water;survivre tant bien que mal;...;...;EXPR;LIVRE;B2
+
+overpaid;surpayé;...;...;ADJ;LIVRE;B2
+well-paid;bien payé;...;...;ADJ;LIVRE;A2
+badly-paid;mal payé;...;...;ADJ;LIVRE;B1
+underpaid;sous-payé;...;...;ADJ;LIVRE;B2
+
+
+
+
+
+an occupational disease;une maladie du travail / professionnelle;...;...;N;LIVRE;C1
+an accident;un accident;...;...;N;LIVRE;A2
+a workplace accident;un accident sur le lieu de travail;...;...;N;LIVRE;B1
+incapacitation for work;une incapacité de travail;...;...;N;LIVRE;C1
+paternity/maternity leave;le congé de paternité/maternité;...;...;N;LIVRE;B2
+(sick) leave;un congé (maladie);...;...;N;LIVRE;B1
+an insurance;une assurance;...;...;N;LIVRE;B1
+health/sickness insurance;l’assurance maladie;...;...;N;LIVRE;B1
+cover;la couverture;...;Dans le sens couverture d'assurance;N;LIVRE;B2
+sick pay;les prestations maladie;...;...;N;LIVRE;B2
+
+to have an accident;avoir un accident;have, had, had;...;VI;LIVRE;A2
+to be incapacitated for work;être dans l’incapacité de travailler;be, was/were, been;...;VI;LIVRE;C1
+to take a day off;prendre un jour de congé;take, took, taken;...;VI;LIVRE;A2
+to be on leave;être en congé;be, was/were, been;...;VI;LIVRE;B1
+to get compensation;obtenir des dommages et intérêts;get, got, got;...;VI;LIVRE;B2
+to be on a pension;recevoir une pension / retraite;be, was/were, been;...;VI;LIVRE;B1
+
+
+
+
+
+a law;une loi;...;...;N;LIVRE;A2
+a guideline;une directive / ligne directrice;...;...;N;LIVRE;B2
+a (work) contract;un contrat (de travail);...;...;N;LIVRE;A2
+a fixed-term contract;un CDD;...;...;N;LIVRE;B2
+an open-end contract;un CDI;...;...;N;LIVRE;B2
+(un)declared work;du travail (non) déclaré;...;...;N;LIVRE;B2
+moonlighting;le travail au noir;...;...;N;LIVRE;C1
+a moonlighter;un travailleur au noir;...;...;N;LIVRE;C1
+labour inspection;l'inspection du travail;...;...;N;LIVRE;B2
+
+to legislate;légiférer;...;...;V;LIVRE;C1
+to regulate;réglementer;...;...;V;LIVRE;B2
+to enforce (a law);appliquer / faire respecter (une loi);...;...;V;LIVRE;B2
+to declare;déclarer;...;...;V;LIVRE;B1
+to moonlight, to work on the sly;travailler au noir;...;...;V;LIVRE;C1
+
+
+
+
+
+a (trade) union (UK), a labor union (US);un syndicat;Attention : "The Syndicate" désigne la Mafia / un réseau criminel, comme dans Mission Impossible Rogue Nation;...;N;LIVRE;B1
+a spokesperson (for);un porte-parole (de);...;...;N;LIVRE;B2
+the union movement;le mouvement syndical;...;...;N;LIVRE;B2
+unionization;la syndicalisation;...;...;N;LIVRE;C1
+a union member;un travailleur syndiqué;...;...;N;LIVRE;B1
+a trade-unionist;un syndicaliste;...;...;N;LIVRE;B2
+the shop-floor;les ouvriers;Désigne l'usine même ou la base des travailleurs par opposition à la direction;...;N;LIVRE;C1
+the shop;l'atelier;Dans un contexte industriel;...;N;LIVRE;B1
+the rank and file;la base;Les membres de base d'une organisation/syndicat;...;N;LIVRE;C1
+a union official;un responsable syndical;...;...;N;LIVRE;B2
+a union representative, a shop steward;un délégué syndical;...;...;N;LIVRE;B2
+a union leader;un dirigeant syndical;...;...;N;LIVRE;B2
+union fees;la cotisation syndicale;...;...;N;LIVRE;B2
+a non-union worker;un ouvrier non syndiqué;...;...;N;LIVRE;B1
+
+to unionize;(se) syndiquer;...;...;V;LIVRE;B2
+to join a union;adhérer à un syndicat;...;...;V;LIVRE;B1
+to protect rights;préserver les droits;...;...;V;LIVRE;B1
+to represent;représenter;...;...;V;LIVRE;B1
+to defend;défendre;...;...;V;LIVRE;B1
+to support;soutenir;Attention : ne signifie pas "supporter" au sens d'endurer (to bear);...;V;LIVRE;A2
+to back up a claim;soutenir une revendication;...;...;V;LIVRE;B2
+
+
+
+
+
+labour unrest;le mécontentement des travailleurs;...;...;N;LIVRE;C1
+social discontent;le mécontentement social;...;...;N;LIVRE;B2
+an industrial dispute (UK), a labor dispute (US);un conflit social;...;...;N;LIVRE;B2
+a grievance;un grief, une doléance;...;...;N;LIVRE;C1
+a claim;une revendication;...;...;N;LIVRE;B1
+a shorter working week;une réduction du temps de travail;...;...;N;LIVRE;B1
+(better) working conditions;(de meilleures) conditions de travail;...;...;N;LIVRE;A2
+(more) safety regulations;(davantage de) consignes de sécurité;...;...;N;LIVRE;B2
+a wage demand;une revendication salariale;...;...;N;LIVRE;B2
+improved pay, a wage increase;une augmentation de salaire;...;...;N;LIVRE;B1
+a deadline;une date limite;...;...;N;LIVRE;B1
+a deadlock;une impasse;...;...;N;LIVRE;C1
+
+to be dissatisfied;être insatisfait, mécontent;be, was/were, been;...;VI;LIVRE;B2
+to disagree with somebody;ne pas être d’accord avec quelqu'un;...;...;V;LIVRE;A2
+to disapprove of something;ne pas être d’accord avec / désapprouver quelque chose;...;...;V;LIVRE;B2
+to claim;réclamer, revendiquer;Attention : "a demand" = une exigence;...;V;LIVRE;B1
+to demand;exiger;...;...;V;LIVRE;B1
+to meet demands;satisfaire les revendications;meet, met, met;...;VI;LIVRE;B2
+to arbitrate;arbitrer;...;...;V;LIVRE;C1
+to reach a deadlock;aboutir à une impasse;...;...;V;LIVRE;C1
+to break off negotiations;quitter la table des négociations;break, broke, broken;"to break off" signifie interrompre;VI;LIVRE;C1
+
+
+
+
+
+industrial action;la grève, l’action revendicative;Terme général pour désigner les mouvements de grève;...;N;LIVRE;B2
+the right to strike;le droit de grève;...;...;N;LIVRE;B1
+a striker;un gréviste;...;...;N;LIVRE;B1
+a strike committee;un comité de grève;...;...;N;LIVRE;B2
+a strike call;un appel à la grève;...;...;N;LIVRE;B2
+without advance warning;sans préavis;...;...;EXPR;LIVRE;B2
+a strike;une grève;...;...;N;LIVRE;B1
+a lightning strike;une grève surprise;"lightning" signifie la foudre, les éclairs;...;N;LIVRE;C1
+a sit-down strike;une grève sur le tas;De "to sit down" (s'asseoir);...;N;LIVRE;C1
+a rolling strike;une grève tournante;...;...;N;LIVRE;C1
+a wildcat strike;une grève sauvage;Grève déclenchée sans l'accord officiel d'un syndicat;...;N;LIVRE;C1
+a general strike;une grève générale;...;...;N;LIVRE;B2
+a hunger strike;une grève de la faim;...;...;N;LIVRE;B2
+a picket;un piquet de grève;Désigne aussi une personne faisant le piquet;...;N;LIVRE;C1
+a picket line;les piquets de grève;La ligne formée par les grévistes devant l'entreprise;...;N;LIVRE;C1
+a non-striker;un non-gréviste;...;...;N;LIVRE;B2
+a strikebreaker;un briseur de grève;...;...;N;LIVRE;C1
+a scab, a blackleg;un “jaune” / briseur de grève;Argot / Termes très péjoratifs;...;N;LIVRE;C2
+
+to give notice of strike action;déposer un préavis de grève;give, gave, given;...;VI;LIVRE;C1
+to call a strike;lancer un appel à la grève;...;...;V;LIVRE;B2
+to go on strike;se mettre en grève;go, went, gone;...;VI;LIVRE;B1
+to strike, to be on strike;faire la grève;strike, struck, struck / be, was/were, been;...;VI;LIVRE;B1
+to lead a strike;mener une grève;lead, led, led;...;VI;LIVRE;B2
+to break a strike;briser une grève;break, broke, broken;...;VI;LIVRE;C1
+to picket (a factory);placer des piquets de grève (devant une usine);...;...;V;LIVRE;C1
+
+indefinite;illimité;S'emploie souvent pour "an indefinite strike" (une grève illimitée);...;ADJ;LIVRE;B2
+sudden, unexpected;soudain, inattendu;...;...;ADJ;LIVRE;B1
+determined;décidé, déterminé;...;...;ADJ;LIVRE;B1
+entrenched;campé sur ses positions;...;...;ADJ;LIVRE;C1
+strikebound;paralysé par la grève;...;...;ADJ;LIVRE;C1
+
+
+
+
+
+bargaining;les tractations / négociations;...;...;N;LIVRE;B2
+an offer;une proposition;...;...;N;LIVRE;A2
+a counter-offer;une contre-proposition;...;...;N;LIVRE;B2
+a stalemate, a deadlock;une impasse / un point mort;...;...;N;LIVRE;C1
+an objection;une objection;...;...;N;LIVRE;B2
+a rejection;un rejet;...;...;N;LIVRE;B2
+an agreement;un accord;...;...;N;LIVRE;B1
+a draft agreement;un protocole d’accord;"a draft" signifie un brouillon, une ébauche;...;N;LIVRE;B2
+a collective agreement;une convention collective;...;...;N;LIVRE;C1
+a disagreement;un désaccord;...;...;N;LIVRE;B1
+a compromise;un compromis;...;...;N;LIVRE;B2
+a concession;une concession;...;...;N;LIVRE;B2
+a settlement;un accord, une entente;Règlement à l'amiable ou conclusion d'un conflit;...;N;LIVRE;B2
+
+to open (talks);ouvrir (les négociations);...;...;V;LIVRE;B1
+to carry out (negotiations);mener (une négociation);carry, carried, carried;...;VI;LIVRE;B2
+to bargain;négocier, discuter, marchander;Prononciation : [ˈbɑːgɪn]<br>Ca me fait penser à Docteur Strange qui débarque 5000 fois en remontant le temps devant un être tout puissant et qui dit donc 5000 fois "Dormammu, I've come to bargain !!" Voilà, faites en ce que vous voulez, perso les références ça m'aide beaucoup à retenir des mots;...;V;LIVRE;B2
+to offer;proposer;...;...;V;LIVRE;A2
+to object (to something);élever des objections (contre quelque chose);...;...;V;LIVRE;B2
+to reject;rejeter;...;...;V;LIVRE;B2
+to agree (on something);être d’accord (sur quelque chose);...;...;V;LIVRE;A2
+to make concessions;faire des concessions;make, made, made;...;VI;LIVRE;B2
+to settle for;accepter / se contenter de;...;...;V;LIVRE;B2
+to grant;accorder;...;...;V;LIVRE;B2
+to yield;céder;Prononciation : [jiːld];...;V;LIVRE;C1
+to approve of;accepter, être d’accord avec;...;...;V;LIVRE;B2
+to end a strike;mettre fin à une grève;...;...;V;LIVRE;B1
+to resume work;reprendre le travail;...;Ne pas confondre "to resume" (reprendre) et "to sum up" (résumer);V;LIVRE;B2
+
+
+
+
+QUIZLET;https://quizlet.com/fr-fr/fiches-de-memorisation/prepa-en-kholle-3-mp-technology-1205064227?i=4o2swj&x=1jqt
+LIEN;Fiche utilisée : Work places and Working hours;en_vocab_work_working-conditions_fiche-work-places-and-working-hours.html
+LIEN;Fiche utilisée : Pay;en_vocab_work_working-conditions_fiche-pay.html.html
+LIEN;Fiche utilisée : Occupational hazards;en_vocab_work_working-conditions_fiche-occupational-hazards.html
+LIEN;Fiche utilisée : Work regulations;en_vocab_work_working-conditions_fiche-work-regulations.html
+LIEN;Fiche utilisée : Unionism;en_vocab_work_industrial-relations_fiche-unionism.html
+LIEN;Fiche utilisée : Dissatisfaction;en_vocab_work_industrial-relations_fiche-dissatisfaction.html
+LIEN;Fiche utilisée : Going on strike;en_vocab_work_industrial-relations_fiche-going-on-strike.html
+LIEN;Fiche utilisée : Negotiations;en_vocab_work_industrial-relations_fiche-negotiations.html
