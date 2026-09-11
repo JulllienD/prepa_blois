@@ -1,7 +1,7 @@
 bargaining;les tractations / négociations;...;...;N;LIVRE;B2
 an offer;une proposition;...;...;N;LIVRE;A2
 a counter-offer;une contre-proposition;...;...;N;LIVRE;B2
-a stalemate, a deadlock;une impasse / un point mort;...;...;N;LIVRE;C1
+a stalemate, a deadlock;une impasse / un point mort;stalemate c'est aussi l'égalité aux échecs;...;N;LIVRE;C1
 an objection;une objection;...;...;N;LIVRE;B2
 a rejection;un rejet;...;...;N;LIVRE;B2
 an agreement;un accord;...;...;N;LIVRE;B1
@@ -14,7 +14,7 @@ a settlement;un accord, une entente;Règlement à l'amiable ou conclusion d'un c
 
 to open (talks);ouvrir (les négociations);...;...;V;LIVRE;B1
 to carry out (negotiations);mener (une négociation);carry, carried, carried;...;VI;LIVRE;B2
-to bargain;négocier, discuter, marchander;Prononciation : [ˈbɑːgɪn]<br>Ca me fait penser à Docteur Strange qui débarque 5000 fois en remontant le temps devant un être tout puissant et qui dit donc 5000 fois "Dormammu, I've come to bargain !!" Voilà, faites en ce que vous voulez, perso les références ça m'aide beaucoup à retenir des mots;...;V;LIVRE;B2
+to bargain;négocier, discuter, marchander;Prononciation : [ˈbɑːgɪn]<br>Ca me fait penser à Dr. Strange qui débarque 5000 fois en remontant le temps devant Dormammu et qui répète "Dormammu, I've come to bargain !!" Voilà, faites en ce que vous voulez, perso les références ça m'aide beaucoup à retenir des mots;...;V;LIVRE;B2
 to offer;proposer;...;...;V;LIVRE;A2
 to object (to something);élever des objections (contre quelque chose);...;...;V;LIVRE;B2
 to reject;rejeter;...;...;V;LIVRE;B2
@@ -25,4 +25,4 @@ to grant;accorder;...;...;V;LIVRE;B2
 to yield;céder;Prononciation : [jiːld];...;V;LIVRE;C1
 to approve of;accepter, être d’accord avec;...;...;V;LIVRE;B2
 to end a strike;mettre fin à une grève;...;...;V;LIVRE;B1
-to resume work;reprendre le travail;...;Ne pas confondre "to resume" (reprendre) et "to sum up" (résumer);V;LIVRE;B2
+to resume work;reprendre le travail;Ne pas confondre "to resume" (reprendre) et "to sum up" (résumer);...;V;LIVRE;B2

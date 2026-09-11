@@ -1,4 +1,4 @@
-INTRO;Type de khôlle : Document audio<br>Dates : Lundi 28 Septembre au Vendredi 9 octobre<br>Parties du livre : The economy Chapter 20, Part 1 ('The Job Market', p258-p261)
+INTRO;Type de khôlle : Document audio<br>Dates : Lundi 28 Septembre au Vendredi 9 octobre<br>Parties du livre : Work Chapter 20, Part 1 ('The Job Market', p258-p261)
 
 
 

@@ -4,9 +4,9 @@
 ----------
 🇬🇧 vocational training||🇫🇷 la formation professionnelle
 ----------
-🇬🇧 a training period/session/an internship
+🇬🇧 a training period/session/an internship||🇫🇷 un stage (de formation)
 
-Exemple : "Internship" désigne souvent un stage étudiant ou d'insertion||🇫🇷 un stage (de formation)
+Note : "Internship" désigne souvent un stage étudiant ou d'insertion
 ----------
 🇬🇧 a training programme||🇫🇷 un programme de formation
 ----------
@@ -18,11 +18,11 @@ Exemple : "Internship" désigne souvent un stage étudiant ou d'insertion||🇫�
 ----------
 🇬🇧 to retrain||🇫🇷 (se) recycler / se reconvertir
 ----------
-🇬🇧 to take sb on probation||🇫🇷 prendre quelqu’un à l’essai
+🇬🇧 to take somebody on probation||🇫🇷 prendre quelqu’un à l’essai
 
 Note : take, took, taken
 ----------
-🇬🇧 to take sb for a trial period||🇫🇷 prendre quelqu’un à l’essai
+🇬🇧 to take somebody for a trial period||🇫🇷 prendre quelqu’un à l’essai
 
 Note : take, took, taken
 ----------
@@ -38,9 +38,9 @@ Note : be, was/were, been
 ----------
 🇬🇧 an assignment||🇫🇷 une affectation (administrative)
 ----------
-🇬🇧 tenure
+🇬🇧 tenure||🇫🇷 la titularisation
 
-Exemple : Notamment dans l'enseignement supérieur ou la fonction publique||🇫🇷 la titularisation
+Note : Notamment dans l'enseignement supérieur ou la fonction publique
 ----------
 🇬🇧 seniority||🇫🇷 l’ancienneté
 ----------

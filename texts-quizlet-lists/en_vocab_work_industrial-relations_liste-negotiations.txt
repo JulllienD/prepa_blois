@@ -5,6 +5,8 @@
 🇬🇧 a counter-offer||🇫🇷 une contre-proposition
 ----------
 🇬🇧 a stalemate, a deadlock||🇫🇷 une impasse / un point mort
+
+Note : stalemate c'est aussi l'égalité aux échecs
 ----------
 🇬🇧 an objection||🇫🇷 une objection
 ----------
@@ -37,7 +39,7 @@ Note : carry, carried, carried
 🇬🇧 to bargain||🇫🇷 négocier, discuter, marchander
 
 Note : Prononciation : [ˈbɑːgɪn]
-Ca me fait penser à Docteur Strange qui débarque 5000 fois en remontant le temps devant un être tout puissant et qui dit donc 5000 fois "Dormammu, I've come to bargain !!" Voilà, faites en ce que vous voulez, perso les références ça m'aide beaucoup à retenir des mots
+Ca me fait penser à Dr. Strange qui débarque 5000 fois en remontant le temps devant Dormammu et qui répète "Dormammu, I've come to bargain !!" Voilà, faites en ce que vous voulez, perso les références ça m'aide beaucoup à retenir des mots
 ----------
 🇬🇧 to offer||🇫🇷 proposer
 ----------
@@ -63,6 +65,6 @@ Note : Prononciation : [jiːld]
 ----------
 🇬🇧 to end a strike||🇫🇷 mettre fin à une grève
 ----------
-🇬🇧 to resume work
+🇬🇧 to resume work||🇫🇷 reprendre le travail
 
-Exemple : Ne pas confondre "to resume" (reprendre) et "to sum up" (résumer)||🇫🇷 reprendre le travail
+Note : Ne pas confondre "to resume" (reprendre) et "to sum up" (résumer)

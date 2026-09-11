@@ -20,13 +20,13 @@
 ----------
 🇬🇧 an application form||🇫🇷 un formulaire de candidature
 ----------
-🇬🇧 a résumé (US), a CV (Brit.)||🇫🇷 un CV (Curriculum Vitae)
+🇬🇧 a résumé (US), a CV (UK)||🇫🇷 un CV (Curriculum Vitae)
 ----------
 🇬🇧 a letter of recommendation||🇫🇷 une lettre de recommandation
 ----------
-🇬🇧 credentials
+🇬🇧 credentials||🇫🇷 des références
 
-Exemple : Titres, diplômes ou références professionnelles||🇫🇷 des références
+Note : Titres, diplômes ou références professionnelles
 ----------
 🇬🇧 skills||🇫🇷 les compétences, les qualifications
 ----------
@@ -34,9 +34,9 @@ Exemple : Titres, diplômes ou références professionnelles||🇫🇷 des réf�
 ----------
 🇬🇧 work experience||🇫🇷 l’expérience professionnelle
 ----------
-🇬🇧 a job centre
+🇬🇧 a job centre||🇫🇷 une agence pour l'emploi
 
-Exemple : Équivalent historique de l'ANPE au Royaume-Uni||🇫🇷 une agence pour l'emploi
+Note : Équivalent historique de l'ANPE au Royaume-Uni
 ----------
 🇬🇧 placement services||🇫🇷 les agences pour l’emploi
 ----------
@@ -46,21 +46,21 @@ Exemple : Équivalent historique de l'ANPE au Royaume-Uni||🇫🇷 une agence p
 ----------
 🇬🇧 a recruiter||🇫🇷 un recruteur
 ----------
-🇬🇧 a human resources department
+🇬🇧 a human resources department||🇫🇷 un service de ressources humaines
 
-Exemple : Souvent abrégé "HR department"||🇫🇷 un service de ressources humaines
+Note : Souvent abrégé "HR department"
 ----------
-🇬🇧 a head-hunting firm
+🇬🇧 a head-hunting firm||🇫🇷 un cabinet de recrutement
 
-Exemple : Spécialisé dans les cadres||🇫🇷 un cabinet de recrutement
+Note : Spécialisé dans les cadres
 ----------
 🇬🇧 a head hunter||🇫🇷 un chasseur de têtes
 ----------
 🇬🇧 a (job) interview||🇫🇷 un entretien (d’embauche)
 ----------
-🇬🇧 an appointment
+🇬🇧 an appointment||🇫🇷 un rendez-vous
 
-Exemple : Professionnel ou médical||🇫🇷 un rendez-vous
+Note : Professionnel ou médical
 ----------
 🇬🇧 a test||🇫🇷 un test
 ----------

@@ -1,4 +1,4 @@
-INTRO;Coucou<br>Oui 229 mots...<br>Vous avez le lien quizlet juste en haut à droite de la page, tout en bas vous avez chaque liste individuelle qui ont été utilisées pour faire la grande liste.<br>Il n'y a aucun nouveau mot par rapport à l'année dernière, juste des révisions.<br><br>Type de khôlle : Article de presse<br>Dates : Lundi 14 septembre au Vendredi 25 septembre<br>Parties du livre : Education Chapter 2, Part 1 ('The Educational System', p22-p23) + Part 4 ('Assessment and Achievement, p28-p31)
+INTRO;Vous avez le lien quizlet en haut de la page, tout en bas vous avez chaque liste individuelle qui ont été utilisées pour faire la grande liste.<br>Il n'y a aucun nouveau mot par rapport à l'année dernière, il y en a même moins, juste des révisions.<br><br>Type de khôlle : Article de presse<br>Dates : Lundi 14 septembre au Vendredi 25 septembre<br>Parties du livre : Education Chapter 2, Part 1 ('The Educational System', p22-p23) + Part 4 ('Assessment and Achievement, p28-p31)
 
 
 

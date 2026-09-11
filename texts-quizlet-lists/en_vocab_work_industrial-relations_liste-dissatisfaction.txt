@@ -3,12 +3,16 @@
 🇬🇧 social discontent||🇫🇷 le mécontentement social
 ----------
 🇬🇧 an industrial dispute (UK), a labor dispute (US)||🇫🇷 un conflit social
+
+Note : def : a disagreement between workers and management over pay, working conditions, hours of work, etc., especially one that includes strikes (= workers refusing to work)
 ----------
 🇬🇧 a grievance||🇫🇷 un grief, une doléance
 ----------
 🇬🇧 a claim||🇫🇷 une revendication
 ----------
 🇬🇧 a shorter working week||🇫🇷 une réduction du temps de travail
+
+Note : def : une plainte
 ----------
 🇬🇧 (better) working conditions||🇫🇷 (de meilleures) conditions de travail
 ----------
@@ -44,8 +48,8 @@ Note : meet, met, met
 ----------
 🇬🇧 to reach a deadlock||🇫🇷 aboutir à une impasse
 ----------
-🇬🇧 to break off negotiations
-
-Exemple : "to break off" signifie interrompre||🇫🇷 quitter la table des négociations
+🇬🇧 to break off negotiations||🇫🇷 quitter la table des négociations
 
 Note : break, broke, broken
+
+"to break off" signifie interrompre

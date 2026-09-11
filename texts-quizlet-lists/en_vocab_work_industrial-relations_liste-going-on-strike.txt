@@ -20,7 +20,9 @@ Note : "lightning" signifie la foudre, les éclairs
 ----------
 🇬🇧 a sit-down strike||🇫🇷 une grève sur le tas
 
-Note : De "to sit down" (s'asseoir)
+Note : arrêt de travail pendant lequel les employés cessent leurs tâches tout en restant physiquement présents à leur poste dans l'entreprise
+
+Les travailleurs s'assoient et ne travaillent plus
 ----------
 🇬🇧 a rolling strike||🇫🇷 une grève tournante
 ----------
@@ -46,7 +48,9 @@ Note : La ligne formée par les grévistes devant l'entreprise
 ----------
 🇬🇧 a scab, a blackleg||🇫🇷 un “jaune” / briseur de grève
 
-Note : Argot / Termes très péjoratifs
+Note : def : a person who works while others that they work with are on strike
+
+Argot / Termes très péjoratifs
 ----------
 🇬🇧 to give notice of strike action||🇫🇷 déposer un préavis de grève
 
@@ -72,9 +76,7 @@ Note : break, broke, broken
 ----------
 🇬🇧 to picket (a factory)||🇫🇷 placer des piquets de grève (devant une usine)
 ----------
-🇬🇧 indefinite||🇫🇷 illimité
-
-Note : S'emploie souvent pour "an indefinite strike" (une grève illimitée)
+🇬🇧 indefinite (strike)||🇫🇷 (grève) illimité
 ----------
 🇬🇧 sudden, unexpected||🇫🇷 soudain, inattendu
 ----------
