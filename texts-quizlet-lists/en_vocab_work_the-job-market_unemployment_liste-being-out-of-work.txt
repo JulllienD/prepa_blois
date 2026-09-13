@@ -4,9 +4,9 @@
 ----------
 🇬🇧 short-/long-term unemployment||🇫🇷 le chômage de courte/longue durée
 ----------
-🇬🇧 the unemployed, the jobless
+🇬🇧 the unemployed, the jobless||🇫🇷 les chômeurs
 
-Exemple : S'emploie souvent au pluriel collectif "the unemployed"||🇫🇷 les chômeurs
+Note : S'emploie souvent au pluriel collectif "the unemployed"
 ----------
 🇬🇧 the unemployment rate||🇫🇷 le taux de chômage
 ----------
@@ -16,9 +16,9 @@ Exemple : S'emploie souvent au pluriel collectif "the unemployed"||🇫🇷 les 
 
 Note : Prononciation : [ˈsevərəns]
 ----------
-🇬🇧 a golden handshake
+🇬🇧 a golden handshake||🇫🇷 une prime de départ
 
-Exemple : Généralement substantielle pour un cadre||🇫🇷 une prime de départ
+Note : Prime de licenciement énooooorme
 ----------
 🇬🇧 unemployment insurance||🇫🇷 l’assurance chômage
 ----------
@@ -26,27 +26,27 @@ Exemple : Généralement substantielle pour un cadre||🇫🇷 une prime de dép
 ----------
 🇬🇧 unemployment benefits||🇫🇷 les indemnités chômage
 ----------
-🇬🇧 a claimant
+🇬🇧 a claimant||🇫🇷 un demandeur
 
-Exemple : Personne qui réclame une allocation||🇫🇷 un demandeur
+Note : Personne qui réclame une allocation
 ----------
 🇬🇧 loss of status||🇫🇷 la perte de statut
 ----------
-🇬🇧 to compensate (for sth)||🇫🇷 indemniser, dédommager (de qqch)
+🇬🇧 to compensate (for something)||🇫🇷 indemniser, dédommager (de quelque chose)
 ----------
 🇬🇧 to ask for compensation||🇫🇷 réclamer des indemnités
 ----------
 🇬🇧 to collect unemployment benefits||🇫🇷 toucher des allocations chômage
 ----------
-🇬🇧 to be on the dole
-
-Exemple : Argot britannique||🇫🇷 toucher le chômage
+🇬🇧 to be on the dole||🇫🇷 toucher le chômage
 
 Note : be, was/were, been
-----------
-🇬🇧 to check in/sign on at the unemployment agency
 
-Exemple : Prononciation : [ˈedʒənsɪ]||🇫🇷 pointer à une agence pour l’emploi
+Argot britannique
+----------
+🇬🇧 to check in/sign on at the unemployment agency||🇫🇷 pointer à une agence pour l’emploi
+
+Note : Prononciation : [ˈedʒənsɪ] (é-djeun-si)
 ----------
 🇬🇧 to find a job again||🇫🇷 retrouver un emploi
 
@@ -56,7 +56,7 @@ Note : find, found, found
 ----------
 🇬🇧 idle, inactive||🇫🇷 inactif, désœuvré
 
-Note : Prononciation : [ˈaɪdl]
+Note : Prononciation : [ˈaɪdl] (aïe-deul)
 ----------
 🇬🇧 temporary||🇫🇷 temporaire
 ----------

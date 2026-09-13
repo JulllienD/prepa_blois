@@ -1,12 +1,12 @@
 Work Places;Les lieux de travail;...;...;DEF;LIVRE;A2
 a factory;une usine;...;...;N;LIVRE;A2
-a shop;un atelier;...;Dans le contexte industriel (et non un magasin);N;LIVRE;B1
+a shop (contexte industriel);un atelier;...;...;N;LIVRE;B1
 a sweatshop;un atelier de misère / clandestin;Prononciation : [ˈswetʃɒp];...;N;LIVRE;C1
 a company, a firm;une entreprise;Prononciation : [fɜːm] pour "firm";...;N;LIVRE;A2
-the headquarters / a branch;le siège / une succursale;...;"Headquarters" s'emploie souvent au pluriel;N;LIVRE;B2
-a shop;un magasin, une boutique;...;Dans le contexte du commerce;N;LIVRE;A1
-an office;un bureau;...;Le lieu / la pièce de travail;N;LIVRE;A1
-the premises;les locaux;...;Toujours au pluriel;N;LIVRE;B2
+the headquarters / a branch;le siège / une succursale;"Headquarters" s'emploie souvent au pluriel;...;N;LIVRE;B2
+a shop (contexte commerce);un magasin, une boutique;...;...;N;LIVRE;A1
+an office;un bureau;Le lieu / la pièce de travail;...;N;LIVRE;A1
+the premises;les locaux;Toujours au pluriel;George was fired and asked to leave the premises immediately.<br>= George a été congédié et on lui a demandé de quitter immédiatement les locaux;N;LIVRE;B2
 
 Working Hours;Le temps de travail;...;...;DEF;LIVRE;B1
 a working day;un jour ouvrable / de travail;...;...;N;LIVRE;A2
@@ -16,7 +16,8 @@ office hours;les heures de bureau;Prononciation : [ˈaʊəz];...;N;LIVRE;A2
 flexitime;les horaires flexibles;...;...;N;LIVRE;B2
 part-time work;le travail à temps partiel;...;...;N;LIVRE;B1
 a part-time worker, a part-timer;un travailleur à temps partiel;...;...;N;LIVRE;B1
-temporary work, temping;le travail temporaire, l’intérim;...;...;N;LIVRE;B1
+temporary work;le travail temporaire;...;...;N;LIVRE;B1
+temping;l’intérim;...;...;N;LIVRE;B1
 shiftwork;le travail par roulement / en équipes;...;...;N;LIVRE;B2
 the day/night shift;l’équipe de jour/de nuit;...;...;N;LIVRE;B2
 overtime;les heures supplémentaires;...;...;N;LIVRE;B2

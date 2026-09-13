@@ -3,6 +3,8 @@
 🇬🇧 a job hunter/seeker||🇫🇷 un demandeur d’emploi
 ----------
 🇬🇧 the classified ads, the classifieds||🇫🇷 les annonces classées
+
+Note : def : a small advertisement that you put in a newspaper or a magazine, usually because you want to sell or buy something or to find or offer a job
 ----------
 🇬🇧 job definition/description||🇫🇷 le profil d’un poste
 ----------
@@ -52,9 +54,11 @@ Note : Souvent abrégé "HR department"
 ----------
 🇬🇧 a head-hunting firm||🇫🇷 un cabinet de recrutement
 
-Note : Spécialisé dans les cadres
+Note : une entreprise qui va rechercher pour une autre entreprise des talents, et ils ne vont pas prendre forcement des personnes qui n'ont pas de travail, mais meme essayer de voler des personnes dans une autre entreprise. (à vérifier)
 ----------
-🇬🇧 a head hunter||🇫🇷 un chasseur de têtes
+🇬🇧 a head hunter
+
+Exemple : appearance, you would think that she was just hired by a head hunter and took a month's vacation before beginning her duties. = croire qu'elle vient tout juste d'être embauchée par un chasseur de têtes et qu'elle s'est octroyé un mois de vacances avant d'entrer en poste.||🇫🇷 un chasseur de têtes
 ----------
 🇬🇧 a (job) interview||🇫🇷 un entretien (d’embauche)
 ----------
@@ -67,6 +71,8 @@ Note : Professionnel ou médical
 🇬🇧 psychology||🇫🇷 la psychologie
 ----------
 🇬🇧 (positive) discrimination||🇫🇷 la discrimination (positive)
+
+Note : def :  le fait de « favoriser certains groupes de personnes victimes de discriminations systématiques » (voire systémiques) de façon temporaire, en vue de rétablir l'égalité des chances (Wiki)
 ----------
 🇬🇧 restrictive practices||🇫🇷 les pratiques de restriction
 ----------

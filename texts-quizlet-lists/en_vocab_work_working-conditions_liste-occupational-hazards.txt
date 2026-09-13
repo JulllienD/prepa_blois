@@ -14,9 +14,9 @@
 ----------
 🇬🇧 health/sickness insurance||🇫🇷 l’assurance maladie
 ----------
-🇬🇧 cover
+🇬🇧 cover||🇫🇷 la couverture
 
-Exemple : Dans le sens couverture d'assurance||🇫🇷 la couverture
+Note : Dans le sens couverture d'assurance
 ----------
 🇬🇧 sick pay||🇫🇷 les prestations maladie
 ----------

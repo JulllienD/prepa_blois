@@ -6,7 +6,7 @@ paternity/maternity leave;le congé de paternité/maternité;...;...;N;LIVRE;B2
 (sick) leave;un congé (maladie);...;...;N;LIVRE;B1
 an insurance;une assurance;...;...;N;LIVRE;B1
 health/sickness insurance;l’assurance maladie;...;...;N;LIVRE;B1
-cover;la couverture;...;Dans le sens couverture d'assurance;N;LIVRE;B2
+cover;la couverture;Dans le sens couverture d'assurance;...;N;LIVRE;B2
 sick pay;les prestations maladie;...;...;N;LIVRE;B2
 
 to have an accident;avoir un accident;have, had, had;...;VI;LIVRE;A2

@@ -2,9 +2,7 @@
 ----------
 🇬🇧 a factory||🇫🇷 une usine
 ----------
-🇬🇧 a shop
-
-Exemple : Dans le contexte industriel (et non un magasin)||🇫🇷 un atelier
+🇬🇧 a shop (contexte industriel)||🇫🇷 un atelier
 ----------
 🇬🇧 a sweatshop||🇫🇷 un atelier de misère / clandestin
 
@@ -14,21 +12,22 @@ Note : Prononciation : [ˈswetʃɒp]
 
 Note : Prononciation : [fɜːm] pour "firm"
 ----------
-🇬🇧 the headquarters / a branch
+🇬🇧 the headquarters / a branch||🇫🇷 le siège / une succursale
 
-Exemple : "Headquarters" s'emploie souvent au pluriel||🇫🇷 le siège / une succursale
+Note : "Headquarters" s'emploie souvent au pluriel
 ----------
-🇬🇧 a shop
-
-Exemple : Dans le contexte du commerce||🇫🇷 un magasin, une boutique
+🇬🇧 a shop (contexte commerce)||🇫🇷 un magasin, une boutique
 ----------
-🇬🇧 an office
+🇬🇧 an office||🇫🇷 un bureau
 
-Exemple : Le lieu / la pièce de travail||🇫🇷 un bureau
+Note : Le lieu / la pièce de travail
 ----------
 🇬🇧 the premises
 
-Exemple : Toujours au pluriel||🇫🇷 les locaux
+Exemple : George was fired and asked to leave the premises immediately.
+= George a été congédié et on lui a demandé de quitter immédiatement les locaux||🇫🇷 les locaux
+
+Note : Toujours au pluriel
 ----------
 🇬🇧 Working Hours||🇫🇷 Le temps de travail
 ----------
@@ -48,7 +47,9 @@ Note : Prononciation : [ˈaʊəz]
 ----------
 🇬🇧 a part-time worker, a part-timer||🇫🇷 un travailleur à temps partiel
 ----------
-🇬🇧 temporary work, temping||🇫🇷 le travail temporaire, l’intérim
+🇬🇧 temporary work||🇫🇷 le travail temporaire
+----------
+🇬🇧 temping||🇫🇷 l’intérim
 ----------
 🇬🇧 shiftwork||🇫🇷 le travail par roulement / en équipes
 ----------

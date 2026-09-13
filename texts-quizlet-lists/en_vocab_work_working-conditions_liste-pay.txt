@@ -1,4 +1,6 @@
-🇬🇧 pay, salary||🇫🇷 la paie, le salaire
+🇬🇧 pay, salary, wages||🇫🇷 la paie, le salaire
+
+Note : wages est utilisé pour les salaires payés à la semaine ou à l'heure (ouvriers)
 ----------
 🇬🇧 a payslip, a paysheet||🇫🇷 un bulletin de salaire
 ----------
@@ -22,15 +24,13 @@ Note : S'utilise pour les professions libérales (avocats, médecins)
 ----------
 🇬🇧 a commission||🇫🇷 une commission
 ----------
-🇬🇧 wages||🇫🇷 le salaire, la paie
-
-Note : Souvent utilisé pour les salaires payés à la semaine ou à l'heure (ouvriers)
-----------
 🇬🇧 a wage earner||🇫🇷 un salarié
 ----------
-🇬🇧 a (pay) rise, (pay) hike||🇫🇷 une augmentation (de salaire)
-----------
-🇬🇧 a wage increase (UK), a raise (US)||🇫🇷 une hausse de salaire
+🇬🇧 a pay rise
+a pay hike
+a wage increase (UK)
+a raise (US)||🇫🇷 une augmentation de salaire
+une hausse de salaire
 ----------
 🇬🇧 a wage / a pay freeze||🇫🇷 un gel de salaire
 ----------

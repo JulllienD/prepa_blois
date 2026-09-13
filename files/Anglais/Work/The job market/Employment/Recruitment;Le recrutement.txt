@@ -1,6 +1,6 @@
 a job hunt;une recherche d’emploi;...;...;N;LIVRE;B1
 a job hunter/seeker;un demandeur d’emploi;...;...;N;LIVRE;B1
-the classified ads, the classifieds;les annonces classées;...;...;N;LIVRE;B2
+the classified ads, the classifieds;les annonces classées;def : a small advertisement that you put in a newspaper or a magazine, usually because you want to sell or buy something or to find or offer a job;...;N;LIVRE;B2
 job definition/description;le profil d’un poste;...;...;N;LIVRE;B2
 a job title;un intitulé de poste;...;...;N;LIVRE;B1
 a vacancy, a vacant post;un poste vacant;...;...;N;LIVRE;B2
@@ -21,13 +21,13 @@ a placement office;un bureau de placement;...;...;N;LIVRE;B2
 an employment agency;une agence de placement;...;...;N;LIVRE;B1
 a recruiter;un recruteur;...;...;N;LIVRE;B2
 a human resources department;un service de ressources humaines;Souvent abrégé "HR department";...;N;LIVRE;B2
-a head-hunting firm;un cabinet de recrutement;Spécialisé dans les cadres;...;N;LIVRE;C1
-a head hunter;un chasseur de têtes;...;...;N;LIVRE;C1
+a head-hunting firm;un cabinet de recrutement;une entreprise qui va rechercher pour une autre entreprise des talents, et ils ne vont pas prendre forcement des personnes qui n'ont pas de travail, mais meme essayer de voler des personnes dans une autre entreprise. (à vérifier);...;N;LIVRE;C1
+a head hunter;un chasseur de têtes;...;appearance, you would think that she was just hired by a head hunter and took a month's vacation before beginning her duties. = croire qu'elle vient tout juste d'être embauchée par un chasseur de têtes et qu'elle s'est octroyé un mois de vacances avant d'entrer en poste.;N;LIVRE;C1
 a (job) interview;un entretien (d’embauche);...;...;N;LIVRE;A2
 an appointment;un rendez-vous;Professionnel ou médical;...;N;LIVRE;A2
 a test;un test;...;...;N;LIVRE;A1
 psychology;la psychologie;...;...;N;LIVRE;B1
-(positive) discrimination;la discrimination (positive);...;...;N;LIVRE;B2
+(positive) discrimination;la discrimination (positive);def :  le fait de « favoriser certains groupes de personnes victimes de discriminations systématiques » (voire systémiques) de façon temporaire, en vue de rétablir l'égalité des chances (Wiki);...;N;LIVRE;B2
 restrictive practices;les pratiques de restriction;...;...;N;LIVRE;C1
 sexism;le sexisme;...;...;N;LIVRE;B2
 ageism;la discrimination par l’âge;...;...;N;LIVRE;C1

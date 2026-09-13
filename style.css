@@ -87,8 +87,9 @@ body {
     color: inherit; 
 }
 
-.intro-text {
-    font-size: 1.7rem;
+
+.intro-section {
+    margin-bottom: 2rem;
     font-weight: 600;
     color: #475569;
     
@@ -97,6 +98,29 @@ body {
     margin: 3rem 0;
     
     text-align: justify;
+}
+
+.info-block {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.info-block h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+}
+
+.info-block ul {
+    margin-top: 0.25rem;
+    padding-left: 1.5rem;
+}
+
+.info-block li {
+    margin-bottom: 0.3rem;
+}
+
+.intro-text {
+    font-size: 1.7rem;
 }
 
 .fiche-intro {

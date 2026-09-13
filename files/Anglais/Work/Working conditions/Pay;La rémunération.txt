@@ -1,4 +1,4 @@
-pay, salary;la paie, le salaire;...;...;N;LIVRE;A2
+pay, salary, wages;la paie, le salaire;wages est utilisé pour les salaires payés à la semaine ou à l'heure (ouvriers);...;N;LIVRE;A2
 a payslip, a paysheet;un bulletin de salaire;...;...;N;LIVRE;B2
 payday;le jour de paie;...;...;N;LIVRE;B1
 backpay;un rappel de salaire;...;...;N;LIVRE;C1
@@ -8,10 +8,8 @@ a leave without pay;un congé sans solde;...;...;N;LIVRE;C1
 a salary scale;une grille/échelle de salaires;...;...;N;LIVRE;B2
 a fee / fees;des honoraires;S'utilise pour les professions libérales (avocats, médecins);...;N;LIVRE;B2
 a commission;une commission;...;...;N;LIVRE;B2
-wages;le salaire, la paie;Souvent utilisé pour les salaires payés à la semaine ou à l'heure (ouvriers);...;N;LIVRE;B1
 a wage earner;un salarié;...;...;N;LIVRE;B2
-a (pay) rise, (pay) hike;une augmentation (de salaire);...;...;N;LIVRE;B1
-a wage increase (UK), a raise (US);une hausse de salaire;...;...;N;LIVRE;B1
+a pay rise<br>a pay hike<br>a wage increase (UK)<br>a raise (US);une augmentation de salaire<br>une hausse de salaire;...;...;N;LIVRE;B1
 a wage / a pay freeze;un gel de salaire;...;...;N;LIVRE;C1
 the minimum wage;le salaire minimum;...;...;N;LIVRE;B1
 the income;le(s) revenu(s);...;...;N;LIVRE;B1
