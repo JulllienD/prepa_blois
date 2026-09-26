@@ -121,6 +121,10 @@ body {
 
 .intro-text {
     font-size: 1.7rem;
+    font-weight: 600;
+    color: #475569;
+    text-align: justify;
+    margin: 3rem 0;
 }
 
 .fiche-intro {
