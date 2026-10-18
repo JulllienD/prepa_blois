@@ -1,0 +1,17 @@
+Funds for Research;Le financement de la recherche;...;...;DEF;LIVRE;B2
+credits;les crédits;...;...;N;LIVRE;B1
+a subsidy;une subvention;...;...;N;LIVRE;C1
+a donation;un don;...;...;N;LIVRE;B1
+a donor;un donateur;...;...;N;LIVRE;B2
+investement;les investissements;...;...;N;LIVRE;B1
+public / private funding;les financements public / privé;...;...;N;LIVRE;B2
+a sponsoring;le parrainage;...;...;N;LIVRE;B2
+a sponsor;un parrain, un mécène;...;...;N;LIVRE;B1
+cuts, cutbacks;les réductions (de);...;...;N;LIVRE;B2
+a tight budget;un budget restreint;...;...;N;LIVRE;B2
+tight;serré;...;...;ADJ;LIVRE;B1
+to support;soutenir financer;...;...;V;LIVRE;B1
+to supporter / bear;supporter / endurer;...;...;VI;LIVRE;B2
+to fund;financer;...;...;V;LIVRE;B1
+to subsidise;subventionner;...;...;V;LIVRE;C1
+to sponsor;parrainer;...;...;V;LIVRE;B1

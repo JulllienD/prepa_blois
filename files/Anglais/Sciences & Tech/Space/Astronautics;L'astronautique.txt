@@ -1,0 +1,38 @@
+Astronautics;L‘astronautique;...;...;N;LIVRE;C1
+The Space Age;L’ère spatiale;...;...;DEF;LIVRE;B1
+The Crew and the Staff;L’équipage et le personnel;...;...;DEF;LIVRE;B1
+an astronaut;un astronaute;...;...;N;LIVRE;A2
+a cosmonaut;un cosmonaute;...;...;N;LIVRE;B1
+a spaceman / spacewoman;un(e) spationaute;...;...;N;LIVRE;B1
+a space base;une base spatiale;...;...;N;LIVRE;B1
+a pilot;un pilote;...;...;N;LIVRE;A2
+a flight / mission controller;un contrôleur de mission;...;...;N;LIVRE;B2
+a flight;un vol;...;...;N;LIVRE;A2
+a flight instructor;un instructeur de vol;...;...;N;LIVRE;B2
+The Equipment;L’équipement;...;...;DEF;LIVRE;B1
+a flight simulator;un simulateur de vol;...;...;N;LIVRE;B2
+a spaceship / spacecraft;un vaisseau spatial;...;...;N;LIVRE;B1
+a manned spacecraft;un engin spatial habité;...;...;N;LIVRE;B2
+manned;ce qui est occupé par un homme;...;...;ADJ;LIVRE;B2
+an unmanned spacecraft;un engin spatial inhabité;...;...;N;LIVRE;B2
+a space suit;une combinaison spatiale;...;...;N;LIVRE;B1
+a gravity-suit;une combinaison spatiale antigravité;...;...;N;LIVRE;B2
+remote control;le contrôle à distance;...;...;N;LIVRE;B1
+remote;lointain;...;...;ADJ;LIVRE;B2
+a roving robot;un robot autonome;...;...;N;LIVRE;C1
+to rove;vagabonder, rôder;...;...;V;LIVRE;C1
+a rocket;une fusée;...;...;N;LIVRE;A2
+a multi-stage rocket;une fusée à étages;...;...;N;LIVRE;C1
+the retrorockets;les rétrofusées;...;...;N;LIVRE;C1
+a booster;un booster, un propulseur auxiliaire;...;...;N;LIVRE;B2
+an airlock;un sas;...;...;N;LIVRE;C1
+to boost;stimuler;...;...;V;LIVRE;B1
+a space shuttle;une navette spatiale;...;...;N;LIVRE;B1
+a lunar vehicule;un véhicule lunaire;...;...;N;LIVRE;B2
+a moon buggy;une jeep lunaire;...;...;N;LIVRE;B2
+to explore;explorer;...;...;V;LIVRE;A2
+to fly a mission;faire partie d’une mission;...;...;VI;LIVRE;B2
+to orbit (a satellite);placer (un satellite) en orbite;...;...;V;LIVRE;B2
+to go/put into orbit;se mettre/ mettre en orbite;...;...;VI;LIVRE;B2
+to circle (the earth);tourner (autour de la terre);...;...;V;LIVRE;B1
+to retrieve, recover;récupérer;...;...;V;LIVRE;B1

@@ -9,14 +9,24 @@
 Note : have, had, had
 ----------
 🇬🇧 neurosis||🇫🇷 la névrose
+
+Note : Une névrose est un trouble psychique dans lequel le sujet est conscient de sa souffrance psychique et s'en plaint (wiki)
 ----------
 🇬🇧 psychosis||🇫🇷 la psychose
+
+Note : Une psychose est un trouble mental caractérisé par une rupture avec le réel et une désorganisation de la personnalité (santé-sur-le-net)
 ----------
 🇬🇧 schizophrenia||🇫🇷 la schizophrénie
+
+Note : se traduit schématiquement par :
+- une perception perturbée de la réalité
+- des manifestations productives (idées délirantes ou hallucinations) et passives (isolement social et relationnel). (ameli)
 ----------
 🇬🇧 paranoia||🇫🇷 paranoïa
 ----------
 🇬🇧 hysteria||🇫🇷 l'hystérie
+
+Note : Il a été suggéré que l’hystérie avait disparu et n’était qu’un concept ancien, péjoratif, reflétant l’incapacité de la communauté médicale à établir un diagnostic. Actuellement ces troubles, appelés troubles dissociatifs ou de conversion, restent pourtant une réalité clinique (revmed.ch)
 ----------
 🇬🇧 a depression||🇫🇷 une dépression
 ----------
@@ -25,12 +35,14 @@ Note : have, had, had
 🇬🇧 senility||🇫🇷 la sénilité
 ----------
 🇬🇧 dementia||🇫🇷 la démence
+
+Note : La démence est un déclin lent et progressif des fonctions cognitives
 ----------
 🇬🇧 a mad person, a lunatic||🇫🇷 un fou, un aliéné
 ----------
 🇬🇧 whimsical||🇫🇷 lunatique
 ----------
-🇬🇧 a (sex) manic||🇫🇷 un obsédé (sexuel)
+🇬🇧 a (sex) maniac||🇫🇷 un obsédé (sexuel)
 ----------
 🇬🇧 a neurotic||🇫🇷 un névrosé
 ----------
@@ -41,6 +53,8 @@ Note : have, had, had
 🇬🇧 a schizophrenic||🇫🇷 un schizophrène
 ----------
 🇬🇧 a megalomaniac||🇫🇷 un mégalomane
+
+Note : Personne qui manifeste des idées de grandeur, un orgueil excessif. (Larousse)
 ----------
 🇬🇧 a malformation||🇫🇷 une malformation
 ----------
@@ -64,7 +78,7 @@ Note : have, had, had
 ----------
 🇬🇧 the blind||🇫🇷 les aveugles
 ----------
-🇬🇧 long sightedness||🇫🇷 l'hypermétrie, presbytie
+🇬🇧 long sightedness||🇫🇷 l'hypermétropie, presbytie
 ----------
 🇬🇧 short sightedness||🇫🇷 la myopie
 ----------
@@ -98,7 +112,7 @@ Note : have, had, had
 ----------
 🇬🇧 senile||🇫🇷 sénile
 ----------
-🇬🇧 (mentally) unbalanced||🇫🇷 déséquilibré
+🇬🇧 (mentally) unbalanced||🇫🇷 déséquilibré (dans le sens mental)
 ----------
 🇬🇧 insane||🇫🇷 dément, aliéné
 ----------
@@ -107,6 +121,8 @@ Note : have, had, had
 🇬🇧 disabled||🇫🇷 handicapé physique
 ----------
 🇬🇧 crippled||🇫🇷 estropié
+
+Note : def : unable to walk or move in the usual way because of injury or a medical condition
 ----------
 🇬🇧 lame||🇫🇷 boiteux, écoplé
 ----------

@@ -1,0 +1,17 @@
+social security;la sécurité sociale;...;...;N;LIVRE;B1
+health spending;les dépenses de santé;...;...;N;LIVRE;B2
+health/medical cost;les coûts de la santé/ de la médecine;...;...;N;LIVRE;B2
+health insurance;l'assurance maladie;...;...;N;LIVRE;B2
+health care-coverage;la couverture sociale;...;...;N;LIVRE;B2
+health care/social security benefits;les prestations de la sécurité sociale;...;...;N;LIVRE;B2
+health care beneficiary;un assuré social;...;...;N;LIVRE;C1
+mutual benefit insurance company;une mutuelle;...;...;N;LIVRE;C1
+sick leave;un congé maladie;...;...;N;LIVRE;B2
+fixed medical cost;les tarifs conventionnés;...;...;N;LIVRE;C1
+out of pocket health care;les soins non conventionnés;...;...;N;LIVRE;C1
+to be entitled to;avoir droit à;be, was/were, been;Any amount claimed from a contractor shall not exceed the contribution it is entitled to receive according to applicable reimbursement rates.<br>= Aucun montant réclamé à un contractant ne doit dépasser le montant de la contribution qu'il est en droit de recevoir conformément aux taux de remboursement applicable.;VI;LIVRE;B2
+to be covered;être couvert;be, was/were, been;...;VI;LIVRE;B1
+to lose cover;perdre ses droits;lose, lost, lost;...;VI;LIVRE;B2
+to be denied care;se voir refuser des soins;be, was/were, been;...;VI;LIVRE;C1
+to be (un)insured;(ne pas) être assuré;be, was/were, been;...;VI;LIVRE;B2
+to be reimbursed;se faire rembourser;be, was/were, been;...;VI;LIVRE;B2

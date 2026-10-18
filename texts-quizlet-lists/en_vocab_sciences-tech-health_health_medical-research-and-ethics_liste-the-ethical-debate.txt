@@ -1,6 +1,8 @@
 🇬🇧 medical ethics||🇫🇷 la déontologie médicale
 ----------
 🇬🇧 Hippocratic oath||🇫🇷 le serment d'Hippocrate
+
+Note : Le serment d'Hippocrate peut être considéré comme le texte fondateur de la déontologie médicale.
 ----------
 🇬🇧 dilemma||🇫🇷 un dilemme
 ----------
@@ -29,6 +31,8 @@
 🇬🇧 cloning||🇫🇷 le clonage
 ----------
 🇬🇧 eugenics||🇫🇷 l'eugénisme
+
+Note : l’ensemble des méthodes et pratiques visant à sélectionner le patrimoine génétique de l’espèce humaine. (wiki)
 ----------
 🇬🇧 to legislate||🇫🇷 légiférer
 ----------

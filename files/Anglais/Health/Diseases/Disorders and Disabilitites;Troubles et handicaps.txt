@@ -1,0 +1,59 @@
+autism;l'autisme;...;...;N;LIVRE;B2
+anxiety;l'angoisse, l'anxiété;...;...;N;LIVRE;B1
+a phobia;une phobie;...;...;N;LIVRE;B2
+have a phobia about something;avoir la phobie de quelque chose;have, had, had;...;VI;LIVREM;B2
+neurosis;la névrose;Une névrose est un trouble psychique dans lequel le sujet est conscient de sa souffrance psychique et s'en plaint (wiki);...;N;LIVRE;C1
+psychosis;la psychose;Une psychose est un trouble mental caractérisé par une rupture avec le réel et une désorganisation de la personnalité (santé-sur-le-net);...;N;LIVRE;C1
+schizophrenia;la schizophrénie;se traduit schématiquement par :<br>- une perception perturbée de la réalité<br>- des manifestations productives (idées délirantes ou hallucinations) et passives (isolement social et relationnel). (ameli);...;N;LIVRE;C1
+paranoia;paranoïa;...;...;N;LIVRE;B2
+hysteria;l'hystérie;Il a été suggéré que l’hystérie avait disparu et n’était qu’un concept ancien, péjoratif, reflétant l’incapacité de la communauté médicale à établir un diagnostic. Actuellement ces troubles, appelés troubles dissociatifs ou de conversion, restent pourtant une réalité clinique (revmed.ch);...;N;LIVRE;B2
+a depression;une dépression;...;...;N;LIVRE;B1
+a nervous breakdown;une dépression nerveuse;...;...;N;LIVRE;B2
+senility;la sénilité;...;...;N;LIVRE;C1
+dementia;la démence;La démence est un déclin lent et progressif des fonctions cognitives;...;N;LIVRE;C1
+a mad person, a lunatic;un fou, un aliéné;...;...;N;LIVRE;B2
+whimsical;lunatique;...;...;ADJ;LIVREM;C2
+a (sex) maniac;un obsédé (sexuel);...;...;N;LIVRE;C1
+a neurotic;un névrosé;...;...;N;LIVRE;C1
+a paranoid;un paranoïaque;...;...;N;LIVRE;C1
+a psychotic;un psychotique;...;...;N;LIVRE;C1
+a schizophrenic;un schizophrène;...;...;N;LIVRE;C1
+a megalomaniac;un mégalomane;Personne qui manifeste des idées de grandeur, un orgueil excessif. (Larousse);...;N;LIVRE;C1
+a malformation;une malformation;...;...;N;LIVRE;B2
+a disability;un handicap;...;...;N;LIVRE;B1
+dwarfism;le nanisme;...;...;N;LIVRE;C1
+a cripple, an invalid;un invalide;...;...;N;LIVRE;B2
+lameness;la claudication;...;...;N;LIVRE;C1
+lisping;le zozotement;...;...;N;LIVRE;C2
+stuttering;le bégaiement;...;...;N;LIVRE;C1
+blindness;la cécité;...;...;N;LIVRE;B2
+colour blindness;le daltonisme;...;...;N;LIVREM;B2
+a blind person;une personne aveugle;...;...;N;LIVRE;A2
+the blind;les aveugles;...;...;N;LIVREM;B1
+long sightedness;l'hypermétropie, presbytie;...;...;N;LIVRE;C1
+short sightedness;la myopie;...;...;N;LIVRE;C1
+deafness;la surdité;...;...;N;LIVRE;B2
+a deaf person;un sourd;...;...;N;LIVRE;A2
+the deaf;les sourds;...;...;N;LIVREM;B1
+mutism;le mutisme;...;...;N;LIVRE;C1
+speech and language difficulties;troubles de la parole et du langage;...;...;N;LIVRE;B2
+autistic;autiste;...;...;ADJ;LIVRE;B2
+phobic;phobique;...;...;ADJ;LIVRE;C1
+hysterical;hystérique;...;...;ADJ;LIVRE;B2
+(a fit of) hysterics;une crise de nerfs;...;...;DEF;LIVREM;B2
+depressive;dépressif;...;...;ADJ;LIVRE;B2
+depressed;déprimé;...;...;ADJ;LIVRE;B1
+anxious;anxieux;...;...;ADJ;LIVRE;B1
+psychologically deficient;qui souffre d'une déficience psychologique;...;...;ADJ;LIVRE;B2
+neurotic;névrosé;...;...;ADJ;LIVRE;C1
+senile;sénile;...;...;ADJ;LIVRE;C1
+(mentally) unbalanced;déséquilibré (dans le sens mental);...;...;ADJ;LIVRE;B2
+insane;dément, aliéné;...;...;ADJ;LIVRE;B2
+handicapped;handicapé, infirme;...;...;ADJ;LIVRE;B1
+disabled;handicapé physique;...;...;ADJ;LIVRE;B1
+crippled;estropié;def : unable to walk or move in the usual way because of injury or a medical condition;...;ADJ;LIVRE;B2
+lame;boiteux, écoplé;...;...;ADJ;LIVRE;B2
+a lame duck;un canard boiteux;...;...;DEF;LIVREM;B2
+long sighted;hypermétrope, presbyte;...;...;ADJ;LIVRE;B2
+short sighted;myope;...;...;ADJ;LIVRE;B2
+colour blind;daltonien;...;...;ADJ;LIVRE;B2

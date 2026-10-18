@@ -7,6 +7,8 @@ My tooth aches
 My heart aches||🇫🇷 une douleur
 ----------
 🇬🇧 a twinge||🇫🇷 un élancement
+
+Note : Douleur aiguë, lancinante, intermittente
 ----------
 🇬🇧 suffering||🇫🇷 la souffrance
 ----------
@@ -14,7 +16,10 @@ My heart aches||🇫🇷 une douleur
 ----------
 🇬🇧 to itch||🇫🇷 démanger
 ----------
-🇬🇧 to sting||🇫🇷 piquer
+🇬🇧 to sting
+
+Exemple : The wasp stung Maggie on her foot.
+= La guêpe a piqué Maggie au pied.||🇫🇷 piquer
 
 Note : sting, stung, stung
 ----------
@@ -34,7 +39,7 @@ Note : hurt, hurt, hurt
 ----------
 🇬🇧 recurrent||🇫🇷 récurent
 ----------
-🇬🇧 painful sore||🇫🇷 douloureux
+🇬🇧 painful, sore||🇫🇷 douloureux
 ----------
 🇬🇧 bedsores||🇫🇷 escarres
 

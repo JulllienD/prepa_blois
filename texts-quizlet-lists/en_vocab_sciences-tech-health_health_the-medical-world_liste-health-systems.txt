@@ -6,15 +6,13 @@
 ----------
 🇬🇧 health insurance||🇫🇷 l'assurance maladie
 ----------
-🇬🇧 health care- coverage||🇫🇷 la couverture sociale
+🇬🇧 health care-coverage||🇫🇷 la couverture sociale
 ----------
-🇬🇧 health care/social security||🇫🇷 les prestations de la sécurité
-----------
-🇬🇧 benefits||🇫🇷 sociales
+🇬🇧 health care/social security benefits||🇫🇷 les prestations de la sécurité sociale
 ----------
 🇬🇧 health care beneficiary||🇫🇷 un assuré social
 ----------
-🇬🇧 mutual benefit insurance||🇫🇷 une mutuelle
+🇬🇧 mutual benefit insurance company||🇫🇷 une mutuelle
 ----------
 🇬🇧 sick leave||🇫🇷 un congé maladie
 ----------
@@ -22,7 +20,10 @@
 ----------
 🇬🇧 out of pocket health care||🇫🇷 les soins non conventionnés
 ----------
-🇬🇧 to be entitled to||🇫🇷 avoir droit à
+🇬🇧 to be entitled to
+
+Exemple : Any amount claimed from a contractor shall not exceed the contribution it is entitled to receive according to applicable reimbursement rates.
+= Aucun montant réclamé à un contractant ne doit dépasser le montant de la contribution qu'il est en droit de recevoir conformément aux taux de remboursement applicable.||🇫🇷 avoir droit à
 
 Note : be, was/were, been
 ----------

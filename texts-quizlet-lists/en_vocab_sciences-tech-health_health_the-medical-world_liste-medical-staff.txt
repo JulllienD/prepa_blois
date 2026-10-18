@@ -1,4 +1,6 @@
 🇬🇧 a physician||🇫🇷 un médecin
+
+Note : ne pas confondre avec "physicist" qui veut dire "physicien" en français
 ----------
 🇬🇧 a doctor||🇫🇷 un docteur
 ----------
@@ -33,7 +35,9 @@
 🇬🇧 a first aid worker||🇫🇷 un secouriste
 ----------
 🇬🇧 a chemist||🇫🇷 un pharmacien
+
+Note : peut aussi vouloir dire chimiste mais pas dans ce contexte
 ----------
-🇬🇧 aid worker||🇫🇷 un secouriste
+🇬🇧 aid worker||🇫🇷 un secouriste / travailleur humanitaire
 ----------
 🇬🇧 a chemist||🇫🇷 un pharmacien

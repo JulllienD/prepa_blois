@@ -1,4 +1,6 @@
 🇬🇧 (GP's) surgery||🇫🇷 un cabinet médical
+
+Note : GP = general practitioner
 ----------
 🇬🇧 hospital||🇫🇷 un hôpital
 ----------
@@ -17,6 +19,8 @@
 🇬🇧 mental health hospital||🇫🇷 un hôpital psychiatrique
 ----------
 🇬🇧 rehabilitation centre||🇫🇷 un centre de rééducation
+
+Note : ca veut aussi dire "cure de désintoxication" des fois
 ----------
 🇬🇧 to be hospitalized||🇫🇷 être hospitalisé
 

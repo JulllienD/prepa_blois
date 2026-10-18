@@ -1,0 +1,49 @@
+The Way to Discoveries;La voie des découvertes;...;...;DEF;LIVRE;B1
+a phenomenon;un phénomène;...;...;N;LIVRE;B2
+several phenomena;plusieurs phénomènes;...;...;N;LIVRE;B2
+observation;l’observation;...;...;N;LIVRE;B1
+description;la description;...;...;N;LIVRE;A2
+an intuition;une intuition;...;...;N;LIVRE;B2
+methodology;la méthodologie;...;...;N;LIVRE;B2
+a proof / piece of evidence;une preuve;...;...;N;LIVRE;B1
+evidence;des preuves;...;...;N;LIVRE;B1
+a stroke of genius;un trait de génie;...;...;N;LIVRE;C1
+a stroke of inspiration;une trouvaille;...;...;N;LIVRE;C1
+a stroke of luck;un coup de chance;...;...;N;LIVRE;B1
+a hypothesis;une hypothèse;...;...;N;LIVRE;B2
+several hypotheses;plusieurs hypothèses;...;...;N;LIVRE;B2
+a theory;une théorie;...;...;N;LIVRE;B1
+experimentation;l’experimentation;...;...;N;LIVRE;B2
+a test;un test, un essai;...;...;N;LIVRE;A1
+a procedure;un protocole;...;...;N;LIVRE;B2
+a check;un contrôle, une vérification;...;...;N;LIVRE;B1
+an improvement;amélioration;...;...;N;LIVRE;B2
+a discovery / a find(ing);une découverte;...;...;N;LIVRE;B1
+a breakthrough;une découverte capitale, une percée;...;...;N;LIVRE;C1
+a patent;un brevet;...;...;N;LIVRE;B2
+to experiment;expérimenter;...;...;V;LIVRE;B2
+to carry out an experiment;procéder à une expérience;...;...;V;LIVRE;B2
+to proceed by trial and error;tâtonner;...;...;V;LIVRE;C1
+to progress, make headway;progresser;...;...;V;LIVRE;B2
+to prove;prouver;...;...;V;LIVRE;B1
+to disprove;réfuter;...;...;V;LIVRE;C1
+to confirm;confirmer;...;...;V;LIVRE;B1
+to invalidate;infirmer;...;...;V;LIVRE;C1
+to analyse;analyser;...;...;V;LIVRE;B1
+to synthesise;synthétiser;...;...;V;LIVRE;B2
+to build / contrive a theory;élaborer une théorie;...;...;VI;LIVRE;B2
+to discover;découvrir;...;...;V;LIVRE;A2
+to devise, design;inventer, imaginer, concevoir;...;...;V;LIVRE;B2
+to test, put to test;tester, mettre à l'essai;...;...;V;LIVRE;B1
+to put to the acid test;faire subir l'épreuve de vérité;...;...;V;LIVRE;C1
+to check;vérifier;...;...;V;LIVRE;A2
+to develop;mettre au point;...;...;V;LIVRE;B1
+to improve, upgrade;améliorer;...;...;V;LIVRE;B1
+random;aléatoire;...;...;ADJ;LIVRE;B2
+at random;au hasard;...;...;A;LIVRE;B2
+empirical;empirique;...;...;ADJ;LIVRE;C1
+confirmed;avéré, confirmé;...;...;ADJ;LIVRE;B2
+major;crucial, majeur;...;...;ADJ;LIVRE;B1
+spectacular;spectaculaire;...;...;ADJ;LIVRE;B1
+ground-breaking;révolutionnaire;...;...;ADJ;LIVRE;C1
+controversial, debatable;contestable, controversé;...;...;ADJ;LIVRE;B2

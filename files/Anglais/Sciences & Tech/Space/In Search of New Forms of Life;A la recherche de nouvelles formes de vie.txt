@@ -1,0 +1,9 @@
+In Search of New Forms of Life;A la recherche de nouvelles formes de vie;...;...;DEF;LIVRE;B1
+an extraterrestrial;un extraterrestre;...;...;N;LIVRE;B1
+a creature from outer space;une créature venue de l’espace;...;...;N;LIVRE;B1
+a Martian;un Martien;...;...;N;LIVRE;A2
+a green man;un homme vert;...;...;N;LIVRE;A2
+an alien;une créature inconnue;...;...;N;LIVRE;B1
+a flying saucer;une soucoupe volante;...;...;N;LIVRE;B1
+an Unidentified Flying Object;un Objet Volant non identifié;...;...;N;LIVRE;B2
+UFO;OVNI;...;...;ABREV;LIVRE;B1

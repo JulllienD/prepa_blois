@@ -1,4 +1,7 @@
-🇬🇧 a germ||🇫🇷 un microbe
+🇬🇧 a germ
+
+Exemple : Kills 99.9% of germs !!
+= Tue 99,9% des microbes !!||🇫🇷 un microbe
 ----------
 🇬🇧 a virus||🇫🇷 un virus
 ----------
@@ -6,9 +9,17 @@
 ----------
 🇬🇧 contamination||🇫🇷 la contamination
 ----------
+🇬🇧 an endemic||🇫🇷 une endémie
+
+Note : Infection localisée géographiquement qui dure dans le temps
+----------
 🇬🇧 an epidemic||🇫🇷 une épidémie
+
+Note : Infection localisée géographiquement sur une courte période
 ----------
 🇬🇧 a pandemic||🇫🇷 une pandémie
+
+Note : Infection localisée géographiquement qui s'étend au monde entier
 ----------
 🇬🇧 a flu pandemic||🇫🇷 une pandémie de grippe
 ----------
@@ -17,6 +28,8 @@
 🇬🇧 blood poisoning||🇫🇷 la septicémie
 ----------
 🇬🇧 a venereal disease||🇫🇷 une maladie vénérienne
+
+Note : vénérien : elatif aux rapports sexuels
 ----------
 🇬🇧 sexually transmitted||🇫🇷 les maladies sexuellement transmissibles
 ----------

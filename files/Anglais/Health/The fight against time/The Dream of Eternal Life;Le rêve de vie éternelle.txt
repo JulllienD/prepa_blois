@@ -1,0 +1,26 @@
+immortality;l'immortalité;...;...;N;LIVRE;C1
+the quest for, the longing for;la quête de, le désir ardent de;...;...;N;LIVRE;C1
+transhumanism;le transhumanisme;Courant de pensée qui vise l’amélioration des capacités intellectuelles, physiques et psychiques de l’être humain grâce à l’usage de procédés scientifiques et techniques (Larousse);...;N;LIVRE;C1
+an endless life span;une durée de vie infinie;...;...;N;LIVRE;C1
+The Fountain of youth;la fontaine de Jouvence;...;...;N;LIVRE;B2
+the cult of youth;le culte de la jeunesse;...;...;N;LIVRE;B2
+a beauty product;un produit de beauté;...;...;N;LIVRE;A2
+an anti-wrinkle cream;une crème anti-rides;...;...;N;LIVRE;B2
+plastic/cosmetic surgery;la chirurgie esthétique;...;...;N;LIVRE;B2
+a face-lift;un lissage, un "lifting";...;...;N;LIVRE;C1
+moisturizer;une crème hydratante;aucun rapport avec la moisissure au cas où;...;N;LIVRE;B2
+hair transplant;les implants capillaires;...;...;N;LIVRE;C1
+the reaper;la faucheuse;...;...;N;AUTRE:C1
+
+to rejuvenate;rajeunir;...;...;V;LIVRE;B2
+to have plastic surgery;subir une chirurgie esthétique;...;...;V;LIVRE;B2
+to extend the life span;allonger la durée de vie;...;...;V;LIVRE;B2
+to refuse to die;refuser de mourir;...;...;V;LIVRE;B2
+to protract, to prolong;prolonger;...;...;V;LIVRE;C1
+to last forever;durer pour toujours;...;...;V;LIVRE;B1
+
+immortal;immortel;...;...;ADJ;LIVRE;B2
+eternal, everlasting;éternel;...;...;ADJ;LIVRE;B2
+never-ending, perpetual;sans fin, perpétuel;...;...;ADJ;LIVRE;C1
+limitless;sans limites;...;...;ADJ;LIVRE;B2
+timeless;atemporel, intemporel;...;...;ADJ;LIVRE;C1

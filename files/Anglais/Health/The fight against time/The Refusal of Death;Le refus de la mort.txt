@@ -1,0 +1,17 @@
+reincarnation;la réincarnation;...;...;N;LIVRE;C1
+metempsychosis;la métempsychose;Réincarnation de l'âme après la mort dans un corps humain, ou dans celui d'un animal ou dans un végétal (Larousse);...;N;LIVRE;C2
+a cycle of life;un cycle de vie;...;...;N;LIVRE;B1
+the after-life;l'au-delà;...;...;N;LIVRE;B2
+eternal life in heaven;la vie éternelle au Ciel;...;...;N;LIVRE;B2
+resurrection;la résurrection;...;...;N;LIVRE;C1
+cryogenics, cryonics, cryogenic preservation;la cryogénie, la cryogénisation, la cryoconservation;...;...;N;LIVRE;C2
+cloning;le clonage;...;...;N;LIVRE;B2
+an organ bank/reserve;une banque/réserve d'organes;...;...;N;LIVRE;B2
+Faust : Faustus;Faust : Faustus;...;...;N;LIVRE;C2
+a Faustian pact;un pacte faustien;...;...;N;LIVRE;C2
+
+to reincarnate (into);se réincarner (en);...;...;V;LIVRE;C1
+to sell one's soul (to the devil);vendre son âme (au Diable);...;...;V;LIVRE;B2
+to make a pact (with the devil);conclure un pacte (avec le Diable);...;...;V;LIVRE;B2
+to freeze;congeler;...;...;V;LIVRE;B1
+to clone;pratiquer le clonage;...;...;V;LIVRE;B2

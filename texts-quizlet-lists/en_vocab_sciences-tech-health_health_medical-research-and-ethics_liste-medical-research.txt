@@ -2,7 +2,10 @@
 ----------
 🇬🇧 a success||🇫🇷 une réussite
 ----------
-🇬🇧 a feat||🇫🇷 un exploit
+🇬🇧 a feat
+
+Exemple : "Performing the delicate brain surgery on the unborn fetus was a remarkable feat of modern medicine."
+= "Réaliser cette délicate opération du cerveau sur le fœtus in utero était un véritable exploit de la médecine moderne."||🇫🇷 un exploit
 ----------
 🇬🇧 a breakthrough||🇫🇷 une percée
 ----------
