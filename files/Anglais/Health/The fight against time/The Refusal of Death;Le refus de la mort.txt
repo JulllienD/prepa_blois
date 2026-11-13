@@ -8,7 +8,7 @@ cryogenics, cryonics, cryogenic preservation;la cryogénie, la cryogénisation, 
 cloning;le clonage;...;...;N;LIVRE;B2
 an organ bank/reserve;une banque/réserve d'organes;...;...;N;LIVRE;B2
 Faust : Faustus;Faust : Faustus;...;...;N;LIVRE;C2
-a Faustian pact;un pacte faustien;...;...;N;LIVRE;C2
+a Faustian pact;un pacte faustien;Fait référence au mythe de Faust (vendre son âme au diable pour obtenir savoir ou pouvoir);...;N;LIVRE;C2
 
 to reincarnate (into);se réincarner (en);...;...;V;LIVRE;C1
 to sell one's soul (to the devil);vendre son âme (au Diable);...;...;V;LIVRE;B2

@@ -2,7 +2,10 @@
 ----------
 🇬🇧 active/passive euthanasia||🇫🇷 l'euthanasie active/passive
 ----------
-🇬🇧 therapeutic obstinacy||🇫🇷 l'acharnement thérapeutique
+🇬🇧 therapeutic obstinacy
+
+Exemple : The family debated whether keeping him on life support constituted therapeutic obstinacy.
+= La famille s'est demandé si le maintien sous respirateur artificiel constituait un acharnement thérapeutique.||🇫🇷 l'acharnement thérapeutique
 ----------
 🇬🇧 right to live/die||🇫🇷 le droit à la vie/mort
 ----------

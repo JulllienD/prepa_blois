@@ -7,7 +7,10 @@
 Exemple : "Performing the delicate brain surgery on the unborn fetus was a remarkable feat of modern medicine."
 = "Réaliser cette délicate opération du cerveau sur le fœtus in utero était un véritable exploit de la médecine moderne."||🇫🇷 un exploit
 ----------
-🇬🇧 a breakthrough||🇫🇷 une percée
+🇬🇧 a breakthrough
+
+Exemple : Evan's therapist said that he has made a breakthrough in this therapy.
+= Le médecin d'Evan a dit qu'il avait fait une percée dans sa thérapie.||🇫🇷 une percée
 ----------
 🇬🇧 a discovery||🇫🇷 une découverte
 ----------

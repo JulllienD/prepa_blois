@@ -1,20 +1,24 @@
 euthanasia / mercy killing;euthanasie;...;...;N;LIVRE;B2
 active/passive euthanasia;l'euthanasie active/passive;...;...;N;LIVRE;C1
-therapeutic obstinacy;l'acharnement thérapeutique;...;...;N;LIVRE;C1
+therapeutic obstinacy;l'acharnement thérapeutique;...;The family debated whether keeping him on life support constituted therapeutic obstinacy.<br>= La famille s'est demandé si le maintien sous respirateur artificiel constituait un acharnement thérapeutique.;N;LIVRE;C1
 right to live/die;le droit à la vie/mort;...;...;N;LIVRE;B1
+
 to long for death;aspirer à mourir;...;...;V;LIVRE;C1
 to carry out euthanasia;pratiquer l'euthanasie;...;...;V;LIVRE;C1
 to keep alive;maintenir en vie;keep, kept, kept;...;VI;LIVRE;B1
 to drift off to sleep;s'endormir;...;...;V;LIVRE;B2
 to switch off a machine;débrancher un appareil;...;...;V;LIVRE;B1
 to put an end to someone's suffering;abréger les souffrances de quelqu'un;put, put, put;...;VI;LIVRE;B2
+
 artificial;artificiel;...;...;ADJ;LIVRE;B1
 vegetative;végétatif;...;...;ADJ;LIVRE;C1
 clinically dead;cliniquement mort;...;...;ADJ;LIVRE;B2
 brain dead;à l'état de mort cérébrale;...;...;ADJ;LIVRE;C1
 irreversible;irréversible;...;...;ADJ;LIVRE;C1
 (in)humane;(in)humain, sans qualité humaine;...;...;ADJ;LIVRE;B2
+
 Assisted Reproductive Technology;Technologies de procréation assistée;...;...;N;LIVRE;C1
+
 surrogacy;maternité de substitution;...;...;N;LIVRE;C1
 surrogate mother;une mère porteuse;...;...;N;LIVRE;B2
 egg donation;le don d'ovocytes;...;...;N;LIVRE;C1

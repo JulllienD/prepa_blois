@@ -1,0 +1,162 @@
+INTRO;Type de khôlle : Document audio<br>Dates : Lundi 9 Novembre au Vendredi 20 Novembre<br>Parties du livre : The fight against time p67, Health systems p297 - p298, Medical Research and Ethics p298 - p299
+
+
+
+immortality;l'immortalité;...;...;N;LIVRE;C1
+the quest for, the longing for;la quête de, le désir ardent de;...;...;N;LIVRE;C1
+transhumanism;le transhumanisme;Courant de pensée qui vise l’amélioration des capacités intellectuelles, physiques et psychiques de l’être humain grâce à l’usage de procédés scientifiques et techniques (Larousse);...;N;LIVRE;C1
+an endless life span;une durée de vie infinie;...;...;N;LIVRE;C1
+The Fountain of youth;la fontaine de Jouvence;...;...;N;LIVRE;B2
+the cult of youth;le culte de la jeunesse;...;...;N;LIVRE;B2
+a beauty product;un produit de beauté;...;...;N;LIVRE;A2
+an anti-wrinkle cream;une crème anti-rides;...;...;N;LIVRE;B2
+plastic/cosmetic surgery;la chirurgie esthétique;...;...;N;LIVRE;B2
+a face-lift;un lissage, un "lifting";...;...;N;LIVRE;C1
+moisturizer;une crème hydratante;aucun rapport avec la moisissure au cas où;...;N;LIVRE;B2
+hair transplant;les implants capillaires;...;...;N;LIVRE;C1
+the reaper;la faucheuse;...;...;N;AUTRE:C1
+
+to rejuvenate;rajeunir;...;...;V;LIVRE;B2
+to have plastic surgery;subir une chirurgie esthétique;...;...;V;LIVRE;B2
+to extend the life span;allonger la durée de vie;...;...;V;LIVRE;B2
+to refuse to die;refuser de mourir;...;...;V;LIVRE;B2
+to protract, to prolong;prolonger;...;...;V;LIVRE;C1
+to last forever;durer pour toujours;...;...;V;LIVRE;B1
+
+immortal;immortel;...;...;ADJ;LIVRE;B2
+eternal, everlasting;éternel;...;...;ADJ;LIVRE;B2
+never-ending, perpetual;sans fin, perpétuel;...;...;ADJ;LIVRE;C1
+limitless;sans limites;...;...;ADJ;LIVRE;B2
+timeless;atemporel, intemporel;...;...;ADJ;LIVRE;C1
+
+
+
+
+reincarnation;la réincarnation;...;...;N;LIVRE;C1
+metempsychosis;la métempsychose;Réincarnation de l'âme après la mort dans un corps humain, ou dans celui d'un animal ou dans un végétal (Larousse);...;N;LIVRE;C2
+a cycle of life;un cycle de vie;...;...;N;LIVRE;B1
+the after-life;l'au-delà;...;...;N;LIVRE;B2
+eternal life in heaven;la vie éternelle au Ciel;...;...;N;LIVRE;B2
+resurrection;la résurrection;...;...;N;LIVRE;C1
+cryogenics, cryonics, cryogenic preservation;la cryogénie, la cryogénisation, la cryoconservation;...;...;N;LIVRE;C2
+cloning;le clonage;...;...;N;LIVRE;B2
+an organ bank/reserve;une banque/réserve d'organes;...;...;N;LIVRE;B2
+Faust : Faustus;Faust : Faustus;...;...;N;LIVRE;C2
+a Faustian pact;un pacte faustien;Fait référence au mythe de Faust (vendre son âme au diable pour obtenir savoir ou pouvoir);...;N;LIVRE;C2
+
+to reincarnate (into);se réincarner (en);...;...;V;LIVRE;C1
+to sell one's soul (to the devil);vendre son âme (au Diable);...;...;V;LIVRE;B2
+to make a pact (with the devil);conclure un pacte (avec le Diable);...;...;V;LIVRE;B2
+to freeze;congeler;...;...;V;LIVRE;B1
+to clone;pratiquer le clonage;...;...;V;LIVRE;B2
+
+
+
+
+
+social security;la sécurité sociale;...;...;N;LIVRE;B1
+health spending;les dépenses de santé;...;...;N;LIVRE;B2
+health/medical cost;les coûts de la santé/ de la médecine;...;...;N;LIVRE;B2
+health insurance;l'assurance maladie;...;...;N;LIVRE;B2
+health care-coverage;la couverture sociale;...;...;N;LIVRE;B2
+health care/social security benefits;les prestations de la sécurité sociale;...;...;N;LIVRE;B2
+health care beneficiary;un assuré social;...;...;N;LIVRE;C1
+mutual benefit insurance company;une mutuelle;...;...;N;LIVRE;C1
+sick leave;un congé maladie;...;...;N;LIVRE;B2
+fixed medical cost;les tarifs conventionnés;...;...;N;LIVRE;C1
+out of pocket health care;les soins non conventionnés;...;...;N;LIVRE;C1
+to be entitled to;avoir droit à;be, was/were, been;Any amount claimed from a contractor shall not exceed the contribution it is entitled to receive according to applicable reimbursement rates.<br>= Aucun montant réclamé à un contractant ne doit dépasser le montant de la contribution qu'il est en droit de recevoir conformément aux taux de remboursement applicable.;VI;LIVRE;B2
+to be covered;être couvert;be, was/were, been;...;VI;LIVRE;B1
+to lose cover;perdre ses droits;lose, lost, lost;...;VI;LIVRE;B2
+to be denied care;se voir refuser des soins;be, was/were, been;...;VI;LIVRE;C1
+to be (un)insured;(ne pas) être assuré;be, was/were, been;...;VI;LIVRE;B2
+to be reimbursed;se faire rembourser;be, was/were, been;...;VI;LIVRE;B2
+
+
+
+
+
+
+
+a challenge;un défi;...;...;N;LIVRE;B1
+a success;une réussite;...;...;N;LIVRE;A2
+a feat;un exploit;...;"Performing the delicate brain surgery on the unborn fetus was a remarkable feat of modern medicine."<br>= "Réaliser cette délicate opération du cerveau sur le fœtus in utero était un véritable exploit de la médecine moderne.";N;LIVRE;B2
+a breakthrough;une percée;...;Evan's therapist said that he has made a breakthrough in this therapy.<br>= Le médecin d'Evan a dit qu'il avait fait une percée dans sa thérapie.;N;LIVRE;C1
+a discovery;une découverte;...;...;N;LIVRE;B1
+to achieve something;mener à bien, réussir quelque chose;...;...;V;LIVRE;B2
+to succeed;réussir;...;...;V;LIVRE;A2
+to discover;découvrir;...;...;V;LIVRE;A2
+to devise;mettre au point;...;...;V;LIVRE;B2
+major;d'une grande importance;...;...;ADJ;LIVRE;B1
+successful;réussi;...;...;ADJ;LIVRE;A2
+revolutionary;révolutionnaire;...;...;ADJ;LIVRE;B2
+
+
+
+
+
+medical ethics;la déontologie médicale;...;...;N;LIVRE;C1
+Hippocratic oath;le serment d'Hippocrate;Le serment d'Hippocrate peut être considéré comme le texte fondateur de la déontologie médicale.;...;N;LIVRE;C1
+dilemma;un dilemme;...;...;N;LIVRE;B2
+principle;un principe;...;...;N;LIVRE;B1
+respect for life/human dignity;le respect de la vie/dignité humaine;...;...;N;LIVRE;B2
+legal limbo;un vide juridique;...;...;N;LIVRE;C2
+code of ethic;un code de conduite;...;...;N;LIVRE;B2
+ethics commission;une commission d'éthique;...;...;N;LIVRE;C1
+legislation;des lois, la législation;...;...;N;LIVRE;B2
+guideline;une directive;...;...;N;LIVRE;B2
+safeguard;un garde-fou, une garantie;...;...;N;LIVRE;C1
+ban;une interdiction;...;...;N;LIVRE;B2
+genetic manipulation;les manipulations génétiques;...;...;N;LIVRE;B2
+stem cells;les cellules souches;...;...;N;LIVRE;B2
+cloning;le clonage;...;...;N;LIVRE;B1
+eugenics;l'eugénisme;l’ensemble des méthodes et pratiques visant à sélectionner le patrimoine génétique de l’espèce humaine. (wiki);...;N;LIVRE;C2
+to legislate;légiférer;...;...;V;LIVRE;C1
+to legalize;légaliser;...;...;V;LIVRE;B2
+to uphold a principle;défendre un principe;uphold, upheld, upheld;...;VI;LIVRE;C1
+to control;contrôler;...;...;V;LIVRE;A2
+to manipulate, tamper with;manipuler, altérer;...;...;V;LIVRE;B2
+to splice a gene;modifier un gène;...;...;V;LIVRE;C2
+to clone;cloner;...;...;V;LIVRE;B1
+to misuse;faire un usage impropre ou abusif;misuse, misused, misused;...;VI;LIVRE;B2
+legal, illegal;légal, illégal;...;...;ADJ;LIVRE;B1
+banned, forbidden;interdit;...;...;ADJ;LIVRE;B2
+ethical;éthique;...;...;ADJ;LIVRE;B2
+
+
+
+
+
+euthanasia / mercy killing;euthanasie;...;...;N;LIVRE;B2
+active/passive euthanasia;l'euthanasie active/passive;...;...;N;LIVRE;C1
+therapeutic obstinacy;l'acharnement thérapeutique;...;The family debated whether keeping him on life support constituted therapeutic obstinacy.<br>= La famille s'est demandé si le maintien sous respirateur artificiel constituait un acharnement thérapeutique.;N;LIVRE;C1
+right to live/die;le droit à la vie/mort;...;...;N;LIVRE;B1
+
+to long for death;aspirer à mourir;...;...;V;LIVRE;C1
+to carry out euthanasia;pratiquer l'euthanasie;...;...;V;LIVRE;C1
+to keep alive;maintenir en vie;keep, kept, kept;...;VI;LIVRE;B1
+to drift off to sleep;s'endormir;...;...;V;LIVRE;B2
+to switch off a machine;débrancher un appareil;...;...;V;LIVRE;B1
+to put an end to someone's suffering;abréger les souffrances de quelqu'un;put, put, put;...;VI;LIVRE;B2
+
+artificial;artificiel;...;...;ADJ;LIVRE;B1
+vegetative;végétatif;...;...;ADJ;LIVRE;C1
+clinically dead;cliniquement mort;...;...;ADJ;LIVRE;B2
+brain dead;à l'état de mort cérébrale;...;...;ADJ;LIVRE;C1
+irreversible;irréversible;...;...;ADJ;LIVRE;C1
+(in)humane;(in)humain, sans qualité humaine;...;...;ADJ;LIVRE;B2
+
+Assisted Reproductive Technology;Technologies de procréation assistée;...;...;N;LIVRE;C1
+
+surrogacy;maternité de substitution;...;...;N;LIVRE;C1
+surrogate mother;une mère porteuse;...;...;N;LIVRE;B2
+egg donation;le don d'ovocytes;...;...;N;LIVRE;C1
+embryo;un embryon;...;...;N;LIVRE;B2
+reproductive techniques;les techniques de fécondation;...;...;N;LIVRE;B2
+artificial insemination;l'insémination artificielle;...;...;N;LIVRE;C1
+in-vitro fertilization;la fécondation in vitro;...;...;N;LIVRE;C1
+test-tube baby;un bébé-éprouvette;...;...;N;LIVRE;B2
+
+
+
+QUIZLET;https://quizlet.com/fr/1228286488/prepa-en-kholle-4-mp-health-and-medecine-flash-cards/?i=4o2swj&x=1jqt

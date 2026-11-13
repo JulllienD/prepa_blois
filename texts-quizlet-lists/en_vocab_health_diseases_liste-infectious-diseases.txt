@@ -29,7 +29,7 @@ Note : Infection localisée géographiquement qui s'étend au monde entier
 ----------
 🇬🇧 a venereal disease||🇫🇷 une maladie vénérienne
 
-Note : vénérien : elatif aux rapports sexuels
+Note : vénérien : relatif aux rapports sexuels
 ----------
 🇬🇧 sexually transmitted||🇫🇷 les maladies sexuellement transmissibles
 ----------
@@ -41,7 +41,10 @@ Note : vénérien : elatif aux rapports sexuels
 ----------
 🇬🇧 to test positive for||🇫🇷 se révéler positif au contrôle de
 ----------
-🇬🇧 to harbour/carry a virus||🇫🇷 être porteur d'un virus
+🇬🇧 to harbour/carry a virus
+
+Exemple : Some healthy individuals can carry the virus without showing any symptoms.
+= Certaines personnes en bonne santé peuvent être porteuses du virus sans présenter le moindre symptôme.||🇫🇷 être porteur d'un virus
 
 Note : carry, carried, carried
 ----------

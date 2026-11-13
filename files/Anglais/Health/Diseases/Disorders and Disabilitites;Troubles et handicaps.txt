@@ -52,7 +52,7 @@ insane;dément, aliéné;...;...;ADJ;LIVRE;B2
 handicapped;handicapé, infirme;...;...;ADJ;LIVRE;B1
 disabled;handicapé physique;...;...;ADJ;LIVRE;B1
 crippled;estropié;def : unable to walk or move in the usual way because of injury or a medical condition;...;ADJ;LIVRE;B2
-lame;boiteux, écoplé;...;...;ADJ;LIVRE;B2
+lame;boiteux, éclopé;...;...;ADJ;LIVRE;B2
 a lame duck;un canard boiteux;...;...;DEF;LIVREM;B2
 long sighted;hypermétrope, presbyte;...;...;ADJ;LIVRE;B2
 short sighted;myope;...;...;ADJ;LIVRE;B2

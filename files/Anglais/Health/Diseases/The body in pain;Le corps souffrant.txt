@@ -9,7 +9,7 @@ to be in pain;souffrir;be, was/were, been;...;VI;LIVRE;B1
 to hurt;faire mal;hurt, hurt, hurt;It hurts : ça fait mal;VI;LIVRE;A2
 to suffer agonies;souffrir le martyre;...;...;V;LIVRE;C1
 persistent;tenace;...;...;ADJ;LIVRE;B2
-recurrent;récurent;...;...;ADJ;LIVRE;C1
+recurrent;récurrent;...;...;ADJ;LIVRE;C1
 painful, sore;douloureux;...;...;ADJ;LIVRE;B1
 bedsores;escarres;lésion cutanée d'origine ischémique liée à une compression des tissus mous entre un plan dur et les saillies osseuses (HAS);...;N;LIVREM;B2
 shooting (pain);(douleur) lancinante, aiguë;...;...;ADJ;LIVRE;C1

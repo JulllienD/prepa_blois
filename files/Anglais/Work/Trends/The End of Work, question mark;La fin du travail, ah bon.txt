@@ -7,7 +7,7 @@ leisure(-oriented) activities;les activités de loisirs;...;A good level of Span
 a pastime;un passe-temps;...;...;N;LIVRE;B1
 a hobby;un violon d’Ingres / un passe-temps favori;...;...;N;LIVRE;A2
 entertainment;les distractions, le divertissement;...;...;N;LIVRE;B1
-holidays (UK), vacation (US);les vacances;"a holiday" au singulier peut signifier un jour férié...;;N;LIVRE;A1
+holidays (UK), vacation (US);les vacances;"a holiday" au singulier peut signifier un jour férié...;...;N;LIVRE;A1
 a holiday maker;un vacancier;...;...;N;LIVRE;B1
 a sabbatical;un congé sabbatique;...;...;N;LIVRE;C1
 retirement;la retraite;Prononciation : [rɪˈtaɪəmənt];...;N;LIVRE;B1

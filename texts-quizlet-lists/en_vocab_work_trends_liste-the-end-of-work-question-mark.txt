@@ -23,9 +23,7 @@ Exemple : A good level of Spanish will always be the key to the success of any f
 ----------
 🇬🇧 entertainment||🇫🇷 les distractions, le divertissement
 ----------
-🇬🇧 holidays (UK), vacation (US)
-
-Exemple :||🇫🇷 les vacances
+🇬🇧 holidays (UK), vacation (US)||🇫🇷 les vacances
 
 Note : "a holiday" au singulier peut signifier un jour férié...
 ----------

@@ -4,7 +4,7 @@ private hospital;une clinique;...;...;N;LIVRE;B1
 ward;une salle;...;...;N;LIVRE;B2
 intensive care unit;un service de soins intensifs;...;...;N;LIVRE;C1
 surgical unit, operating theatre;un bloc opératoire;...;...;N;LIVRE;C1
-laboratory;une laboratoire;...;...;N;LIVRE;B1
+laboratory;un laboratoire;...;...;N;LIVRE;B1
 organ bank;une banque d'organes;...;...;N;LIVRE;C1
 mental health hospital;un hôpital psychiatrique;...;...;N;LIVRE;B2
 rehabilitation centre;un centre de rééducation;ca veut aussi dire "cure de désintoxication" des fois;...;N;LIVRE;C1
