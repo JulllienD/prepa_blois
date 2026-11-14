@@ -22,7 +22,7 @@
 ----------
 🇬🇧 a solar panel||🇫🇷 un panneau solaire
 ----------
-🇬🇧 un stray satellite||🇫🇷 un satellite à la dérive
+🇬🇧 a stray satellite||🇫🇷 un satellite à la dérive
 ----------
 🇬🇧 an applications satellite||🇫🇷 un satellite utilitaire
 ----------
@@ -49,5 +49,7 @@
 🇬🇧 to map / chart (weather patterns / ocean currents)||🇫🇷 dresser la carte (météorologique / des courants océaniques)
 ----------
 🇬🇧 a pattern||🇫🇷 un motif / un dessin
+
+Note : ⚠ pattern n'est pas un mot français
 ----------
 🇬🇧 to provide global coverage||🇫🇷 fournir une vue spatiale

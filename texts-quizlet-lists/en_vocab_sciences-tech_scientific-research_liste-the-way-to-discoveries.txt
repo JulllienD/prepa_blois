@@ -15,6 +15,8 @@
 🇬🇧 a proof / piece of evidence||🇫🇷 une preuve
 ----------
 🇬🇧 evidence||🇫🇷 des preuves
+
+Note : attention au pluriel !
 ----------
 🇬🇧 a stroke of genius||🇫🇷 un trait de génie
 ----------
@@ -28,7 +30,7 @@
 ----------
 🇬🇧 a theory||🇫🇷 une théorie
 ----------
-🇬🇧 experimentation||🇫🇷 l’experimentation
+🇬🇧 experimentation||🇫🇷 l’expérimentation
 ----------
 🇬🇧 a test||🇫🇷 un test, un essai
 ----------
@@ -48,7 +50,11 @@
 ----------
 🇬🇧 to carry out an experiment||🇫🇷 procéder à une expérience
 ----------
-🇬🇧 to proceed by trial and error||🇫🇷 tâtonner
+🇬🇧 to proceed by trial and error
+
+Exemple : ... it can be described as 'sink or swim' or 'unassisted' entry into teaching, or even 'learning by trial and error'.
+
+= ... aborder le métier en « ne comptant que sur soi-même pour réussir », « sans assistance », ou même à « apprendre par tâtonnements ».||🇫🇷 tâtonner
 ----------
 🇬🇧 to progress, make headway||🇫🇷 progresser
 ----------

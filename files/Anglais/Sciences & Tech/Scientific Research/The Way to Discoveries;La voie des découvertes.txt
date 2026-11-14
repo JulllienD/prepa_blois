@@ -6,14 +6,14 @@ description;la description;...;...;N;LIVRE;A2
 an intuition;une intuition;...;...;N;LIVRE;B2
 methodology;la méthodologie;...;...;N;LIVRE;B2
 a proof / piece of evidence;une preuve;...;...;N;LIVRE;B1
-evidence;des preuves;...;...;N;LIVRE;B1
+evidence;des preuves;attention au pluriel !;...;N;LIVRE;B1
 a stroke of genius;un trait de génie;...;...;N;LIVRE;C1
 a stroke of inspiration;une trouvaille;...;...;N;LIVRE;C1
 a stroke of luck;un coup de chance;...;...;N;LIVRE;B1
 a hypothesis;une hypothèse;...;...;N;LIVRE;B2
 several hypotheses;plusieurs hypothèses;...;...;N;LIVRE;B2
 a theory;une théorie;...;...;N;LIVRE;B1
-experimentation;l’experimentation;...;...;N;LIVRE;B2
+experimentation;l’expérimentation;...;...;N;LIVRE;B2
 a test;un test, un essai;...;...;N;LIVRE;A1
 a procedure;un protocole;...;...;N;LIVRE;B2
 a check;un contrôle, une vérification;...;...;N;LIVRE;B1
@@ -23,7 +23,7 @@ a breakthrough;une découverte capitale, une percée;...;...;N;LIVRE;C1
 a patent;un brevet;...;...;N;LIVRE;B2
 to experiment;expérimenter;...;...;V;LIVRE;B2
 to carry out an experiment;procéder à une expérience;...;...;V;LIVRE;B2
-to proceed by trial and error;tâtonner;...;...;V;LIVRE;C1
+to proceed by trial and error;tâtonner;...;... it can be described as 'sink or swim' or 'unassisted' entry into teaching, or even 'learning by trial and error'.<br><br>= ... aborder le métier en « ne comptant que sur soi-même pour réussir », « sans assistance », ou même à « apprendre par tâtonnements ».;V;LIVRE;C1
 to progress, make headway;progresser;...;...;V;LIVRE;B2
 to prove;prouver;...;...;V;LIVRE;B1
 to disprove;réfuter;...;...;V;LIVRE;C1

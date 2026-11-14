@@ -10,7 +10,7 @@ a space colony;une colonie spatiale;...;...;N;LIVRE;B2
 satellite observations;l’observation par satellite;...;...;N;LIVRE;B2
 a(n artificial) satellite;un satellite artificiel;...;...;N;LIVRE;B1
 a solar panel;un panneau solaire;...;...;N;LIVRE;B1
-un stray satellite;un satellite à la dérive;...;...;N;LIVRE;C1
+a stray satellite;un satellite à la dérive;...;...;N;LIVRE;C1
 an applications satellite;un satellite utilitaire;...;...;N;LIVRE;C1
 a communications satellite;un satellite de télécommunications;...;...;N;LIVRE;B2
 a weather satellite;un satellite météorologique;...;...;N;LIVRE;B2
@@ -23,5 +23,5 @@ a rescue attempt;une tentative de sauvetage;...;...;N;LIVRE;B2
 to probe (space);sonder l’espace;...;...;V;LIVRE;B2
 to sample the soil;prélever des échantillons du sol;...;...;V;LIVRE;B2
 to map / chart (weather patterns / ocean currents);dresser la carte (météorologique / des courants océaniques);...;...;V;LIVRE;C1
-a pattern;un motif / un dessin;...;...;N;LIVRE;B1
+a pattern;un motif / un dessin;⚠ pattern n'est pas un mot français;...;N;LIVRE;B1
 to provide global coverage;fournir une vue spatiale;...;...;VI;LIVRE;C1

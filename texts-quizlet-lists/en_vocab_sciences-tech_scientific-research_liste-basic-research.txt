@@ -1,12 +1,14 @@
 🇬🇧 Scientific Research||🇫🇷 La recherche scientifique
 ----------
-🇬🇧 Basic Research||🇫🇷 La recherche fondamentales
+🇬🇧 Basic Research||🇫🇷 La recherche fondamentale
 ----------
 🇬🇧 a field of research||🇫🇷 un domaine de recherche
 ----------
 🇬🇧 a research laboratory||🇫🇷 un laboratoire de recherche
 ----------
-🇬🇧 an R&D lab||🇫🇷 a Research and Development laboratory : un laboratoire de recherche et de développement
+🇬🇧 an R&D lab||🇫🇷 a Research and Development laboratory
+
+Note : un laboratoire de recherche et de développement
 ----------
 🇬🇧 a team||🇫🇷 une équipe
 ----------
@@ -21,6 +23,8 @@
 🇬🇧 an assistant||🇫🇷 un assistant
 ----------
 🇬🇧 a laboratory assistant||🇫🇷 un laborantin
+
+Note : Auxiliaire dans un laboratoire de recherche ou d'analyses.
 ----------
 🇬🇧 an expert||🇫🇷 un spécialiste
 ----------

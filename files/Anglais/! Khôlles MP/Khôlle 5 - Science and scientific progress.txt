@@ -1,0 +1,236 @@
+INTRO;Type de khôlle : Document audio<br>Dates : Lundi 23 Novembre au Vendredi 4 Décembre<br>Parties du livre : p309 - p313
+
+
+
+Scientific Research;La recherche scientifique;...;...;DEF;LIVRE;B1
+Basic Research;La recherche fondamentale;...;...;DEF;LIVRE;B2
+a field of research;un domaine de recherche;...;...;N;LIVRE;B1
+a research laboratory;un laboratoire de recherche;...;...;N;LIVRE;B1
+an R&D lab;a Research and Development laboratory;un laboratoire de recherche et de développement;...;ABREV;LIVRE;B2
+a team;une équipe;...;...;N;LIVRE;A2
+teamwork;le travail d’équipe;...;...;N;LIVRE;B1
+a researcher;un chercheur;...;...;N;LIVRE;B1
+a scientist;un scientifique, un savant;...;...;N;LIVRE;B1
+a scholar;un savant, un érudit;...;...;N;LIVRE;B2
+an assistant;un assistant;...;...;N;LIVRE;A2
+a laboratory assistant;un laborantin;Auxiliaire dans un laboratoire de recherche ou d'analyses.;...;N;LIVRE;B1
+an expert;un spécialiste;...;...;N;LIVRE;B1
+to do / carry out researches;faire de la recherche;...;...;V;LIVRE;B1
+to team up with;faire équipe avec;...;...;V;LIVRE;B2
+to study;étudier;...;...;V;LIVRE;A1
+to research into;mener une recherche sur;...;...;V;LIVRE;B2
+basic, fundamental;fondamental;...;...;ADJ;LIVRE;B1
+experimental;expérimental;...;...;ADJ;LIVRE;B1
+applied;appliqué;...;...;ADJ;LIVRE;B2
+
+
+
+
+
+Funds for Research;Le financement de la recherche;...;...;DEF;LIVRE;B2
+credits;les crédits;...;...;N;LIVRE;B1
+a subsidy;une subvention;prononciation : /ˈsʌb.sɪ.di/;...;N;LIVRE;C1
+a donation;un don;...;...;N;LIVRE;B1
+a donor;un donateur;...;...;N;LIVRE;B2
+investment;les investissements;...;...;N;LIVRE;B1
+public / private funding;les financements public / privé;...;...;N;LIVRE;B2
+a sponsoring;le parrainage;...;...;N;LIVRE;B2
+a sponsor;un parrain, un mécène;...;...;N;LIVRE;B1
+cuts, cutbacks;les réductions (de);...;...;N;LIVRE;B2
+a tight budget;un budget restreint;...;...;N;LIVRE;B2
+tight;serré;...;...;ADJ;LIVRE;B1
+to support;soutenir / financer;...;...;V;LIVRE;B1
+to bear;supporter / endurer;...;...;VI;LIVRE;B2
+to fund;financer;...;...;V;LIVRE;B1
+to subsidise;subventionner;...;...;V;LIVRE;C1
+to sponsor;parrainer;...;...;V;LIVRE;B1
+
+
+
+
+The Way to Discoveries;La voie des découvertes;...;...;DEF;LIVRE;B1
+a phenomenon;un phénomène;...;...;N;LIVRE;B2
+several phenomena;plusieurs phénomènes;...;...;N;LIVRE;B2
+observation;l’observation;...;...;N;LIVRE;B1
+description;la description;...;...;N;LIVRE;A2
+an intuition;une intuition;...;...;N;LIVRE;B2
+methodology;la méthodologie;...;...;N;LIVRE;B2
+a proof / piece of evidence;une preuve;...;...;N;LIVRE;B1
+evidence;des preuves;attention au pluriel !;...;N;LIVRE;B1
+a stroke of genius;un trait de génie;...;...;N;LIVRE;C1
+a stroke of inspiration;une trouvaille;...;...;N;LIVRE;C1
+a stroke of luck;un coup de chance;...;...;N;LIVRE;B1
+a hypothesis;une hypothèse;...;...;N;LIVRE;B2
+several hypotheses;plusieurs hypothèses;...;...;N;LIVRE;B2
+a theory;une théorie;...;...;N;LIVRE;B1
+experimentation;l’expérimentation;...;...;N;LIVRE;B2
+a test;un test, un essai;...;...;N;LIVRE;A1
+a procedure;un protocole;...;...;N;LIVRE;B2
+a check;un contrôle, une vérification;...;...;N;LIVRE;B1
+an improvement;amélioration;...;...;N;LIVRE;B2
+a discovery / a find(ing);une découverte;...;...;N;LIVRE;B1
+a breakthrough;une découverte capitale, une percée;...;...;N;LIVRE;C1
+a patent;un brevet;...;...;N;LIVRE;B2
+to experiment;expérimenter;...;...;V;LIVRE;B2
+to carry out an experiment;procéder à une expérience;...;...;V;LIVRE;B2
+to proceed by trial and error;tâtonner;...;... it can be described as 'sink or swim' or 'unassisted' entry into teaching, or even 'learning by trial and error'.<br><br>= ... aborder le métier en « ne comptant que sur soi-même pour réussir », « sans assistance », ou même à « apprendre par tâtonnements ».;V;LIVRE;C1
+to progress, make headway;progresser;...;...;V;LIVRE;B2
+to prove;prouver;...;...;V;LIVRE;B1
+to disprove;réfuter;...;...;V;LIVRE;C1
+to confirm;confirmer;...;...;V;LIVRE;B1
+to invalidate;infirmer;...;...;V;LIVRE;C1
+to analyse;analyser;...;...;V;LIVRE;B1
+to synthesise;synthétiser;...;...;V;LIVRE;B2
+to build / contrive a theory;élaborer une théorie;...;...;VI;LIVRE;B2
+to discover;découvrir;...;...;V;LIVRE;A2
+to devise, design;inventer, imaginer, concevoir;...;...;V;LIVRE;B2
+to test, put to test;tester, mettre à l'essai;...;...;V;LIVRE;B1
+to put to the acid test;faire subir l'épreuve de vérité;...;...;V;LIVRE;C1
+to check;vérifier;...;...;V;LIVRE;A2
+to develop;mettre au point;...;...;V;LIVRE;B1
+to improve, upgrade;améliorer;...;...;V;LIVRE;B1
+random;aléatoire;...;...;ADJ;LIVRE;B2
+at random;au hasard;...;...;A;LIVRE;B2
+empirical;empirique;...;...;ADJ;LIVRE;C1
+confirmed;avéré, confirmé;...;...;ADJ;LIVRE;B2
+major;crucial, majeur;...;...;ADJ;LIVRE;B1
+spectacular;spectaculaire;...;...;ADJ;LIVRE;B1
+ground-breaking;révolutionnaire;...;...;ADJ;LIVRE;C1
+controversial, debatable;contestable, controversé;...;...;ADJ;LIVRE;B2
+
+
+
+
+
+Astronautics;L‘astronautique;...;...;N;LIVRE;C1
+The Space Age;L’ère spatiale;...;...;DEF;LIVRE;B1
+The Crew and the Staff;L’équipage et le personnel;...;...;DEF;LIVRE;B1
+an astronaut;un astronaute;...;...;N;LIVRE;A2
+a cosmonaut;un cosmonaute;...;...;N;LIVRE;B1
+a spaceman / spacewoman;un(e) spationaute;...;...;N;LIVRE;B1
+a space base;une base spatiale;...;...;N;LIVRE;B1
+a pilot;un pilote;...;...;N;LIVRE;A2
+a flight / mission controller;un contrôleur de mission;...;...;N;LIVRE;B2
+a flight;un vol;...;...;N;LIVRE;A2
+a flight instructor;un instructeur de vol;...;...;N;LIVRE;B2
+The Equipment;L’équipement;...;...;DEF;LIVRE;B1
+a flight simulator;un simulateur de vol;...;...;N;LIVRE;B2
+a spaceship / spacecraft;un vaisseau spatial;...;...;N;LIVRE;B1
+a manned spacecraft;un engin spatial habité;...;...;N;LIVRE;B2
+manned;ce qui est occupé par un homme;...;...;ADJ;LIVRE;B2
+an unmanned spacecraft;un engin spatial inhabité;...;...;N;LIVRE;B2
+a space suit;une combinaison spatiale;...;...;N;LIVRE;B1
+a gravity-suit;une combinaison spatiale antigravité;...;...;N;LIVRE;B2
+remote control;le contrôle à distance;...;...;N;LIVRE;B1
+remote;lointain;...;...;ADJ;LIVRE;B2
+a roving robot;un robot autonome;...;...;N;LIVRE;C1
+to rove;vagabonder, rôder;...;...;V;LIVRE;C1
+a rocket;une fusée;...;...;N;LIVRE;A2
+a multi-stage rocket;une fusée à étages;...;...;N;LIVRE;C1
+the retrorockets;les rétrofusées;...;...;N;LIVRE;C1
+a booster;un booster, un propulseur auxiliaire;...;...;N;LIVRE;B2
+an airlock;un sas;...;...;N;LIVRE;C1
+to boost;stimuler;...;...;V;LIVRE;B1
+a space shuttle;une navette spatiale;...;...;N;LIVRE;B1
+a lunar vehicule;un véhicule lunaire;...;...;N;LIVRE;B2
+a moon buggy;une jeep lunaire;...;...;N;LIVRE;B2
+to explore;explorer;...;...;V;LIVRE;A2
+to fly a mission;faire partie d’une mission;...;...;VI;LIVRE;B2
+to orbit (a satellite);placer (un satellite) en orbite;...;...;V;LIVRE;B2
+to go/put into orbit;se mettre/ mettre en orbite;...;...;VI;LIVRE;B2
+to circle (the earth);tourner (autour de la terre);...;...;V;LIVRE;B1
+to retrieve, recover;récupérer;...;...;V;LIVRE;B1
+
+
+
+
+
+In Search of New Forms of Life;A la recherche de nouvelles formes de vie;...;...;DEF;LIVRE;B1
+an extraterrestrial;un extraterrestre;...;...;N;LIVRE;B1
+a creature from outer space;une créature venue de l’espace;...;...;N;LIVRE;B1
+a Martian;un Martien;...;...;N;LIVRE;A2
+a green man;un homme vert;...;...;N;LIVRE;A2
+an alien;une créature inconnue;...;...;N;LIVRE;B1
+a flying saucer;une soucoupe volante;...;...;N;LIVRE;B1
+an Unidentified Flying Object;un Objet Volant non identifié;...;...;N;LIVRE;B2
+UFO;OVNI;...;...;ABREV;LIVRE;B1
+
+
+
+
+
+Purposes of Space Exploration;Les fins de l’exploration spatiale;...;...;DEF;LIVRE;B2
+space probing;l’exploration de l’espace;...;...;N;LIVRE;C1
+a space probe;une sonde spatiale;...;...;N;LIVRE;B2
+a land-based observatory;un observatoire terrestre;...;...;N;LIVRE;B2
+a space-based observatory;un observatoire spatial;...;...;N;LIVRE;B2
+a space platform, a space station;une station spatiale;...;...;N;LIVRE;B1
+a space programme;un programme spatial;...;...;N;LIVRE;B1
+a space laboratory, a skylab;un laboratoire spatial;...;...;N;LIVRE;B2
+a space colony;une colonie spatiale;...;...;N;LIVRE;B2
+satellite observations;l’observation par satellite;...;...;N;LIVRE;B2
+a(n artificial) satellite;un satellite artificiel;...;...;N;LIVRE;B1
+a solar panel;un panneau solaire;...;...;N;LIVRE;B1
+a stray satellite;un satellite à la dérive;...;...;N;LIVRE;C1
+an applications satellite;un satellite utilitaire;...;...;N;LIVRE;C1
+a communications satellite;un satellite de télécommunications;...;...;N;LIVRE;B2
+a weather satellite;un satellite météorologique;...;...;N;LIVRE;B2
+satellite transmission;la transmission par satellite;...;...;N;LIVRE;B2
+a spy satellite;un satellite espion;...;...;N;LIVRE;B2
+satellite imagery;les images satellite;...;...;N;LIVRE;B2
+satellite photography;la photographie par satellite;...;...;N;LIVRE;B2
+a photograph;une photographie;...;...;N;LIVRE;A2
+a rescue attempt;une tentative de sauvetage;...;...;N;LIVRE;B2
+to probe (space);sonder l’espace;...;...;V;LIVRE;B2
+to sample the soil;prélever des échantillons du sol;...;...;V;LIVRE;B2
+to map / chart (weather patterns / ocean currents);dresser la carte (météorologique / des courants océaniques);...;...;V;LIVRE;C1
+a pattern;un motif / un dessin;⚠ pattern n'est pas un mot français;...;N;LIVRE;B1
+to provide global coverage;fournir une vue spatiale;...;...;VI;LIVRE;C1
+
+
+
+
+
+Space Venture;L’aventure spatiale;...;...;DEF;LIVRE;B2
+a launch;un lancement;...;...;N;LIVRE;B1
+a launcher;un lanceur;...;...;N;LIVRE;B2
+a launch pad;une rampe/ une aire de lancement;...;...;N;LIVRE;B2
+the countdown;le compte à rebours;...;It's the final countdown!;N;LIVRE;B1
+a blast off;une mise à feu;...;...;N;LIVRE;B2
+a lift-off, a take off;un décollage;lift-off :<br>- helicopters<br>- rockets<br><br>take off :<br>- airplanes;And we have liftoff!;N;LIVRE;B1
+to lift;soulever;...;...;V;LIVRE;A2
+a space flight;un vol spatial;...;...;N;LIVRE;B1
+space sickness;mal de l’espace;c'est déjà une chance de pouvoir savoir si on a le mal de l'espace...;...;N;LIVRE;B2
+weightlessness;l’apesanteur;...;...;N;LIVRE;C1
+weight;le poids;...;...;N;LIVRE;A2
+the orbit;l’orbite;...;...;N;LIVRE;B1
+docking;l’arrimage;...;La navette spatiale américaine Atlantis s'arrime à la station russe Mir.<br><br>= The American space shuttle Atlantis is docked at the Russian station, Mir.;N;LIVRE;C1
+a stay in space;un séjour dans l’espace;...;...;N;LIVRE;B1
+to stay;séjourner;...;...;V;LIVRE;A1
+a moon landing;un alunissage;...;...;N;LIVRE;B2
+a moon walk;une sortie Lunaire;...;...;N;LIVRE;B1
+re-entry;l’entrée dans l'atmosphère;...;...;N;LIVRE;C1
+a touchdown;un atterrissage;...;...;N;LIVRE;B2
+a splashdown;un amerrissage;...;...;N;LIVRE;C1
+a malfunction;un dysfonctionnement;...;...;N;LIVRE;B2
+a breakdown;une panne;...;...;N;LIVRE;B1
+to count down;lancer le compte à rebours;...;It's the final countdown!;V;LIVRE;B1
+to launch;lancer;...;...;V;LIVRE;B1
+to blast off;être mis à feu;...;...;V;LIVRE;B2
+to lift off, take off;décoller;lift-off :<br>- helicopters<br>- rockets<br><br>take off :<br>- airplanes;And we have liftoff!;VI;LIVRE;B1
+to propel;propulser;...;...;V;LIVRE;B2
+to spacewalk;marcher dans l’espace;...;...;V;LIVRE;B2
+to dock (with);s’arrimer à;...;La navette spatiale américaine Atlantis s'arrime à la station russe Mir.<br><br>= The American space shuttle Atlantis is docked at the Russian station, Mir.;V;LIVRE;C1
+to land (on a planet);se poser (sur une planète);...;...;V;LIVRE;B1
+to land on the moon;alunir;...;...;V;LIVRE;B2
+to touch down;toucher le sol;...;...;V;LIVRE;B2
+to splash down;amerrir;...;...;V;LIVRE;C1
+to splash;éclabousser;...;...;V;LIVRE;B2
+to abort (a launch);interrompre (un lancement);Ca veut dire avorter aussi mais... pas dans ce contexte;...;V;LIVRE;B2
+to postpone;ajourner, reporter;...;...;V;LIVRE;B2
+to cancel;supprimer, annuler;...;...;V;LIVRE;A2
+malfunctionning;qui fonctionne mal, avarié;...;...;ADJ;LIVRE;B2
+uncharted;inexploré;...;...;ADJ;LIVRE;C1
+chart;une carte, un graphique;...;...;N;LIVRE;B1
+risky;risqué, hasardeux;...;...;ADJ;LIVRE;B1
+adventurous;aventureux, audacieux;...;...;ADJ;LIVRE;B2

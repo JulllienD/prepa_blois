@@ -1,15 +1,15 @@
 Scientific Research;La recherche scientifique;...;...;DEF;LIVRE;B1
-Basic Research;La recherche fondamentales;...;...;DEF;LIVRE;B2
+Basic Research;La recherche fondamentale;...;...;DEF;LIVRE;B2
 a field of research;un domaine de recherche;...;...;N;LIVRE;B1
 a research laboratory;un laboratoire de recherche;...;...;N;LIVRE;B1
-an R&D lab;a Research and Development laboratory : un laboratoire de recherche et de développement;...;...;ABREV;LIVRE;B2
+an R&D lab;a Research and Development laboratory;un laboratoire de recherche et de développement;...;ABREV;LIVRE;B2
 a team;une équipe;...;...;N;LIVRE;A2
 teamwork;le travail d’équipe;...;...;N;LIVRE;B1
 a researcher;un chercheur;...;...;N;LIVRE;B1
 a scientist;un scientifique, un savant;...;...;N;LIVRE;B1
 a scholar;un savant, un érudit;...;...;N;LIVRE;B2
 an assistant;un assistant;...;...;N;LIVRE;A2
-a laboratory assistant;un laborantin;...;...;N;LIVRE;B1
+a laboratory assistant;un laborantin;Auxiliaire dans un laboratoire de recherche ou d'analyses.;...;N;LIVRE;B1
 an expert;un spécialiste;...;...;N;LIVRE;B1
 to do / carry out researches;faire de la recherche;...;...;V;LIVRE;B1
 to team up with;faire équipe avec;...;...;V;LIVRE;B2
